@@ -3,12 +3,11 @@ import json
 from datetime import datetime, timedelta
 
 def fetch_matches():
-    # Türkiye'deki tüm futbol maçlarını çeken ana link
     url = "https://eu-offering-api.kambicdn.com/offering/v2018/ub/listView/football/turkey.json?lang=tr_TR&market=TR"
     
     final_data = {
         "last_updated": datetime.now().isoformat(),
-        "source": "Kambi CDN (Genişletilmiş Türkiye Ağı)",
+        "source": "Kambi CDN (Filtresiz Tam Veri)",
         "matches": []
     }
     
@@ -17,15 +16,13 @@ def fetch_matches():
         if response.status_code == 200:
             data = response.json()
             
+            # FİLTRE YOK: Gelen tüm maçları listeye ekliyoruz
             for event_data in data.get("events", []):
                 event = event_data.get("event", {})
                 
-                # FİLTRE DÜZELTİLDİ: Büyük/küçük harf ve Türkçe karakter sorunu kaldırıldı
-                path_names = [str(p.get("name", "")).lower() for p in event.get("path", [])]
-                is_super_lig = any("super" in p or "süper" in p for p in path_names)
-                
-                if not is_super_lig:
-                    continue
+                # Kambi'nin lige tam olarak ne isim verdiğini yakalıyoruz
+                path_names = [p.get("name", "") for p in event.get("path", [])]
+                league_name = " > ".join(path_names) if path_names else "Bilinmeyen Lig"
 
                 home = event.get("homeName", "Ev Sahibi")
                 away = event.get("awayName", "Deplasman")
@@ -52,7 +49,7 @@ def fetch_matches():
                         break
                         
                 final_data["matches"].append({
-                    "league": "Türkiye Süper Lig",
+                    "league": league_name,
                     "home": home,
                     "away": away,
                     "time": match_time,
@@ -60,11 +57,10 @@ def fetch_matches():
                     "odds": odds_info
                 })
     except Exception as e:
-        print(f"Bağlantı Hatası: {e}")
+        print(f"Hata: {e}")
 
     with open("matches.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
-        print(f"İşlem Tamam! {len(final_data['matches'])} Süper Lig maçı başarıyla çekildi.")
 
 if __name__ == "__main__":
     fetch_matches()
