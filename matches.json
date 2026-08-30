@@ -1,46 +1,5 @@
 {
-  "last_updated": "2026-08-30T15:50:23.983428",
-  "source": "Kambi CDN (Gerçek MS Oranları)",
-  "matches": [
-    {
-      "league": "Türkiye Süper Lig",
-      "home": "Eyüpspor",
-      "away": "Alanyaspor",
-      "time": "19:00",
-      "date": "30.08.2026",
-      "odds": "MS1: 3.40 | X: 3.10 | MS2: 2.23"
-    },
-    {
-      "league": "Türkiye Süper Lig",
-      "home": "Samsunspor",
-      "away": "Fenerbahçe",
-      "time": "21:30",
-      "date": "30.08.2026",
-      "odds": "MS1: 5.75 | X: 4.40 | MS2: 1.50"
-    },
-    {
-      "league": "Türkiye Süper Lig",
-      "home": "İstanbul Büyükşehir Belediyespor",
-      "away": "Kasımpaşa",
-      "time": "21:30",
-      "date": "30.08.2026",
-      "odds": "MS1: 1.58 | X: 4.10 | MS2: 5.25"
-    },
-    {
-      "league": "Türkiye Süper Lig",
-      "home": "Beşiktaş",
-      "away": "Çorum Belediyespor",
-      "time": "21:30",
-      "date": "31.08.2026",
-      "odds": "MS1: 1.37 | X: 4.40 | MS2: 7.50"
-    },
-    {
-      "league": "Türkiye Süper Lig",
-      "home": "Amed Sportif Faaliyetler",
-      "away": "Trabzonspor",
-      "time": "21:30",
-      "date": "31.08.2026",
-      "odds": "MS1: 3.55 | X: 3.60 | MS2: 1.98"
-    }
-  ]
+  "last_updated": "2026-08-30T23:54:43.966878",
+  "source": "Kambi CDN (Genişletilmiş Türkiye Ağı)",
+  "matches": []
 }
