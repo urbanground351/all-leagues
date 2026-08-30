@@ -3,12 +3,12 @@ import json
 from datetime import datetime, timedelta
 
 def fetch_matches():
-    # Kambi CDN - Şifresiz ve Cloudflare engeli olmayan küresel oran ağı
-    url = "https://eu-offering-api.kambicdn.com/offering/v2018/ub/listView/football/turkey/super_lig.json?lang=tr_TR&market=TR"
+    # Daraltılmış super_lig.json yerine tüm Türkiye havuzunu çekiyoruz
+    url = "https://eu-offering-api.kambicdn.com/offering/v2018/ub/listView/football/turkey.json?lang=tr_TR&market=TR"
     
     final_data = {
         "last_updated": datetime.now().isoformat(),
-        "source": "Kambi CDN (Gerçek MS Oranları)",
+        "source": "Kambi CDN (Genişletilmiş Türkiye Ağı)",
         "matches": []
     }
     
@@ -19,6 +19,12 @@ def fetch_matches():
             
             for event_data in data.get("events", []):
                 event = event_data.get("event", {})
+                
+                # Çekilen havuzdan sadece Süper Lig olanları filtrele (1. Lig karışmasın)
+                path_names = [p.get("name") for p in event.get("path", [])]
+                if "Süper Lig" not in path_names:
+                    continue
+
                 home = event.get("homeName", "Ev Sahibi")
                 away = event.get("awayName", "Deplasman")
                 
@@ -36,11 +42,9 @@ def fetch_matches():
                 odds_info = "Oran Yok"
                 for bet in event_data.get("betOffers", []):
                     criterion = bet.get("criterion", {}).get("name", "")
-                    # Maç sonucu marketini yakala
                     if bet.get("betOfferType", {}).get("name") == "Match" or "Full Time" in criterion:
                         outcomes = bet.get("outcomes", [])
                         if len(outcomes) >= 3:
-                            # Kambi oranları 1000 ile çarparak verir (örnek: 2300 = 2.30)
                             ms1 = outcomes[0].get("odds", 0) / 1000
                             ms0 = outcomes[1].get("odds", 0) / 1000
                             ms2 = outcomes[2].get("odds", 0) / 1000
@@ -60,6 +64,7 @@ def fetch_matches():
 
     with open("matches.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
+        print(f"{len(final_data['matches'])} Süper Lig maçı başarıyla çekildi.")
 
 if __name__ == "__main__":
     fetch_matches()
