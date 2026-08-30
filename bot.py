@@ -1,29 +1,35 @@
-from curl_cffi import requests
+import requests
 import json
+import urllib.parse
 from datetime import datetime, timedelta
 
 def fetch_matches():
     final_data = {
         "last_updated": datetime.now().isoformat(),
-        "source": "FotMob (Anti-Ban + Oranlar)",
+        "source": "FotMob (Proxy Kamuflajı + Oranlar)",
         "matches": []
     }
     
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    
     try:
-        # Önümüzdeki 7 günü tarar
+        # Önümüzdeki 7 günü tarıyoruz
         for i in range(7):
             current_date = datetime.now() + timedelta(days=i)
             date_str = current_date.strftime("%Y%m%d")
             
-            base_url = f"https://www.fotmob.com/api/matches?date={date_str}"
+            # FotMob linkini şifreleyip Proxy sunucusunun arkasına saklıyoruz
+            target_url = f"https://www.fotmob.com/api/matches?date={date_str}"
+            proxy_url = f"https://api.allorigins.win/raw?url={urllib.parse.quote(target_url)}"
             
-            # impersonate="chrome110" komutu robot testimizi geçirtir
-            response = requests.get(base_url, impersonate="chrome110", timeout=15)
+            response = requests.get(proxy_url, headers=headers, timeout=20)
             
             if response.status_code == 200:
                 data = response.json()
                 for league in data.get("leagues", []):
-                    # 71 = Türkiye Süper Lig ID'si
+                    # 71 = Türkiye Süper Lig
                     if league.get("primaryId") == 71 or league.get("id") == 71:
                         for match in league.get("matches", []):
                             match_id = match.get("id")
@@ -34,13 +40,17 @@ def fetch_matches():
                             odds_info = "Oran Yok"
                             
                             try:
-                                detail_url = f"https://www.fotmob.com/api/matchDetails?matchId={match_id}"
-                                detail_res = requests.get(detail_url, impersonate="chrome110", timeout=10)
+                                # Detay sayfasını da aynı şekilde Proxy üzerinden çekiyoruz
+                                detail_target = f"https://www.fotmob.com/api/matchDetails?matchId={match_id}"
+                                detail_proxy = f"https://api.allorigins.win/raw?url={urllib.parse.quote(detail_target)}"
+                                detail_res = requests.get(detail_proxy, headers=headers, timeout=15)
+                                
                                 if detail_res.status_code == 200:
                                     detail_data = detail_res.json()
                                     odds_array = detail_data.get("content", {}).get("odds", {}).get("data", [])
                                     if odds_array:
                                         for odd_type in odds_array:
+                                            # İddaa MS tablosunu bul
                                             if odd_type.get("title") == "1x2" or "Maç Sonucu" in odd_type.get("title", ""):
                                                 choices = odd_type.get("choices", [])
                                                 if len(choices) >= 3:
