@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-08-31T12:04:32.860518",
+  "last_updated": "2026-09-01T00:10:16.416879",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Amed Sportif Faaliyetler",
-      "away": "Trabzonspor",
-      "time": "21:30",
-      "date": "31.08.2026",
-      "odds": "MS1: 3.55 | X: 3.60 | MS2: 1.98"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Beşiktaş",
-      "away": "Çorum Belediyespor",
-      "time": "21:30",
-      "date": "31.08.2026",
-      "odds": "MS1: 1.43 | X: 4.40 | MS2: 7.00"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Bandirmaspor",
       "away": "Antalyaspor",
       "time": "16:00",
       "date": "01.09.2026",
-      "odds": "MS1: 2.95 | X: 3.05 | MS2: 2.23"
+      "odds": "MS1: 2.55 | X: 3.00 | MS2: 2.55"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -32,7 +16,7 @@
       "away": "Muğlaspor",
       "time": "17:00",
       "date": "01.09.2026",
-      "odds": "MS1: 2.45 | X: 3.00 | MS2: 2.65"
+      "odds": "MS1: 2.48 | X: 2.90 | MS2: 2.70"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -40,7 +24,7 @@
       "away": "Keciörengücü",
       "time": "20:00",
       "date": "01.09.2026",
-      "odds": "MS1: 5.00 | X: 3.70 | MS2: 1.55"
+      "odds": "MS1: 5.00 | X: 3.85 | MS2: 1.52"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -56,7 +40,7 @@
       "away": "Batman Petrolspor",
       "time": "17:00",
       "date": "02.09.2026",
-      "odds": "MS1: 2.95 | X: 3.15 | MS2: 2.16"
+      "odds": "MS1: 3.25 | X: 3.25 | MS2: 2.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -104,7 +88,7 @@
       "away": "Galatasaray",
       "time": "20:00",
       "date": "04.09.2026",
-      "odds": "MS1: 4.20 | X: 3.95 | MS2: 1.75"
+      "odds": "MS1: 4.70 | X: 4.10 | MS2: 1.65"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -113,6 +97,22 @@
       "time": "17:00",
       "date": "05.09.2026",
       "odds": "MS1: 2.45 | X: 3.40 | MS2: 2.75"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Keciörengücü",
+      "away": "Sarıyer S.K.",
+      "time": "20:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.97 | X: 3.20 | MS2: 3.35"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Pendikspor",
+      "away": "Ümraniyespor",
+      "time": "20:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.60 | X: 3.55 | MS2: 4.80"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -128,7 +128,7 @@
       "away": "Amed Sportif Faaliyetler",
       "time": "17:00",
       "date": "06.09.2026",
-      "odds": "MS1: 2.12 | X: 3.25 | MS2: 3.45"
+      "odds": "MS1: 2.12 | X: 3.30 | MS2: 3.40"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -144,7 +144,7 @@
       "away": "Gençlerbirliği",
       "time": "20:00",
       "date": "06.09.2026",
-      "odds": "MS1: 1.64 | X: 3.80 | MS2: 5.25"
+      "odds": "MS1: 1.63 | X: 3.80 | MS2: 5.40"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -153,6 +153,22 @@
       "time": "20:00",
       "date": "06.09.2026",
       "odds": "MS1: 2.55 | X: 3.20 | MS2: 2.75"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Çaykur Rizespor",
+      "away": "Alanyaspor",
+      "time": "20:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 1.92 | X: 3.40 | MS2: 4.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Göztepe",
+      "away": "Gaziantep BŞB",
+      "time": "20:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 1.83 | X: 3.75 | MS2: 4.00"
     }
   ]
 }
