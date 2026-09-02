@@ -1,0 +1,1350 @@
+{
+  "league": "English Premier League",
+  "season": "2026-2027",
+  "last_updated": "2026-09-02T20:40:42.662173",
+  "total_teams": 20,
+  "teams": [
+    {
+      "name": "Manchester City",
+      "id": "382",
+      "rank": 1,
+      "points": 6,
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 6,
+      "goals_against": 2,
+      "goal_diff": 4,
+      "avg_scored": 3.0,
+      "avg_conceded": 1.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Crystal Palace",
+          "score": "4 - 1",
+          "result": "W",
+          "venue": "away",
+          "date": "2026-08-28"
+        },
+        {
+          "opponent": "AFC Bournemouth",
+          "score": "2 - 1",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "name": "Arsenal",
+      "id": "359",
+      "rank": 2,
+      "points": 6,
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 0,
+      "goal_diff": 4,
+      "avg_scored": 2.0,
+      "avg_conceded": 0.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Aston Villa",
+          "score": "1 - 0",
+          "result": "W",
+          "venue": "away",
+          "date": "2026-08-31"
+        },
+        {
+          "opponent": "Coventry City",
+          "score": "3 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "name": "Hull City",
+      "id": "306",
+      "rank": 3,
+      "points": 6,
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 0,
+      "goal_diff": 3,
+      "avg_scored": 1.5,
+      "avg_conceded": 0.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Coventry City",
+          "score": "1 - 0",
+          "result": "W",
+          "venue": "away",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Manchester United",
+          "score": "2 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Chelsea",
+      "id": "363",
+      "rank": 4,
+      "points": 6,
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 7,
+      "goals_against": 5,
+      "goal_diff": 2,
+      "avg_scored": 3.5,
+      "avg_conceded": 2.5,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Brighton & Hove Albion",
+          "score": "4 - 3",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Fulham",
+          "score": "3 - 2",
+          "result": "W",
+          "venue": "away",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "name": "Brentford",
+      "id": "337",
+      "rank": 5,
+      "points": 4,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 1,
+      "goal_diff": 3,
+      "avg_scored": 2.0,
+      "avg_conceded": 0.5,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Leeds United",
+          "score": "1 - 1",
+          "result": "D",
+          "venue": "away",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Tottenham Hotspur",
+          "score": "3 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Newcastle United",
+      "id": "361",
+      "rank": 6,
+      "points": 4,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 2,
+      "goal_diff": 2,
+      "avg_scored": 2.0,
+      "avg_conceded": 1.0,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Tottenham Hotspur",
+          "score": "2 - 0",
+          "result": "W",
+          "venue": "away",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Liverpool",
+          "score": "2 - 2",
+          "result": "D",
+          "venue": "home",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "name": "Everton",
+      "id": "368",
+      "rank": 7,
+      "points": 4,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 1,
+      "goal_diff": 2,
+      "avg_scored": 1.5,
+      "avg_conceded": 0.5,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "AFC Bournemouth",
+          "score": "1 - 1",
+          "result": "D",
+          "venue": "away",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Crystal Palace",
+          "score": "2 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Leeds United",
+      "id": "357",
+      "rank": 8,
+      "points": 4,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 1,
+      "goal_diff": 1,
+      "avg_scored": 1.0,
+      "avg_conceded": 0.5,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Brentford",
+          "score": "1 - 1",
+          "result": "D",
+          "venue": "home",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Nottingham Forest",
+          "score": "1 - 0",
+          "result": "W",
+          "venue": "away",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "id": "331",
+      "rank": 9,
+      "points": 3,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 7,
+      "goals_against": 4,
+      "goal_diff": 3,
+      "avg_scored": 3.5,
+      "avg_conceded": 2.0,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Chelsea",
+          "score": "3 - 4",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Aston Villa",
+          "score": "4 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "name": "Manchester United",
+      "id": "360",
+      "rank": 10,
+      "points": 3,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 5,
+      "goals_against": 4,
+      "goal_diff": 1,
+      "avg_scored": 2.5,
+      "avg_conceded": 2.0,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Ipswich Town",
+          "score": "5 - 2",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Hull City",
+          "score": "0 - 2",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Sunderland",
+      "id": "366",
+      "rank": 11,
+      "points": 3,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 2,
+      "goal_diff": 0,
+      "avg_scored": 1.0,
+      "avg_conceded": 1.0,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Fulham",
+          "score": "1 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Ipswich Town",
+          "score": "1 - 2",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Ipswich Town",
+      "id": "373",
+      "rank": 12,
+      "points": 3,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 4,
+      "goals_against": 6,
+      "goal_diff": -2,
+      "avg_scored": 2.0,
+      "avg_conceded": 3.0,
+      "win_rate": 50.0,
+      "recent_matches": [
+        {
+          "opponent": "Manchester United",
+          "score": "2 - 5",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Sunderland",
+          "score": "2 - 1",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "id": "364",
+      "rank": 13,
+      "points": 2,
+      "played": 2,
+      "wins": 0,
+      "draws": 2,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 4,
+      "goal_diff": 0,
+      "avg_scored": 2.0,
+      "avg_conceded": 2.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Nottingham Forest",
+          "score": "2 - 2",
+          "result": "D",
+          "venue": "home",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Newcastle United",
+          "score": "2 - 2",
+          "result": "D",
+          "venue": "away",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "name": "AFC Bournemouth",
+      "id": "349",
+      "rank": 14,
+      "points": 1,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 3,
+      "goal_diff": -1,
+      "avg_scored": 1.0,
+      "avg_conceded": 1.5,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Everton",
+          "score": "1 - 1",
+          "result": "D",
+          "venue": "home",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Manchester City",
+          "score": "1 - 2",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "name": "Nottingham Forest",
+      "id": "393",
+      "rank": 15,
+      "points": 1,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 3,
+      "goal_diff": -1,
+      "avg_scored": 1.0,
+      "avg_conceded": 1.5,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Liverpool",
+          "score": "2 - 2",
+          "result": "D",
+          "venue": "away",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Leeds United",
+          "score": "0 - 1",
+          "result": "L",
+          "venue": "home",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Fulham",
+      "id": "370",
+      "rank": 16,
+      "points": 0,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 2,
+      "goals_against": 4,
+      "goal_diff": -2,
+      "avg_scored": 1.0,
+      "avg_conceded": 2.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Sunderland",
+          "score": "0 - 1",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Chelsea",
+          "score": "2 - 3",
+          "result": "L",
+          "venue": "home",
+          "date": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "name": "Coventry City",
+      "id": "388",
+      "rank": 17,
+      "points": 0,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 0,
+      "goals_against": 4,
+      "goal_diff": -4,
+      "avg_scored": 0.0,
+      "avg_conceded": 2.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Hull City",
+          "score": "0 - 1",
+          "result": "L",
+          "venue": "home",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Arsenal",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "name": "Crystal Palace",
+      "id": "384",
+      "rank": 18,
+      "points": 0,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 1,
+      "goals_against": 6,
+      "goal_diff": -5,
+      "avg_scored": 0.5,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Manchester City",
+          "score": "1 - 4",
+          "result": "L",
+          "venue": "home",
+          "date": "2026-08-28"
+        },
+        {
+          "opponent": "Everton",
+          "score": "0 - 2",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-22"
+        }
+      ]
+    },
+    {
+      "name": "Aston Villa",
+      "id": "362",
+      "rank": 19,
+      "points": 0,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 0,
+      "goals_against": 5,
+      "goal_diff": -5,
+      "avg_scored": 0.0,
+      "avg_conceded": 2.5,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Arsenal",
+          "score": "0 - 1",
+          "result": "L",
+          "venue": "home",
+          "date": "2026-08-31"
+        },
+        {
+          "opponent": "Brighton & Hove Albion",
+          "score": "0 - 4",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "id": "367",
+      "rank": 20,
+      "points": 0,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 0,
+      "goals_against": 5,
+      "goal_diff": -5,
+      "avg_scored": 0.0,
+      "avg_conceded": 2.5,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Newcastle United",
+          "score": "0 - 2",
+          "result": "L",
+          "venue": "home",
+          "date": "2026-08-29"
+        },
+        {
+          "opponent": "Brentford",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-22"
+        }
+      ]
+    }
+  ],
+  "upcoming_matches": [
+    {
+      "league": "English Premier League",
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "date": "04.09.2026",
+      "time": "22:00",
+      "odds": "MS1: 5.60 | X: 4.70 | MS2: 1.52",
+      "odds_detail": {
+        "ms1": 5.6,
+        "x": 4.7,
+        "ms2": 1.52
+      },
+      "home_stats": {
+        "rank": 12,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 13,
+        "points": 2,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "D",
+          "D"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Newcastle United",
+      "away": "AFC Bournemouth",
+      "date": "05.09.2026",
+      "time": "14:30",
+      "odds": "MS1: 2.16 | X: 3.70 | MS2: 3.15",
+      "odds_detail": {
+        "ms1": 2.16,
+        "x": 3.7,
+        "ms2": 3.15
+      },
+      "home_stats": {
+        "rank": 6,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W",
+          "D"
+        ]
+      },
+      "away_stats": {
+        "rank": 14,
+        "points": 1,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 1.5,
+        "form": [
+          "D",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Manchester City",
+      "away": "Coventry City",
+      "date": "05.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.18 | X: 7.50 | MS2: 15.00",
+      "odds_detail": {
+        "ms1": 1.18,
+        "x": 7.5,
+        "ms2": 15.0
+      },
+      "home_stats": {
+        "rank": 1,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 3.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 17,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "L",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Nottingham Forest",
+      "away": "Tottenham Hotspur",
+      "date": "05.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.75",
+      "odds_detail": {
+        "ms1": 2.55,
+        "x": 3.35,
+        "ms2": 2.75
+      },
+      "home_stats": {
+        "rank": 15,
+        "points": 1,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 1.5,
+        "form": [
+          "D",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 20,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.5,
+        "form": [
+          "L",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Brentford",
+      "away": "Sunderland",
+      "date": "05.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.62 | X: 3.90 | MS2: 5.60",
+      "odds_detail": {
+        "ms1": 1.62,
+        "x": 3.9,
+        "ms2": 5.6
+      },
+      "home_stats": {
+        "rank": 5,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 0.5,
+        "form": [
+          "D",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 11,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Brighton & Hove Albion",
+      "away": "Leeds United",
+      "date": "05.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.92 | X: 3.50 | MS2: 4.10",
+      "odds_detail": {
+        "ms1": 1.92,
+        "x": 3.5,
+        "ms2": 4.1
+      },
+      "home_stats": {
+        "rank": 9,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 3.5,
+        "avg_conceded": 2.0,
+        "form": [
+          "L",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 8,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 0.5,
+        "form": [
+          "D",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "date": "05.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 2.30 | X: 3.40 | MS2: 3.10",
+      "odds_detail": {
+        "ms1": 2.3,
+        "x": 3.4,
+        "ms2": 3.1
+      },
+      "home_stats": {
+        "rank": 16,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "L",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 18,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.5,
+        "avg_conceded": 3.0,
+        "form": [
+          "L",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Hull City",
+      "away": "Aston Villa",
+      "date": "05.09.2026",
+      "time": "19:30",
+      "odds": "MS1: 4.00 | X: 3.55 | MS2: 1.93",
+      "odds_detail": {
+        "ms1": 4.0,
+        "x": 3.55,
+        "ms2": 1.93
+      },
+      "home_stats": {
+        "rank": 3,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 1.5,
+        "avg_conceded": 0.0,
+        "form": [
+          "W",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 19,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.5,
+        "form": [
+          "L",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Everton",
+      "away": "Manchester United",
+      "date": "06.09.2026",
+      "time": "16:00",
+      "odds": "MS1: 3.05 | X: 3.55 | MS2: 2.25",
+      "odds_detail": {
+        "ms1": 3.05,
+        "x": 3.55,
+        "ms2": 2.25
+      },
+      "home_stats": {
+        "rank": 7,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 1.5,
+        "avg_conceded": 0.5,
+        "form": [
+          "D",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 10,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 2.5,
+        "avg_conceded": 2.0,
+        "form": [
+          "W",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "date": "06.09.2026",
+      "time": "18:30",
+      "odds": "MS1: 1.70 | X: 3.75 | MS2: 5.10",
+      "odds_detail": {
+        "ms1": 1.7,
+        "x": 3.75,
+        "ms2": 5.1
+      },
+      "home_stats": {
+        "rank": 2,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 4,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 3.5,
+        "avg_conceded": 2.5,
+        "form": [
+          "W",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "AFC Bournemouth",
+      "away": "Brentford",
+      "date": "12.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 2.55 | X: 3.50 | MS2: 2.60",
+      "odds_detail": {
+        "ms1": 2.55,
+        "x": 3.5,
+        "ms2": 2.6
+      },
+      "home_stats": {
+        "rank": 14,
+        "points": 1,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 1.5,
+        "form": [
+          "D",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 5,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 0.5,
+        "form": [
+          "D",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Crystal Palace",
+      "away": "Ipswich Town",
+      "date": "12.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.90 | X: 3.55 | MS2: 3.90",
+      "odds_detail": {
+        "ms1": 1.9,
+        "x": 3.55,
+        "ms2": 3.9
+      },
+      "home_stats": {
+        "rank": 18,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.5,
+        "avg_conceded": 3.0,
+        "form": [
+          "L",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 12,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Chelsea",
+      "away": "Hull City",
+      "date": "12.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.24 | X: 6.25 | MS2: 10.50",
+      "odds_detail": {
+        "ms1": 1.24,
+        "x": 6.25,
+        "ms2": 10.5
+      },
+      "home_stats": {
+        "rank": 4,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 3.5,
+        "avg_conceded": 2.5,
+        "form": [
+          "W",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 3,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 1.5,
+        "avg_conceded": 0.0,
+        "form": [
+          "W",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Aston Villa",
+      "away": "Nottingham Forest",
+      "date": "12.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.96 | X: 3.60 | MS2: 3.65",
+      "odds_detail": {
+        "ms1": 1.96,
+        "x": 3.6,
+        "ms2": 3.65
+      },
+      "home_stats": {
+        "rank": 19,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.5,
+        "form": [
+          "L",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 15,
+        "points": 1,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 1.5,
+        "form": [
+          "D",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Liverpool",
+      "away": "Fulham",
+      "date": "12.09.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.46 | X: 4.75 | MS2: 6.00",
+      "odds_detail": {
+        "ms1": 1.46,
+        "x": 4.75,
+        "ms2": 6.0
+      },
+      "home_stats": {
+        "rank": 13,
+        "points": 2,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "D",
+          "D"
+        ]
+      },
+      "away_stats": {
+        "rank": 16,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "L",
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Tottenham Hotspur",
+      "away": "Everton",
+      "date": "12.09.2026",
+      "time": "19:30",
+      "odds": "MS1: 1.98 | X: 3.45 | MS2: 3.65",
+      "odds_detail": {
+        "ms1": 1.98,
+        "x": 3.45,
+        "ms2": 3.65
+      },
+      "home_stats": {
+        "rank": 20,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.5,
+        "form": [
+          "L",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 7,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 1.5,
+        "avg_conceded": 0.5,
+        "form": [
+          "D",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "date": "12.09.2026",
+      "time": "22:00",
+      "odds": "MS1: 6.50 | X: 3.90 | MS2: 1.53",
+      "odds_detail": {
+        "ms1": 6.5,
+        "x": 3.9,
+        "ms2": 1.53
+      },
+      "home_stats": {
+        "rank": 11,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 2,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Coventry City",
+      "away": "Brighton & Hove Albion",
+      "date": "13.09.2026",
+      "time": "16:00",
+      "odds": "MS1: 4.10 | X: 3.75 | MS2: 1.81",
+      "odds_detail": {
+        "ms1": 4.1,
+        "x": 3.75,
+        "ms2": 1.81
+      },
+      "home_stats": {
+        "rank": 17,
+        "points": 0,
+        "played": 2,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "L",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 9,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 3.5,
+        "avg_conceded": 2.0,
+        "form": [
+          "L",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Manchester United",
+      "away": "Manchester City",
+      "date": "13.09.2026",
+      "time": "18:30",
+      "odds": "MS1: 3.00 | X: 3.85 | MS2: 2.12",
+      "odds_detail": {
+        "ms1": 3.0,
+        "x": 3.85,
+        "ms2": 2.12
+      },
+      "home_stats": {
+        "rank": 10,
+        "points": 3,
+        "played": 2,
+        "avg_scored": 2.5,
+        "avg_conceded": 2.0,
+        "form": [
+          "W",
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 1,
+        "points": 6,
+        "played": 2,
+        "avg_scored": 3.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W",
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "English Premier League",
+      "home": "Leeds United",
+      "away": "Newcastle United",
+      "date": "14.09.2026",
+      "time": "22:00",
+      "odds": "MS1: 2.48 | X: 3.50 | MS2: 2.65",
+      "odds_detail": {
+        "ms1": 2.48,
+        "x": 3.5,
+        "ms2": 2.65
+      },
+      "home_stats": {
+        "rank": 8,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 1.0,
+        "avg_conceded": 0.5,
+        "form": [
+          "D",
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 6,
+        "points": 4,
+        "played": 2,
+        "avg_scored": 2.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W",
+          "D"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1054 @@
+{
+  "league": "German Bundesliga",
+  "season": "2026-2027",
+  "last_updated": "2026-09-02T20:40:44.995351",
+  "total_teams": 18,
+  "teams": [
+    {
+      "name": "Bayern Munich",
+      "id": "132",
+      "rank": 1,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 5,
+      "goals_against": 1,
+      "goal_diff": 4,
+      "avg_scored": 5.0,
+      "avg_conceded": 1.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "VfB Stuttgart",
+          "score": "5 - 1",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "name": "SC Freiburg",
+      "id": "126",
+      "rank": 2,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 1,
+      "goal_diff": 3,
+      "avg_scored": 4.0,
+      "avg_conceded": 1.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Werder Bremen",
+          "score": "4 - 1",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "name": "FC Augsburg",
+      "id": "3841",
+      "rank": 3,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 0,
+      "goal_diff": 3,
+      "avg_scored": 3.0,
+      "avg_conceded": 0.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Schalke 04",
+          "score": "3 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "name": "RB Leipzig",
+      "id": "11420",
+      "rank": 4,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 0,
+      "goal_diff": 3,
+      "avg_scored": 3.0,
+      "avg_conceded": 0.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Borussia Mönchengladbach",
+          "score": "3 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Borussia Dortmund",
+      "id": "124",
+      "rank": 5,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 0,
+      "goal_diff": 2,
+      "avg_scored": 2.0,
+      "avg_conceded": 0.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Hamburg SV",
+          "score": "2 - 0",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "SV Elversberg",
+      "id": "10388",
+      "rank": 6,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 2,
+      "goal_diff": 1,
+      "avg_scored": 3.0,
+      "avg_conceded": 2.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "Bayer Leverkusen",
+          "score": "3 - 2",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "FC Cologne",
+      "id": "122",
+      "rank": 7,
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 2,
+      "goal_diff": 1,
+      "avg_scored": 3.0,
+      "avg_conceded": 2.0,
+      "win_rate": 100.0,
+      "recent_matches": [
+        {
+          "opponent": "TSG Hoffenheim",
+          "score": "3 - 2",
+          "result": "W",
+          "venue": "home",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "id": "125",
+      "rank": 8,
+      "points": 1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 3,
+      "goal_diff": 0,
+      "avg_scored": 3.0,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "1. FC Union Berlin",
+          "score": "3 - 3",
+          "result": "D",
+          "venue": "away",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "1. FC Union Berlin",
+      "id": "598",
+      "rank": 9,
+      "points": 1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 3,
+      "goal_diff": 0,
+      "avg_scored": 3.0,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Eintracht Frankfurt",
+          "score": "3 - 3",
+          "result": "D",
+          "venue": "home",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Mainz",
+      "id": "2950",
+      "rank": 10,
+      "points": 1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_diff": 0,
+      "avg_scored": 0.0,
+      "avg_conceded": 0.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "SC Paderborn 07",
+          "score": "0 - 0",
+          "result": "D",
+          "venue": "home",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "SC Paderborn 07",
+      "id": "3307",
+      "rank": 11,
+      "points": 1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_diff": 0,
+      "avg_scored": 0.0,
+      "avg_conceded": 0.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Mainz",
+          "score": "0 - 0",
+          "result": "D",
+          "venue": "away",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "id": "131",
+      "rank": 12,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 3,
+      "goal_diff": -1,
+      "avg_scored": 2.0,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "SV Elversberg",
+          "score": "2 - 3",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "TSG Hoffenheim",
+      "id": "7911",
+      "rank": 13,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 3,
+      "goal_diff": -1,
+      "avg_scored": 2.0,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "FC Cologne",
+          "score": "2 - 3",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Hamburg SV",
+      "id": "127",
+      "rank": 14,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 2,
+      "goal_diff": -2,
+      "avg_scored": 0.0,
+      "avg_conceded": 2.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Borussia Dortmund",
+          "score": "0 - 2",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Werder Bremen",
+      "id": "137",
+      "rank": 15,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 4,
+      "goal_diff": -3,
+      "avg_scored": 1.0,
+      "avg_conceded": 4.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "SC Freiburg",
+          "score": "1 - 4",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "name": "Borussia Mönchengladbach",
+      "id": "268",
+      "rank": 16,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "goal_diff": -3,
+      "avg_scored": 0.0,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "RB Leipzig",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-29"
+        }
+      ]
+    },
+    {
+      "name": "Schalke 04",
+      "id": "133",
+      "rank": 17,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "goal_diff": -3,
+      "avg_scored": 0.0,
+      "avg_conceded": 3.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "FC Augsburg",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "name": "VfB Stuttgart",
+      "id": "134",
+      "rank": 18,
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 5,
+      "goal_diff": -4,
+      "avg_scored": 1.0,
+      "avg_conceded": 5.0,
+      "win_rate": 0.0,
+      "recent_matches": [
+        {
+          "opponent": "Bayern Munich",
+          "score": "1 - 5",
+          "result": "L",
+          "venue": "away",
+          "date": "2026-08-28"
+        }
+      ]
+    }
+  ],
+  "upcoming_matches": [
+    {
+      "league": "German Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "FC Cologne",
+      "date": "04.09.2026",
+      "time": "21:30",
+      "odds": "MS1: 1.48 | X: 4.60 | MS2: 5.60",
+      "odds_detail": {
+        "ms1": 1.48,
+        "x": 4.6,
+        "ms2": 5.6
+      },
+      "home_stats": {
+        "rank": 18,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 1.0,
+        "avg_conceded": 5.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 7,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "SC Freiburg",
+      "date": "05.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 3.15 | X: 3.65 | MS2: 2.07",
+      "odds_detail": {
+        "ms1": 3.15,
+        "x": 3.65,
+        "ms2": 2.07
+      },
+      "home_stats": {
+        "rank": 11,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "D"
+        ]
+      },
+      "away_stats": {
+        "rank": 2,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 4.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "SV Elversberg",
+      "date": "05.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.77 | X: 3.90 | MS2: 4.00",
+      "odds_detail": {
+        "ms1": 1.77,
+        "x": 3.9,
+        "ms2": 4.0
+      },
+      "home_stats": {
+        "rank": 16,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 6,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "Borussia Dortmund",
+      "date": "05.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.80 | X: 3.75 | MS2: 2.23",
+      "odds_detail": {
+        "ms1": 2.8,
+        "x": 3.75,
+        "ms2": 2.23
+      },
+      "home_stats": {
+        "rank": 13,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 2.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 5,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 2.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Werder Bremen",
+      "away": "RB Leipzig",
+      "date": "05.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 3.80 | X: 4.00 | MS2: 1.80",
+      "odds_detail": {
+        "ms1": 3.8,
+        "x": 4.0,
+        "ms2": 1.8
+      },
+      "home_stats": {
+        "rank": 15,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 1.0,
+        "avg_conceded": 4.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 4,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Bayer Leverkusen",
+      "away": "1. FC Union Berlin",
+      "date": "05.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.44 | X: 4.70 | MS2: 6.10",
+      "odds_detail": {
+        "ms1": 1.44,
+        "x": 4.7,
+        "ms2": 6.1
+      },
+      "home_stats": {
+        "rank": 12,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 2.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 9,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "D"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Schalke 04",
+      "away": "Bayern Munich",
+      "date": "05.09.2026",
+      "time": "19:30",
+      "odds": "MS1: 13.00 | X: 8.00 | MS2: 1.15",
+      "odds_detail": {
+        "ms1": 13.0,
+        "x": 8.0,
+        "ms2": 1.15
+      },
+      "home_stats": {
+        "rank": 17,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 1,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 5.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Hamburg SV",
+      "away": "Mainz",
+      "date": "06.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.70 | X: 3.45 | MS2: 2.40",
+      "odds_detail": {
+        "ms1": 2.7,
+        "x": 3.45,
+        "ms2": 2.4
+      },
+      "home_stats": {
+        "rank": 14,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 10,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "D"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "FC Augsburg",
+      "date": "06.09.2026",
+      "time": "18:30",
+      "odds": "MS1: 1.88 | X: 3.90 | MS2: 3.50",
+      "odds_detail": {
+        "ms1": 1.88,
+        "x": 3.9,
+        "ms2": 3.5
+      },
+      "home_stats": {
+        "rank": 8,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "D"
+        ]
+      },
+      "away_stats": {
+        "rank": 3,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "1. FC Union Berlin",
+      "away": "Schalke 04",
+      "date": "11.09.2026",
+      "time": "21:30",
+      "odds": "MS1: 1.94 | X: 3.75 | MS2: 3.45",
+      "odds_detail": {
+        "ms1": 1.94,
+        "x": 3.75,
+        "ms2": 3.45
+      },
+      "home_stats": {
+        "rank": 9,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "D"
+        ]
+      },
+      "away_stats": {
+        "rank": 17,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Mainz",
+      "away": "Eintracht Frankfurt",
+      "date": "12.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.23 | X: 3.60 | MS2: 2.90",
+      "odds_detail": {
+        "ms1": 2.23,
+        "x": 3.6,
+        "ms2": 2.9
+      },
+      "home_stats": {
+        "rank": 10,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "D"
+        ]
+      },
+      "away_stats": {
+        "rank": 8,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "D"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "Borussia Dortmund",
+      "away": "SC Paderborn 07",
+      "date": "12.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.22 | X: 6.10 | MS2: 11.00",
+      "odds_detail": {
+        "ms1": 1.22,
+        "x": 6.1,
+        "ms2": 11.0
+      },
+      "home_stats": {
+        "rank": 5,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 2.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 11,
+        "points": 1,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "D"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "SC Freiburg",
+      "away": "Borussia Mönchengladbach",
+      "date": "12.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.89 | X: 3.65 | MS2: 3.70",
+      "odds_detail": {
+        "ms1": 1.89,
+        "x": 3.65,
+        "ms2": 3.7
+      },
+      "home_stats": {
+        "rank": 2,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 4.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 16,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "FC Augsburg",
+      "away": "Bayer Leverkusen",
+      "date": "12.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 4.40 | X: 4.20 | MS2: 1.65",
+      "odds_detail": {
+        "ms1": 4.4,
+        "x": 4.2,
+        "ms2": 1.65
+      },
+      "home_stats": {
+        "rank": 3,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 12,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 2.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "TSG Hoffenheim",
+      "away": "VfB Stuttgart",
+      "date": "12.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.75",
+      "odds_detail": {
+        "ms1": 2.23,
+        "x": 3.8,
+        "ms2": 2.75
+      },
+      "home_stats": {
+        "rank": 13,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 2.0,
+        "avg_conceded": 3.0,
+        "form": [
+          "L"
+        ]
+      },
+      "away_stats": {
+        "rank": 18,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 1.0,
+        "avg_conceded": 5.0,
+        "form": [
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "FC Cologne",
+      "away": "Werder Bremen",
+      "date": "12.09.2026",
+      "time": "19:30",
+      "odds": "MS1: 2.10 | X: 3.55 | MS2: 3.15",
+      "odds_detail": {
+        "ms1": 2.1,
+        "x": 3.55,
+        "ms2": 3.15
+      },
+      "home_stats": {
+        "rank": 7,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 15,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 1.0,
+        "avg_conceded": 4.0,
+        "form": [
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "RB Leipzig",
+      "away": "Hamburg SV",
+      "date": "13.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.33 | X: 5.30 | MS2: 8.00",
+      "odds_detail": {
+        "ms1": 1.33,
+        "x": 5.3,
+        "ms2": 8.0
+      },
+      "home_stats": {
+        "rank": 4,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 0.0,
+        "form": [
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 14,
+        "points": 0,
+        "played": 1,
+        "avg_scored": 0.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "L"
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "home": "SV Elversberg",
+      "away": "Bayern Munich",
+      "date": "13.09.2026",
+      "time": "18:30",
+      "odds": "MS1: 14.00 | X: 8.00 | MS2: 1.15",
+      "odds_detail": {
+        "ms1": 14.0,
+        "x": 8.0,
+        "ms2": 1.15
+      },
+      "home_stats": {
+        "rank": 6,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 3.0,
+        "avg_conceded": 2.0,
+        "form": [
+          "W"
+        ]
+      },
+      "away_stats": {
+        "rank": 1,
+        "points": 3,
+        "played": 1,
+        "avg_scored": 5.0,
+        "avg_conceded": 1.0,
+        "form": [
+          "W"
+        ]
+      }
+    }
+  ]
+}
