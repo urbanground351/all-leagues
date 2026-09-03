@@ -1,7 +1,7 @@
 {
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
-  "last_updated": "2026-09-03T00:05:19.841687",
+  "last_updated": "2026-09-03T12:04:26.727846",
   "total_teams": 18,
   "teams": [
     {
@@ -899,11 +899,11 @@
       "away": "Genclerbirligi",
       "date": "06.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.64 | X: 3.80 | MS2: 5.30",
+      "odds": "MS1: 1.63 | X: 3.85 | MS2: 5.25",
       "odds_detail": {
-        "ms1": 1.64,
-        "x": 3.8,
-        "ms2": 5.3
+        "ms1": 1.63,
+        "x": 3.85,
+        "ms2": 5.25
       },
       "home_stats": {
         "rank": 11,

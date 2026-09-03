@@ -1,7 +1,7 @@
 {
   "league": "Spanish LALIGA",
   "season": "2026-2027",
-  "last_updated": "2026-09-03T00:05:21.692922",
+  "last_updated": "2026-09-03T12:04:28.490801",
   "total_teams": 20,
   "teams": [
     {
@@ -792,11 +792,11 @@
       "away": "Celta Vigo",
       "date": "03.09.2026",
       "time": "22:00",
-      "odds": "MS1: 1.86 | X: 3.60 | MS2: 4.20",
+      "odds": "MS1: 1.86 | X: 3.60 | MS2: 4.10",
       "odds_detail": {
         "ms1": 1.86,
         "x": 3.6,
-        "ms2": 4.2
+        "ms2": 4.1
       },
       "home_stats": {
         "rank": 13,
@@ -829,10 +829,10 @@
       "away": "Real Madrid",
       "date": "04.09.2026",
       "time": "22:00",
-      "odds": "MS1: 7.00 | X: 5.10 | MS2: 1.38",
+      "odds": "MS1: 7.00 | X: 5.25 | MS2: 1.38",
       "odds_detail": {
         "ms1": 7.0,
-        "x": 5.1,
+        "x": 5.25,
         "ms2": 1.38
       },
       "home_stats": {
@@ -866,11 +866,11 @@
       "away": "Atlético Madrid",
       "date": "05.09.2026",
       "time": "17:15",
-      "odds": "MS1: 2.88 | X: 3.35 | MS2: 2.45",
+      "odds": "MS1: 3.05 | X: 3.40 | MS2: 2.30",
       "odds_detail": {
-        "ms1": 2.88,
-        "x": 3.35,
-        "ms2": 2.45
+        "ms1": 3.05,
+        "x": 3.4,
+        "ms2": 2.3
       },
       "home_stats": {
         "rank": 12,
@@ -1125,11 +1125,11 @@
       "away": "Celta Vigo",
       "date": "07.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.55 | X: 2.88 | MS2: 3.15",
+      "odds": "MS1: 2.43 | X: 2.85 | MS2: 3.35",
       "odds_detail": {
-        "ms1": 2.55,
-        "x": 2.88,
-        "ms2": 3.15
+        "ms1": 2.43,
+        "x": 2.85,
+        "ms2": 3.35
       },
       "home_stats": {
         "rank": 14,
@@ -1421,11 +1421,11 @@
       "away": "Barcelona",
       "date": "13.09.2026",
       "time": "17:15",
-      "odds": "MS1: 7.50 | X: 6.50 | MS2: 1.29",
+      "odds": "MS1: 8.00 | X: 6.75 | MS2: 1.28",
       "odds_detail": {
-        "ms1": 7.5,
-        "x": 6.5,
-        "ms2": 1.29
+        "ms1": 8.0,
+        "x": 6.75,
+        "ms2": 1.28
       },
       "home_stats": {
         "rank": 9,
@@ -1495,10 +1495,10 @@
       "away": "Atlético Madrid",
       "date": "13.09.2026",
       "time": "22:00",
-      "odds": "MS1: 3.10 | X: 3.55 | MS2: 2.18",
+      "odds": "MS1: 3.05 | X: 3.60 | MS2: 2.18",
       "odds_detail": {
-        "ms1": 3.1,
-        "x": 3.55,
+        "ms1": 3.05,
+        "x": 3.6,
         "ms2": 2.18
       },
       "home_stats": {

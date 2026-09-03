@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T00:05:22.414481",
+  "last_updated": "2026-09-03T12:04:29.276094",
   "source": "Kambi CDN + ESPN Resmi API",
   "total_matches": 68,
   "leagues": [
@@ -200,11 +200,11 @@
       "away": "Genclerbirligi",
       "date": "06.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.64 | X: 3.80 | MS2: 5.30",
+      "odds": "MS1: 1.63 | X: 3.85 | MS2: 5.25",
       "odds_detail": {
-        "ms1": 1.64,
-        "x": 3.8,
-        "ms2": 5.3
+        "ms1": 1.63,
+        "x": 3.85,
+        "ms2": 5.25
       },
       "home_stats": {
         "rank": 11,
@@ -383,11 +383,11 @@
       "away": "AFC Bournemouth",
       "date": "05.09.2026",
       "time": "14:30",
-      "odds": "MS1: 2.14 | X: 3.80 | MS2: 3.15",
+      "odds": "MS1: 2.17 | X: 3.70 | MS2: 3.10",
       "odds_detail": {
-        "ms1": 2.14,
-        "x": 3.8,
-        "ms2": 3.15
+        "ms1": 2.17,
+        "x": 3.7,
+        "ms2": 3.1
       },
       "home_stats": {
         "rank": 6,
@@ -418,11 +418,11 @@
       "away": "Coventry City",
       "date": "05.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.18 | X: 7.50 | MS2: 15.00",
+      "odds": "MS1: 1.15 | X: 8.50 | MS2: 16.00",
       "odds_detail": {
-        "ms1": 1.18,
-        "x": 7.5,
-        "ms2": 15.0
+        "ms1": 1.15,
+        "x": 8.5,
+        "ms2": 16.0
       },
       "home_stats": {
         "rank": 1,
@@ -453,11 +453,11 @@
       "away": "Tottenham Hotspur",
       "date": "05.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.75",
+      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.80",
       "odds_detail": {
         "ms1": 2.55,
         "x": 3.35,
-        "ms2": 2.75
+        "ms2": 2.8
       },
       "home_stats": {
         "rank": 15,
@@ -488,11 +488,11 @@
       "away": "Sunderland",
       "date": "05.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.56 | X: 4.10 | MS2: 6.10",
+      "odds": "MS1: 1.61 | X: 3.90 | MS2: 5.75",
       "odds_detail": {
-        "ms1": 1.56,
-        "x": 4.1,
-        "ms2": 6.1
+        "ms1": 1.61,
+        "x": 3.9,
+        "ms2": 5.75
       },
       "home_stats": {
         "rank": 5,
@@ -523,10 +523,10 @@
       "away": "Leeds United",
       "date": "05.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.92 | X: 3.50 | MS2: 4.10",
+      "odds": "MS1: 1.94 | X: 3.40 | MS2: 4.10",
       "odds_detail": {
-        "ms1": 1.92,
-        "x": 3.5,
+        "ms1": 1.94,
+        "x": 3.4,
         "ms2": 4.1
       },
       "home_stats": {
@@ -558,11 +558,11 @@
       "away": "Crystal Palace",
       "date": "05.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.30 | X: 3.40 | MS2: 3.10",
+      "odds": "MS1: 2.33 | X: 3.40 | MS2: 3.00",
       "odds_detail": {
-        "ms1": 2.3,
+        "ms1": 2.33,
         "x": 3.4,
-        "ms2": 3.1
+        "ms2": 3.0
       },
       "home_stats": {
         "rank": 16,
@@ -593,11 +593,11 @@
       "away": "Aston Villa",
       "date": "05.09.2026",
       "time": "19:30",
-      "odds": "MS1: 4.00 | X: 3.55 | MS2: 1.93",
+      "odds": "MS1: 4.10 | X: 3.60 | MS2: 1.89",
       "odds_detail": {
-        "ms1": 4.0,
-        "x": 3.55,
-        "ms2": 1.93
+        "ms1": 4.1,
+        "x": 3.6,
+        "ms2": 1.89
       },
       "home_stats": {
         "rank": 3,
@@ -628,11 +628,11 @@
       "away": "Manchester United",
       "date": "06.09.2026",
       "time": "16:00",
-      "odds": "MS1: 3.35 | X: 3.55 | MS2: 2.10",
+      "odds": "MS1: 3.35 | X: 3.60 | MS2: 2.12",
       "odds_detail": {
         "ms1": 3.35,
-        "x": 3.55,
-        "ms2": 2.1
+        "x": 3.6,
+        "ms2": 2.12
       },
       "home_stats": {
         "rank": 7,
@@ -768,10 +768,10 @@
       "away": "Hull City",
       "date": "12.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.24 | X: 6.25 | MS2: 10.50",
+      "odds": "MS1: 1.25 | X: 6.10 | MS2: 10.50",
       "odds_detail": {
-        "ms1": 1.24,
-        "x": 6.25,
+        "ms1": 1.25,
+        "x": 6.1,
         "ms2": 10.5
       },
       "home_stats": {
@@ -803,11 +803,11 @@
       "away": "Nottingham Forest",
       "date": "12.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.96 | X: 3.60 | MS2: 3.65",
+      "odds": "MS1: 1.98 | X: 3.60 | MS2: 3.55",
       "odds_detail": {
-        "ms1": 1.96,
+        "ms1": 1.98,
         "x": 3.6,
-        "ms2": 3.65
+        "ms2": 3.55
       },
       "home_stats": {
         "rank": 19,
@@ -908,11 +908,11 @@
       "away": "Arsenal",
       "date": "12.09.2026",
       "time": "22:00",
-      "odds": "MS1: 6.40 | X: 3.95 | MS2: 1.53",
+      "odds": "MS1: 6.50 | X: 3.90 | MS2: 1.52",
       "odds_detail": {
-        "ms1": 6.4,
-        "x": 3.95,
-        "ms2": 1.53
+        "ms1": 6.5,
+        "x": 3.9,
+        "ms2": 1.52
       },
       "home_stats": {
         "rank": 11,
@@ -978,11 +978,11 @@
       "away": "Manchester City",
       "date": "13.09.2026",
       "time": "18:30",
-      "odds": "MS1: 3.00 | X: 3.85 | MS2: 2.12",
+      "odds": "MS1: 3.05 | X: 3.85 | MS2: 2.10",
       "odds_detail": {
-        "ms1": 3.0,
+        "ms1": 3.05,
         "x": 3.85,
-        "ms2": 2.12
+        "ms2": 2.1
       },
       "home_stats": {
         "rank": 10,
@@ -1013,11 +1013,11 @@
       "away": "Newcastle United",
       "date": "14.09.2026",
       "time": "22:00",
-      "odds": "MS1: 2.48 | X: 3.50 | MS2: 2.65",
+      "odds": "MS1: 2.45 | X: 3.45 | MS2: 2.70",
       "odds_detail": {
-        "ms1": 2.48,
-        "x": 3.5,
-        "ms2": 2.65
+        "ms1": 2.45,
+        "x": 3.45,
+        "ms2": 2.7
       },
       "home_stats": {
         "rank": 8,
@@ -1048,11 +1048,11 @@
       "away": "Celta Vigo",
       "date": "03.09.2026",
       "time": "22:00",
-      "odds": "MS1: 1.86 | X: 3.60 | MS2: 4.20",
+      "odds": "MS1: 1.86 | X: 3.60 | MS2: 4.10",
       "odds_detail": {
         "ms1": 1.86,
         "x": 3.6,
-        "ms2": 4.2
+        "ms2": 4.1
       },
       "home_stats": {
         "rank": 13,
@@ -1085,10 +1085,10 @@
       "away": "Real Madrid",
       "date": "04.09.2026",
       "time": "22:00",
-      "odds": "MS1: 7.00 | X: 5.10 | MS2: 1.38",
+      "odds": "MS1: 7.00 | X: 5.25 | MS2: 1.38",
       "odds_detail": {
         "ms1": 7.0,
-        "x": 5.1,
+        "x": 5.25,
         "ms2": 1.38
       },
       "home_stats": {
@@ -1122,11 +1122,11 @@
       "away": "Atlético Madrid",
       "date": "05.09.2026",
       "time": "17:15",
-      "odds": "MS1: 2.88 | X: 3.35 | MS2: 2.45",
+      "odds": "MS1: 3.05 | X: 3.40 | MS2: 2.30",
       "odds_detail": {
-        "ms1": 2.88,
-        "x": 3.35,
-        "ms2": 2.45
+        "ms1": 3.05,
+        "x": 3.4,
+        "ms2": 2.3
       },
       "home_stats": {
         "rank": 12,
@@ -1381,11 +1381,11 @@
       "away": "Celta Vigo",
       "date": "07.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.55 | X: 2.88 | MS2: 3.15",
+      "odds": "MS1: 2.43 | X: 2.85 | MS2: 3.35",
       "odds_detail": {
-        "ms1": 2.55,
-        "x": 2.88,
-        "ms2": 3.15
+        "ms1": 2.43,
+        "x": 2.85,
+        "ms2": 3.35
       },
       "home_stats": {
         "rank": 14,
@@ -1677,11 +1677,11 @@
       "away": "Barcelona",
       "date": "13.09.2026",
       "time": "17:15",
-      "odds": "MS1: 7.50 | X: 6.50 | MS2: 1.29",
+      "odds": "MS1: 8.00 | X: 6.75 | MS2: 1.28",
       "odds_detail": {
-        "ms1": 7.5,
-        "x": 6.5,
-        "ms2": 1.29
+        "ms1": 8.0,
+        "x": 6.75,
+        "ms2": 1.28
       },
       "home_stats": {
         "rank": 9,
@@ -1751,10 +1751,10 @@
       "away": "Atlético Madrid",
       "date": "13.09.2026",
       "time": "22:00",
-      "odds": "MS1: 3.10 | X: 3.55 | MS2: 2.18",
+      "odds": "MS1: 3.05 | X: 3.60 | MS2: 2.18",
       "odds_detail": {
-        "ms1": 3.1,
-        "x": 3.55,
+        "ms1": 3.05,
+        "x": 3.6,
         "ms2": 2.18
       },
       "home_stats": {
@@ -1858,11 +1858,11 @@
       "away": "SC Freiburg",
       "date": "05.09.2026",
       "time": "16:30",
-      "odds": "MS1: 3.15 | X: 3.70 | MS2: 2.07",
+      "odds": "MS1: 3.30 | X: 3.75 | MS2: 1.98",
       "odds_detail": {
-        "ms1": 3.15,
-        "x": 3.7,
-        "ms2": 2.07
+        "ms1": 3.3,
+        "x": 3.75,
+        "ms2": 1.98
       },
       "home_stats": {
         "rank": 11,
@@ -1957,11 +1957,11 @@
       "away": "RB Leipzig",
       "date": "05.09.2026",
       "time": "16:30",
-      "odds": "MS1: 3.80 | X: 3.90 | MS2: 1.81",
+      "odds": "MS1: 4.00 | X: 4.10 | MS2: 1.73",
       "odds_detail": {
-        "ms1": 3.8,
-        "x": 3.9,
-        "ms2": 1.81
+        "ms1": 4.0,
+        "x": 4.1,
+        "ms2": 1.73
       },
       "home_stats": {
         "rank": 15,
@@ -2089,10 +2089,10 @@
       "away": "FC Augsburg",
       "date": "06.09.2026",
       "time": "18:30",
-      "odds": "MS1: 1.88 | X: 3.90 | MS2: 3.50",
+      "odds": "MS1: 1.90 | X: 3.85 | MS2: 3.50",
       "odds_detail": {
-        "ms1": 1.88,
-        "x": 3.9,
+        "ms1": 1.9,
+        "x": 3.85,
         "ms2": 3.5
       },
       "home_stats": {
@@ -2221,11 +2221,11 @@
       "away": "Borussia Mönchengladbach",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.89 | X: 3.65 | MS2: 3.70",
+      "odds": "MS1: 1.91 | X: 3.70 | MS2: 3.60",
       "odds_detail": {
-        "ms1": 1.89,
-        "x": 3.65,
-        "ms2": 3.7
+        "ms1": 1.91,
+        "x": 3.7,
+        "ms2": 3.6
       },
       "home_stats": {
         "rank": 2,
@@ -2254,11 +2254,11 @@
       "away": "Bayer Leverkusen",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 4.40 | X: 4.20 | MS2: 1.65",
+      "odds": "MS1: 4.35 | X: 4.10 | MS2: 1.66",
       "odds_detail": {
-        "ms1": 4.4,
-        "x": 4.2,
-        "ms2": 1.65
+        "ms1": 4.35,
+        "x": 4.1,
+        "ms2": 1.66
       },
       "home_stats": {
         "rank": 3,
@@ -2320,11 +2320,11 @@
       "away": "Werder Bremen",
       "date": "12.09.2026",
       "time": "19:30",
-      "odds": "MS1: 2.10 | X: 3.55 | MS2: 3.15",
+      "odds": "MS1: 2.10 | X: 3.70 | MS2: 3.10",
       "odds_detail": {
         "ms1": 2.1,
-        "x": 3.55,
-        "ms2": 3.15
+        "x": 3.7,
+        "ms2": 3.1
       },
       "home_stats": {
         "rank": 7,
