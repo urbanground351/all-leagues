@@ -1,7 +1,7 @@
 {
   "league": "Spanish LALIGA",
   "season": "2026-2027",
-  "last_updated": "2026-09-02T18:05:18.107136",
+  "last_updated": "2026-09-03T00:05:21.692922",
   "total_teams": 20,
   "teams": [
     {
@@ -792,11 +792,11 @@
       "away": "Celta Vigo",
       "date": "03.09.2026",
       "time": "22:00",
-      "odds": "MS1: 1.91 | X: 3.55 | MS2: 4.00",
+      "odds": "MS1: 1.86 | X: 3.60 | MS2: 4.20",
       "odds_detail": {
-        "ms1": 1.91,
-        "x": 3.55,
-        "ms2": 4.0
+        "ms1": 1.86,
+        "x": 3.6,
+        "ms2": 4.2
       },
       "home_stats": {
         "rank": 13,
@@ -829,11 +829,11 @@
       "away": "Real Madrid",
       "date": "04.09.2026",
       "time": "22:00",
-      "odds": "MS1: 7.00 | X: 5.10 | MS2: 1.40",
+      "odds": "MS1: 7.00 | X: 5.10 | MS2: 1.38",
       "odds_detail": {
         "ms1": 7.0,
         "x": 5.1,
-        "ms2": 1.4
+        "ms2": 1.38
       },
       "home_stats": {
         "rank": 7,

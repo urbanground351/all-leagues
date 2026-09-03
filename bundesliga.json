@@ -1,7 +1,7 @@
 {
   "league": "German Bundesliga",
   "season": "2026-2027",
-  "last_updated": "2026-09-02T18:05:19.024753",
+  "last_updated": "2026-09-03T00:05:22.410379",
   "total_teams": 18,
   "teams": [
     {
@@ -495,10 +495,10 @@
       "away": "SC Freiburg",
       "date": "05.09.2026",
       "time": "16:30",
-      "odds": "MS1: 3.15 | X: 3.65 | MS2: 2.07",
+      "odds": "MS1: 3.15 | X: 3.70 | MS2: 2.07",
       "odds_detail": {
         "ms1": 3.15,
-        "x": 3.65,
+        "x": 3.7,
         "ms2": 2.07
       },
       "home_stats": {
@@ -528,9 +528,9 @@
       "away": "SV Elversberg",
       "date": "05.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.77 | X: 3.90 | MS2: 4.00",
+      "odds": "MS1: 1.76 | X: 3.90 | MS2: 4.00",
       "odds_detail": {
-        "ms1": 1.77,
+        "ms1": 1.76,
         "x": 3.9,
         "ms2": 4.0
       },
@@ -594,11 +594,11 @@
       "away": "RB Leipzig",
       "date": "05.09.2026",
       "time": "16:30",
-      "odds": "MS1: 3.80 | X: 4.00 | MS2: 1.80",
+      "odds": "MS1: 3.80 | X: 3.90 | MS2: 1.81",
       "odds_detail": {
         "ms1": 3.8,
-        "x": 4.0,
-        "ms2": 1.8
+        "x": 3.9,
+        "ms2": 1.81
       },
       "home_stats": {
         "rank": 15,
@@ -660,11 +660,11 @@
       "away": "Bayern Munich",
       "date": "05.09.2026",
       "time": "19:30",
-      "odds": "MS1: 13.00 | X: 8.00 | MS2: 1.15",
+      "odds": "MS1: 13.00 | X: 8.00 | MS2: 1.16",
       "odds_detail": {
         "ms1": 13.0,
         "x": 8.0,
-        "ms2": 1.15
+        "ms2": 1.16
       },
       "home_stats": {
         "rank": 17,
@@ -693,10 +693,10 @@
       "away": "Mainz",
       "date": "06.09.2026",
       "time": "16:30",
-      "odds": "MS1: 2.70 | X: 3.45 | MS2: 2.40",
+      "odds": "MS1: 2.70 | X: 3.50 | MS2: 2.40",
       "odds_detail": {
         "ms1": 2.7,
-        "x": 3.45,
+        "x": 3.5,
         "ms2": 2.4
       },
       "home_stats": {
@@ -990,11 +990,11 @@
       "away": "Hamburg SV",
       "date": "13.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.33 | X: 5.30 | MS2: 8.00",
+      "odds": "MS1: 1.32 | X: 5.40 | MS2: 7.50",
       "odds_detail": {
-        "ms1": 1.33,
-        "x": 5.3,
-        "ms2": 8.0
+        "ms1": 1.32,
+        "x": 5.4,
+        "ms2": 7.5
       },
       "home_stats": {
         "rank": 4,
@@ -1023,11 +1023,11 @@
       "away": "Bayern Munich",
       "date": "13.09.2026",
       "time": "18:30",
-      "odds": "MS1: 14.00 | X: 8.00 | MS2: 1.15",
+      "odds": "MS1: 14.00 | X: 8.00 | MS2: 1.14",
       "odds_detail": {
         "ms1": 14.0,
         "x": 8.0,
-        "ms2": 1.15
+        "ms2": 1.14
       },
       "home_stats": {
         "rank": 6,
