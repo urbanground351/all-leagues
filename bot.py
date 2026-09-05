@@ -2,9 +2,63 @@ import difflib
 import json
 import re
 import unicodedata
-from datetime import datetime, timedelta
+import os
+import tempfile
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+try:
+    TR_ZONE = ZoneInfo("Europe/Istanbul")
+except ZoneInfoNotFoundError:
+    # Türkiye yıl boyunca UTC+3 kullanır; Windows'ta tzdata paketi yoksa bu eşdeğerdir.
+    TR_ZONE = timezone(timedelta(hours=3))
+
+
+def build_http_session():
+    retry = Retry(
+        total=4,
+        connect=4,
+        read=4,
+        backoff_factor=1.0,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset(["GET"]),
+        respect_retry_after_header=True,
+    )
+    session = requests.Session()
+    # ESPN bazı ortamlarda özel User-Agent başlıklarını 403 ile reddediyor;
+    # requests'in varsayılan başlıklarını kullanmak daha uyumlu.
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    session.mount("http://", HTTPAdapter(max_retries=retry))
+    return session
+
+
+HTTP = build_http_session()
+
+
+def season_window(now=None):
+    now = now or datetime.now(TR_ZONE)
+    season_start_year = now.year if now.month >= 7 else now.year - 1
+    start = datetime(season_start_year, 7, 1, tzinfo=TR_ZONE)
+    end = datetime(season_start_year + 1, 6, 30, tzinfo=TR_ZONE)
+    return start, end
+
+
+def upcoming_window(now=None, days=14):
+    now = now or datetime.now(TR_ZONE)
+    start = now.date()
+    end = (now + timedelta(days=days)).date()
+    return start.strftime("%Y%m%d"), end.strftime("%Y%m%d")
+
+
+def safe_int(value, default=0):
+    try:
+        return int(float(value)) if value is not None else default
+    except (TypeError, ValueError):
+        return default
 
 # 4 Aktif Lig Konfigürasyonu (Süper Lig + Premier Lig + La Liga + Bundesliga)
 LEAGUES_CONFIG = {
@@ -124,13 +178,13 @@ def load_existing_matches_map() -> dict:
 def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
     """Bir ligin puan durumunu, tamamlanmış maçlarını (şut ve gol verileriyle) ve Kambi maçlarını işler (Saf Veri)."""
     print(f"\n[{cfg['name']}] Bilgileri toplanıyor...")
-    now_iso = datetime.now().isoformat()
+    now_iso = datetime.now(TR_ZONE).isoformat()
 
     # 1. Lig Puan Durumu ve Tüm Takımlar (ESPN)
     espn_teams = {}
     teams_list = []
     try:
-        r = requests.get(cfg["espn_standings_url"], timeout=10)
+        r = HTTP.get(cfg["espn_standings_url"], timeout=20)
         if r.status_code == 200:
             entries = r.json().get("children", [{}])[0].get("standings", {}).get("entries", [])
             for e in entries:
@@ -139,23 +193,23 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
                 t_name = t_obj.get("displayName")
                 s = {st["name"]: st.get("value", 0) for st in e.get("stats", [])}
 
-                gp = int(s.get("gamesPlayed", 0))
-                gf = int(s.get("pointsFor", 0))
-                ga = int(s.get("pointsAgainst", 0))
-                wins = int(s.get("wins", 0))
+                gp = safe_int(s.get("gamesPlayed"))
+                gf = safe_int(s.get("pointsFor"))
+                ga = safe_int(s.get("pointsAgainst"))
+                wins = safe_int(s.get("wins"))
 
                 team_data = {
                     "name": t_name,
                     "id": t_id,
-                    "rank": int(s.get("rank", 0)),
-                    "points": int(s.get("points", 0)),
+                    "rank": safe_int(s.get("rank")),
+                    "points": safe_int(s.get("points")),
                     "played": gp,
                     "wins": wins,
-                    "draws": int(s.get("ties", 0)),
-                    "losses": int(s.get("losses", 0)),
+                    "draws": safe_int(s.get("ties")),
+                    "losses": safe_int(s.get("losses")),
                     "goals_for": gf,
                     "goals_against": ga,
-                    "goal_diff": int(s.get("pointDifferential", 0)),
+                    "goal_diff": safe_int(s.get("pointDifferential")),
                     "avg_scored": round(gf / gp, 2) if gp > 0 else 0.0,
                     "avg_conceded": round(ga / gp, 2) if gp > 0 else 0.0,
                     "win_rate": round((wins / gp) * 100, 1) if gp > 0 else 0.0,
@@ -168,10 +222,18 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
     except Exception as e:
         print(f"  [Hata] Puan durumu alınamadı: {e}")
 
+    if not teams_list:
+        raise RuntimeError("ESPN puan durumu boş döndü; mevcut JSON korunuyor")
+
     # 2. Ligin Tamamlanmış Maçlarını ve İsabetli Şut Verilerini Çek (ESPN Scoreboard)
     try:
-        sb_url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{cfg['espn_league_id']}/scoreboard?dates=20260801-20261231&limit=500"
-        r_sb = requests.get(sb_url, timeout=12)
+        season_start, season_end = season_window()
+        sb_url = (
+            f"https://site.api.espn.com/apis/site/v2/sports/soccer/"
+            f"{cfg['espn_league_id']}/scoreboard?dates={season_start:%Y%m%d}-"
+            f"{season_end:%Y%m%d}&limit=1000"
+        )
+        r_sb = HTTP.get(sb_url, timeout=25)
         if r_sb.status_code == 200:
             events = r_sb.json().get('events', [])
             completed_events = [
@@ -256,8 +318,10 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
         t['away_avg_conceded'] = round(sum(m['goals_against'] for m in a_m) / len(a_m), 2) if a_m else t['avg_conceded']
 
         # shots_on_target_for & shots_on_target_against
-        t['shots_on_target_for'] = round(sum(m['sot_for'] for m in t['matches']) / len(t['matches']), 2) if t['matches'] else 4.5
-        t['shots_on_target_against'] = round(sum(m['sot_against'] for m in t['matches']) / len(t['matches']), 2) if t['matches'] else 4.0
+        sot_matches = [m for m in t['matches'] if m.get('sot_for') is not None and m.get('sot_against') is not None]
+        t['shots_on_target_for'] = round(sum(m['sot_for'] for m in sot_matches) / len(sot_matches), 2) if sot_matches else None
+        t['shots_on_target_against'] = round(sum(m['sot_against'] for m in sot_matches) / len(sot_matches), 2) if sot_matches else None
+        t['shots_on_target_sample'] = len(sot_matches)
 
         # Son 5 maç formu & Son 5 maç gol ortalaması
         recent = t['matches'][-5:]
@@ -270,19 +334,41 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
     # 4. Kambi'den Gelecek Maçları ve 1X2 Oranlarını Çek
     upcoming_matches = []
     kambi_events = []
+    kambi_ok = False
     try:
-        r_kambi = requests.get(cfg["kambi_url"] + "&limit=100", timeout=15)
+        r_kambi = HTTP.get(cfg["kambi_url"] + "&limit=300", timeout=25)
         if r_kambi.status_code == 200:
             r_kambi.encoding = "utf-8"
             kambi_events = r_kambi.json().get("events", [])
+            kambi_ok = True
     except Exception as e:
         print(f"  [Hata] Kambi verisi alınamadı: {e}")
 
+    if not kambi_ok:
+        try:
+            with open(cfg["output_file"], "r", encoding="utf-8") as f:
+                upcoming_matches = json.load(f).get("upcoming_matches", [])
+            print(f"  -> Kambi başarısız; önceki {len(upcoming_matches)} maç korunuyor.")
+        except (OSError, ValueError):
+            pass
+
     valid_events = []
+    today = datetime.now(TR_ZONE).date()
+    window_end = today + timedelta(days=14)
     for ev_data in kambi_events:
         event = ev_data.get("event", {})
         home_raw = event.get("homeName", "")
         away_raw = event.get("awayName", "")
+
+        # Sadece bugünden itibaren 14 günlük gelecek maç penceresi.
+        start_raw = event.get("start", "")
+        try:
+            event_dt = datetime.fromisoformat(start_raw.replace("Z", "+00:00"))
+            event_date = event_dt.astimezone(TR_ZONE).date()
+        except (ValueError, TypeError, AttributeError):
+            continue
+        if event_date < today or event_date > window_end:
+            continue
 
         home_t = match_team(home_raw, espn_teams)
         away_t = match_team(away_raw, espn_teams)
@@ -300,8 +386,10 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
         start_iso = event.get("start", "")
         if start_iso:
             try:
-                utc_time = datetime.strptime(start_iso[:19], "%Y-%m-%dT%H:%M:%S")
-                tr_time = utc_time + timedelta(hours=3)
+                parsed = datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+                if parsed.tzinfo is None:
+                    parsed = parsed.replace(tzinfo=timezone.utc)
+                tr_time = parsed.astimezone(TR_ZONE)
                 match_time = tr_time.strftime("%H:%M")
                 match_date = tr_time.strftime("%d.%m.%Y")
             except Exception:
@@ -318,27 +406,33 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
                 for oc in bet.get("outcomes", []):
                     lbl = str(oc.get("label", ""))
                     typ = oc.get("type", "")
-                    val = oc.get("odds", 0) / 1000.0
+                    raw_odds = oc.get("odds")
+                    if raw_odds is None:
+                        continue
+                    val = float(raw_odds) / 1000.0
                     if lbl == "1" or typ == "OT_ONE":
                         ms1 = round(val, 2)
                     elif lbl.upper() == "X" or typ == "OT_CROSS":
                         ms0 = round(val, 2)
                     elif lbl == "2" or typ == "OT_TWO":
                         ms2 = round(val, 2)
-                if ms1 and ms0 and ms2:
+                if ms1 is not None and ms0 is not None and ms2 is not None:
                     break
 
-        if not (ms1 and ms0 and ms2):
-            ms1, ms0, ms2 = 2.0, 3.2, 2.5
-
         current_odds = {"ms1": ms1, "x": ms0, "ms2": ms2}
-        odds_summary = f"MS1: {ms1:.2f} | X: {ms0:.2f} | MS2: {ms2:.2f}"
+        odds_available = all(v is not None for v in current_odds.values())
+        odds_summary = (
+            f"MS1: {ms1:.2f} | X: {ms0:.2f} | MS2: {ms2:.2f}"
+            if odds_available else "Oran yok"
+        )
 
         # Açılış oranları ve zaman damgalı oran geçmişi eşleştirmesi
         match_lookup_key = f"{normalize_name(home_t['name'])}_vs_{normalize_name(away_t['name'])}"
         prev_match = existing_matches_map.get(match_lookup_key, {})
 
-        opening_odds = prev_match.get("opening_odds") or prev_match.get("odds_detail") or current_odds
+        opening_odds = prev_match.get("opening_odds") or (
+            current_odds if odds_available else {"ms1": None, "x": None, "ms2": None}
+        )
         odds_history = list(prev_match.get("odds_history") or [])
 
         # Geçmiş boşsa ilk kayıt, oran değiştiyse yeni zaman damgalı kayıt ekle
@@ -348,7 +442,9 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
             "x": ms0,
             "ms2": ms2
         }
-        if not odds_history:
+        if not odds_available:
+            odds_history = odds_history
+        elif not odds_history:
             odds_history.append(current_history_entry)
         else:
             last_entry = odds_history[-1]
@@ -356,25 +452,26 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
                 odds_history.append(current_history_entry)
 
         # Oran değişim yüzdesi: ((current - opening) / opening) * 100
-        op_ms1 = opening_odds.get("ms1") or ms1
-        op_x = opening_odds.get("x") or ms0
-        op_ms2 = opening_odds.get("ms2") or ms2
-
+        op_ms1 = opening_odds.get("ms1")
+        op_x = opening_odds.get("x")
+        op_ms2 = opening_odds.get("ms2")
         odds_change_pct = {
-            "ms1": round(((ms1 - op_ms1) / max(op_ms1, 0.01)) * 100, 2),
-            "x": round(((ms0 - op_x) / max(op_x, 0.01)) * 100, 2),
-            "ms2": round(((ms2 - op_ms2) / max(op_ms2, 0.01)) * 100, 2)
+            "ms1": round(((ms1 - op_ms1) / op_ms1) * 100, 2) if ms1 is not None and op_ms1 else None,
+            "x": round(((ms0 - op_x) / op_x) * 100, 2) if ms0 is not None and op_x else None,
+            "ms2": round(((ms2 - op_ms2) / op_ms2) * 100, 2) if ms2 is not None and op_ms2 else None,
         }
 
         # SADECE SAF VERİ (İSTATİSTİK VE ORAN BİLGİSİ - TAHMİN KESİNLİKLE YOK)
         match_obj = {
             "league": cfg["name"],
+            "event_id": event.get("id") or event.get("eventId"),
             "home": home_t["name"],
             "away": away_t["name"],
             "date": match_date,
             "time": match_time,
             "odds": odds_summary,
             "odds_detail": current_odds,
+            "odds_available": odds_available,
             "opening_odds": opening_odds,
             "current_odds": current_odds,
             "odds_change_pct": odds_change_pct,
@@ -415,15 +512,26 @@ def process_league(league_key: str, cfg: dict, existing_matches_map: dict):
     # 6. Lig JSON Dosyasını Kaydet
     league_payload = {
         "league": cfg["name"],
-        "season": "2026-2027",
+        "season": f"{season_window()[0].year}-{season_window()[1].year}",
+        "upcoming_window_days": 14,
         "last_updated": now_iso,
         "total_teams": len(teams_list),
         "teams": teams_list,
         "upcoming_matches": upcoming_matches
     }
 
-    with open(cfg["output_file"], "w", encoding="utf-8") as f:
-        json.dump(league_payload, f, ensure_ascii=False, indent=2)
+    # Dosyayı doğrudan ezmek yerine aynı klasöre geçici yazıp atomik değiştir.
+    output_dir = os.path.dirname(os.path.abspath(cfg["output_file"])) or "."
+    fd, temp_path = tempfile.mkstemp(prefix=".league_", suffix=".json", dir=output_dir)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            json.dump(league_payload, f, ensure_ascii=False, indent=2)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(temp_path, cfg["output_file"])
+    finally:
+        if os.path.exists(temp_path):
+            os.unlink(temp_path)
 
     print(f"  [BAŞARILI] {cfg['output_file']} kaydedildi ({len(teams_list)} takım, {len(upcoming_matches)} maç).")
     return upcoming_matches
@@ -438,8 +546,12 @@ def main():
 
     total_matches = 0
     for key, cfg in LEAGUES_CONFIG.items():
-        matches = process_league(key, cfg, existing_matches_map)
-        total_matches += len(matches)
+        try:
+            matches = process_league(key, cfg, existing_matches_map)
+            total_matches += len(matches)
+        except Exception as exc:
+            # Bir ligin API'si çökerse diğer ligleri güncelle; bozuk/boş JSON yazma.
+            print(f"  [KRİTİK HATA] {cfg['name']} güncellenemedi: {exc}")
 
     print(f"\n[TAMAMLANDI] 4 lig dosyası başarıyla güncellendi! (Toplam {total_matches} maç)")
 
