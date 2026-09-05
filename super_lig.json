@@ -1,24 +1,24 @@
 {
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
-  "last_updated": "2026-09-04T12:04:09.258534",
+  "last_updated": "2026-09-05T00:05:04.392922",
   "total_teams": 18,
   "teams": [
     {
       "name": "Galatasaray",
       "id": "432",
       "rank": 1,
-      "points": 7,
-      "played": 3,
-      "wins": 2,
+      "points": 10,
+      "played": 4,
+      "wins": 3,
       "draws": 1,
       "losses": 0,
-      "goals_for": 9,
-      "goals_against": 4,
-      "goal_diff": 5,
+      "goals_for": 12,
+      "goals_against": 6,
+      "goal_diff": 6,
       "avg_scored": 3.0,
-      "avg_conceded": 1.33,
-      "win_rate": 66.7,
+      "avg_conceded": 1.5,
+      "win_rate": 75.0,
       "matches": [
         {
           "opponent": "Çorum FK",
@@ -52,20 +52,32 @@
           "sot_for": 11.0,
           "sot_against": 4.0,
           "date": "2026-08-29"
+        },
+        {
+          "opponent": "Istanbul Basaksehir",
+          "score": "3 - 2",
+          "result": "W",
+          "venue": "away",
+          "goals_for": 3,
+          "goals_against": 2,
+          "sot_for": 0.0,
+          "sot_against": 0.0,
+          "date": "2026-09-04"
         }
       ],
       "home_avg_scored": 2.5,
       "home_avg_conceded": 2.0,
-      "away_avg_scored": 4.0,
-      "away_avg_conceded": 0.0,
-      "shots_on_target_for": 9.33,
-      "shots_on_target_against": 3.67,
+      "away_avg_scored": 3.5,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": 7.0,
+      "shots_on_target_against": 2.75,
       "form": [
         "D",
         "W",
+        "W",
         "W"
       ],
-      "recent_goals_avg": 4.33,
+      "recent_goals_avg": 4.5,
       "recent_matches": [
         {
           "opponent": "Çorum FK",
@@ -99,6 +111,17 @@
           "sot_for": 11.0,
           "sot_against": 4.0,
           "date": "2026-08-29"
+        },
+        {
+          "opponent": "Istanbul Basaksehir",
+          "score": "3 - 2",
+          "result": "W",
+          "venue": "away",
+          "goals_for": 3,
+          "goals_against": 2,
+          "sot_for": 0.0,
+          "sot_against": 0.0,
+          "date": "2026-09-04"
         }
       ]
     },
@@ -793,16 +816,16 @@
       "id": "7914",
       "rank": 9,
       "points": 4,
-      "played": 3,
+      "played": 4,
       "wins": 1,
       "draws": 1,
-      "losses": 1,
-      "goals_for": 4,
-      "goals_against": 3,
-      "goal_diff": 1,
-      "avg_scored": 1.33,
-      "avg_conceded": 1.0,
-      "win_rate": 33.3,
+      "losses": 2,
+      "goals_for": 6,
+      "goals_against": 6,
+      "goal_diff": 0,
+      "avg_scored": 1.5,
+      "avg_conceded": 1.5,
+      "win_rate": 25.0,
       "matches": [
         {
           "opponent": "Kocaelispor",
@@ -836,20 +859,32 @@
           "sot_for": 2.0,
           "sot_against": 3.0,
           "date": "2026-08-30"
+        },
+        {
+          "opponent": "Galatasaray",
+          "score": "2 - 3",
+          "result": "L",
+          "venue": "home",
+          "goals_for": 2,
+          "goals_against": 3,
+          "sot_for": 0.0,
+          "sot_against": 0.0,
+          "date": "2026-09-04"
         }
       ],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 0.5,
+      "home_avg_scored": 1.67,
+      "home_avg_conceded": 1.33,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 2.0,
-      "shots_on_target_for": 3.67,
-      "shots_on_target_against": 5.0,
+      "shots_on_target_for": 2.75,
+      "shots_on_target_against": 3.75,
       "form": [
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ],
-      "recent_goals_avg": 2.33,
+      "recent_goals_avg": 3.0,
       "recent_matches": [
         {
           "opponent": "Kocaelispor",
@@ -883,6 +918,17 @@
           "sot_for": 2.0,
           "sot_against": 3.0,
           "date": "2026-08-30"
+        },
+        {
+          "opponent": "Galatasaray",
+          "score": "2 - 3",
+          "result": "L",
+          "venue": "home",
+          "goals_for": 2,
+          "goals_against": 3,
+          "sot_for": 0.0,
+          "sot_against": 0.0,
+          "date": "2026-09-04"
         }
       ]
     },
@@ -1772,159 +1818,15 @@
   "upcoming_matches": [
     {
       "league": "Trendyol Süper Lig",
-      "home": "Istanbul Basaksehir",
-      "away": "Galatasaray",
-      "date": "04.09.2026",
-      "time": "20:00",
-      "odds": "MS1: 4.60 | X: 4.20 | MS2: 1.64",
-      "odds_detail": {
-        "ms1": 4.6,
-        "x": 4.2,
-        "ms2": 1.64
-      },
-      "opening_odds": {
-        "ms1": 5.2,
-        "x": 4.25,
-        "ms2": 1.57
-      },
-      "current_odds": {
-        "ms1": 4.6,
-        "x": 4.2,
-        "ms2": 1.64
-      },
-      "odds_change_pct": {
-        "ms1": -11.54,
-        "x": -1.18,
-        "ms2": 4.46
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-03T18:49:52.876091",
-          "ms1": 4.3,
-          "x": 4.1,
-          "ms2": 1.68
-        },
-        {
-          "timestamp": "2026-09-04T12:04:09.258534",
-          "ms1": 4.6,
-          "x": 4.2,
-          "ms2": 1.64
-        }
-      ],
-      "home_stats": {
-        "name": "Istanbul Basaksehir",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 0.5,
-        "shots_on_target_for": 3.67,
-        "shots_on_target_against": 5.0,
-        "form": [
-          "W",
-          "L",
-          "D"
-        ],
-        "recent_goals_avg": 2.33,
-        "played": 3,
-        "rank": 9,
-        "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Kocaelispor",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 4.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Trabzonspor",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 8.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Kasimpasa",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-08-30"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "Galatasaray",
-        "away_avg_scored": 4.0,
-        "away_avg_conceded": 0.0,
-        "shots_on_target_for": 9.33,
-        "shots_on_target_against": 3.67,
-        "form": [
-          "D",
-          "W",
-          "W"
-        ],
-        "recent_goals_avg": 4.33,
-        "played": 3,
-        "rank": 1,
-        "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Çorum FK",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 13.0,
-            "sot_against": 3.0,
-            "date": "2026-08-14"
-          },
-          {
-            "opponent": "Erzurum BB",
-            "score": "4 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 4,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 4.0,
-            "date": "2026-08-21"
-          },
-          {
-            "opponent": "Goztepe",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 11.0,
-            "sot_against": 4.0,
-            "date": "2026-08-29"
-          }
-        ]
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
       "home": "Erzurum BB",
       "away": "Konyaspor",
       "date": "05.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.32 | X: 3.40 | MS2: 2.95",
+      "odds": "MS1: 2.33 | X: 3.40 | MS2: 2.90",
       "odds_detail": {
-        "ms1": 2.32,
+        "ms1": 2.33,
         "x": 3.4,
-        "ms2": 2.95
+        "ms2": 2.9
       },
       "opening_odds": {
         "ms1": 2.43,
@@ -1932,14 +1834,14 @@
         "ms2": 2.75
       },
       "current_odds": {
-        "ms1": 2.32,
+        "ms1": 2.33,
         "x": 3.4,
-        "ms2": 2.95
+        "ms2": 2.9
       },
       "odds_change_pct": {
-        "ms1": -4.53,
+        "ms1": -4.12,
         "x": -1.45,
-        "ms2": 7.27
+        "ms2": 5.45
       },
       "odds_history": [
         {
@@ -1947,6 +1849,12 @@
           "ms1": 2.32,
           "x": 3.4,
           "ms2": 2.95
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 2.33,
+          "x": 3.4,
+          "ms2": 2.9
         }
       ],
       "home_stats": {
@@ -2058,11 +1966,11 @@
       "away": "Besiktas",
       "date": "05.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.70 | X: 3.80 | MS2: 4.25",
+      "odds": "MS1: 1.72 | X: 3.80 | MS2: 4.10",
       "odds_detail": {
-        "ms1": 1.7,
+        "ms1": 1.72,
         "x": 3.8,
-        "ms2": 4.25
+        "ms2": 4.1
       },
       "opening_odds": {
         "ms1": 1.7,
@@ -2070,14 +1978,14 @@
         "ms2": 4.25
       },
       "current_odds": {
-        "ms1": 1.7,
+        "ms1": 1.72,
         "x": 3.8,
-        "ms2": 4.25
+        "ms2": 4.1
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 1.18,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": -3.53
       },
       "odds_history": [
         {
@@ -2091,6 +1999,12 @@
           "ms1": 1.7,
           "x": 3.8,
           "ms2": 4.25
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 1.72,
+          "x": 3.8,
+          "ms2": 4.1
         }
       ],
       "home_stats": {
@@ -2202,9 +2116,9 @@
       "away": "Amed SFK",
       "date": "06.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.23 | X: 3.20 | MS2: 3.25",
+      "odds": "MS1: 2.25 | X: 3.20 | MS2: 3.25",
       "odds_detail": {
-        "ms1": 2.23,
+        "ms1": 2.25,
         "x": 3.2,
         "ms2": 3.25
       },
@@ -2214,12 +2128,12 @@
         "ms2": 3.35
       },
       "current_odds": {
-        "ms1": 2.23,
+        "ms1": 2.25,
         "x": 3.2,
         "ms2": 3.25
       },
       "odds_change_pct": {
-        "ms1": 2.76,
+        "ms1": 3.69,
         "x": -1.54,
         "ms2": -2.99
       },
@@ -2233,6 +2147,12 @@
         {
           "timestamp": "2026-09-04T12:04:09.258534",
           "ms1": 2.23,
+          "x": 3.2,
+          "ms2": 3.25
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 2.25,
           "x": 3.2,
           "ms2": 3.25
         }
@@ -2346,10 +2266,10 @@
       "away": "Eyupspor",
       "date": "06.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.73 | X: 3.70 | MS2: 4.70",
+      "odds": "MS1: 1.73 | X: 3.65 | MS2: 4.70",
       "odds_detail": {
         "ms1": 1.73,
-        "x": 3.7,
+        "x": 3.65,
         "ms2": 4.7
       },
       "opening_odds": {
@@ -2359,12 +2279,12 @@
       },
       "current_odds": {
         "ms1": 1.73,
-        "x": 3.7,
+        "x": 3.65,
         "ms2": 4.7
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 1.37,
+        "x": 0.0,
         "ms2": 0.0
       },
       "odds_history": [
@@ -2378,6 +2298,12 @@
           "timestamp": "2026-09-04T00:05:01.219198",
           "ms1": 1.73,
           "x": 3.7,
+          "ms2": 4.7
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 1.73,
+          "x": 3.65,
           "ms2": 4.7
         }
       ],
@@ -2490,9 +2416,9 @@
       "away": "Genclerbirligi",
       "date": "06.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.56 | X: 3.95 | MS2: 5.80",
+      "odds": "MS1: 1.57 | X: 3.95 | MS2: 5.80",
       "odds_detail": {
-        "ms1": 1.56,
+        "ms1": 1.57,
         "x": 3.95,
         "ms2": 5.8
       },
@@ -2502,12 +2428,12 @@
         "ms2": 5.3
       },
       "current_odds": {
-        "ms1": 1.56,
+        "ms1": 1.57,
         "x": 3.95,
         "ms2": 5.8
       },
       "odds_change_pct": {
-        "ms1": -4.88,
+        "ms1": -4.27,
         "x": 3.95,
         "ms2": 9.43
       },
@@ -2527,6 +2453,12 @@
         {
           "timestamp": "2026-09-04T12:04:09.258534",
           "ms1": 1.56,
+          "x": 3.95,
+          "ms2": 5.8
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 1.57,
           "x": 3.95,
           "ms2": 5.8
         }
@@ -2640,11 +2572,11 @@
       "away": "Samsunspor",
       "date": "06.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.55 | X: 3.25 | MS2: 2.75",
+      "odds": "MS1: 2.60 | X: 3.05 | MS2: 2.85",
       "odds_detail": {
-        "ms1": 2.55,
-        "x": 3.25,
-        "ms2": 2.75
+        "ms1": 2.6,
+        "x": 3.05,
+        "ms2": 2.85
       },
       "opening_odds": {
         "ms1": 2.5,
@@ -2652,14 +2584,14 @@
         "ms2": 2.85
       },
       "current_odds": {
-        "ms1": 2.55,
-        "x": 3.25,
-        "ms2": 2.75
+        "ms1": 2.6,
+        "x": 3.05,
+        "ms2": 2.85
       },
       "odds_change_pct": {
-        "ms1": 2.0,
-        "x": 1.56,
-        "ms2": -3.51
+        "ms1": 4.0,
+        "x": -4.69,
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -2667,6 +2599,12 @@
           "ms1": 2.55,
           "x": 3.25,
           "ms2": 2.75
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 2.6,
+          "x": 3.05,
+          "ms2": 2.85
         }
       ],
       "home_stats": {
@@ -2778,10 +2716,10 @@
       "away": "Alanyaspor",
       "date": "07.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.92 | X: 3.40 | MS2: 3.95",
+      "odds": "MS1: 1.92 | X: 3.45 | MS2: 3.95",
       "odds_detail": {
         "ms1": 1.92,
-        "x": 3.4,
+        "x": 3.45,
         "ms2": 3.95
       },
       "opening_odds": {
@@ -2791,12 +2729,12 @@
       },
       "current_odds": {
         "ms1": 1.92,
-        "x": 3.4,
+        "x": 3.45,
         "ms2": 3.95
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 0.0,
+        "x": 1.47,
         "ms2": -1.25
       },
       "odds_history": [
@@ -2810,6 +2748,12 @@
           "timestamp": "2026-09-04T12:04:09.258534",
           "ms1": 1.92,
           "x": 3.4,
+          "ms2": 3.95
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 1.92,
+          "x": 3.45,
           "ms2": 3.95
         }
       ],
@@ -2922,10 +2866,10 @@
       "away": "Gaziantep FK",
       "date": "07.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.83 | X: 3.65 | MS2: 4.10",
+      "odds": "MS1: 1.81 | X: 3.75 | MS2: 4.10",
       "odds_detail": {
-        "ms1": 1.83,
-        "x": 3.65,
+        "ms1": 1.81,
+        "x": 3.75,
         "ms2": 4.1
       },
       "opening_odds": {
@@ -2934,13 +2878,13 @@
         "ms2": 4.0
       },
       "current_odds": {
-        "ms1": 1.83,
-        "x": 3.65,
+        "ms1": 1.81,
+        "x": 3.75,
         "ms2": 4.1
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": -2.67,
+        "ms1": -1.09,
+        "x": 0.0,
         "ms2": 2.5
       },
       "odds_history": [
@@ -2948,6 +2892,12 @@
           "timestamp": "2026-09-03T18:49:52.876091",
           "ms1": 1.83,
           "x": 3.65,
+          "ms2": 4.1
+        },
+        {
+          "timestamp": "2026-09-05T00:05:04.392922",
+          "ms1": 1.81,
+          "x": 3.75,
           "ms2": 4.1
         }
       ],
