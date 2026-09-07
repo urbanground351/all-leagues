@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-07T03:05:19.652641+03:00",
+  "last_updated": "2026-09-07T15:04:17.728153+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -1382,11 +1382,11 @@
       "away": "Schalke 04",
       "date": "11.09.2026",
       "time": "21:30",
-      "odds": "MS1: 2.02 | X: 3.75 | MS2: 3.20",
+      "odds": "MS1: 2.07 | X: 3.75 | MS2: 3.10",
       "odds_detail": {
-        "ms1": 2.02,
+        "ms1": 2.07,
         "x": 3.75,
-        "ms2": 3.2
+        "ms2": 3.1
       },
       "odds_available": true,
       "opening_odds": {
@@ -1395,14 +1395,14 @@
         "ms2": 3.45
       },
       "current_odds": {
-        "ms1": 2.02,
+        "ms1": 2.07,
         "x": 3.75,
-        "ms2": 3.2
+        "ms2": 3.1
       },
       "odds_change_pct": {
-        "ms1": 4.12,
+        "ms1": 6.7,
         "x": 0.0,
-        "ms2": -7.25
+        "ms2": -10.14
       },
       "odds_history": [
         {
@@ -1434,6 +1434,12 @@
           "ms1": 2.02,
           "x": 3.75,
           "ms2": 3.2
+        },
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.07,
+          "x": 3.75,
+          "ms2": 3.1
         }
       ],
       "home_stats": {
@@ -1517,144 +1523,16 @@
     },
     {
       "league": "German Bundesliga",
-      "event_id": 1028230296,
-      "home": "TSG Hoffenheim",
-      "away": "VfB Stuttgart",
-      "date": "12.09.2026",
-      "time": "16:30",
-      "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.80",
-      "odds_detail": {
-        "ms1": 2.23,
-        "x": 3.8,
-        "ms2": 2.8
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.23,
-        "x": 3.8,
-        "ms2": 2.75
-      },
-      "current_odds": {
-        "ms1": 2.23,
-        "x": 3.8,
-        "ms2": 2.8
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 1.82
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-03T18:49:55.792251",
-          "ms1": 2.23,
-          "x": 3.8,
-          "ms2": 2.75
-        },
-        {
-          "timestamp": "2026-09-04T00:05:02.991819",
-          "ms1": 2.2,
-          "x": 3.8,
-          "ms2": 2.8
-        },
-        {
-          "timestamp": "2026-09-05T00:05:07.209841",
-          "ms1": 2.23,
-          "x": 3.8,
-          "ms2": 2.8
-        }
-      ],
-      "home_stats": {
-        "name": "TSG Hoffenheim",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 3.0,
-        "shots_on_target_for": 5.0,
-        "shots_on_target_against": 5.0,
-        "form": [
-          "L",
-          "L"
-        ],
-        "recent_goals_avg": 5.0,
-        "played": 2,
-        "rank": 16,
-        "points": 0,
-        "recent_matches": [
-          {
-            "opponent": "FC Cologne",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 6.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Borussia Dortmund",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 6.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "VfB Stuttgart",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 5.0,
-        "shots_on_target_for": 6.0,
-        "shots_on_target_against": 7.0,
-        "form": [
-          "L",
-          "W"
-        ],
-        "recent_goals_avg": 5.5,
-        "played": 2,
-        "rank": 9,
-        "points": 3,
-        "recent_matches": [
-          {
-            "opponent": "Bayern Munich",
-            "score": "1 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 5,
-            "sot_for": 4.0,
-            "sot_against": 9.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "FC Cologne",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 8.0,
-            "sot_against": 5.0,
-            "date": "2026-09-04"
-          }
-        ]
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230317,
       "home": "Mainz",
       "away": "Eintracht Frankfurt",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 2.05 | X: 3.70 | MS2: 3.25",
+      "odds": "MS1: 1.95 | X: 3.90 | MS2: 3.30",
       "odds_detail": {
-        "ms1": 2.05,
-        "x": 3.7,
-        "ms2": 3.25
+        "ms1": 1.95,
+        "x": 3.9,
+        "ms2": 3.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -1663,14 +1541,14 @@
         "ms2": 2.9
       },
       "current_odds": {
-        "ms1": 2.05,
-        "x": 3.7,
-        "ms2": 3.25
+        "ms1": 1.95,
+        "x": 3.9,
+        "ms2": 3.3
       },
       "odds_change_pct": {
-        "ms1": -8.07,
-        "x": 2.78,
-        "ms2": 12.07
+        "ms1": -12.56,
+        "x": 8.33,
+        "ms2": 13.79
       },
       "odds_history": [
         {
@@ -1696,6 +1574,12 @@
           "ms1": 2.05,
           "x": 3.7,
           "ms2": 3.25
+        },
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 1.95,
+          "x": 3.9,
+          "ms2": 3.3
         }
       ],
       "home_stats": {
@@ -2040,11 +1924,11 @@
       "away": "Bayer Leverkusen",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 4.35 | X: 4.10 | MS2: 1.66",
+      "odds": "MS1: 4.20 | X: 4.10 | MS2: 1.70",
       "odds_detail": {
-        "ms1": 4.35,
+        "ms1": 4.2,
         "x": 4.1,
-        "ms2": 1.66
+        "ms2": 1.7
       },
       "odds_available": true,
       "opening_odds": {
@@ -2053,14 +1937,14 @@
         "ms2": 1.65
       },
       "current_odds": {
-        "ms1": 4.35,
+        "ms1": 4.2,
         "x": 4.1,
-        "ms2": 1.66
+        "ms2": 1.7
       },
       "odds_change_pct": {
-        "ms1": -1.14,
+        "ms1": -4.55,
         "x": -2.38,
-        "ms2": 0.61
+        "ms2": 3.03
       },
       "odds_history": [
         {
@@ -2068,6 +1952,12 @@
           "ms1": 4.35,
           "x": 4.1,
           "ms2": 1.66
+        },
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 4.2,
+          "x": 4.1,
+          "ms2": 1.7
         }
       ],
       "home_stats": {
@@ -2145,6 +2035,140 @@
             "sot_for": 10.0,
             "sot_against": 0.0,
             "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230296,
+      "home": "TSG Hoffenheim",
+      "away": "VfB Stuttgart",
+      "date": "12.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.23 | X: 3.85 | MS2: 2.75",
+      "odds_detail": {
+        "ms1": 2.23,
+        "x": 3.85,
+        "ms2": 2.75
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.23,
+        "x": 3.8,
+        "ms2": 2.75
+      },
+      "current_odds": {
+        "ms1": 2.23,
+        "x": 3.85,
+        "ms2": 2.75
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 1.32,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-03T18:49:55.792251",
+          "ms1": 2.23,
+          "x": 3.8,
+          "ms2": 2.75
+        },
+        {
+          "timestamp": "2026-09-04T00:05:02.991819",
+          "ms1": 2.2,
+          "x": 3.8,
+          "ms2": 2.8
+        },
+        {
+          "timestamp": "2026-09-05T00:05:07.209841",
+          "ms1": 2.23,
+          "x": 3.8,
+          "ms2": 2.8
+        },
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.23,
+          "x": 3.85,
+          "ms2": 2.75
+        }
+      ],
+      "home_stats": {
+        "name": "TSG Hoffenheim",
+        "home_avg_scored": 2.0,
+        "home_avg_conceded": 3.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 5.0,
+        "form": [
+          "L",
+          "L"
+        ],
+        "recent_goals_avg": 5.0,
+        "played": 2,
+        "rank": 16,
+        "points": 0,
+        "recent_matches": [
+          {
+            "opponent": "FC Cologne",
+            "score": "2 - 3",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 2,
+            "goals_against": 3,
+            "sot_for": 4.0,
+            "sot_against": 6.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Borussia Dortmund",
+            "score": "2 - 3",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 3,
+            "sot_for": 6.0,
+            "sot_against": 4.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "VfB Stuttgart",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 5.0,
+        "shots_on_target_for": 6.0,
+        "shots_on_target_against": 7.0,
+        "form": [
+          "L",
+          "W"
+        ],
+        "recent_goals_avg": 5.5,
+        "played": 2,
+        "rank": 9,
+        "points": 3,
+        "recent_matches": [
+          {
+            "opponent": "Bayern Munich",
+            "score": "1 - 5",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 5,
+            "sot_for": 4.0,
+            "sot_against": 9.0,
+            "date": "2026-08-28"
+          },
+          {
+            "opponent": "FC Cologne",
+            "score": "4 - 1",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 4,
+            "goals_against": 1,
+            "sot_for": 8.0,
+            "sot_against": 5.0,
+            "date": "2026-09-04"
           }
         ]
       }
@@ -2418,11 +2442,11 @@
       "away": "Bayern Munich",
       "date": "13.09.2026",
       "time": "18:30",
-      "odds": "MS1: 12.50 | X: 7.50 | MS2: 1.16",
+      "odds": "MS1: 14.00 | X: 8.50 | MS2: 1.14",
       "odds_detail": {
-        "ms1": 12.5,
-        "x": 7.5,
-        "ms2": 1.16
+        "ms1": 14.0,
+        "x": 8.5,
+        "ms2": 1.14
       },
       "odds_available": true,
       "opening_odds": {
@@ -2431,14 +2455,14 @@
         "ms2": 1.14
       },
       "current_odds": {
-        "ms1": 12.5,
-        "x": 7.5,
-        "ms2": 1.16
+        "ms1": 14.0,
+        "x": 8.5,
+        "ms2": 1.14
       },
       "odds_change_pct": {
-        "ms1": -10.71,
-        "x": -6.25,
-        "ms2": 1.75
+        "ms1": 0.0,
+        "x": 6.25,
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -2452,6 +2476,12 @@
           "ms1": 12.5,
           "x": 7.5,
           "ms2": 1.16
+        },
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 14.0,
+          "x": 8.5,
+          "ms2": 1.14
         }
       ],
       "home_stats": {
@@ -2528,6 +2558,1050 @@
             "goals_against": 0,
             "sot_for": 5.0,
             "sot_against": 1.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230308,
+      "home": "Bayern Munich",
+      "away": "1. FC Union Berlin",
+      "date": "18.09.2026",
+      "time": "21:30",
+      "odds": "MS1: 1.13 | X: 8.50 | MS2: 16.00",
+      "odds_detail": {
+        "ms1": 1.13,
+        "x": 8.5,
+        "ms2": 16.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.13,
+        "x": 8.5,
+        "ms2": 16.0
+      },
+      "current_odds": {
+        "ms1": 1.13,
+        "x": 8.5,
+        "ms2": 16.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 1.13,
+          "x": 8.5,
+          "ms2": 16.0
+        }
+      ],
+      "home_stats": {
+        "name": "Bayern Munich",
+        "home_avg_scored": 5.0,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": 7.0,
+        "shots_on_target_against": 2.5,
+        "form": [
+          "W",
+          "D"
+        ],
+        "recent_goals_avg": 3.0,
+        "played": 2,
+        "rank": 6,
+        "points": 4,
+        "recent_matches": [
+          {
+            "opponent": "VfB Stuttgart",
+            "score": "5 - 1",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 5,
+            "goals_against": 1,
+            "sot_for": 9.0,
+            "sot_against": 4.0,
+            "date": "2026-08-28"
+          },
+          {
+            "opponent": "Schalke 04",
+            "score": "0 - 0",
+            "result": "D",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 0,
+            "sot_for": 5.0,
+            "sot_against": 1.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "1. FC Union Berlin",
+        "away_avg_scored": 0.0,
+        "away_avg_conceded": 4.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 6.5,
+        "form": [
+          "D",
+          "L"
+        ],
+        "recent_goals_avg": 5.0,
+        "played": 2,
+        "rank": 15,
+        "points": 1,
+        "recent_matches": [
+          {
+            "opponent": "Eintracht Frankfurt",
+            "score": "3 - 3",
+            "result": "D",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 3,
+            "sot_for": 10.0,
+            "sot_against": 3.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Bayer Leverkusen",
+            "score": "0 - 4",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 4,
+            "sot_for": 0.0,
+            "sot_against": 10.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230309,
+      "home": "Eintracht Frankfurt",
+      "away": "SC Freiburg",
+      "date": "19.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.32 | X: 3.60 | MS2: 2.75",
+      "odds_detail": {
+        "ms1": 2.32,
+        "x": 3.6,
+        "ms2": 2.75
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.32,
+        "x": 3.6,
+        "ms2": 2.75
+      },
+      "current_odds": {
+        "ms1": 2.32,
+        "x": 3.6,
+        "ms2": 2.75
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.32,
+          "x": 3.6,
+          "ms2": 2.75
+        }
+      ],
+      "home_stats": {
+        "name": "Eintracht Frankfurt",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 4.0,
+        "shots_on_target_for": 5.5,
+        "shots_on_target_against": 8.5,
+        "form": [
+          "D",
+          "L"
+        ],
+        "recent_goals_avg": 5.5,
+        "played": 2,
+        "rank": 13,
+        "points": 1,
+        "recent_matches": [
+          {
+            "opponent": "1. FC Union Berlin",
+            "score": "3 - 3",
+            "result": "D",
+            "venue": "away",
+            "goals_for": 3,
+            "goals_against": 3,
+            "sot_for": 3.0,
+            "sot_against": 10.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "FC Augsburg",
+            "score": "1 - 4",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 1,
+            "goals_against": 4,
+            "sot_for": 8.0,
+            "sot_against": 7.0,
+            "date": "2026-09-06"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "SC Freiburg",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 0.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 3.0,
+        "form": [
+          "W",
+          "W"
+        ],
+        "recent_goals_avg": 3.0,
+        "played": 2,
+        "rank": 2,
+        "points": 6,
+        "recent_matches": [
+          {
+            "opponent": "Werder Bremen",
+            "score": "4 - 1",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 4,
+            "goals_against": 1,
+            "sot_for": 5.0,
+            "sot_against": 3.0,
+            "date": "2026-08-30"
+          },
+          {
+            "opponent": "SC Paderborn 07",
+            "score": "1 - 0",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 0,
+            "sot_for": 5.0,
+            "sot_against": 3.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230340,
+      "home": "Werder Bremen",
+      "away": "FC Augsburg",
+      "date": "19.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.32 | X: 3.65 | MS2: 2.70",
+      "odds_detail": {
+        "ms1": 2.32,
+        "x": 3.65,
+        "ms2": 2.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.32,
+        "x": 3.65,
+        "ms2": 2.7
+      },
+      "current_odds": {
+        "ms1": 2.32,
+        "x": 3.65,
+        "ms2": 2.7
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.32,
+          "x": 3.65,
+          "ms2": 2.7
+        }
+      ],
+      "home_stats": {
+        "name": "Werder Bremen",
+        "home_avg_scored": 3.0,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 5.0,
+        "form": [
+          "L",
+          "W"
+        ],
+        "recent_goals_avg": 4.5,
+        "played": 2,
+        "rank": 10,
+        "points": 3,
+        "recent_matches": [
+          {
+            "opponent": "SC Freiburg",
+            "score": "1 - 4",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 4,
+            "sot_for": 3.0,
+            "sot_against": 5.0,
+            "date": "2026-08-30"
+          },
+          {
+            "opponent": "RB Leipzig",
+            "score": "3 - 1",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 1,
+            "sot_for": 7.0,
+            "sot_against": 5.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "FC Augsburg",
+        "away_avg_scored": 4.0,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": 10.0,
+        "shots_on_target_against": 6.5,
+        "form": [
+          "W",
+          "W"
+        ],
+        "recent_goals_avg": 4.0,
+        "played": 2,
+        "rank": 1,
+        "points": 6,
+        "recent_matches": [
+          {
+            "opponent": "Schalke 04",
+            "score": "3 - 0",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 0,
+            "sot_for": 13.0,
+            "sot_against": 5.0,
+            "date": "2026-08-30"
+          },
+          {
+            "opponent": "Eintracht Frankfurt",
+            "score": "4 - 1",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 4,
+            "goals_against": 1,
+            "sot_for": 7.0,
+            "sot_against": 8.0,
+            "date": "2026-09-06"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230329,
+      "home": "Borussia Mönchengladbach",
+      "away": "Mainz",
+      "date": "19.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.63 | X: 3.65 | MS2: 2.40",
+      "odds_detail": {
+        "ms1": 2.63,
+        "x": 3.65,
+        "ms2": 2.4
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.63,
+        "x": 3.65,
+        "ms2": 2.4
+      },
+      "current_odds": {
+        "ms1": 2.63,
+        "x": 3.65,
+        "ms2": 2.4
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.63,
+          "x": 3.65,
+          "ms2": 2.4
+        }
+      ],
+      "home_stats": {
+        "name": "Borussia Mönchengladbach",
+        "home_avg_scored": 3.0,
+        "home_avg_conceded": 4.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 10.5,
+        "form": [
+          "L",
+          "L"
+        ],
+        "recent_goals_avg": 5.0,
+        "played": 2,
+        "rank": 17,
+        "points": 0,
+        "recent_matches": [
+          {
+            "opponent": "RB Leipzig",
+            "score": "0 - 3",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 3,
+            "sot_for": 4.0,
+            "sot_against": 11.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "SV Elversberg",
+            "score": "3 - 4",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 4,
+            "sot_for": 6.0,
+            "sot_against": 10.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "Mainz",
+        "away_avg_scored": 5.0,
+        "away_avg_conceded": 0.0,
+        "shots_on_target_for": 6.0,
+        "shots_on_target_against": 0.5,
+        "form": [
+          "D",
+          "W"
+        ],
+        "recent_goals_avg": 2.5,
+        "played": 2,
+        "rank": 5,
+        "points": 4,
+        "recent_matches": [
+          {
+            "opponent": "SC Paderborn 07",
+            "score": "0 - 0",
+            "result": "D",
+            "venue": "home",
+            "goals_for": 0,
+            "goals_against": 0,
+            "sot_for": 4.0,
+            "sot_against": 0.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Hamburg SV",
+            "score": "5 - 0",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 5,
+            "goals_against": 0,
+            "sot_for": 8.0,
+            "sot_against": 1.0,
+            "date": "2026-09-06"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230320,
+      "home": "Hamburg SV",
+      "away": "FC Cologne",
+      "date": "19.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.60 | X: 3.55 | MS2: 2.45",
+      "odds_detail": {
+        "ms1": 2.6,
+        "x": 3.55,
+        "ms2": 2.45
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.6,
+        "x": 3.55,
+        "ms2": 2.45
+      },
+      "current_odds": {
+        "ms1": 2.6,
+        "x": 3.55,
+        "ms2": 2.45
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.6,
+          "x": 3.55,
+          "ms2": 2.45
+        }
+      ],
+      "home_stats": {
+        "name": "Hamburg SV",
+        "home_avg_scored": 0.0,
+        "home_avg_conceded": 5.0,
+        "shots_on_target_for": 2.0,
+        "shots_on_target_against": 7.0,
+        "form": [
+          "L",
+          "L"
+        ],
+        "recent_goals_avg": 3.5,
+        "played": 2,
+        "rank": 18,
+        "points": 0,
+        "recent_matches": [
+          {
+            "opponent": "Borussia Dortmund",
+            "score": "0 - 2",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 2,
+            "sot_for": 3.0,
+            "sot_against": 6.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Mainz",
+            "score": "0 - 5",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 0,
+            "goals_against": 5,
+            "sot_for": 1.0,
+            "sot_against": 8.0,
+            "date": "2026-09-06"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "FC Cologne",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 4.0,
+        "shots_on_target_for": 5.5,
+        "shots_on_target_against": 6.0,
+        "form": [
+          "W",
+          "L"
+        ],
+        "recent_goals_avg": 5.0,
+        "played": 2,
+        "rank": 11,
+        "points": 3,
+        "recent_matches": [
+          {
+            "opponent": "TSG Hoffenheim",
+            "score": "3 - 2",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 2,
+            "sot_for": 6.0,
+            "sot_against": 4.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "VfB Stuttgart",
+            "score": "1 - 4",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 4,
+            "sot_for": 5.0,
+            "sot_against": 8.0,
+            "date": "2026-09-04"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230306,
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund",
+      "date": "19.09.2026",
+      "time": "19:30",
+      "odds": "MS1: 2.16 | X: 3.90 | MS2: 2.85",
+      "odds_detail": {
+        "ms1": 2.16,
+        "x": 3.9,
+        "ms2": 2.85
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.16,
+        "x": 3.9,
+        "ms2": 2.85
+      },
+      "current_odds": {
+        "ms1": 2.16,
+        "x": 3.9,
+        "ms2": 2.85
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.16,
+          "x": 3.9,
+          "ms2": 2.85
+        }
+      ],
+      "home_stats": {
+        "name": "VfB Stuttgart",
+        "home_avg_scored": 4.0,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": 6.0,
+        "shots_on_target_against": 7.0,
+        "form": [
+          "L",
+          "W"
+        ],
+        "recent_goals_avg": 5.5,
+        "played": 2,
+        "rank": 9,
+        "points": 3,
+        "recent_matches": [
+          {
+            "opponent": "Bayern Munich",
+            "score": "1 - 5",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 5,
+            "sot_for": 4.0,
+            "sot_against": 9.0,
+            "date": "2026-08-28"
+          },
+          {
+            "opponent": "FC Cologne",
+            "score": "4 - 1",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 4,
+            "goals_against": 1,
+            "sot_for": 8.0,
+            "sot_against": 5.0,
+            "date": "2026-09-04"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "Borussia Dortmund",
+        "away_avg_scored": 3.0,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 4.5,
+        "form": [
+          "W",
+          "W"
+        ],
+        "recent_goals_avg": 3.5,
+        "played": 2,
+        "rank": 3,
+        "points": 6,
+        "recent_matches": [
+          {
+            "opponent": "Hamburg SV",
+            "score": "2 - 0",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 0,
+            "sot_for": 6.0,
+            "sot_against": 3.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "TSG Hoffenheim",
+            "score": "3 - 2",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 3,
+            "goals_against": 2,
+            "sot_for": 4.0,
+            "sot_against": 6.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230311,
+      "home": "Bayer Leverkusen",
+      "away": "RB Leipzig",
+      "date": "20.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.88 | X: 4.20 | MS2: 3.35",
+      "odds_detail": {
+        "ms1": 1.88,
+        "x": 4.2,
+        "ms2": 3.35
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.88,
+        "x": 4.2,
+        "ms2": 3.35
+      },
+      "current_odds": {
+        "ms1": 1.88,
+        "x": 4.2,
+        "ms2": 3.35
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 1.88,
+          "x": 4.2,
+          "ms2": 3.35
+        }
+      ],
+      "home_stats": {
+        "name": "Bayer Leverkusen",
+        "home_avg_scored": 4.0,
+        "home_avg_conceded": 0.0,
+        "shots_on_target_for": 7.0,
+        "shots_on_target_against": 3.0,
+        "form": [
+          "L",
+          "W"
+        ],
+        "recent_goals_avg": 4.5,
+        "played": 2,
+        "rank": 7,
+        "points": 3,
+        "recent_matches": [
+          {
+            "opponent": "SV Elversberg",
+            "score": "2 - 3",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 2,
+            "goals_against": 3,
+            "sot_for": 4.0,
+            "sot_against": 6.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "1. FC Union Berlin",
+            "score": "4 - 0",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 4,
+            "goals_against": 0,
+            "sot_for": 10.0,
+            "sot_against": 0.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "RB Leipzig",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 3.0,
+        "shots_on_target_for": 8.0,
+        "shots_on_target_against": 5.5,
+        "form": [
+          "W",
+          "L"
+        ],
+        "recent_goals_avg": 3.5,
+        "played": 2,
+        "rank": 8,
+        "points": 3,
+        "recent_matches": [
+          {
+            "opponent": "Borussia Mönchengladbach",
+            "score": "3 - 0",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 0,
+            "sot_for": 11.0,
+            "sot_against": 4.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Werder Bremen",
+            "score": "1 - 3",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 3,
+            "sot_for": 5.0,
+            "sot_against": 7.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230339,
+      "home": "Schalke 04",
+      "away": "SV Elversberg",
+      "date": "20.09.2026",
+      "time": "18:30",
+      "odds": "MS1: 1.79 | X: 3.75 | MS2: 4.00",
+      "odds_detail": {
+        "ms1": 1.79,
+        "x": 3.75,
+        "ms2": 4.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.79,
+        "x": 3.75,
+        "ms2": 4.0
+      },
+      "current_odds": {
+        "ms1": 1.79,
+        "x": 3.75,
+        "ms2": 4.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 1.79,
+          "x": 3.75,
+          "ms2": 4.0
+        }
+      ],
+      "home_stats": {
+        "name": "Schalke 04",
+        "home_avg_scored": 0.0,
+        "home_avg_conceded": 0.0,
+        "shots_on_target_for": 3.0,
+        "shots_on_target_against": 9.0,
+        "form": [
+          "L",
+          "D"
+        ],
+        "recent_goals_avg": 1.5,
+        "played": 2,
+        "rank": 14,
+        "points": 1,
+        "recent_matches": [
+          {
+            "opponent": "FC Augsburg",
+            "score": "0 - 3",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 3,
+            "sot_for": 5.0,
+            "sot_against": 13.0,
+            "date": "2026-08-30"
+          },
+          {
+            "opponent": "Bayern Munich",
+            "score": "0 - 0",
+            "result": "D",
+            "venue": "home",
+            "goals_for": 0,
+            "goals_against": 0,
+            "sot_for": 1.0,
+            "sot_against": 5.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "SV Elversberg",
+        "away_avg_scored": 4.0,
+        "away_avg_conceded": 3.0,
+        "shots_on_target_for": 8.0,
+        "shots_on_target_against": 5.0,
+        "form": [
+          "W",
+          "W"
+        ],
+        "recent_goals_avg": 6.0,
+        "played": 2,
+        "rank": 4,
+        "points": 6,
+        "recent_matches": [
+          {
+            "opponent": "Bayer Leverkusen",
+            "score": "3 - 2",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 2,
+            "sot_for": 6.0,
+            "sot_against": 4.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Borussia Mönchengladbach",
+            "score": "4 - 3",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 4,
+            "goals_against": 3,
+            "sot_for": 10.0,
+            "sot_against": 6.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230341,
+      "home": "SC Paderborn 07",
+      "away": "TSG Hoffenheim",
+      "date": "20.09.2026",
+      "time": "20:30",
+      "odds": "MS1: 4.25 | X: 4.35 | MS2: 1.65",
+      "odds_detail": {
+        "ms1": 4.25,
+        "x": 4.35,
+        "ms2": 1.65
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.25,
+        "x": 4.35,
+        "ms2": 1.65
+      },
+      "current_odds": {
+        "ms1": 4.25,
+        "x": 4.35,
+        "ms2": 1.65
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 4.25,
+          "x": 4.35,
+          "ms2": 1.65
+        }
+      ],
+      "home_stats": {
+        "name": "SC Paderborn 07",
+        "home_avg_scored": 0.0,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": 1.5,
+        "shots_on_target_against": 4.5,
+        "form": [
+          "D",
+          "L"
+        ],
+        "recent_goals_avg": 0.5,
+        "played": 2,
+        "rank": 12,
+        "points": 1,
+        "recent_matches": [
+          {
+            "opponent": "Mainz",
+            "score": "0 - 0",
+            "result": "D",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 0,
+            "sot_for": 0.0,
+            "sot_against": 4.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "SC Freiburg",
+            "score": "0 - 1",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 0,
+            "goals_against": 1,
+            "sot_for": 3.0,
+            "sot_against": 5.0,
+            "date": "2026-09-05"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "TSG Hoffenheim",
+        "away_avg_scored": 2.0,
+        "away_avg_conceded": 3.0,
+        "shots_on_target_for": 5.0,
+        "shots_on_target_against": 5.0,
+        "form": [
+          "L",
+          "L"
+        ],
+        "recent_goals_avg": 5.0,
+        "played": 2,
+        "rank": 16,
+        "points": 0,
+        "recent_matches": [
+          {
+            "opponent": "FC Cologne",
+            "score": "2 - 3",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 2,
+            "goals_against": 3,
+            "sot_for": 4.0,
+            "sot_against": 6.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Borussia Dortmund",
+            "score": "2 - 3",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 3,
+            "sot_for": 6.0,
+            "sot_against": 4.0,
             "date": "2026-09-05"
           }
         ]
