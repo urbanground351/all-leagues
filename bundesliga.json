@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-07T15:04:17.728153+03:00",
+  "last_updated": "2026-09-08T03:05:15.049228+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -3382,11 +3382,11 @@
       "away": "SV Elversberg",
       "date": "20.09.2026",
       "time": "18:30",
-      "odds": "MS1: 1.79 | X: 3.75 | MS2: 4.00",
+      "odds": "MS1: 1.88 | X: 3.70 | MS2: 3.75",
       "odds_detail": {
-        "ms1": 1.79,
-        "x": 3.75,
-        "ms2": 4.0
+        "ms1": 1.88,
+        "x": 3.7,
+        "ms2": 3.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -3395,14 +3395,14 @@
         "ms2": 4.0
       },
       "current_odds": {
-        "ms1": 1.79,
-        "x": 3.75,
-        "ms2": 4.0
+        "ms1": 1.88,
+        "x": 3.7,
+        "ms2": 3.75
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 5.03,
+        "x": -1.33,
+        "ms2": -6.25
       },
       "odds_history": [
         {
@@ -3410,6 +3410,12 @@
           "ms1": 1.79,
           "x": 3.75,
           "ms2": 4.0
+        },
+        {
+          "timestamp": "2026-09-08T03:05:15.049228+03:00",
+          "ms1": 1.88,
+          "x": 3.7,
+          "ms2": 3.75
         }
       ],
       "home_stats": {
