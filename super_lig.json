@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-08T03:05:13.055358+03:00",
+  "last_updated": "2026-09-08T15:04:50.784690+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -61,8 +61,8 @@
           "venue": "away",
           "goals_for": 3,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 3.0,
           "date": "2026-09-04"
         }
       ],
@@ -70,8 +70,8 @@
       "home_avg_conceded": 2.0,
       "away_avg_scored": 3.5,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 7.0,
-      "shots_on_target_against": 2.75,
+      "shots_on_target_for": 8.5,
+      "shots_on_target_against": 3.5,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -121,8 +121,8 @@
           "venue": "away",
           "goals_for": 3,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 3.0,
           "date": "2026-09-04"
         }
       ]
@@ -183,8 +183,8 @@
           "venue": "away",
           "goals_for": 2,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 2.0,
           "date": "2026-09-05"
         }
       ],
@@ -192,8 +192,8 @@
       "home_avg_conceded": 1.0,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 4.5,
-      "shots_on_target_against": 1.75,
+      "shots_on_target_for": 6.0,
+      "shots_on_target_against": 2.25,
       "shots_on_target_sample": 4,
       "form": [
         "W",
@@ -243,8 +243,8 @@
           "venue": "away",
           "goals_for": 2,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 2.0,
           "date": "2026-09-05"
         }
       ]
@@ -305,8 +305,8 @@
           "venue": "home",
           "goals_for": 1,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ],
@@ -314,8 +314,8 @@
       "home_avg_conceded": 0.0,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 1.5,
-      "shots_on_target_for": 3.5,
-      "shots_on_target_against": 1.5,
+      "shots_on_target_for": 4.5,
+      "shots_on_target_against": 2.5,
       "shots_on_target_sample": 4,
       "form": [
         "L",
@@ -365,8 +365,8 @@
           "venue": "home",
           "goals_for": 1,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ]
@@ -427,8 +427,8 @@
           "venue": "home",
           "goals_for": 5,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 13.0,
+          "sot_against": 6.0,
           "date": "2026-09-06"
         }
       ],
@@ -436,8 +436,8 @@
       "home_avg_conceded": 0.5,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 1.5,
-      "shots_on_target_for": 4.5,
-      "shots_on_target_against": 3.75,
+      "shots_on_target_for": 7.75,
+      "shots_on_target_against": 5.25,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -487,8 +487,8 @@
           "venue": "home",
           "goals_for": 5,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 13.0,
+          "sot_against": 6.0,
           "date": "2026-09-06"
         }
       ]
@@ -549,8 +549,8 @@
           "venue": "away",
           "goals_for": 2,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 7.0,
           "date": "2026-09-06"
         }
       ],
@@ -558,8 +558,8 @@
       "home_avg_conceded": 0.5,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 2.0,
-      "shots_on_target_for": 3.25,
-      "shots_on_target_against": 2.25,
+      "shots_on_target_for": 4.25,
+      "shots_on_target_against": 4.0,
       "shots_on_target_sample": 4,
       "form": [
         "W",
@@ -609,8 +609,8 @@
           "venue": "away",
           "goals_for": 2,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 7.0,
           "date": "2026-09-06"
         }
       ]
@@ -671,8 +671,8 @@
           "venue": "away",
           "goals_for": 4,
           "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 4.0,
           "date": "2026-09-07"
         }
       ],
@@ -680,8 +680,8 @@
       "home_avg_conceded": 1.5,
       "away_avg_scored": 2.5,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 3.25,
-      "shots_on_target_against": 1.75,
+      "shots_on_target_for": 4.25,
+      "shots_on_target_against": 2.75,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -731,8 +731,8 @@
           "venue": "away",
           "goals_for": 4,
           "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 4.0,
           "date": "2026-09-07"
         }
       ]
@@ -793,8 +793,8 @@
           "venue": "away",
           "goals_for": 1,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 2.0,
+          "sot_against": 5.0,
           "date": "2026-09-07"
         }
       ],
@@ -802,8 +802,8 @@
       "home_avg_conceded": 0.0,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 1.75,
-      "shots_on_target_against": 3.75,
+      "shots_on_target_for": 2.25,
+      "shots_on_target_against": 5.0,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -853,8 +853,8 @@
           "venue": "away",
           "goals_for": 1,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 2.0,
+          "sot_against": 5.0,
           "date": "2026-09-07"
         }
       ]
@@ -915,8 +915,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 5,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 13.0,
           "date": "2026-09-06"
         }
       ],
@@ -924,8 +924,8 @@
       "home_avg_conceded": 1.0,
       "away_avg_scored": 0.5,
       "away_avg_conceded": 2.5,
-      "shots_on_target_for": 2.5,
-      "shots_on_target_against": 5.25,
+      "shots_on_target_for": 4.0,
+      "shots_on_target_against": 8.5,
       "shots_on_target_sample": 4,
       "form": [
         "W",
@@ -975,8 +975,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 5,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 6.0,
+          "sot_against": 13.0,
           "date": "2026-09-06"
         }
       ]
@@ -1037,8 +1037,8 @@
           "venue": "home",
           "goals_for": 1,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 2.0,
+          "sot_against": 6.0,
           "date": "2026-09-05"
         }
       ],
@@ -1046,8 +1046,8 @@
       "home_avg_conceded": 2.0,
       "away_avg_scored": 1.5,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 6.75,
-      "shots_on_target_against": 2.75,
+      "shots_on_target_for": 7.25,
+      "shots_on_target_against": 4.25,
       "shots_on_target_sample": 4,
       "form": [
         "L",
@@ -1097,8 +1097,8 @@
           "venue": "home",
           "goals_for": 1,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 2.0,
+          "sot_against": 6.0,
           "date": "2026-09-05"
         }
       ]
@@ -1159,8 +1159,8 @@
           "venue": "home",
           "goals_for": 2,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 7.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ],
@@ -1168,8 +1168,8 @@
       "home_avg_conceded": 1.5,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 0.5,
-      "shots_on_target_for": 2.0,
-      "shots_on_target_against": 2.25,
+      "shots_on_target_for": 3.75,
+      "shots_on_target_against": 3.25,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -1219,8 +1219,8 @@
           "venue": "home",
           "goals_for": 2,
           "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 7.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ]
@@ -1281,8 +1281,8 @@
           "venue": "home",
           "goals_for": 0,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 5.0,
+          "sot_against": 2.0,
           "date": "2026-09-07"
         }
       ],
@@ -1290,8 +1290,8 @@
       "home_avg_conceded": 1.5,
       "away_avg_scored": 1.5,
       "away_avg_conceded": 0.5,
-      "shots_on_target_for": 4.25,
-      "shots_on_target_against": 2.5,
+      "shots_on_target_for": 5.5,
+      "shots_on_target_against": 3.0,
       "shots_on_target_sample": 4,
       "form": [
         "W",
@@ -1341,8 +1341,8 @@
           "venue": "home",
           "goals_for": 0,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 5.0,
+          "sot_against": 2.0,
           "date": "2026-09-07"
         }
       ]
@@ -1403,8 +1403,8 @@
           "venue": "home",
           "goals_for": 2,
           "goals_against": 3,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 3.0,
+          "sot_against": 6.0,
           "date": "2026-09-04"
         }
       ],
@@ -1412,8 +1412,8 @@
       "home_avg_conceded": 1.33,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 2.0,
-      "shots_on_target_for": 2.75,
-      "shots_on_target_against": 3.75,
+      "shots_on_target_for": 3.5,
+      "shots_on_target_against": 5.25,
       "shots_on_target_sample": 4,
       "form": [
         "W",
@@ -1463,8 +1463,8 @@
           "venue": "home",
           "goals_for": 2,
           "goals_against": 3,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 3.0,
+          "sot_against": 6.0,
           "date": "2026-09-04"
         }
       ]
@@ -1525,8 +1525,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ],
@@ -1534,8 +1534,8 @@
       "home_avg_conceded": 2.5,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 0.5,
-      "shots_on_target_for": 1.5,
-      "shots_on_target_against": 5.5,
+      "shots_on_target_for": 2.5,
+      "shots_on_target_against": 6.5,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -1585,8 +1585,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ]
@@ -1647,8 +1647,8 @@
           "venue": "home",
           "goals_for": 3,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 9.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ],
@@ -1656,8 +1656,8 @@
       "home_avg_conceded": 0.5,
       "away_avg_scored": 2.0,
       "away_avg_conceded": 4.0,
-      "shots_on_target_for": 2.0,
-      "shots_on_target_against": 5.25,
+      "shots_on_target_for": 4.25,
+      "shots_on_target_against": 6.25,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -1707,8 +1707,8 @@
           "venue": "home",
           "goals_for": 3,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 9.0,
+          "sot_against": 4.0,
           "date": "2026-09-06"
         }
       ]
@@ -1769,8 +1769,8 @@
           "venue": "home",
           "goals_for": 1,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 1.0,
           "date": "2026-09-05"
         }
       ],
@@ -1778,8 +1778,8 @@
       "home_avg_conceded": 2.0,
       "away_avg_scored": 0.5,
       "away_avg_conceded": 2.0,
-      "shots_on_target_for": 2.25,
-      "shots_on_target_against": 3.5,
+      "shots_on_target_for": 3.25,
+      "shots_on_target_against": 3.75,
       "shots_on_target_sample": 4,
       "form": [
         "L",
@@ -1829,8 +1829,8 @@
           "venue": "home",
           "goals_for": 1,
           "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 1.0,
           "date": "2026-09-05"
         }
       ]
@@ -1891,8 +1891,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 3,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 9.0,
           "date": "2026-09-06"
         }
       ],
@@ -1900,8 +1900,8 @@
       "home_avg_conceded": 1.0,
       "away_avg_scored": 0.0,
       "away_avg_conceded": 2.0,
-      "shots_on_target_for": 1.5,
-      "shots_on_target_against": 2.25,
+      "shots_on_target_for": 2.5,
+      "shots_on_target_against": 4.5,
       "shots_on_target_sample": 4,
       "form": [
         "L",
@@ -1951,8 +1951,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 3,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 4.0,
+          "sot_against": 9.0,
           "date": "2026-09-06"
         }
       ]
@@ -2013,8 +2013,8 @@
           "venue": "home",
           "goals_for": 2,
           "goals_against": 4,
-          "sot_for": 0.0,
-          "sot_against": 2.0,
+          "sot_for": 4.0,
+          "sot_against": 6.0,
           "date": "2026-09-07"
         }
       ],
@@ -2022,8 +2022,8 @@
       "home_avg_conceded": 2.5,
       "away_avg_scored": 2.5,
       "away_avg_conceded": 3.0,
-      "shots_on_target_for": 4.25,
-      "shots_on_target_against": 4.5,
+      "shots_on_target_for": 5.25,
+      "shots_on_target_against": 5.5,
       "shots_on_target_sample": 4,
       "form": [
         "D",
@@ -2073,8 +2073,8 @@
           "venue": "home",
           "goals_for": 2,
           "goals_against": 4,
-          "sot_for": 0.0,
-          "sot_against": 2.0,
+          "sot_for": 4.0,
+          "sot_against": 6.0,
           "date": "2026-09-07"
         }
       ]
@@ -2135,8 +2135,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 1.0,
+          "sot_against": 4.0,
           "date": "2026-09-05"
         }
       ],
@@ -2144,8 +2144,8 @@
       "home_avg_conceded": 1.5,
       "away_avg_scored": 1.0,
       "away_avg_conceded": 2.5,
-      "shots_on_target_for": 2.75,
-      "shots_on_target_against": 5.25,
+      "shots_on_target_for": 3.0,
+      "shots_on_target_against": 6.25,
       "shots_on_target_sample": 4,
       "form": [
         "L",
@@ -2195,8 +2195,8 @@
           "venue": "away",
           "goals_for": 0,
           "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 0.0,
+          "sot_for": 1.0,
+          "sot_against": 4.0,
           "date": "2026-09-05"
         }
       ]
@@ -2244,8 +2244,8 @@
         "name": "Besiktas",
         "home_avg_scored": 3.5,
         "home_avg_conceded": 1.0,
-        "shots_on_target_for": 4.5,
-        "shots_on_target_against": 1.75,
+        "shots_on_target_for": 6.0,
+        "shots_on_target_against": 2.25,
         "form": [
           "W",
           "L",
@@ -2297,8 +2297,8 @@
             "venue": "away",
             "goals_for": 2,
             "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 6.0,
+            "sot_against": 2.0,
             "date": "2026-09-05"
           }
         ]
@@ -2307,8 +2307,8 @@
         "name": "Erzurum BB",
         "away_avg_scored": 0.5,
         "away_avg_conceded": 2.0,
-        "shots_on_target_for": 2.25,
-        "shots_on_target_against": 3.5,
+        "shots_on_target_for": 3.25,
+        "shots_on_target_against": 3.75,
         "form": [
           "L",
           "L",
@@ -2360,8 +2360,8 @@
             "venue": "home",
             "goals_for": 1,
             "goals_against": 0,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 4.0,
+            "sot_against": 1.0,
             "date": "2026-09-05"
           }
         ]
@@ -2408,8 +2408,8 @@
         "name": "Eyupspor",
         "home_avg_scored": 1.0,
         "home_avg_conceded": 1.0,
-        "shots_on_target_for": 1.5,
-        "shots_on_target_against": 2.25,
+        "shots_on_target_for": 2.5,
+        "shots_on_target_against": 4.5,
         "form": [
           "L",
           "L",
@@ -2461,8 +2461,8 @@
             "venue": "away",
             "goals_for": 0,
             "goals_against": 3,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 4.0,
+            "sot_against": 9.0,
             "date": "2026-09-06"
           }
         ]
@@ -2471,8 +2471,8 @@
         "name": "Caykur Rizespor",
         "away_avg_scored": 1.5,
         "away_avg_conceded": 0.5,
-        "shots_on_target_for": 4.25,
-        "shots_on_target_against": 2.5,
+        "shots_on_target_for": 5.5,
+        "shots_on_target_against": 3.0,
         "form": [
           "W",
           "L",
@@ -2524,8 +2524,8 @@
             "venue": "home",
             "goals_for": 0,
             "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 5.0,
+            "sot_against": 2.0,
             "date": "2026-09-07"
           }
         ]
@@ -2538,11 +2538,11 @@
       "away": "Çorum FK",
       "date": "12.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.04 | X: 3.25 | MS2: 3.45",
+      "odds": "MS1: 2.08 | X: 3.30 | MS2: 3.50",
       "odds_detail": {
-        "ms1": 2.04,
-        "x": 3.25,
-        "ms2": 3.45
+        "ms1": 2.08,
+        "x": 3.3,
+        "ms2": 3.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -2551,14 +2551,14 @@
         "ms2": 3.85
       },
       "current_odds": {
-        "ms1": 2.04,
-        "x": 3.25,
-        "ms2": 3.45
+        "ms1": 2.08,
+        "x": 3.3,
+        "ms2": 3.5
       },
       "odds_change_pct": {
-        "ms1": 5.15,
-        "x": -5.8,
-        "ms2": -10.39
+        "ms1": 7.22,
+        "x": -4.35,
+        "ms2": -9.09
       },
       "odds_history": [
         {
@@ -2578,14 +2578,20 @@
           "ms1": 2.04,
           "x": 3.25,
           "ms2": 3.45
+        },
+        {
+          "timestamp": "2026-09-08T15:04:50.784690+03:00",
+          "ms1": 2.08,
+          "x": 3.3,
+          "ms2": 3.5
         }
       ],
       "home_stats": {
         "name": "Samsunspor",
         "home_avg_scored": 1.5,
         "home_avg_conceded": 2.5,
-        "shots_on_target_for": 1.5,
-        "shots_on_target_against": 5.5,
+        "shots_on_target_for": 2.5,
+        "shots_on_target_against": 6.5,
         "form": [
           "D",
           "W",
@@ -2637,8 +2643,8 @@
             "venue": "away",
             "goals_for": 0,
             "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 4.0,
+            "sot_against": 4.0,
             "date": "2026-09-06"
           }
         ]
@@ -2647,8 +2653,8 @@
         "name": "Çorum FK",
         "away_avg_scored": 2.0,
         "away_avg_conceded": 4.0,
-        "shots_on_target_for": 2.0,
-        "shots_on_target_against": 5.25,
+        "shots_on_target_for": 4.25,
+        "shots_on_target_against": 6.25,
         "form": [
           "D",
           "L",
@@ -2700,8 +2706,8 @@
             "venue": "home",
             "goals_for": 3,
             "goals_against": 0,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 9.0,
+            "sot_against": 4.0,
             "date": "2026-09-06"
           }
         ]
@@ -2714,11 +2720,11 @@
       "away": "Goztepe",
       "date": "12.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.43 | X: 3.15 | MS2: 3.00",
+      "odds": "MS1: 2.25 | X: 3.20 | MS2: 3.25",
       "odds_detail": {
-        "ms1": 2.43,
-        "x": 3.15,
-        "ms2": 3.0
+        "ms1": 2.25,
+        "x": 3.2,
+        "ms2": 3.25
       },
       "odds_available": true,
       "opening_odds": {
@@ -2727,14 +2733,14 @@
         "ms2": 2.9
       },
       "current_odds": {
-        "ms1": 2.43,
-        "x": 3.15,
-        "ms2": 3.0
+        "ms1": 2.25,
+        "x": 3.2,
+        "ms2": 3.25
       },
       "odds_change_pct": {
-        "ms1": -2.8,
-        "x": 1.61,
-        "ms2": 3.45
+        "ms1": -10.0,
+        "x": 3.23,
+        "ms2": 12.07
       },
       "odds_history": [
         {
@@ -2748,14 +2754,20 @@
           "ms1": 2.43,
           "x": 3.15,
           "ms2": 3.0
+        },
+        {
+          "timestamp": "2026-09-08T15:04:50.784690+03:00",
+          "ms1": 2.25,
+          "x": 3.2,
+          "ms2": 3.25
         }
       ],
       "home_stats": {
         "name": "Alanyaspor",
         "home_avg_scored": 1.0,
         "home_avg_conceded": 0.0,
-        "shots_on_target_for": 1.75,
-        "shots_on_target_against": 3.75,
+        "shots_on_target_for": 2.25,
+        "shots_on_target_against": 5.0,
         "form": [
           "D",
           "W",
@@ -2807,8 +2819,8 @@
             "venue": "away",
             "goals_for": 1,
             "goals_against": 0,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 2.0,
+            "sot_against": 5.0,
             "date": "2026-09-07"
           }
         ]
@@ -2817,8 +2829,8 @@
         "name": "Goztepe",
         "away_avg_scored": 2.5,
         "away_avg_conceded": 3.0,
-        "shots_on_target_for": 4.25,
-        "shots_on_target_against": 4.5,
+        "shots_on_target_for": 5.25,
+        "shots_on_target_against": 5.5,
         "form": [
           "D",
           "L",
@@ -2870,8 +2882,8 @@
             "venue": "home",
             "goals_for": 2,
             "goals_against": 4,
-            "sot_for": 0.0,
-            "sot_against": 2.0,
+            "sot_for": 4.0,
+            "sot_against": 6.0,
             "date": "2026-09-07"
           }
         ]
@@ -2930,8 +2942,8 @@
         "name": "Konyaspor",
         "home_avg_scored": 0.5,
         "home_avg_conceded": 1.5,
-        "shots_on_target_for": 2.75,
-        "shots_on_target_against": 5.25,
+        "shots_on_target_for": 3.0,
+        "shots_on_target_against": 6.25,
         "form": [
           "L",
           "L",
@@ -2983,8 +2995,8 @@
             "venue": "away",
             "goals_for": 0,
             "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 1.0,
+            "sot_against": 4.0,
             "date": "2026-09-05"
           }
         ]
@@ -2993,8 +3005,8 @@
         "name": "Trabzonspor",
         "away_avg_scored": 1.0,
         "away_avg_conceded": 1.5,
-        "shots_on_target_for": 4.5,
-        "shots_on_target_against": 3.75,
+        "shots_on_target_for": 7.75,
+        "shots_on_target_against": 5.25,
         "form": [
           "D",
           "W",
@@ -3046,8 +3058,8 @@
             "venue": "home",
             "goals_for": 5,
             "goals_against": 0,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 13.0,
+            "sot_against": 6.0,
             "date": "2026-09-06"
           }
         ]
@@ -3094,8 +3106,8 @@
         "name": "Genclerbirligi",
         "home_avg_scored": 1.5,
         "home_avg_conceded": 1.0,
-        "shots_on_target_for": 2.5,
-        "shots_on_target_against": 5.25,
+        "shots_on_target_for": 4.0,
+        "shots_on_target_against": 8.5,
         "form": [
           "W",
           "W",
@@ -3147,8 +3159,8 @@
             "venue": "away",
             "goals_for": 0,
             "goals_against": 5,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 6.0,
+            "sot_against": 13.0,
             "date": "2026-09-06"
           }
         ]
@@ -3157,8 +3169,8 @@
         "name": "Kasimpasa",
         "away_avg_scored": 1.0,
         "away_avg_conceded": 0.5,
-        "shots_on_target_for": 2.0,
-        "shots_on_target_against": 2.25,
+        "shots_on_target_for": 3.75,
+        "shots_on_target_against": 3.25,
         "form": [
           "D",
           "W",
@@ -3210,8 +3222,8 @@
             "venue": "home",
             "goals_for": 2,
             "goals_against": 2,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 7.0,
+            "sot_against": 4.0,
             "date": "2026-09-06"
           }
         ]
@@ -3224,10 +3236,10 @@
       "away": "Kocaelispor",
       "date": "13.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.18 | X: 6.25 | MS2: 13.00",
+      "odds": "MS1: 1.20 | X: 6.50 | MS2: 13.00",
       "odds_detail": {
-        "ms1": 1.18,
-        "x": 6.25,
+        "ms1": 1.2,
+        "x": 6.5,
         "ms2": 13.0
       },
       "odds_available": true,
@@ -3237,13 +3249,13 @@
         "ms2": 12.5
       },
       "current_odds": {
-        "ms1": 1.18,
-        "x": 6.25,
+        "ms1": 1.2,
+        "x": 6.5,
         "ms2": 13.0
       },
       "odds_change_pct": {
-        "ms1": -3.28,
-        "x": 2.46,
+        "ms1": -1.64,
+        "x": 6.56,
         "ms2": 4.0
       },
       "odds_history": [
@@ -3258,14 +3270,20 @@
           "ms1": 1.18,
           "x": 6.25,
           "ms2": 13.0
+        },
+        {
+          "timestamp": "2026-09-08T15:04:50.784690+03:00",
+          "ms1": 1.2,
+          "x": 6.5,
+          "ms2": 13.0
         }
       ],
       "home_stats": {
         "name": "Galatasaray",
         "home_avg_scored": 2.5,
         "home_avg_conceded": 2.0,
-        "shots_on_target_for": 7.0,
-        "shots_on_target_against": 2.75,
+        "shots_on_target_for": 8.5,
+        "shots_on_target_against": 3.5,
         "form": [
           "D",
           "W",
@@ -3317,8 +3335,8 @@
             "venue": "away",
             "goals_for": 3,
             "goals_against": 2,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 6.0,
+            "sot_against": 3.0,
             "date": "2026-09-04"
           }
         ]
@@ -3327,8 +3345,8 @@
         "name": "Kocaelispor",
         "away_avg_scored": 1.0,
         "away_avg_conceded": 1.5,
-        "shots_on_target_for": 3.5,
-        "shots_on_target_against": 1.5,
+        "shots_on_target_for": 4.5,
+        "shots_on_target_against": 2.5,
         "form": [
           "L",
           "W",
@@ -3380,9 +3398,173 @@
             "venue": "home",
             "goals_for": 1,
             "goals_against": 0,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 4.0,
+            "sot_against": 4.0,
             "date": "2026-09-06"
+          }
+        ]
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328519,
+      "home": "Amed SFK",
+      "away": "Istanbul Basaksehir",
+      "date": "13.09.2026",
+      "time": "20:00",
+      "odds": "MS1: 2.55 | X: 3.50 | MS2: 2.55",
+      "odds_detail": {
+        "ms1": 2.55,
+        "x": 3.5,
+        "ms2": 2.55
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.55,
+        "x": 3.5,
+        "ms2": 2.55
+      },
+      "current_odds": {
+        "ms1": 2.55,
+        "x": 3.5,
+        "ms2": 2.55
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-08T15:04:50.784690+03:00",
+          "ms1": 2.55,
+          "x": 3.5,
+          "ms2": 2.55
+        }
+      ],
+      "home_stats": {
+        "name": "Amed SFK",
+        "home_avg_scored": 2.5,
+        "home_avg_conceded": 0.5,
+        "shots_on_target_for": 4.25,
+        "shots_on_target_against": 4.0,
+        "form": [
+          "W",
+          "L",
+          "W",
+          "D"
+        ],
+        "recent_goals_avg": 3.0,
+        "played": 4,
+        "rank": 5,
+        "points": 7,
+        "recent_matches": [
+          {
+            "opponent": "Erzurum BB",
+            "score": "3 - 0",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 3,
+            "goals_against": 0,
+            "sot_for": 5.0,
+            "sot_against": 1.0,
+            "date": "2026-08-16"
+          },
+          {
+            "opponent": "Kocaelispor",
+            "score": "0 - 2",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 2,
+            "sot_for": 1.0,
+            "sot_against": 3.0,
+            "date": "2026-08-24"
+          },
+          {
+            "opponent": "Trabzonspor",
+            "score": "2 - 1",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 1,
+            "sot_for": 7.0,
+            "sot_against": 5.0,
+            "date": "2026-08-31"
+          },
+          {
+            "opponent": "Kasimpasa",
+            "score": "2 - 2",
+            "result": "D",
+            "venue": "away",
+            "goals_for": 2,
+            "goals_against": 2,
+            "sot_for": 4.0,
+            "sot_against": 7.0,
+            "date": "2026-09-06"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "Istanbul Basaksehir",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": 3.5,
+        "shots_on_target_against": 5.25,
+        "form": [
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "recent_goals_avg": 3.0,
+        "played": 4,
+        "rank": 12,
+        "points": 4,
+        "recent_matches": [
+          {
+            "opponent": "Kocaelispor",
+            "score": "2 - 0",
+            "result": "W",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 0,
+            "sot_for": 5.0,
+            "sot_against": 4.0,
+            "date": "2026-08-16"
+          },
+          {
+            "opponent": "Trabzonspor",
+            "score": "1 - 2",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 2,
+            "sot_for": 4.0,
+            "sot_against": 8.0,
+            "date": "2026-08-23"
+          },
+          {
+            "opponent": "Kasimpasa",
+            "score": "1 - 1",
+            "result": "D",
+            "venue": "home",
+            "goals_for": 1,
+            "goals_against": 1,
+            "sot_for": 2.0,
+            "sot_against": 3.0,
+            "date": "2026-08-30"
+          },
+          {
+            "opponent": "Galatasaray",
+            "score": "2 - 3",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 3,
+            "sot_for": 3.0,
+            "sot_against": 6.0,
+            "date": "2026-09-04"
           }
         ]
       }
@@ -3428,8 +3610,8 @@
         "name": "Gaziantep FK",
         "home_avg_scored": 1.0,
         "home_avg_conceded": 1.5,
-        "shots_on_target_for": 3.25,
-        "shots_on_target_against": 1.75,
+        "shots_on_target_for": 4.25,
+        "shots_on_target_against": 2.75,
         "form": [
           "D",
           "W",
@@ -3481,8 +3663,8 @@
             "venue": "away",
             "goals_for": 4,
             "goals_against": 2,
-            "sot_for": 2.0,
-            "sot_against": 0.0,
+            "sot_for": 6.0,
+            "sot_against": 4.0,
             "date": "2026-09-07"
           }
         ]
@@ -3491,8 +3673,8 @@
         "name": "Fenerbahce",
         "away_avg_scored": 1.5,
         "away_avg_conceded": 1.0,
-        "shots_on_target_for": 6.75,
-        "shots_on_target_against": 2.75,
+        "shots_on_target_for": 7.25,
+        "shots_on_target_against": 4.25,
         "form": [
           "L",
           "W",
@@ -3544,8 +3726,8 @@
             "venue": "home",
             "goals_for": 1,
             "goals_against": 2,
-            "sot_for": 0.0,
-            "sot_against": 0.0,
+            "sot_for": 2.0,
+            "sot_against": 6.0,
             "date": "2026-09-05"
           }
         ]
