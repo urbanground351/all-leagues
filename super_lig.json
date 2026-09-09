@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-09T03:05:29.112660+03:00",
+  "last_updated": "2026-09-09T15:04:20.661697+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -3248,11 +3248,11 @@
       "away": "Kocaelispor",
       "date": "13.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.20 | X: 6.00 | MS2: 12.00",
+      "odds": "MS1: 1.24 | X: 6.00 | MS2: 11.00",
       "odds_detail": {
-        "ms1": 1.2,
+        "ms1": 1.24,
         "x": 6.0,
-        "ms2": 12.0
+        "ms2": 11.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -3261,14 +3261,14 @@
         "ms2": 12.5
       },
       "current_odds": {
-        "ms1": 1.2,
+        "ms1": 1.24,
         "x": 6.0,
-        "ms2": 12.0
+        "ms2": 11.0
       },
       "odds_change_pct": {
-        "ms1": -1.64,
+        "ms1": 1.64,
         "x": -1.64,
-        "ms2": -4.0
+        "ms2": -12.0
       },
       "odds_history": [
         {
@@ -3294,6 +3294,12 @@
           "ms1": 1.2,
           "x": 6.0,
           "ms2": 12.0
+        },
+        {
+          "timestamp": "2026-09-09T15:04:20.661697+03:00",
+          "ms1": 1.24,
+          "x": 6.0,
+          "ms2": 11.0
         }
       ],
       "home_stats": {
