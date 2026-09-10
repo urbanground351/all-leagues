@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-09T15:04:22.408090+03:00",
+  "last_updated": "2026-09-10T03:04:50.287280+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -1382,11 +1382,11 @@
       "away": "Schalke 04",
       "date": "11.09.2026",
       "time": "21:30",
-      "odds": "MS1: 2.10 | X: 3.65 | MS2: 3.10",
+      "odds": "MS1: 2.17 | X: 3.65 | MS2: 2.95",
       "odds_detail": {
-        "ms1": 2.1,
+        "ms1": 2.17,
         "x": 3.65,
-        "ms2": 3.1
+        "ms2": 2.95
       },
       "odds_available": true,
       "opening_odds": {
@@ -1395,14 +1395,14 @@
         "ms2": 3.45
       },
       "current_odds": {
-        "ms1": 2.1,
+        "ms1": 2.17,
         "x": 3.65,
-        "ms2": 3.1
+        "ms2": 2.95
       },
       "odds_change_pct": {
-        "ms1": 8.25,
+        "ms1": 11.86,
         "x": -2.67,
-        "ms2": -10.14
+        "ms2": -14.49
       },
       "odds_history": [
         {
@@ -1452,6 +1452,12 @@
           "ms1": 2.1,
           "x": 3.65,
           "ms2": 3.1
+        },
+        {
+          "timestamp": "2026-09-10T03:04:50.287280+03:00",
+          "ms1": 2.17,
+          "x": 3.65,
+          "ms2": 2.95
         }
       ],
       "home_stats": {
@@ -2088,11 +2094,11 @@
       "away": "VfB Stuttgart",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.80",
+      "odds": "MS1: 2.23 | X: 3.80 | MS2: 2.75",
       "odds_detail": {
         "ms1": 2.23,
         "x": 3.8,
-        "ms2": 2.8
+        "ms2": 2.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -2103,12 +2109,12 @@
       "current_odds": {
         "ms1": 2.23,
         "x": 3.8,
-        "ms2": 2.8
+        "ms2": 2.75
       },
       "odds_change_pct": {
         "ms1": 0.0,
         "x": 0.0,
-        "ms2": 1.82
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -2146,6 +2152,12 @@
           "ms1": 2.23,
           "x": 3.8,
           "ms2": 2.8
+        },
+        {
+          "timestamp": "2026-09-10T03:04:50.287280+03:00",
+          "ms1": 2.23,
+          "x": 3.8,
+          "ms2": 2.75
         }
       ],
       "home_stats": {
@@ -3234,11 +3246,11 @@
       "away": "Borussia Dortmund",
       "date": "19.09.2026",
       "time": "19:30",
-      "odds": "MS1: 2.15 | X: 3.90 | MS2: 2.85",
+      "odds": "MS1: 2.18 | X: 3.90 | MS2: 2.80",
       "odds_detail": {
-        "ms1": 2.15,
+        "ms1": 2.18,
         "x": 3.9,
-        "ms2": 2.85
+        "ms2": 2.8
       },
       "odds_available": true,
       "opening_odds": {
@@ -3247,14 +3259,14 @@
         "ms2": 2.85
       },
       "current_odds": {
-        "ms1": 2.15,
+        "ms1": 2.18,
         "x": 3.9,
-        "ms2": 2.85
+        "ms2": 2.8
       },
       "odds_change_pct": {
-        "ms1": -0.46,
+        "ms1": 0.93,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": -1.75
       },
       "odds_history": [
         {
@@ -3274,6 +3286,12 @@
           "ms1": 2.15,
           "x": 3.9,
           "ms2": 2.85
+        },
+        {
+          "timestamp": "2026-09-10T03:04:50.287280+03:00",
+          "ms1": 2.18,
+          "x": 3.9,
+          "ms2": 2.8
         }
       ],
       "home_stats": {
