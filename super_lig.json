@@ -2,13 +2,158 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-11T15:04:34.509872+03:00",
+  "last_updated": "2026-09-12T03:04:21.047211+03:00",
   "total_teams": 18,
   "teams": [
     {
+      "name": "Besiktas",
+      "id": "1895",
+      "rank": 1,
+      "points": 12,
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 4,
+      "goal_diff": 8,
+      "avg_scored": 2.4,
+      "avg_conceded": 0.8,
+      "win_rate": 80.0,
+      "matches": [
+        {
+          "opponent": "Eyupspor",
+          "score": "1 - 0",
+          "result": "W",
+          "venue": "home",
+          "goals_for": 1,
+          "goals_against": 0,
+          "sot_for": 5.0,
+          "sot_against": 1.0,
+          "date": "2026-08-16"
+        },
+        {
+          "opponent": "Alanyaspor",
+          "score": "0 - 1",
+          "result": "L",
+          "venue": "away",
+          "goals_for": 0,
+          "goals_against": 1,
+          "sot_for": 6.0,
+          "sot_against": 3.0,
+          "date": "2026-08-23"
+        },
+        {
+          "opponent": "Çorum FK",
+          "score": "6 - 2",
+          "result": "W",
+          "venue": "home",
+          "goals_for": 6,
+          "goals_against": 2,
+          "sot_for": 7.0,
+          "sot_against": 3.0,
+          "date": "2026-08-31"
+        },
+        {
+          "opponent": "Fenerbahce",
+          "score": "2 - 1",
+          "result": "W",
+          "venue": "away",
+          "goals_for": 2,
+          "goals_against": 1,
+          "sot_for": 6.0,
+          "sot_against": 2.0,
+          "date": "2026-09-05"
+        },
+        {
+          "opponent": "Erzurum BB",
+          "score": "3 - 0",
+          "result": "W",
+          "venue": "home",
+          "goals_for": 3,
+          "goals_against": 0,
+          "sot_for": 6.0,
+          "sot_against": 0.0,
+          "date": "2026-09-11"
+        }
+      ],
+      "home_avg_scored": 3.33,
+      "home_avg_conceded": 0.67,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": 6.0,
+      "shots_on_target_against": 1.8,
+      "shots_on_target_sample": 5,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "recent_goals_avg": 3.2,
+      "recent_matches": [
+        {
+          "opponent": "Eyupspor",
+          "score": "1 - 0",
+          "result": "W",
+          "venue": "home",
+          "goals_for": 1,
+          "goals_against": 0,
+          "sot_for": 5.0,
+          "sot_against": 1.0,
+          "date": "2026-08-16"
+        },
+        {
+          "opponent": "Alanyaspor",
+          "score": "0 - 1",
+          "result": "L",
+          "venue": "away",
+          "goals_for": 0,
+          "goals_against": 1,
+          "sot_for": 6.0,
+          "sot_against": 3.0,
+          "date": "2026-08-23"
+        },
+        {
+          "opponent": "Çorum FK",
+          "score": "6 - 2",
+          "result": "W",
+          "venue": "home",
+          "goals_for": 6,
+          "goals_against": 2,
+          "sot_for": 7.0,
+          "sot_against": 3.0,
+          "date": "2026-08-31"
+        },
+        {
+          "opponent": "Fenerbahce",
+          "score": "2 - 1",
+          "result": "W",
+          "venue": "away",
+          "goals_for": 2,
+          "goals_against": 1,
+          "sot_for": 6.0,
+          "sot_against": 2.0,
+          "date": "2026-09-05"
+        },
+        {
+          "opponent": "Erzurum BB",
+          "score": "3 - 0",
+          "result": "W",
+          "venue": "home",
+          "goals_for": 3,
+          "goals_against": 0,
+          "sot_for": 6.0,
+          "sot_against": 0.0,
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    {
       "name": "Galatasaray",
       "id": "432",
-      "rank": 1,
+      "rank": 2,
       "points": 10,
       "played": 4,
       "wins": 3,
@@ -124,128 +269,6 @@
           "sot_for": 6.0,
           "sot_against": 3.0,
           "date": "2026-09-04"
-        }
-      ]
-    },
-    {
-      "name": "Besiktas",
-      "id": "1895",
-      "rank": 2,
-      "points": 9,
-      "played": 4,
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "goals_for": 9,
-      "goals_against": 4,
-      "goal_diff": 5,
-      "avg_scored": 2.25,
-      "avg_conceded": 1.0,
-      "win_rate": 75.0,
-      "matches": [
-        {
-          "opponent": "Eyupspor",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 1.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Alanyaspor",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 3.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Çorum FK",
-          "score": "6 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 6,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 3.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Fenerbahce",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        }
-      ],
-      "home_avg_scored": 3.5,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": 6.0,
-      "shots_on_target_against": 2.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "L",
-        "W",
-        "W"
-      ],
-      "recent_goals_avg": 3.25,
-      "recent_matches": [
-        {
-          "opponent": "Eyupspor",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 1.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Alanyaspor",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 3.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Çorum FK",
-          "score": "6 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 6,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 3.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Fenerbahce",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
         }
       ]
     },
@@ -1718,16 +1741,16 @@
       "id": "19267",
       "rank": 15,
       "points": 4,
-      "played": 4,
+      "played": 5,
       "wins": 1,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "goals_for": 2,
-      "goals_against": 8,
-      "goal_diff": -6,
-      "avg_scored": 0.5,
-      "avg_conceded": 2.0,
-      "win_rate": 25.0,
+      "goals_against": 11,
+      "goal_diff": -9,
+      "avg_scored": 0.4,
+      "avg_conceded": 2.2,
+      "win_rate": 20.0,
       "matches": [
         {
           "opponent": "Amed SFK",
@@ -1772,22 +1795,34 @@
           "sot_for": 4.0,
           "sot_against": 1.0,
           "date": "2026-09-05"
+        },
+        {
+          "opponent": "Besiktas",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "goals_for": 0,
+          "goals_against": 3,
+          "sot_for": 0.0,
+          "sot_against": 6.0,
+          "date": "2026-09-11"
         }
       ],
       "home_avg_scored": 0.5,
       "home_avg_conceded": 2.0,
-      "away_avg_scored": 0.5,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 3.25,
-      "shots_on_target_against": 3.75,
-      "shots_on_target_sample": 4,
+      "away_avg_scored": 0.33,
+      "away_avg_conceded": 2.33,
+      "shots_on_target_for": 2.6,
+      "shots_on_target_against": 4.2,
+      "shots_on_target_sample": 5,
       "form": [
         "L",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ],
-      "recent_goals_avg": 2.5,
+      "recent_goals_avg": 2.6,
       "recent_matches": [
         {
           "opponent": "Amed SFK",
@@ -1832,6 +1867,17 @@
           "sot_for": 4.0,
           "sot_against": 1.0,
           "date": "2026-09-05"
+        },
+        {
+          "opponent": "Besiktas",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "goals_for": 0,
+          "goals_against": 3,
+          "sot_for": 0.0,
+          "sot_against": 6.0,
+          "date": "2026-09-11"
         }
       ]
     },
@@ -2205,188 +2251,6 @@
   "upcoming_matches": [
     {
       "league": "Trendyol Süper Lig",
-      "event_id": 1028328545,
-      "home": "Besiktas",
-      "away": "Erzurum BB",
-      "date": "11.09.2026",
-      "time": "20:00",
-      "odds": "MS1: 1.21 | X: 6.00 | MS2: 11.00",
-      "odds_detail": {
-        "ms1": 1.21,
-        "x": 6.0,
-        "ms2": 11.0
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.28,
-        "x": 5.1,
-        "ms2": 9.5
-      },
-      "current_odds": {
-        "ms1": 1.21,
-        "x": 6.0,
-        "ms2": 11.0
-      },
-      "odds_change_pct": {
-        "ms1": -5.47,
-        "x": 17.65,
-        "ms2": 15.79
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-07T03:05:18.329622+03:00",
-          "ms1": 1.28,
-          "x": 5.1,
-          "ms2": 9.5
-        },
-        {
-          "timestamp": "2026-09-09T03:05:29.112660+03:00",
-          "ms1": 1.28,
-          "x": 5.4,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-09-11T03:04:54.700572+03:00",
-          "ms1": 1.2,
-          "x": 6.4,
-          "ms2": 14.0
-        },
-        {
-          "timestamp": "2026-09-11T15:04:34.509872+03:00",
-          "ms1": 1.21,
-          "x": 6.0,
-          "ms2": 11.0
-        }
-      ],
-      "home_stats": {
-        "name": "Besiktas",
-        "home_avg_scored": 3.5,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 6.0,
-        "shots_on_target_against": 2.25,
-        "form": [
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
-        "recent_goals_avg": 3.25,
-        "played": 4,
-        "rank": 2,
-        "points": 9,
-        "recent_matches": [
-          {
-            "opponent": "Eyupspor",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 1.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Alanyaspor",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 3.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Çorum FK",
-            "score": "6 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 6,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 3.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Fenerbahce",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 2.0,
-            "date": "2026-09-05"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "Erzurum BB",
-        "away_avg_scored": 0.5,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 3.25,
-        "shots_on_target_against": 3.75,
-        "form": [
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "recent_goals_avg": 2.5,
-        "played": 4,
-        "rank": 15,
-        "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Amed SFK",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 1.0,
-            "sot_against": 5.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Galatasaray",
-            "score": "0 - 4",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 4,
-            "sot_for": 4.0,
-            "sot_against": 4.0,
-            "date": "2026-08-21"
-          },
-          {
-            "opponent": "Genclerbirligi",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 5.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Konyaspor",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 1.0,
-            "date": "2026-09-05"
-          }
-        ]
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
       "event_id": 1028328571,
       "home": "Eyupspor",
       "away": "Caykur Rizespor",
@@ -2568,11 +2432,11 @@
       "away": "Çorum FK",
       "date": "12.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.08 | X: 3.30 | MS2: 3.50",
+      "odds": "MS1: 2.00 | X: 3.45 | MS2: 3.60",
       "odds_detail": {
-        "ms1": 2.08,
-        "x": 3.3,
-        "ms2": 3.5
+        "ms1": 2.0,
+        "x": 3.45,
+        "ms2": 3.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -2581,14 +2445,14 @@
         "ms2": 3.85
       },
       "current_odds": {
-        "ms1": 2.08,
-        "x": 3.3,
-        "ms2": 3.5
+        "ms1": 2.0,
+        "x": 3.45,
+        "ms2": 3.6
       },
       "odds_change_pct": {
-        "ms1": 7.22,
-        "x": -4.35,
-        "ms2": -9.09
+        "ms1": 3.09,
+        "x": 0.0,
+        "ms2": -6.49
       },
       "odds_history": [
         {
@@ -2614,6 +2478,12 @@
           "ms1": 2.08,
           "x": 3.3,
           "ms2": 3.5
+        },
+        {
+          "timestamp": "2026-09-12T03:04:21.047211+03:00",
+          "ms1": 2.0,
+          "x": 3.45,
+          "ms2": 3.6
         }
       ],
       "home_stats": {
@@ -3108,11 +2978,11 @@
       "away": "Kasimpasa",
       "date": "13.09.2026",
       "time": "17:00",
-      "odds": "MS1: 2.35 | X: 3.25 | MS2: 3.00",
+      "odds": "MS1: 2.38 | X: 3.20 | MS2: 3.05",
       "odds_detail": {
-        "ms1": 2.35,
-        "x": 3.25,
-        "ms2": 3.0
+        "ms1": 2.38,
+        "x": 3.2,
+        "ms2": 3.05
       },
       "odds_available": true,
       "opening_odds": {
@@ -3121,14 +2991,14 @@
         "ms2": 3.0
       },
       "current_odds": {
-        "ms1": 2.35,
-        "x": 3.25,
-        "ms2": 3.0
+        "ms1": 2.38,
+        "x": 3.2,
+        "ms2": 3.05
       },
       "odds_change_pct": {
-        "ms1": -1.26,
-        "x": 1.56,
-        "ms2": 0.0
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 1.67
       },
       "odds_history": [
         {
@@ -3142,6 +3012,12 @@
           "ms1": 2.35,
           "x": 3.25,
           "ms2": 3.0
+        },
+        {
+          "timestamp": "2026-09-12T03:04:21.047211+03:00",
+          "ms1": 2.38,
+          "x": 3.2,
+          "ms2": 3.05
         }
       ],
       "home_stats": {
@@ -3278,11 +3154,11 @@
       "away": "Kocaelispor",
       "date": "13.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.27 | X: 5.75 | MS2: 10.00",
+      "odds": "MS1: 1.26 | X: 5.40 | MS2: 9.50",
       "odds_detail": {
-        "ms1": 1.27,
-        "x": 5.75,
-        "ms2": 10.0
+        "ms1": 1.26,
+        "x": 5.4,
+        "ms2": 9.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -3291,14 +3167,14 @@
         "ms2": 12.5
       },
       "current_odds": {
-        "ms1": 1.27,
-        "x": 5.75,
-        "ms2": 10.0
+        "ms1": 1.26,
+        "x": 5.4,
+        "ms2": 9.5
       },
       "odds_change_pct": {
-        "ms1": 4.1,
-        "x": -5.74,
-        "ms2": -20.0
+        "ms1": 3.28,
+        "x": -11.48,
+        "ms2": -24.0
       },
       "odds_history": [
         {
@@ -3336,6 +3212,12 @@
           "ms1": 1.27,
           "x": 5.75,
           "ms2": 10.0
+        },
+        {
+          "timestamp": "2026-09-12T03:04:21.047211+03:00",
+          "ms1": 1.26,
+          "x": 5.4,
+          "ms2": 9.5
         }
       ],
       "home_stats": {
@@ -3352,7 +3234,7 @@
         ],
         "recent_goals_avg": 4.5,
         "played": 4,
-        "rank": 1,
+        "rank": 2,
         "points": 10,
         "recent_matches": [
           {
@@ -3472,10 +3354,10 @@
       "away": "Istanbul Basaksehir",
       "date": "13.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.55 | X: 3.50 | MS2: 2.55",
+      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.55",
       "odds_detail": {
         "ms1": 2.55,
-        "x": 3.5,
+        "x": 3.35,
         "ms2": 2.55
       },
       "odds_available": true,
@@ -3486,12 +3368,12 @@
       },
       "current_odds": {
         "ms1": 2.55,
-        "x": 3.5,
+        "x": 3.35,
         "ms2": 2.55
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 0.0,
+        "x": -4.29,
         "ms2": 0.0
       },
       "odds_history": [
@@ -3499,6 +3381,12 @@
           "timestamp": "2026-09-08T15:04:50.784690+03:00",
           "ms1": 2.55,
           "x": 3.5,
+          "ms2": 2.55
+        },
+        {
+          "timestamp": "2026-09-12T03:04:21.047211+03:00",
+          "ms1": 2.55,
+          "x": 3.35,
           "ms2": 2.55
         }
       ],
@@ -3800,6 +3688,170 @@
             "goals_against": 2,
             "sot_for": 2.0,
             "sot_against": 6.0,
+            "date": "2026-09-05"
+          }
+        ]
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328531,
+      "home": "Kasimpasa",
+      "away": "Konyaspor",
+      "date": "18.09.2026",
+      "time": "20:00",
+      "odds": "MS1: 2.48 | X: 3.25 | MS2: 2.80",
+      "odds_detail": {
+        "ms1": 2.48,
+        "x": 3.25,
+        "ms2": 2.8
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.48,
+        "x": 3.25,
+        "ms2": 2.8
+      },
+      "current_odds": {
+        "ms1": 2.48,
+        "x": 3.25,
+        "ms2": 2.8
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-12T03:04:21.047211+03:00",
+          "ms1": 2.48,
+          "x": 3.25,
+          "ms2": 2.8
+        }
+      ],
+      "home_stats": {
+        "name": "Kasimpasa",
+        "home_avg_scored": 1.5,
+        "home_avg_conceded": 1.5,
+        "shots_on_target_for": 3.75,
+        "shots_on_target_against": 3.25,
+        "form": [
+          "D",
+          "W",
+          "D",
+          "D"
+        ],
+        "recent_goals_avg": 2.25,
+        "played": 4,
+        "rank": 10,
+        "points": 6,
+        "recent_matches": [
+          {
+            "opponent": "Trabzonspor",
+            "score": "1 - 1",
+            "result": "D",
+            "venue": "home",
+            "goals_for": 1,
+            "goals_against": 1,
+            "sot_for": 4.0,
+            "sot_against": 5.0,
+            "date": "2026-08-15"
+          },
+          {
+            "opponent": "Çorum FK",
+            "score": "1 - 0",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 0,
+            "sot_for": 1.0,
+            "sot_against": 2.0,
+            "date": "2026-08-22"
+          },
+          {
+            "opponent": "Istanbul Basaksehir",
+            "score": "1 - 1",
+            "result": "D",
+            "venue": "away",
+            "goals_for": 1,
+            "goals_against": 1,
+            "sot_for": 3.0,
+            "sot_against": 2.0,
+            "date": "2026-08-30"
+          },
+          {
+            "opponent": "Amed SFK",
+            "score": "2 - 2",
+            "result": "D",
+            "venue": "home",
+            "goals_for": 2,
+            "goals_against": 2,
+            "sot_for": 7.0,
+            "sot_against": 4.0,
+            "date": "2026-09-06"
+          }
+        ]
+      },
+      "away_stats": {
+        "name": "Konyaspor",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": 3.0,
+        "shots_on_target_against": 6.25,
+        "form": [
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "recent_goals_avg": 2.75,
+        "played": 4,
+        "rank": 18,
+        "points": 0,
+        "recent_matches": [
+          {
+            "opponent": "Caykur Rizespor",
+            "score": "0 - 1",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 0,
+            "goals_against": 1,
+            "sot_for": 3.0,
+            "sot_against": 5.0,
+            "date": "2026-08-15"
+          },
+          {
+            "opponent": "Fenerbahce",
+            "score": "2 - 4",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 2,
+            "goals_against": 4,
+            "sot_for": 8.0,
+            "sot_against": 9.0,
+            "date": "2026-08-22"
+          },
+          {
+            "opponent": "Kocaelispor",
+            "score": "1 - 2",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 1,
+            "goals_against": 2,
+            "sot_for": 0.0,
+            "sot_against": 7.0,
+            "date": "2026-08-29"
+          },
+          {
+            "opponent": "Erzurum BB",
+            "score": "0 - 1",
+            "result": "L",
+            "venue": "away",
+            "goals_for": 0,
+            "goals_against": 1,
+            "sot_for": 1.0,
+            "sot_against": 4.0,
             "date": "2026-09-05"
           }
         ]

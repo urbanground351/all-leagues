@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-11T15:04:36.257204+03:00",
+  "last_updated": "2026-09-12T03:04:22.429731+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -462,9 +462,108 @@
       ]
     },
     {
+      "name": "Schalke 04",
+      "id": "133",
+      "rank": 7,
+      "points": 4,
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 3,
+      "goals_against": 4,
+      "goal_diff": -1,
+      "avg_scored": 1.0,
+      "avg_conceded": 1.33,
+      "win_rate": 33.3,
+      "matches": [
+        {
+          "opponent": "FC Augsburg",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "goals_for": 0,
+          "goals_against": 3,
+          "sot_for": 5.0,
+          "sot_against": 13.0,
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Bayern Munich",
+          "score": "0 - 0",
+          "result": "D",
+          "venue": "home",
+          "goals_for": 0,
+          "goals_against": 0,
+          "sot_for": 1.0,
+          "sot_against": 5.0,
+          "date": "2026-09-05"
+        },
+        {
+          "opponent": "1. FC Union Berlin",
+          "score": "3 - 1",
+          "result": "W",
+          "venue": "away",
+          "goals_for": 3,
+          "goals_against": 1,
+          "sot_for": 10.0,
+          "sot_against": 8.0,
+          "date": "2026-09-11"
+        }
+      ],
+      "home_avg_scored": 0.0,
+      "home_avg_conceded": 0.0,
+      "away_avg_scored": 1.5,
+      "away_avg_conceded": 2.0,
+      "shots_on_target_for": 5.33,
+      "shots_on_target_against": 8.67,
+      "shots_on_target_sample": 3,
+      "form": [
+        "L",
+        "D",
+        "W"
+      ],
+      "recent_goals_avg": 2.33,
+      "recent_matches": [
+        {
+          "opponent": "FC Augsburg",
+          "score": "0 - 3",
+          "result": "L",
+          "venue": "away",
+          "goals_for": 0,
+          "goals_against": 3,
+          "sot_for": 5.0,
+          "sot_against": 13.0,
+          "date": "2026-08-30"
+        },
+        {
+          "opponent": "Bayern Munich",
+          "score": "0 - 0",
+          "result": "D",
+          "venue": "home",
+          "goals_for": 0,
+          "goals_against": 0,
+          "sot_for": 1.0,
+          "sot_against": 5.0,
+          "date": "2026-09-05"
+        },
+        {
+          "opponent": "1. FC Union Berlin",
+          "score": "3 - 1",
+          "result": "W",
+          "venue": "away",
+          "goals_for": 3,
+          "goals_against": 1,
+          "sot_for": 10.0,
+          "sot_against": 8.0,
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    {
       "name": "Bayer Leverkusen",
       "id": "131",
-      "rank": 7,
+      "rank": 8,
       "points": 3,
       "played": 2,
       "wins": 1,
@@ -540,7 +639,7 @@
     {
       "name": "RB Leipzig",
       "id": "11420",
-      "rank": 8,
+      "rank": 9,
       "points": 3,
       "played": 2,
       "wins": 1,
@@ -616,7 +715,7 @@
     {
       "name": "VfB Stuttgart",
       "id": "134",
-      "rank": 9,
+      "rank": 10,
       "points": 3,
       "played": 2,
       "wins": 1,
@@ -692,7 +791,7 @@
     {
       "name": "Werder Bremen",
       "id": "137",
-      "rank": 10,
+      "rank": 11,
       "points": 3,
       "played": 2,
       "wins": 1,
@@ -768,7 +867,7 @@
     {
       "name": "FC Cologne",
       "id": "122",
-      "rank": 11,
+      "rank": 12,
       "points": 3,
       "played": 2,
       "wins": 1,
@@ -844,7 +943,7 @@
     {
       "name": "SC Paderborn 07",
       "id": "3307",
-      "rank": 12,
+      "rank": 13,
       "points": 1,
       "played": 2,
       "wins": 0,
@@ -920,7 +1019,7 @@
     {
       "name": "Eintracht Frankfurt",
       "id": "125",
-      "rank": 13,
+      "rank": 14,
       "points": 1,
       "played": 2,
       "wins": 0,
@@ -994,95 +1093,19 @@
       ]
     },
     {
-      "name": "Schalke 04",
-      "id": "133",
-      "rank": 14,
-      "points": 1,
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "losses": 1,
-      "goals_for": 0,
-      "goals_against": 3,
-      "goal_diff": -3,
-      "avg_scored": 0.0,
-      "avg_conceded": 1.5,
-      "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "FC Augsburg",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 13.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Bayern Munich",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        }
-      ],
-      "home_avg_scored": 0.0,
-      "home_avg_conceded": 0.0,
-      "away_avg_scored": 0.0,
-      "away_avg_conceded": 3.0,
-      "shots_on_target_for": 3.0,
-      "shots_on_target_against": 9.0,
-      "shots_on_target_sample": 2,
-      "form": [
-        "L",
-        "D"
-      ],
-      "recent_goals_avg": 1.5,
-      "recent_matches": [
-        {
-          "opponent": "FC Augsburg",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 13.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Bayern Munich",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        }
-      ]
-    },
-    {
       "name": "1. FC Union Berlin",
       "id": "598",
       "rank": 15,
       "points": 1,
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
-      "goals_for": 3,
-      "goals_against": 7,
-      "goal_diff": -4,
-      "avg_scored": 1.5,
-      "avg_conceded": 3.5,
+      "losses": 2,
+      "goals_for": 4,
+      "goals_against": 10,
+      "goal_diff": -6,
+      "avg_scored": 1.33,
+      "avg_conceded": 3.33,
       "win_rate": 0.0,
       "matches": [
         {
@@ -1106,20 +1129,32 @@
           "sot_for": 0.0,
           "sot_against": 10.0,
           "date": "2026-09-05"
+        },
+        {
+          "opponent": "Schalke 04",
+          "score": "1 - 3",
+          "result": "L",
+          "venue": "home",
+          "goals_for": 1,
+          "goals_against": 3,
+          "sot_for": 8.0,
+          "sot_against": 10.0,
+          "date": "2026-09-11"
         }
       ],
-      "home_avg_scored": 3.0,
+      "home_avg_scored": 2.0,
       "home_avg_conceded": 3.0,
       "away_avg_scored": 0.0,
       "away_avg_conceded": 4.0,
-      "shots_on_target_for": 5.0,
-      "shots_on_target_against": 6.5,
-      "shots_on_target_sample": 2,
+      "shots_on_target_for": 6.0,
+      "shots_on_target_against": 7.67,
+      "shots_on_target_sample": 3,
       "form": [
         "D",
+        "L",
         "L"
       ],
-      "recent_goals_avg": 5.0,
+      "recent_goals_avg": 4.67,
       "recent_matches": [
         {
           "opponent": "Eintracht Frankfurt",
@@ -1142,6 +1177,17 @@
           "sot_for": 0.0,
           "sot_against": 10.0,
           "date": "2026-09-05"
+        },
+        {
+          "opponent": "Schalke 04",
+          "score": "1 - 3",
+          "result": "L",
+          "venue": "home",
+          "goals_for": 1,
+          "goals_against": 3,
+          "sot_for": 8.0,
+          "sot_against": 10.0,
+          "date": "2026-09-11"
         }
       ]
     },
@@ -1377,197 +1423,15 @@
   "upcoming_matches": [
     {
       "league": "German Bundesliga",
-      "event_id": 1028230315,
-      "home": "1. FC Union Berlin",
-      "away": "Schalke 04",
-      "date": "11.09.2026",
-      "time": "21:30",
-      "odds": "MS1: 2.35 | X: 3.45 | MS2: 2.80",
-      "odds_detail": {
-        "ms1": 2.35,
-        "x": 3.45,
-        "ms2": 2.8
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.94,
-        "x": 3.75,
-        "ms2": 3.45
-      },
-      "current_odds": {
-        "ms1": 2.35,
-        "x": 3.45,
-        "ms2": 2.8
-      },
-      "odds_change_pct": {
-        "ms1": 21.13,
-        "x": -8.0,
-        "ms2": -18.84
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-03T18:49:55.792251",
-          "ms1": 1.94,
-          "x": 3.75,
-          "ms2": 3.45
-        },
-        {
-          "timestamp": "2026-09-05T00:05:07.209841",
-          "ms1": 1.96,
-          "x": 3.75,
-          "ms2": 3.35
-        },
-        {
-          "timestamp": "2026-09-06T01:02:25.575184+03:00",
-          "ms1": 1.93,
-          "x": 3.9,
-          "ms2": 3.4
-        },
-        {
-          "timestamp": "2026-09-06T03:05:27.677115+03:00",
-          "ms1": 1.98,
-          "x": 3.8,
-          "ms2": 3.25
-        },
-        {
-          "timestamp": "2026-09-07T03:05:19.652641+03:00",
-          "ms1": 2.02,
-          "x": 3.75,
-          "ms2": 3.2
-        },
-        {
-          "timestamp": "2026-09-07T15:04:17.728153+03:00",
-          "ms1": 2.07,
-          "x": 3.75,
-          "ms2": 3.1
-        },
-        {
-          "timestamp": "2026-09-08T15:04:51.970000+03:00",
-          "ms1": 2.1,
-          "x": 3.7,
-          "ms2": 3.05
-        },
-        {
-          "timestamp": "2026-09-09T03:05:30.447671+03:00",
-          "ms1": 2.1,
-          "x": 3.65,
-          "ms2": 3.1
-        },
-        {
-          "timestamp": "2026-09-10T03:04:50.287280+03:00",
-          "ms1": 2.17,
-          "x": 3.65,
-          "ms2": 2.95
-        },
-        {
-          "timestamp": "2026-09-10T15:04:34.712892+03:00",
-          "ms1": 2.18,
-          "x": 3.6,
-          "ms2": 2.95
-        },
-        {
-          "timestamp": "2026-09-11T03:04:56.729220+03:00",
-          "ms1": 2.17,
-          "x": 3.55,
-          "ms2": 3.05
-        },
-        {
-          "timestamp": "2026-09-11T15:04:36.257204+03:00",
-          "ms1": 2.35,
-          "x": 3.45,
-          "ms2": 2.8
-        }
-      ],
-      "home_stats": {
-        "name": "1. FC Union Berlin",
-        "home_avg_scored": 3.0,
-        "home_avg_conceded": 3.0,
-        "shots_on_target_for": 5.0,
-        "shots_on_target_against": 6.5,
-        "form": [
-          "D",
-          "L"
-        ],
-        "recent_goals_avg": 5.0,
-        "played": 2,
-        "rank": 15,
-        "points": 1,
-        "recent_matches": [
-          {
-            "opponent": "Eintracht Frankfurt",
-            "score": "3 - 3",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 3,
-            "sot_for": 10.0,
-            "sot_against": 3.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Bayer Leverkusen",
-            "score": "0 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 4,
-            "sot_for": 0.0,
-            "sot_against": 10.0,
-            "date": "2026-09-05"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "Schalke 04",
-        "away_avg_scored": 0.0,
-        "away_avg_conceded": 3.0,
-        "shots_on_target_for": 3.0,
-        "shots_on_target_against": 9.0,
-        "form": [
-          "L",
-          "D"
-        ],
-        "recent_goals_avg": 1.5,
-        "played": 2,
-        "rank": 14,
-        "points": 1,
-        "recent_matches": [
-          {
-            "opponent": "FC Augsburg",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 13.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Bayern Munich",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 1.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          }
-        ]
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230317,
       "home": "Mainz",
       "away": "Eintracht Frankfurt",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.96 | X: 3.75 | MS2: 3.40",
+      "odds": "MS1: 1.97 | X: 3.70 | MS2: 3.40",
       "odds_detail": {
-        "ms1": 1.96,
-        "x": 3.75,
+        "ms1": 1.97,
+        "x": 3.7,
         "ms2": 3.4
       },
       "odds_available": true,
@@ -1577,13 +1441,13 @@
         "ms2": 2.9
       },
       "current_odds": {
-        "ms1": 1.96,
-        "x": 3.75,
+        "ms1": 1.97,
+        "x": 3.7,
         "ms2": 3.4
       },
       "odds_change_pct": {
-        "ms1": -12.11,
-        "x": 4.17,
+        "ms1": -11.66,
+        "x": 2.78,
         "ms2": 17.24
       },
       "odds_history": [
@@ -1627,6 +1491,12 @@
           "timestamp": "2026-09-11T15:04:36.257204+03:00",
           "ms1": 1.96,
           "x": 3.75,
+          "ms2": 3.4
+        },
+        {
+          "timestamp": "2026-09-12T03:04:22.429731+03:00",
+          "ms1": 1.97,
+          "x": 3.7,
           "ms2": 3.4
         }
       ],
@@ -1681,7 +1551,7 @@
         ],
         "recent_goals_avg": 5.5,
         "played": 2,
-        "rank": 13,
+        "rank": 14,
         "points": 1,
         "recent_matches": [
           {
@@ -1821,7 +1691,7 @@
         ],
         "recent_goals_avg": 0.5,
         "played": 2,
-        "rank": 12,
+        "rank": 13,
         "points": 1,
         "recent_matches": [
           {
@@ -1856,11 +1726,11 @@
       "away": "Borussia Mönchengladbach",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.70 | X: 3.90 | MS2: 4.50",
+      "odds": "MS1: 1.66 | X: 3.95 | MS2: 4.60",
       "odds_detail": {
-        "ms1": 1.7,
-        "x": 3.9,
-        "ms2": 4.5
+        "ms1": 1.66,
+        "x": 3.95,
+        "ms2": 4.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -1869,14 +1739,14 @@
         "ms2": 3.7
       },
       "current_odds": {
-        "ms1": 1.7,
-        "x": 3.9,
-        "ms2": 4.5
+        "ms1": 1.66,
+        "x": 3.95,
+        "ms2": 4.6
       },
       "odds_change_pct": {
-        "ms1": -10.05,
-        "x": 6.85,
-        "ms2": 21.62
+        "ms1": -12.17,
+        "x": 8.22,
+        "ms2": 24.32
       },
       "odds_history": [
         {
@@ -1932,6 +1802,12 @@
           "ms1": 1.7,
           "x": 3.9,
           "ms2": 4.5
+        },
+        {
+          "timestamp": "2026-09-12T03:04:22.429731+03:00",
+          "ms1": 1.66,
+          "x": 3.95,
+          "ms2": 4.6
         }
       ],
       "home_stats": {
@@ -2020,11 +1896,11 @@
       "away": "Bayer Leverkusen",
       "date": "12.09.2026",
       "time": "16:30",
-      "odds": "MS1: 4.10 | X: 4.10 | MS2: 1.71",
+      "odds": "MS1: 4.00 | X: 4.00 | MS2: 1.74",
       "odds_detail": {
-        "ms1": 4.1,
-        "x": 4.1,
-        "ms2": 1.71
+        "ms1": 4.0,
+        "x": 4.0,
+        "ms2": 1.74
       },
       "odds_available": true,
       "opening_odds": {
@@ -2033,14 +1909,14 @@
         "ms2": 1.65
       },
       "current_odds": {
-        "ms1": 4.1,
-        "x": 4.1,
-        "ms2": 1.71
+        "ms1": 4.0,
+        "x": 4.0,
+        "ms2": 1.74
       },
       "odds_change_pct": {
-        "ms1": -6.82,
-        "x": -2.38,
-        "ms2": 3.64
+        "ms1": -9.09,
+        "x": -4.76,
+        "ms2": 5.45
       },
       "odds_history": [
         {
@@ -2072,6 +1948,12 @@
           "ms1": 4.1,
           "x": 4.1,
           "ms2": 1.71
+        },
+        {
+          "timestamp": "2026-09-12T03:04:22.429731+03:00",
+          "ms1": 4.0,
+          "x": 4.0,
+          "ms2": 1.74
         }
       ],
       "home_stats": {
@@ -2125,7 +2007,7 @@
         ],
         "recent_goals_avg": 4.5,
         "played": 2,
-        "rank": 7,
+        "rank": 8,
         "points": 3,
         "recent_matches": [
           {
@@ -2295,7 +2177,7 @@
         ],
         "recent_goals_avg": 5.5,
         "played": 2,
-        "rank": 9,
+        "rank": 10,
         "points": 3,
         "recent_matches": [
           {
@@ -2384,7 +2266,7 @@
         ],
         "recent_goals_avg": 5.0,
         "played": 2,
-        "rank": 11,
+        "rank": 12,
         "points": 3,
         "recent_matches": [
           {
@@ -2423,7 +2305,7 @@
         ],
         "recent_goals_avg": 4.5,
         "played": 2,
-        "rank": 10,
+        "rank": 11,
         "points": 3,
         "recent_matches": [
           {
@@ -2458,11 +2340,11 @@
       "away": "Hamburg SV",
       "date": "13.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.35 | X: 5.20 | MS2: 7.50",
+      "odds": "MS1: 1.35 | X: 5.20 | MS2: 7.00",
       "odds_detail": {
         "ms1": 1.35,
         "x": 5.2,
-        "ms2": 7.5
+        "ms2": 7.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -2473,12 +2355,12 @@
       "current_odds": {
         "ms1": 1.35,
         "x": 5.2,
-        "ms2": 7.5
+        "ms2": 7.0
       },
       "odds_change_pct": {
         "ms1": 1.5,
         "x": -1.89,
-        "ms2": -6.25
+        "ms2": -12.5
       },
       "odds_history": [
         {
@@ -2528,6 +2410,12 @@
           "ms1": 1.35,
           "x": 5.2,
           "ms2": 7.5
+        },
+        {
+          "timestamp": "2026-09-12T03:04:22.429731+03:00",
+          "ms1": 1.35,
+          "x": 5.2,
+          "ms2": 7.0
         }
       ],
       "home_stats": {
@@ -2542,7 +2430,7 @@
         ],
         "recent_goals_avg": 3.5,
         "played": 2,
-        "rank": 8,
+        "rank": 9,
         "points": 3,
         "recent_matches": [
           {
@@ -2847,14 +2735,15 @@
         "name": "1. FC Union Berlin",
         "away_avg_scored": 0.0,
         "away_avg_conceded": 4.0,
-        "shots_on_target_for": 5.0,
-        "shots_on_target_against": 6.5,
+        "shots_on_target_for": 6.0,
+        "shots_on_target_against": 7.67,
         "form": [
           "D",
+          "L",
           "L"
         ],
-        "recent_goals_avg": 5.0,
-        "played": 2,
+        "recent_goals_avg": 4.67,
+        "played": 3,
         "rank": 15,
         "points": 1,
         "recent_matches": [
@@ -2879,6 +2768,17 @@
             "sot_for": 0.0,
             "sot_against": 10.0,
             "date": "2026-09-05"
+          },
+          {
+            "opponent": "Schalke 04",
+            "score": "1 - 3",
+            "result": "L",
+            "venue": "home",
+            "goals_for": 1,
+            "goals_against": 3,
+            "sot_for": 8.0,
+            "sot_against": 10.0,
+            "date": "2026-09-11"
           }
         ]
       }
@@ -2938,7 +2838,7 @@
         ],
         "recent_goals_avg": 5.5,
         "played": 2,
-        "rank": 13,
+        "rank": 14,
         "points": 1,
         "recent_matches": [
           {
@@ -3060,7 +2960,7 @@
         ],
         "recent_goals_avg": 4.5,
         "played": 2,
-        "rank": 10,
+        "rank": 11,
         "points": 3,
         "recent_matches": [
           {
@@ -3343,7 +3243,7 @@
         ],
         "recent_goals_avg": 5.0,
         "played": 2,
-        "rank": 11,
+        "rank": 12,
         "points": 3,
         "recent_matches": [
           {
@@ -3438,7 +3338,7 @@
         ],
         "recent_goals_avg": 5.5,
         "played": 2,
-        "rank": 9,
+        "rank": 10,
         "points": 3,
         "recent_matches": [
           {
@@ -3560,7 +3460,7 @@
         ],
         "recent_goals_avg": 4.5,
         "played": 2,
-        "rank": 7,
+        "rank": 8,
         "points": 3,
         "recent_matches": [
           {
@@ -3599,7 +3499,7 @@
         ],
         "recent_goals_avg": 3.5,
         "played": 2,
-        "rank": 8,
+        "rank": 9,
         "points": 3,
         "recent_matches": [
           {
@@ -3634,10 +3534,10 @@
       "away": "SV Elversberg",
       "date": "20.09.2026",
       "time": "18:30",
-      "odds": "MS1: 2.00 | X: 3.60 | MS2: 3.40",
+      "odds": "MS1: 2.02 | X: 3.55 | MS2: 3.40",
       "odds_detail": {
-        "ms1": 2.0,
-        "x": 3.6,
+        "ms1": 2.02,
+        "x": 3.55,
         "ms2": 3.4
       },
       "odds_available": true,
@@ -3647,13 +3547,13 @@
         "ms2": 4.0
       },
       "current_odds": {
-        "ms1": 2.0,
-        "x": 3.6,
+        "ms1": 2.02,
+        "x": 3.55,
         "ms2": 3.4
       },
       "odds_change_pct": {
-        "ms1": 11.73,
-        "x": -4.0,
+        "ms1": 12.85,
+        "x": -5.33,
         "ms2": -15.0
       },
       "odds_history": [
@@ -3680,22 +3580,29 @@
           "ms1": 2.0,
           "x": 3.6,
           "ms2": 3.4
+        },
+        {
+          "timestamp": "2026-09-12T03:04:22.429731+03:00",
+          "ms1": 2.02,
+          "x": 3.55,
+          "ms2": 3.4
         }
       ],
       "home_stats": {
         "name": "Schalke 04",
         "home_avg_scored": 0.0,
         "home_avg_conceded": 0.0,
-        "shots_on_target_for": 3.0,
-        "shots_on_target_against": 9.0,
+        "shots_on_target_for": 5.33,
+        "shots_on_target_against": 8.67,
         "form": [
           "L",
-          "D"
+          "D",
+          "W"
         ],
-        "recent_goals_avg": 1.5,
-        "played": 2,
-        "rank": 14,
-        "points": 1,
+        "recent_goals_avg": 2.33,
+        "played": 3,
+        "rank": 7,
+        "points": 4,
         "recent_matches": [
           {
             "opponent": "FC Augsburg",
@@ -3718,6 +3625,17 @@
             "sot_for": 1.0,
             "sot_against": 5.0,
             "date": "2026-09-05"
+          },
+          {
+            "opponent": "1. FC Union Berlin",
+            "score": "3 - 1",
+            "result": "W",
+            "venue": "away",
+            "goals_for": 3,
+            "goals_against": 1,
+            "sot_for": 10.0,
+            "sot_against": 8.0,
+            "date": "2026-09-11"
           }
         ]
       },
@@ -3816,7 +3734,7 @@
         ],
         "recent_goals_avg": 0.5,
         "played": 2,
-        "rank": 12,
+        "rank": 13,
         "points": 1,
         "recent_matches": [
           {
