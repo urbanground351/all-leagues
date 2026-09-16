@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-15T15:04:26.850507+03:00",
+  "last_updated": "2026-09-16T03:04:08.936019+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -20,280 +20,44 @@
       "avg_scored": 4.2,
       "avg_conceded": 0.8,
       "win_rate": 100.0,
-      "matches": [
-        {
-          "opponent": "Elche",
-          "score": "5 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 5,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 2.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 10.0,
-          "sot_against": 0.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 9.0,
-          "sot_against": 5.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "5 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 5,
-          "goals_against": 0,
-          "sot_for": 10.0,
-          "sot_against": 2.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Levante",
-          "score": "4 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 4,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 7.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 3.5,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 4.67,
-      "away_avg_conceded": 0.67,
-      "shots_on_target_for": 8.4,
-      "shots_on_target_against": 3.2,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 4.2,
+      "home_avg_conceded": 0.8,
+      "away_avg_scored": 4.2,
+      "away_avg_conceded": 0.8,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 5.0,
-      "recent_matches": [
-        {
-          "opponent": "Elche",
-          "score": "5 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 5,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 2.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 10.0,
-          "sot_against": 0.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 9.0,
-          "sot_against": 5.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "5 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 5,
-          "goals_against": 0,
-          "sot_for": 10.0,
-          "sot_against": 2.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Levante",
-          "score": "4 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 4,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 7.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Real Madrid",
       "id": "86",
       "rank": 2,
-      "points": 12,
-      "played": 5,
-      "wins": 4,
+      "points": 15,
+      "played": 6,
+      "wins": 5,
       "draws": 0,
       "losses": 1,
-      "goals_for": 14,
-      "goals_against": 4,
-      "goal_diff": 10,
-      "avg_scored": 2.8,
-      "avg_conceded": 0.8,
-      "win_rate": 80.0,
-      "matches": [
-        {
-          "opponent": "Espanyol",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 8.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 11.0,
-          "sot_against": 3.0,
-          "date": "2026-08-26"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "4 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 0,
-          "sot_for": 8.0,
-          "sot_against": 1.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 8.0,
-          "sot_against": 5.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 11.0,
-          "sot_against": 7.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 4.0,
-      "home_avg_conceded": 0.67,
-      "away_avg_scored": 1.0,
+      "goals_for": 17,
+      "goals_against": 6,
+      "goal_diff": 11,
+      "avg_scored": 2.83,
+      "avg_conceded": 1.0,
+      "win_rate": 83.3,
+      "matches": [],
+      "home_avg_scored": 2.83,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 2.83,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 9.2,
-      "shots_on_target_against": 3.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "L",
-        "W"
-      ],
-      "recent_goals_avg": 3.6,
-      "recent_matches": [
-        {
-          "opponent": "Espanyol",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 8.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 11.0,
-          "sot_against": 3.0,
-          "date": "2026-08-26"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "4 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 0,
-          "sot_for": 8.0,
-          "sot_against": 1.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 8.0,
-          "sot_against": 5.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 11.0,
-          "sot_against": 7.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.83,
+      "recent_matches": []
     },
     {
       "name": "Real Betis",
@@ -310,280 +74,44 @@
       "avg_scored": 1.4,
       "avg_conceded": 1.2,
       "win_rate": 80.0,
-      "matches": [
-        {
-          "opponent": "Real Sociedad",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 3.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-25"
-        },
-        {
-          "opponent": "Levante",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 6.0,
-          "sot_against": 10.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 8.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 12.0,
-          "sot_against": 8.0,
-          "date": "2026-09-14"
-        }
-      ],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 0.0,
-      "away_avg_scored": 1.67,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 6.6,
-      "shots_on_target_against": 6.4,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "W",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 1.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.6,
-      "recent_matches": [
-        {
-          "opponent": "Real Sociedad",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 3.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-25"
-        },
-        {
-          "opponent": "Levante",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 6.0,
-          "sot_against": 10.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 8.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 12.0,
-          "sot_against": 8.0,
-          "date": "2026-09-14"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Alavés",
       "id": "96",
       "rank": 4,
       "points": 10,
-      "played": 5,
+      "played": 6,
       "wins": 3,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 11,
-      "goals_against": 5,
-      "goal_diff": 6,
-      "avg_scored": 2.2,
+      "goals_against": 6,
+      "goal_diff": 5,
+      "avg_scored": 1.83,
       "avg_conceded": 1.0,
-      "win_rate": 60.0,
-      "matches": [
-        {
-          "opponent": "Getafe",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 8.0,
-          "sot_against": 2.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-20"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 6.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 8.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 3.0,
-      "home_avg_conceded": 0.67,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": 5.6,
-      "shots_on_target_against": 4.0,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "D",
-        "W",
-        "W",
-        "L"
-      ],
-      "recent_goals_avg": 3.2,
-      "recent_matches": [
-        {
-          "opponent": "Getafe",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 8.0,
-          "sot_against": 2.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-20"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 6.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 8.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "win_rate": 50.0,
+      "matches": [],
+      "home_avg_scored": 1.83,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 1.83,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.83,
+      "recent_matches": []
     },
     {
       "name": "Atlético Madrid",
@@ -600,135 +128,17 @@
       "avg_scored": 2.0,
       "avg_conceded": 1.2,
       "win_rate": 60.0,
-      "matches": [
-        {
-          "opponent": "Málaga",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 1.0,
-          "date": "2026-08-19"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 6.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Sevilla",
-          "score": "3 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 3.0,
-          "date": "2026-09-13"
-        }
-      ],
+      "matches": [],
       "home_avg_scored": 2.0,
-      "home_avg_conceded": 1.0,
+      "home_avg_conceded": 1.2,
       "away_avg_scored": 2.0,
-      "away_avg_conceded": 1.33,
-      "shots_on_target_for": 5.0,
-      "shots_on_target_against": 3.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "D",
-        "W",
-        "L",
-        "W"
-      ],
+      "away_avg_conceded": 1.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.2,
-      "recent_matches": [
-        {
-          "opponent": "Málaga",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 1.0,
-          "date": "2026-08-19"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 6.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Sevilla",
-          "score": "3 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 3.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Sevilla",
@@ -745,135 +155,17 @@
       "avg_scored": 1.6,
       "avg_conceded": 1.2,
       "win_rate": 60.0,
-      "matches": [
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "3 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 8.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "1 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Espanyol",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 0.0,
-          "date": "2026-09-11"
-        }
-      ],
-      "home_avg_scored": 1.33,
-      "home_avg_conceded": 1.33,
-      "away_avg_scored": 2.0,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": 4.0,
-      "shots_on_target_against": 3.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "D",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.6,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 1.6,
+      "away_avg_conceded": 1.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.8,
-      "recent_matches": [
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "3 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 8.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "1 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Espanyol",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 0.0,
-          "date": "2026-09-11"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Deportivo",
@@ -890,280 +182,44 @@
       "avg_scored": 1.8,
       "avg_conceded": 1.2,
       "win_rate": 40.0,
-      "matches": [
-        {
-          "opponent": "Elche",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 6.0,
-          "date": "2026-08-17"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 2.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "3 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 4.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.67,
-      "away_avg_conceded": 1.33,
-      "shots_on_target_for": 3.4,
-      "shots_on_target_against": 4.2,
-      "shots_on_target_sample": 5,
-      "form": [
-        "D",
-        "D",
-        "W",
-        "W",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.8,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 1.8,
+      "away_avg_conceded": 1.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.0,
-      "recent_matches": [
-        {
-          "opponent": "Elche",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 6.0,
-          "date": "2026-08-17"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 2.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Valencia",
-          "score": "3 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 4.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Villarreal",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Espanyol",
       "id": "88",
       "rank": 8,
       "points": 7,
-      "played": 5,
+      "played": 6,
       "wins": 2,
       "draws": 1,
-      "losses": 2,
-      "goals_for": 8,
-      "goals_against": 5,
-      "goal_diff": 3,
-      "avg_scored": 1.6,
-      "avg_conceded": 1.0,
-      "win_rate": 40.0,
-      "matches": [
-        {
-          "opponent": "Levante",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 0.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 8.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 10.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Sevilla",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 1.67,
-      "home_avg_conceded": 1.0,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 7,
+      "goal_diff": 2,
+      "avg_scored": 1.5,
+      "avg_conceded": 1.17,
+      "win_rate": 33.3,
+      "matches": [],
+      "home_avg_scored": 1.5,
+      "home_avg_conceded": 1.17,
       "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": 3.6,
-      "shots_on_target_against": 5.0,
-      "shots_on_target_sample": 5,
-      "form": [
-        "W",
-        "L",
-        "L",
-        "D",
-        "W"
-      ],
-      "recent_goals_avg": 2.6,
-      "recent_matches": [
-        {
-          "opponent": "Levante",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 0.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 8.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 10.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Sevilla",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "away_avg_conceded": 1.17,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.67,
+      "recent_matches": []
     },
     {
       "name": "Athletic Club",
@@ -1180,135 +236,17 @@
       "avg_scored": 1.4,
       "avg_conceded": 1.2,
       "win_rate": 40.0,
-      "matches": [
-        {
-          "opponent": "Sevilla",
-          "score": "1 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 3,
-          "sot_for": 8.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 10.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 2.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Elche",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 1.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 1.67,
-      "home_avg_conceded": 1.33,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": 4.4,
-      "shots_on_target_against": 4.4,
-      "shots_on_target_sample": 5,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "W",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 1.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.6,
-      "recent_matches": [
-        {
-          "opponent": "Sevilla",
-          "score": "1 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 3,
-          "sot_for": 8.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 0.0,
-          "sot_against": 10.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 2.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Elche",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 1.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Racing Santander",
@@ -1325,135 +263,17 @@
       "avg_scored": 1.8,
       "avg_conceded": 1.8,
       "win_rate": 40.0,
-      "matches": [
-        {
-          "opponent": "Villarreal",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 7.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 1.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Elche",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 7.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 10.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 8.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 2.33,
-      "home_avg_conceded": 1.67,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 4.0,
-      "shots_on_target_against": 6.6,
-      "shots_on_target_sample": 5,
-      "form": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.8,
+      "home_avg_conceded": 1.8,
+      "away_avg_scored": 1.8,
+      "away_avg_conceded": 1.8,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.6,
-      "recent_matches": [
-        {
-          "opponent": "Villarreal",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 7.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 1.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Elche",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 7.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Rayo Vallecano",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 10.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 8.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Osasuna",
@@ -1470,140 +290,49 @@
       "avg_scored": 1.0,
       "avg_conceded": 1.6,
       "win_rate": 40.0,
-      "matches": [
-        {
-          "opponent": "Levante",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 1.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 1.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Espanyol",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 0.33,
-      "home_avg_conceded": 0.67,
-      "away_avg_scored": 2.0,
-      "away_avg_conceded": 3.0,
-      "shots_on_target_for": 4.6,
-      "shots_on_target_against": 2.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "D",
-        "W",
-        "W",
-        "L",
-        "L"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.0,
+      "home_avg_conceded": 1.6,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 1.6,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.6,
-      "recent_matches": [
-        {
-          "opponent": "Levante",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 1.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 1.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Espanyol",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
+    },
+    {
+      "name": "Rayo Vallecano",
+      "id": "101",
+      "rank": 12,
+      "points": 7,
+      "played": 6,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 10,
+      "goals_against": 15,
+      "goal_diff": -5,
+      "avg_scored": 1.67,
+      "avg_conceded": 2.5,
+      "win_rate": 33.3,
+      "matches": [],
+      "home_avg_scored": 1.67,
+      "home_avg_conceded": 2.5,
+      "away_avg_scored": 1.67,
+      "away_avg_conceded": 2.5,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 4.17,
+      "recent_matches": []
     },
     {
       "name": "Real Sociedad",
       "id": "89",
-      "rank": 12,
+      "rank": 13,
       "points": 7,
       "played": 6,
       "wins": 2,
@@ -1615,151 +344,22 @@
       "avg_scored": 1.0,
       "avg_conceded": 1.83,
       "win_rate": 33.3,
-      "matches": [
-        {
-          "opponent": "Real Betis",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 7.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 3.0,
-          "sot_against": 11.0,
-          "date": "2026-08-26"
-        },
-        {
-          "opponent": "Espanyol",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 10.0,
-          "sot_against": 3.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-03"
-        },
-        {
-          "opponent": "Elche",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 10.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 3.0,
-          "sot_against": 5.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 0.67,
-      "home_avg_conceded": 1.33,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 2.33,
-      "shots_on_target_for": 5.0,
-      "shots_on_target_against": 6.33,
-      "shots_on_target_sample": 6,
-      "form": [
-        "L",
-        "W",
-        "D",
-        "W",
-        "L"
-      ],
-      "recent_goals_avg": 3.2,
-      "recent_matches": [
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 3.0,
-          "sot_against": 11.0,
-          "date": "2026-08-26"
-        },
-        {
-          "opponent": "Espanyol",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 10.0,
-          "sot_against": 3.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-03"
-        },
-        {
-          "opponent": "Elche",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 10.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 3.0,
-          "sot_against": 5.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "matches": [],
+      "home_avg_scored": 1.0,
+      "home_avg_conceded": 1.83,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 1.83,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.83,
+      "recent_matches": []
     },
     {
       "name": "Levante",
       "id": "1538",
-      "rank": 13,
+      "rank": 14,
       "points": 5,
       "played": 5,
       "wins": 1,
@@ -1771,140 +371,22 @@
       "avg_scored": 1.4,
       "avg_conceded": 1.8,
       "win_rate": 20.0,
-      "matches": [
-        {
-          "opponent": "Espanyol",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 0.0,
-          "sot_against": 6.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 7.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 10.0,
-          "sot_against": 6.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "2 - 4",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 4,
-          "sot_for": 7.0,
-          "sot_against": 6.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 3.5,
-      "home_avg_conceded": 3.0,
-      "away_avg_scored": 0.0,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": 4.2,
-      "shots_on_target_against": 5.6,
-      "shots_on_target_sample": 5,
-      "form": [
-        "L",
-        "D",
-        "W",
-        "D",
-        "L"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 1.8,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 1.8,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.2,
-      "recent_matches": [
-        {
-          "opponent": "Espanyol",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 0.0,
-          "sot_against": 6.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 7.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 10.0,
-          "sot_against": 6.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "2 - 4",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 4,
-          "sot_for": 7.0,
-          "sot_against": 6.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Getafe",
       "id": "2922",
-      "rank": 14,
+      "rank": 15,
       "points": 5,
       "played": 5,
       "wins": 1,
@@ -1916,140 +398,22 @@
       "avg_scored": 0.6,
       "avg_conceded": 1.2,
       "win_rate": 20.0,
-      "matches": [
-        {
-          "opponent": "Alavés",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 2.0,
-          "sot_against": 8.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 3.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 1.0,
-          "sot_against": 2.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 0.67,
-      "away_avg_scored": 0.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 2.0,
-      "shots_on_target_against": 3.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "D",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 0.6,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 0.6,
+      "away_avg_conceded": 1.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 1.8,
-      "recent_matches": [
-        {
-          "opponent": "Alavés",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 2.0,
-          "sot_against": 8.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 3.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 1.0,
-          "sot_against": 2.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Celta Vigo",
       "id": "85",
-      "rank": 15,
+      "rank": 16,
       "points": 4,
       "played": 6,
       "wins": 0,
@@ -2061,296 +425,49 @@
       "avg_scored": 0.5,
       "avg_conceded": 1.0,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Valencia",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Osasuna",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 7.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-03"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 0.67,
-      "home_avg_conceded": 1.67,
-      "away_avg_scored": 0.33,
-      "away_avg_conceded": 0.33,
-      "shots_on_target_for": 2.83,
-      "shots_on_target_against": 3.83,
-      "shots_on_target_sample": 6,
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
-      "recent_goals_avg": 1.8,
-      "recent_matches": [
-        {
-          "opponent": "Osasuna",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-08-27"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 7.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-03"
-        },
-        {
-          "opponent": "Getafe",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Málaga",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "matches": [],
+      "home_avg_scored": 0.5,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 0.5,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 1.5,
+      "recent_matches": []
     },
     {
-      "name": "Rayo Vallecano",
-      "id": "101",
-      "rank": 16,
+      "name": "Valencia",
+      "id": "94",
+      "rank": 17,
       "points": 4,
-      "played": 5,
+      "played": 6,
       "wins": 1,
       "draws": 1,
-      "losses": 3,
-      "goals_for": 8,
-      "goals_against": 14,
-      "goal_diff": -6,
-      "avg_scored": 1.6,
-      "avg_conceded": 2.8,
-      "win_rate": 20.0,
-      "matches": [
-        {
-          "opponent": "Sevilla",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-20"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 5.0,
-          "sot_against": 9.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 10.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 7.0,
-          "sot_against": 11.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 3.67,
-      "shots_on_target_for": 5.6,
-      "shots_on_target_against": 6.2,
-      "shots_on_target_sample": 5,
-      "form": [
-        "L",
-        "D",
-        "L",
-        "W",
-        "L"
-      ],
-      "recent_goals_avg": 4.4,
-      "recent_matches": [
-        {
-          "opponent": "Sevilla",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-08-15"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-20"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 5.0,
-          "sot_against": 9.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 10.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 7.0,
-          "sot_against": 11.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "losses": 4,
+      "goals_for": 2,
+      "goals_against": 10,
+      "goal_diff": -8,
+      "avg_scored": 0.33,
+      "avg_conceded": 1.67,
+      "win_rate": 16.7,
+      "matches": [],
+      "home_avg_scored": 0.33,
+      "home_avg_conceded": 1.67,
+      "away_avg_scored": 0.33,
+      "away_avg_conceded": 1.67,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.0,
+      "recent_matches": []
     },
     {
       "name": "Málaga",
       "id": "99",
-      "rank": 17,
+      "rank": 18,
       "points": 3,
       "played": 5,
       "wins": 0,
@@ -2362,140 +479,22 @@
       "avg_scored": 0.4,
       "avg_conceded": 1.6,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Atlético Madrid",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 1.0,
-          "sot_against": 6.0,
-          "date": "2026-08-19"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 4.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "0 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 4,
-          "sot_for": 1.0,
-          "sot_against": 8.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Levante",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 0.5,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 0.33,
-      "away_avg_conceded": 2.33,
-      "shots_on_target_for": 1.8,
-      "shots_on_target_against": 5.2,
-      "shots_on_target_sample": 5,
-      "form": [
-        "L",
-        "D",
-        "L",
-        "D",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 0.4,
+      "home_avg_conceded": 1.6,
+      "away_avg_scored": 0.4,
+      "away_avg_conceded": 1.6,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.0,
-      "recent_matches": [
-        {
-          "opponent": "Atlético Madrid",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 1.0,
-          "sot_against": 6.0,
-          "date": "2026-08-19"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 4.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Real Madrid",
-          "score": "0 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 4,
-          "sot_for": 1.0,
-          "sot_against": 8.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Levante",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Celta Vigo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Villarreal",
       "id": "102",
-      "rank": 18,
+      "rank": 19,
       "points": 2,
       "played": 5,
       "wins": 0,
@@ -2507,1154 +506,47 @@
       "avg_scored": 1.4,
       "avg_conceded": 2.0,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Racing Santander",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 3.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 4.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 2.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 3.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 8.0,
-          "sot_against": 12.0,
-          "date": "2026-09-14"
-        }
-      ],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 2.5,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 1.67,
-      "shots_on_target_for": 6.4,
-      "shots_on_target_against": 4.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "D",
-        "D",
-        "L",
-        "L",
-        "L"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 2.0,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 2.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.4,
-      "recent_matches": [
-        {
-          "opponent": "Racing Santander",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 3.0,
-          "date": "2026-08-16"
-        },
-        {
-          "opponent": "Atlético Madrid",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 4.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Alavés",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 2.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 5.0,
-          "sot_against": 3.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 8.0,
-          "sot_against": 12.0,
-          "date": "2026-09-14"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Elche",
       "id": "3751",
-      "rank": 19,
+      "rank": 20,
       "points": 2,
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 2,
-      "losses": 3,
-      "goals_for": 6,
-      "goals_against": 13,
-      "goal_diff": -7,
-      "avg_scored": 1.2,
-      "avg_conceded": 2.6,
-      "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 3.0,
-          "date": "2026-08-17"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "0 - 5",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 5,
-          "sot_for": 2.0,
-          "sot_against": 7.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 7.0,
-          "sot_against": 6.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 10.0,
-          "sot_against": 6.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 1.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 4.0,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 1.67,
-      "shots_on_target_for": 5.2,
-      "shots_on_target_against": 5.0,
-      "shots_on_target_sample": 5,
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "recent_goals_avg": 3.8,
-      "recent_matches": [
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 3.0,
-          "date": "2026-08-17"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "0 - 5",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 5,
-          "sot_for": 2.0,
-          "sot_against": 7.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Racing Santander",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 7.0,
-          "sot_against": 6.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Real Sociedad",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 10.0,
-          "sot_against": 6.0,
-          "date": "2026-09-07"
-        },
-        {
-          "opponent": "Athletic Club",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 1.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ]
-    },
-    {
-      "name": "Valencia",
-      "id": "94",
-      "rank": 20,
-      "points": 1,
-      "played": 5,
-      "wins": 0,
-      "draws": 1,
       "losses": 4,
-      "goals_for": 1,
-      "goals_against": 10,
-      "goal_diff": -9,
-      "avg_scored": 0.2,
-      "avg_conceded": 2.0,
+      "goals_for": 8,
+      "goals_against": 16,
+      "goal_diff": -8,
+      "avg_scored": 1.33,
+      "avg_conceded": 2.67,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Celta Vigo",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-25"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 4.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "0 - 5",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 5,
-          "sot_for": 2.0,
-          "sot_against": 10.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Sevilla",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 4.0,
-          "date": "2026-09-11"
-        }
-      ],
-      "home_avg_scored": 0.0,
-      "home_avg_conceded": 2.0,
-      "away_avg_scored": 0.5,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 2.2,
-      "shots_on_target_against": 4.8,
-      "shots_on_target_sample": 5,
-      "form": [
-        "D",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "recent_goals_avg": 2.2,
-      "recent_matches": [
-        {
-          "opponent": "Celta Vigo",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Real Betis",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 3.0,
-          "date": "2026-08-25"
-        },
-        {
-          "opponent": "Deportivo",
-          "score": "1 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 4.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Barcelona",
-          "score": "0 - 5",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 5,
-          "sot_for": 2.0,
-          "sot_against": 10.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Sevilla",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 4.0,
-          "date": "2026-09-11"
-        }
-      ]
+      "matches": [],
+      "home_avg_scored": 1.33,
+      "home_avg_conceded": 2.67,
+      "away_avg_scored": 1.33,
+      "away_avg_conceded": 2.67,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 4.0,
+      "recent_matches": []
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028208772,
-      "home": "Rayo Vallecano",
-      "away": "Espanyol",
-      "date": "15.09.2026",
-      "time": "20:00",
-      "odds": "MS1: 2.32 | X: 3.25 | MS2: 3.15",
-      "odds_detail": {
-        "ms1": 2.32,
-        "x": 3.25,
-        "ms2": 3.15
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.86,
-        "x": 3.6,
-        "ms2": 4.0
-      },
-      "current_odds": {
-        "ms1": 2.32,
-        "x": 3.25,
-        "ms2": 3.15
-      },
-      "odds_change_pct": {
-        "ms1": 24.73,
-        "x": -9.72,
-        "ms2": -21.25
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-08T03:05:14.589867+03:00",
-          "ms1": 1.86,
-          "x": 3.6,
-          "ms2": 4.0
-        },
-        {
-          "timestamp": "2026-09-09T15:04:21.972642+03:00",
-          "ms1": 1.86,
-          "x": 3.55,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-09-10T15:04:34.365924+03:00",
-          "ms1": 1.85,
-          "x": 3.6,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-09-11T03:04:56.094380+03:00",
-          "ms1": 1.92,
-          "x": 3.55,
-          "ms2": 3.95
-        },
-        {
-          "timestamp": "2026-09-12T03:04:22.072400+03:00",
-          "ms1": 2.02,
-          "x": 3.55,
-          "ms2": 3.8
-        },
-        {
-          "timestamp": "2026-09-12T15:03:48.099355+03:00",
-          "ms1": 2.02,
-          "x": 3.55,
-          "ms2": 3.6
-        },
-        {
-          "timestamp": "2026-09-13T03:04:49.398553+03:00",
-          "ms1": 2.02,
-          "x": 3.65,
-          "ms2": 3.7
-        },
-        {
-          "timestamp": "2026-09-14T03:05:21.844597+03:00",
-          "ms1": 2.18,
-          "x": 3.5,
-          "ms2": 3.35
-        },
-        {
-          "timestamp": "2026-09-14T15:04:38.253831+03:00",
-          "ms1": 2.18,
-          "x": 3.45,
-          "ms2": 3.4
-        },
-        {
-          "timestamp": "2026-09-15T03:04:44.242803+03:00",
-          "ms1": 2.28,
-          "x": 3.4,
-          "ms2": 3.25
-        },
-        {
-          "timestamp": "2026-09-15T15:04:26.850507+03:00",
-          "ms1": 2.32,
-          "x": 3.25,
-          "ms2": 3.15
-        }
-      ],
-      "home_stats": {
-        "name": "Rayo Vallecano",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": 5.6,
-        "shots_on_target_against": 6.2,
-        "form": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "recent_goals_avg": 4.4,
-        "played": 5,
-        "rank": 16,
-        "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Sevilla",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-20"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 5.0,
-            "sot_against": 9.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 10.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 4,
-            "sot_for": 7.0,
-            "sot_against": 11.0,
-            "date": "2026-09-12"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "Espanyol",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": 3.6,
-        "shots_on_target_against": 5.0,
-        "form": [
-          "W",
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "recent_goals_avg": 2.6,
-        "played": 5,
-        "rank": 8,
-        "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Levante",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 6.0,
-            "sot_against": 0.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 8.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 10.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Sevilla",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-09-12"
-          }
-        ]
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028208784,
-      "home": "Alavés",
-      "away": "Valencia",
-      "date": "15.09.2026",
-      "time": "21:00",
-      "odds": "MS1: 1.70 | X: 3.50 | MS2: 5.50",
-      "odds_detail": {
-        "ms1": 1.7,
-        "x": 3.5,
-        "ms2": 5.5
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.25,
-        "x": 3.05,
-        "ms2": 3.4
-      },
-      "current_odds": {
-        "ms1": 1.7,
-        "x": 3.5,
-        "ms2": 5.5
-      },
-      "odds_change_pct": {
-        "ms1": -24.44,
-        "x": 14.75,
-        "ms2": 61.76
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-08T03:05:14.589867+03:00",
-          "ms1": 2.25,
-          "x": 3.05,
-          "ms2": 3.4
-        },
-        {
-          "timestamp": "2026-09-08T15:04:51.680206+03:00",
-          "ms1": 2.23,
-          "x": 3.05,
-          "ms2": 3.45
-        },
-        {
-          "timestamp": "2026-09-10T15:04:34.365924+03:00",
-          "ms1": 2.25,
-          "x": 3.1,
-          "ms2": 3.45
-        },
-        {
-          "timestamp": "2026-09-11T03:04:56.094380+03:00",
-          "ms1": 2.12,
-          "x": 3.2,
-          "ms2": 3.85
-        },
-        {
-          "timestamp": "2026-09-12T03:04:22.072400+03:00",
-          "ms1": 1.98,
-          "x": 3.3,
-          "ms2": 4.3
-        },
-        {
-          "timestamp": "2026-09-13T03:04:49.398553+03:00",
-          "ms1": 1.96,
-          "x": 3.4,
-          "ms2": 4.25
-        },
-        {
-          "timestamp": "2026-09-14T03:05:21.844597+03:00",
-          "ms1": 1.95,
-          "x": 3.3,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-09-14T15:04:38.253831+03:00",
-          "ms1": 1.89,
-          "x": 3.35,
-          "ms2": 4.35
-        },
-        {
-          "timestamp": "2026-09-15T03:04:44.242803+03:00",
-          "ms1": 1.85,
-          "x": 3.4,
-          "ms2": 4.9
-        },
-        {
-          "timestamp": "2026-09-15T15:04:26.850507+03:00",
-          "ms1": 1.7,
-          "x": 3.5,
-          "ms2": 5.5
-        }
-      ],
-      "home_stats": {
-        "name": "Alavés",
-        "home_avg_scored": 3.0,
-        "home_avg_conceded": 0.67,
-        "shots_on_target_for": 5.6,
-        "shots_on_target_against": 4.0,
-        "form": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "recent_goals_avg": 3.2,
-        "played": 5,
-        "rank": 4,
-        "points": 10,
-        "recent_matches": [
-          {
-            "opponent": "Getafe",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 8.0,
-            "sot_against": 2.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-20"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 6.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 5.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 8.0,
-            "sot_against": 4.0,
-            "date": "2026-09-12"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "Valencia",
-        "away_avg_scored": 0.5,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 2.2,
-        "shots_on_target_against": 4.8,
-        "form": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "recent_goals_avg": 2.2,
-        "played": 5,
-        "rank": 20,
-        "points": 1,
-        "recent_matches": [
-          {
-            "opponent": "Celta Vigo",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-25"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 4.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "0 - 5",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 5,
-            "sot_for": 2.0,
-            "sot_against": 10.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Sevilla",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 4.0,
-            "date": "2026-09-11"
-          }
-        ]
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028208765,
-      "home": "Elche",
-      "away": "Real Madrid",
-      "date": "15.09.2026",
-      "time": "22:30",
-      "odds": "MS1: 12.50 | X: 7.50 | MS2: 1.19",
-      "odds_detail": {
-        "ms1": 12.5,
-        "x": 7.5,
-        "ms2": 1.19
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 9.5,
-        "x": 6.0,
-        "ms2": 1.26
-      },
-      "current_odds": {
-        "ms1": 12.5,
-        "x": 7.5,
-        "ms2": 1.19
-      },
-      "odds_change_pct": {
-        "ms1": 31.58,
-        "x": 25.0,
-        "ms2": -5.56
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-08T03:05:14.589867+03:00",
-          "ms1": 9.5,
-          "x": 6.0,
-          "ms2": 1.26
-        },
-        {
-          "timestamp": "2026-09-08T15:04:51.680206+03:00",
-          "ms1": 9.5,
-          "x": 5.8,
-          "ms2": 1.27
-        },
-        {
-          "timestamp": "2026-09-10T03:04:49.042367+03:00",
-          "ms1": 9.0,
-          "x": 5.6,
-          "ms2": 1.29
-        },
-        {
-          "timestamp": "2026-09-10T15:04:34.365924+03:00",
-          "ms1": 9.5,
-          "x": 6.0,
-          "ms2": 1.3
-        },
-        {
-          "timestamp": "2026-09-13T03:04:49.398553+03:00",
-          "ms1": 10.0,
-          "x": 6.1,
-          "ms2": 1.29
-        },
-        {
-          "timestamp": "2026-09-14T03:05:21.844597+03:00",
-          "ms1": 9.5,
-          "x": 6.1,
-          "ms2": 1.27
-        },
-        {
-          "timestamp": "2026-09-14T15:04:38.253831+03:00",
-          "ms1": 10.5,
-          "x": 6.4,
-          "ms2": 1.24
-        },
-        {
-          "timestamp": "2026-09-15T03:04:44.242803+03:00",
-          "ms1": 12.5,
-          "x": 7.0,
-          "ms2": 1.22
-        },
-        {
-          "timestamp": "2026-09-15T15:04:26.850507+03:00",
-          "ms1": 12.5,
-          "x": 7.5,
-          "ms2": 1.19
-        }
-      ],
-      "home_stats": {
-        "name": "Elche",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 4.0,
-        "shots_on_target_for": 5.2,
-        "shots_on_target_against": 5.0,
-        "form": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "recent_goals_avg": 3.8,
-        "played": 5,
-        "rank": 19,
-        "points": 2,
-        "recent_matches": [
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 3.0,
-            "date": "2026-08-17"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "0 - 5",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 5,
-            "sot_for": 2.0,
-            "sot_against": 7.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 7.0,
-            "sot_against": 6.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 10.0,
-            "sot_against": 6.0,
-            "date": "2026-09-07"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 1.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
-      },
-      "away_stats": {
-        "name": "Real Madrid",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": 9.2,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "recent_goals_avg": 3.6,
-        "played": 5,
-        "rank": 2,
-        "points": 12,
-        "recent_matches": [
-          {
-            "opponent": "Espanyol",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 8.0,
-            "sot_against": 3.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 11.0,
-            "sot_against": 3.0,
-            "date": "2026-08-26"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "4 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 0,
-            "sot_for": 8.0,
-            "sot_against": 1.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 8.0,
-            "sot_against": 5.0,
-            "date": "2026-09-04"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 11.0,
-            "sot_against": 7.0,
-            "date": "2026-09-12"
-          }
-        ]
-      }
-    },
     {
       "league": "Spanish LALIGA",
       "event_id": 1028208778,
@@ -3662,11 +554,11 @@
       "away": "Osasuna",
       "date": "16.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.38 | X: 4.80 | MS2: 8.00",
+      "odds": "MS1: 1.35 | X: 5.00 | MS2: 8.50",
       "odds_detail": {
-        "ms1": 1.38,
-        "x": 4.8,
-        "ms2": 8.0
+        "ms1": 1.35,
+        "x": 5.0,
+        "ms2": 8.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -3675,14 +567,14 @@
         "ms2": 6.5
       },
       "current_odds": {
-        "ms1": 1.38,
-        "x": 4.8,
-        "ms2": 8.0
+        "ms1": 1.35,
+        "x": 5.0,
+        "ms2": 8.5
       },
       "odds_change_pct": {
-        "ms1": -8.0,
-        "x": 17.07,
-        "ms2": 23.08
+        "ms1": -10.0,
+        "x": 21.95,
+        "ms2": 30.77
       },
       "odds_history": [
         {
@@ -3720,157 +612,39 @@
           "ms1": 1.38,
           "x": 4.8,
           "ms2": 8.0
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 1.35,
+          "x": 5.0,
+          "ms2": 8.5
         }
       ],
       "home_stats": {
         "name": "Atlético Madrid",
         "home_avg_scored": 2.0,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 5.0,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "W"
-        ],
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.2,
         "played": 5,
         "rank": 5,
         "points": 10,
-        "recent_matches": [
-          {
-            "opponent": "Málaga",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 6.0,
-            "sot_against": 1.0,
-            "date": "2026-08-19"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 6.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Sevilla",
-            "score": "3 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 5.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 3.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Osasuna",
-        "away_avg_scored": 2.0,
-        "away_avg_conceded": 3.0,
-        "shots_on_target_for": 4.6,
-        "shots_on_target_against": 2.8,
-        "form": [
-          "D",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
         "rank": 11,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Levante",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 1.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 1.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 5.0,
-            "sot_against": 7.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Espanyol",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -3880,10 +654,10 @@
       "away": "Sevilla",
       "date": "16.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.48 | X: 3.15 | MS2: 3.00",
+      "odds": "MS1: 2.48 | X: 3.10 | MS2: 3.00",
       "odds_detail": {
         "ms1": 2.48,
-        "x": 3.15,
+        "x": 3.1,
         "ms2": 3.0
       },
       "odds_available": true,
@@ -3894,12 +668,12 @@
       },
       "current_odds": {
         "ms1": 2.48,
-        "x": 3.15,
+        "x": 3.1,
         "ms2": 3.0
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 3.28,
+        "x": 1.64,
         "ms2": 0.0
       },
       "odds_history": [
@@ -3926,157 +700,39 @@
           "ms1": 2.48,
           "x": 3.15,
           "ms2": 3.0
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 2.48,
+          "x": 3.1,
+          "ms2": 3.0
         }
       ],
       "home_stats": {
         "name": "Deportivo",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 3.4,
-        "shots_on_target_against": 4.2,
-        "form": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "D"
-        ],
+        "home_avg_scored": 1.8,
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.0,
         "played": 5,
         "rank": 7,
         "points": 9,
-        "recent_matches": [
-          {
-            "opponent": "Elche",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 6.0,
-            "date": "2026-08-17"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 2.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "3 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 4.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Sevilla",
-        "away_avg_scored": 2.0,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "W",
-          "W",
-          "L",
-          "D",
-          "W"
-        ],
+        "away_avg_scored": 1.6,
+        "away_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.8,
         "played": 5,
         "rank": 6,
         "points": 10,
-        "recent_matches": [
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "3 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 8.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "1 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 5.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Espanyol",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 0.0,
-            "date": "2026-09-11"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -4086,11 +742,11 @@
       "away": "Racing Santander",
       "date": "16.09.2026",
       "time": "22:30",
-      "odds": "MS1: 1.06 | X: 14.00 | MS2: 26.00",
+      "odds": "MS1: 1.05 | X: 15.00 | MS2: 29.00",
       "odds_detail": {
-        "ms1": 1.06,
-        "x": 14.0,
-        "ms2": 26.0
+        "ms1": 1.05,
+        "x": 15.0,
+        "ms2": 29.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -4099,14 +755,14 @@
         "ms2": 19.0
       },
       "current_odds": {
-        "ms1": 1.06,
-        "x": 14.0,
-        "ms2": 26.0
+        "ms1": 1.05,
+        "x": 15.0,
+        "ms2": 29.0
       },
       "odds_change_pct": {
-        "ms1": -3.64,
-        "x": 33.33,
-        "ms2": 36.84
+        "ms1": -4.55,
+        "x": 42.86,
+        "ms2": 52.63
       },
       "odds_history": [
         {
@@ -4144,157 +800,39 @@
           "ms1": 1.06,
           "x": 14.0,
           "ms2": 26.0
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 1.05,
+          "x": 15.0,
+          "ms2": 29.0
         }
       ],
       "home_stats": {
         "name": "Barcelona",
-        "home_avg_scored": 3.5,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 8.4,
-        "shots_on_target_against": 3.2,
-        "form": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
+        "home_avg_scored": 4.2,
+        "home_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 5.0,
         "played": 5,
         "rank": 1,
         "points": 15,
-        "recent_matches": [
-          {
-            "opponent": "Elche",
-            "score": "5 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 5,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 2.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 10.0,
-            "sot_against": 0.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 9.0,
-            "sot_against": 5.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "5 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 5,
-            "goals_against": 0,
-            "sot_for": 10.0,
-            "sot_against": 2.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Levante",
-            "score": "4 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 4,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 7.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Racing Santander",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 6.6,
-        "form": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
+        "away_avg_scored": 1.8,
+        "away_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.6,
         "played": 5,
         "rank": 10,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Villarreal",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 7.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 1.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Elche",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 7.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 10.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 8.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -4304,11 +842,11 @@
       "away": "Athletic Club",
       "date": "16.09.2026",
       "time": "22:30",
-      "odds": "MS1: 3.30 | X: 3.50 | MS2: 2.14",
+      "odds": "MS1: 3.45 | X: 3.45 | MS2: 2.08",
       "odds_detail": {
-        "ms1": 3.3,
-        "x": 3.5,
-        "ms2": 2.14
+        "ms1": 3.45,
+        "x": 3.45,
+        "ms2": 2.08
       },
       "odds_available": true,
       "opening_odds": {
@@ -4317,14 +855,14 @@
         "ms2": 2.25
       },
       "current_odds": {
-        "ms1": 3.3,
-        "x": 3.5,
-        "ms2": 2.14
+        "ms1": 3.45,
+        "x": 3.45,
+        "ms2": 2.08
       },
       "odds_change_pct": {
-        "ms1": 4.76,
-        "x": 6.06,
-        "ms2": -4.89
+        "ms1": 9.52,
+        "x": 4.55,
+        "ms2": -7.56
       },
       "odds_history": [
         {
@@ -4368,157 +906,39 @@
           "ms1": 3.3,
           "x": 3.5,
           "ms2": 2.14
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 3.45,
+          "x": 3.45,
+          "ms2": 2.08
         }
       ],
       "home_stats": {
         "name": "Levante",
-        "home_avg_scored": 3.5,
-        "home_avg_conceded": 3.0,
-        "shots_on_target_for": 4.2,
-        "shots_on_target_against": 5.6,
-        "form": [
-          "L",
-          "D",
-          "W",
-          "D",
-          "L"
-        ],
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.2,
         "played": 5,
-        "rank": 13,
+        "rank": 14,
         "points": 5,
-        "recent_matches": [
-          {
-            "opponent": "Espanyol",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 0.0,
-            "sot_against": 6.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 1.0,
-            "sot_against": 7.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 10.0,
-            "sot_against": 6.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "2 - 4",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 4,
-            "sot_for": 7.0,
-            "sot_against": 6.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Athletic Club",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": 4.4,
-        "shots_on_target_against": 4.4,
-        "form": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "D"
-        ],
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
         "rank": 9,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Sevilla",
-            "score": "1 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 3,
-            "sot_for": 8.0,
-            "sot_against": 4.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 0.0,
-            "sot_against": 10.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 2.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Elche",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 1.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -4528,11 +948,11 @@
       "away": "Getafe",
       "date": "17.09.2026",
       "time": "20:00",
-      "odds": "MS1: 1.70 | X: 3.60 | MS2: 5.30",
+      "odds": "MS1: 1.66 | X: 3.65 | MS2: 5.60",
       "odds_detail": {
-        "ms1": 1.7,
-        "x": 3.6,
-        "ms2": 5.3
+        "ms1": 1.66,
+        "x": 3.65,
+        "ms2": 5.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -4541,14 +961,14 @@
         "ms2": 4.6
       },
       "current_odds": {
-        "ms1": 1.7,
-        "x": 3.6,
-        "ms2": 5.3
+        "ms1": 1.66,
+        "x": 3.65,
+        "ms2": 5.6
       },
       "odds_change_pct": {
-        "ms1": -6.59,
-        "x": 7.46,
-        "ms2": 15.22
+        "ms1": -8.79,
+        "x": 8.96,
+        "ms2": 21.74
       },
       "odds_history": [
         {
@@ -4586,157 +1006,39 @@
           "ms1": 1.7,
           "x": 3.6,
           "ms2": 5.3
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 1.66,
+          "x": 3.65,
+          "ms2": 5.6
         }
       ],
       "home_stats": {
         "name": "Real Betis",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 0.0,
-        "shots_on_target_for": 6.6,
-        "shots_on_target_against": 6.4,
-        "form": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
         "rank": 3,
         "points": 12,
-        "recent_matches": [
-          {
-            "opponent": "Real Sociedad",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 3.0,
-            "date": "2026-08-21"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-25"
-          },
-          {
-            "opponent": "Levante",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 6.0,
-            "sot_against": 10.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 8.0,
-            "date": "2026-09-04"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 12.0,
-            "sot_against": 8.0,
-            "date": "2026-09-14"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Getafe",
-        "away_avg_scored": 0.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 2.0,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "D"
-        ],
+        "away_avg_scored": 0.6,
+        "away_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 1.8,
         "played": 5,
-        "rank": 14,
+        "rank": 15,
         "points": 5,
-        "recent_matches": [
-          {
-            "opponent": "Alavés",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 2.0,
-            "sot_against": 8.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 1.0,
-            "sot_against": 3.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 1.0,
-            "sot_against": 2.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-09-07"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -4746,10 +1048,10 @@
       "away": "Villarreal",
       "date": "17.09.2026",
       "time": "22:30",
-      "odds": "MS1: 3.60 | X: 3.65 | MS2: 1.98",
+      "odds": "MS1: 3.65 | X: 3.60 | MS2: 1.98",
       "odds_detail": {
-        "ms1": 3.6,
-        "x": 3.65,
+        "ms1": 3.65,
+        "x": 3.6,
         "ms2": 1.98
       },
       "odds_available": true,
@@ -4759,13 +1061,13 @@
         "ms2": 1.96
       },
       "current_odds": {
-        "ms1": 3.6,
-        "x": 3.65,
+        "ms1": 3.65,
+        "x": 3.6,
         "ms2": 1.98
       },
       "odds_change_pct": {
-        "ms1": -2.7,
-        "x": 4.29,
+        "ms1": -1.35,
+        "x": 2.86,
         "ms2": 1.02
       },
       "odds_history": [
@@ -4822,157 +1124,39 @@
           "ms1": 3.6,
           "x": 3.65,
           "ms2": 1.98
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 3.65,
+          "x": 3.6,
+          "ms2": 1.98
         }
       ],
       "home_stats": {
         "name": "Málaga",
-        "home_avg_scored": 0.5,
-        "home_avg_conceded": 0.5,
-        "shots_on_target_for": 1.8,
-        "shots_on_target_against": 5.2,
-        "form": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "D"
-        ],
+        "home_avg_scored": 0.4,
+        "home_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.0,
         "played": 5,
-        "rank": 17,
+        "rank": 18,
         "points": 3,
-        "recent_matches": [
-          {
-            "opponent": "Atlético Madrid",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 1.0,
-            "sot_against": 6.0,
-            "date": "2026-08-19"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 4.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "0 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 4,
-            "sot_for": 1.0,
-            "sot_against": 8.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Levante",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Villarreal",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 1.67,
-        "shots_on_target_for": 6.4,
-        "shots_on_target_against": 4.8,
-        "form": [
-          "D",
-          "D",
-          "L",
-          "L",
-          "L"
-        ],
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.4,
         "played": 5,
-        "rank": 18,
+        "rank": 19,
         "points": 2,
-        "recent_matches": [
-          {
-            "opponent": "Racing Santander",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 3.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 4.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 2.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 3.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 8.0,
-            "sot_against": 12.0,
-            "date": "2026-09-14"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -5014,153 +1198,29 @@
       ],
       "home_stats": {
         "name": "Espanyol",
-        "home_avg_scored": 1.67,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 3.6,
-        "shots_on_target_against": 5.0,
-        "form": [
-          "W",
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "recent_goals_avg": 2.6,
-        "played": 5,
+        "home_avg_scored": 1.5,
+        "home_avg_conceded": 1.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.67,
+        "played": 6,
         "rank": 8,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Levante",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 6.0,
-            "sot_against": 0.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 8.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 10.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Sevilla",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Elche",
         "away_avg_scored": 1.33,
-        "away_avg_conceded": 1.67,
-        "shots_on_target_for": 5.2,
-        "shots_on_target_against": 5.0,
-        "form": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "recent_goals_avg": 3.8,
-        "played": 5,
-        "rank": 19,
+        "away_avg_conceded": 2.67,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 6,
+        "rank": 20,
         "points": 2,
-        "recent_matches": [
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 3.0,
-            "date": "2026-08-17"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "0 - 5",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 5,
-            "sot_for": 2.0,
-            "sot_against": 7.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 7.0,
-            "sot_against": 6.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 10.0,
-            "sot_against": 6.0,
-            "date": "2026-09-07"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 1.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -5202,153 +1262,29 @@
       ],
       "home_stats": {
         "name": "Osasuna",
-        "home_avg_scored": 0.33,
-        "home_avg_conceded": 0.67,
-        "shots_on_target_for": 4.6,
-        "shots_on_target_against": 2.8,
-        "form": [
-          "D",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
         "rank": 11,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Levante",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 1.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 1.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 5.0,
-            "sot_against": 7.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Espanyol",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Rayo Vallecano",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 3.67,
-        "shots_on_target_for": 5.6,
-        "shots_on_target_against": 6.2,
-        "form": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "recent_goals_avg": 4.4,
-        "played": 5,
-        "rank": 16,
-        "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Sevilla",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-20"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 5.0,
-            "sot_against": 9.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 10.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 4,
-            "sot_for": 7.0,
-            "sot_against": 11.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "away_avg_scored": 1.67,
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.17,
+        "played": 6,
+        "rank": 12,
+        "points": 7,
+        "recent_matches": []
       }
     },
     {
@@ -5396,153 +1332,29 @@
       ],
       "home_stats": {
         "name": "Athletic Club",
-        "home_avg_scored": 1.67,
-        "home_avg_conceded": 1.33,
-        "shots_on_target_for": 4.4,
-        "shots_on_target_against": 4.4,
-        "form": [
-          "L",
-          "L",
-          "W",
-          "W",
-          "D"
-        ],
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
         "rank": 9,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Sevilla",
-            "score": "1 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 3,
-            "sot_for": 8.0,
-            "sot_against": 4.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 0.0,
-            "sot_against": 10.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 2.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Elche",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 1.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Alavés",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 1.5,
-        "shots_on_target_for": 5.6,
-        "shots_on_target_against": 4.0,
-        "form": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "L"
-        ],
-        "recent_goals_avg": 3.2,
-        "played": 5,
+        "away_avg_scored": 1.83,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.83,
+        "played": 6,
         "rank": 4,
         "points": 10,
-        "recent_matches": [
-          {
-            "opponent": "Getafe",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 8.0,
-            "sot_against": 2.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-20"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 6.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 5.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 8.0,
-            "sot_against": 4.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -5596,153 +1408,29 @@
       ],
       "home_stats": {
         "name": "Celta Vigo",
-        "home_avg_scored": 0.67,
-        "home_avg_conceded": 1.67,
-        "shots_on_target_for": 2.83,
-        "shots_on_target_against": 3.83,
-        "form": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
-        "recent_goals_avg": 1.8,
+        "home_avg_scored": 0.5,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.5,
         "played": 6,
-        "rank": 15,
+        "rank": 16,
         "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Osasuna",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 2.0,
-            "sot_against": 7.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-09-03"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 2.0,
-            "date": "2026-09-07"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Racing Santander",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 6.6,
-        "form": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
+        "away_avg_scored": 1.8,
+        "away_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.6,
         "played": 5,
         "rank": 10,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Villarreal",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 7.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 1.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Elche",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 7.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 10.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 8.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -5790,153 +1478,29 @@
       ],
       "home_stats": {
         "name": "Sevilla",
-        "home_avg_scored": 1.33,
-        "home_avg_conceded": 1.33,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "W",
-          "W",
-          "L",
-          "D",
-          "W"
-        ],
+        "home_avg_scored": 1.6,
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.8,
         "played": 5,
         "rank": 6,
         "points": 10,
-        "recent_matches": [
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "3 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 8.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "1 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 5.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Espanyol",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 0.0,
-            "date": "2026-09-11"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Barcelona",
-        "away_avg_scored": 4.67,
-        "away_avg_conceded": 0.67,
-        "shots_on_target_for": 8.4,
-        "shots_on_target_against": 3.2,
-        "form": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
+        "away_avg_scored": 4.2,
+        "away_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 5.0,
         "played": 5,
         "rank": 1,
         "points": 15,
-        "recent_matches": [
-          {
-            "opponent": "Elche",
-            "score": "5 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 5,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 2.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 10.0,
-            "sot_against": 0.0,
-            "date": "2026-08-27"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 9.0,
-            "sot_against": 5.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "5 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 5,
-            "goals_against": 0,
-            "sot_for": 10.0,
-            "sot_against": 2.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Levante",
-            "score": "4 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 4,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 7.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -5978,153 +1542,29 @@
       ],
       "home_stats": {
         "name": "Getafe",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 0.67,
-        "shots_on_target_for": 2.0,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "D"
-        ],
+        "home_avg_scored": 0.6,
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 1.8,
         "played": 5,
-        "rank": 14,
+        "rank": 15,
         "points": 5,
-        "recent_matches": [
-          {
-            "opponent": "Alavés",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 2.0,
-            "sot_against": 8.0,
-            "date": "2026-08-15"
-          },
-          {
-            "opponent": "Racing Santander",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 1.0,
-            "sot_against": 3.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 1.0,
-            "sot_against": 2.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-09-07"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Málaga",
-        "away_avg_scored": 0.33,
-        "away_avg_conceded": 2.33,
-        "shots_on_target_for": 1.8,
-        "shots_on_target_against": 5.2,
-        "form": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "D"
-        ],
+        "away_avg_scored": 0.4,
+        "away_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.0,
         "played": 5,
-        "rank": 17,
+        "rank": 18,
         "points": 3,
-        "recent_matches": [
-          {
-            "opponent": "Atlético Madrid",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 1.0,
-            "sot_against": 6.0,
-            "date": "2026-08-19"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 4.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "0 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 4,
-            "sot_for": 1.0,
-            "sot_against": 8.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Levante",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -6179,152 +1619,28 @@
       "home_stats": {
         "name": "Atlético Madrid",
         "home_avg_scored": 2.0,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 5.0,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "W",
-          "D",
-          "W",
-          "L",
-          "W"
-        ],
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.2,
         "played": 5,
         "rank": 5,
         "points": 10,
-        "recent_matches": [
-          {
-            "opponent": "Málaga",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 6.0,
-            "sot_against": 1.0,
-            "date": "2026-08-19"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 6.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Sevilla",
-            "score": "3 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 5.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Athletic Club",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 3.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Real Madrid",
-        "away_avg_scored": 1.0,
+        "away_avg_scored": 2.83,
         "away_avg_conceded": 1.0,
-        "shots_on_target_for": 9.2,
-        "shots_on_target_against": 3.8,
-        "form": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "recent_goals_avg": 3.6,
-        "played": 5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.83,
+        "played": 6,
         "rank": 2,
-        "points": 12,
-        "recent_matches": [
-          {
-            "opponent": "Espanyol",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 8.0,
-            "sot_against": 3.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Real Sociedad",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 11.0,
-            "sot_against": 3.0,
-            "date": "2026-08-26"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "4 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 0,
-            "sot_for": 8.0,
-            "sot_against": 1.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 8.0,
-            "sot_against": 5.0,
-            "date": "2026-09-04"
-          },
-          {
-            "opponent": "Rayo Vallecano",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 11.0,
-            "sot_against": 7.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "points": 15,
+        "recent_matches": []
       }
     },
     {
@@ -6366,153 +1682,29 @@
       ],
       "home_stats": {
         "name": "Deportivo",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 3.4,
-        "shots_on_target_against": 4.2,
-        "form": [
-          "D",
-          "D",
-          "W",
-          "W",
-          "D"
-        ],
+        "home_avg_scored": 1.8,
+        "home_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.0,
         "played": 5,
         "rank": 7,
         "points": 9,
-        "recent_matches": [
-          {
-            "opponent": "Elche",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 6.0,
-            "date": "2026-08-17"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 2.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "3 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 1,
-            "sot_for": 4.0,
-            "sot_against": 4.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Getafe",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Real Betis",
-        "away_avg_scored": 1.67,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 6.6,
-        "shots_on_target_against": 6.4,
-        "form": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 1.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
         "rank": 3,
         "points": 12,
-        "recent_matches": [
-          {
-            "opponent": "Real Sociedad",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 3.0,
-            "date": "2026-08-21"
-          },
-          {
-            "opponent": "Valencia",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-25"
-          },
-          {
-            "opponent": "Levante",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 6.0,
-            "sot_against": 10.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 8.0,
-            "date": "2026-09-04"
-          },
-          {
-            "opponent": "Villarreal",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 12.0,
-            "sot_against": 8.0,
-            "date": "2026-09-14"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -6554,153 +1746,29 @@
       ],
       "home_stats": {
         "name": "Villarreal",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 2.5,
-        "shots_on_target_for": 6.4,
-        "shots_on_target_against": 4.8,
-        "form": [
-          "D",
-          "D",
-          "L",
-          "L",
-          "L"
-        ],
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.4,
         "played": 5,
-        "rank": 18,
+        "rank": 19,
         "points": 2,
-        "recent_matches": [
-          {
-            "opponent": "Racing Santander",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 3.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 4.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Alavés",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 2.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 5.0,
-            "sot_against": 3.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 8.0,
-            "sot_against": 12.0,
-            "date": "2026-09-14"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Levante",
-        "away_avg_scored": 0.0,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": 4.2,
-        "shots_on_target_against": 5.6,
-        "form": [
-          "L",
-          "D",
-          "W",
-          "D",
-          "L"
-        ],
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.2,
         "played": 5,
-        "rank": 13,
+        "rank": 14,
         "points": 5,
-        "recent_matches": [
-          {
-            "opponent": "Espanyol",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 0.0,
-            "sot_against": 6.0,
-            "date": "2026-08-16"
-          },
-          {
-            "opponent": "Osasuna",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 1.0,
-            "sot_against": 7.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 10.0,
-            "sot_against": 6.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Málaga",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "2 - 4",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 4,
-            "sot_for": 7.0,
-            "sot_against": 6.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -6710,10 +1778,10 @@
       "away": "Real Sociedad",
       "date": "20.09.2026",
       "time": "22:00",
-      "odds": "MS1: 2.85 | X: 3.45 | MS2: 2.50",
+      "odds": "MS1: 2.80 | X: 3.30 | MS2: 2.50",
       "odds_detail": {
-        "ms1": 2.85,
-        "x": 3.45,
+        "ms1": 2.8,
+        "x": 3.3,
         "ms2": 2.5
       },
       "odds_available": true,
@@ -6723,13 +1791,13 @@
         "ms2": 2.5
       },
       "current_odds": {
-        "ms1": 2.85,
-        "x": 3.45,
+        "ms1": 2.8,
+        "x": 3.3,
         "ms2": 2.5
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
+        "ms1": -1.75,
+        "x": -4.35,
         "ms2": 0.0
       },
       "odds_history": [
@@ -6738,157 +1806,39 @@
           "ms1": 2.85,
           "x": 3.45,
           "ms2": 2.5
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.936019+03:00",
+          "ms1": 2.8,
+          "x": 3.3,
+          "ms2": 2.5
         }
       ],
       "home_stats": {
         "name": "Valencia",
-        "home_avg_scored": 0.0,
-        "home_avg_conceded": 2.0,
-        "shots_on_target_for": 2.2,
-        "shots_on_target_against": 4.8,
-        "form": [
-          "D",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "recent_goals_avg": 2.2,
-        "played": 5,
-        "rank": 20,
-        "points": 1,
-        "recent_matches": [
-          {
-            "opponent": "Celta Vigo",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Real Betis",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 3.0,
-            "date": "2026-08-25"
-          },
-          {
-            "opponent": "Deportivo",
-            "score": "1 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 4.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Barcelona",
-            "score": "0 - 5",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 5,
-            "sot_for": 2.0,
-            "sot_against": 10.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Sevilla",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 4.0,
-            "date": "2026-09-11"
-          }
-        ]
+        "home_avg_scored": 0.33,
+        "home_avg_conceded": 1.67,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 6,
+        "rank": 17,
+        "points": 4,
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Real Sociedad",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 2.33,
-        "shots_on_target_for": 5.0,
-        "shots_on_target_against": 6.33,
-        "form": [
-          "L",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "recent_goals_avg": 3.2,
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 1.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.83,
         "played": 6,
-        "rank": 12,
+        "rank": 13,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Real Madrid",
-            "score": "1 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 4,
-            "sot_for": 3.0,
-            "sot_against": 11.0,
-            "date": "2026-08-26"
-          },
-          {
-            "opponent": "Espanyol",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 10.0,
-            "sot_against": 3.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Celta Vigo",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-09-03"
-          },
-          {
-            "opponent": "Elche",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 10.0,
-            "date": "2026-09-07"
-          },
-          {
-            "opponent": "Atlético Madrid",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 3.0,
-            "sot_against": 5.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     }
   ]

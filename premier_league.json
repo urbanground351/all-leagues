@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-15T15:04:26.492585+03:00",
+  "last_updated": "2026-09-16T03:04:08.720085+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -20,112 +20,17 @@
       "avg_scored": 2.0,
       "avg_conceded": 0.25,
       "win_rate": 100.0,
-      "matches": [
-        {
-          "opponent": "Coventry City",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 1.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Aston Villa",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 0.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Chelsea",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 9.0,
-          "sot_against": 5.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Sunderland",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 2.5,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 0.0,
-      "shots_on_target_for": 5.5,
-      "shots_on_target_against": 2.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 2.0,
+      "home_avg_conceded": 0.25,
+      "away_avg_scored": 2.0,
+      "away_avg_conceded": 0.25,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.25,
-      "recent_matches": [
-        {
-          "opponent": "Coventry City",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 1.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Aston Villa",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 0.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Chelsea",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 9.0,
-          "sot_against": 5.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Sunderland",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Manchester City",
@@ -142,112 +47,17 @@
       "avg_scored": 2.0,
       "avg_conceded": 0.5,
       "win_rate": 100.0,
-      "matches": [
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 4.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Crystal Palace",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 9.0,
-          "sot_against": 1.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Coventry City",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Manchester United",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 1.5,
+      "matches": [],
+      "home_avg_scored": 2.0,
       "home_avg_conceded": 0.5,
-      "away_avg_scored": 2.5,
+      "away_avg_scored": 2.0,
       "away_avg_conceded": 0.5,
-      "shots_on_target_for": 5.25,
-      "shots_on_target_against": 2.75,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.5,
-      "recent_matches": [
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 4.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Crystal Palace",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 9.0,
-          "sot_against": 1.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Coventry City",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Manchester United",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Leeds United",
@@ -264,112 +74,17 @@
       "avg_scored": 1.75,
       "avg_conceded": 0.75,
       "win_rate": 50.0,
-      "matches": [
-        {
-          "opponent": "Nottingham Forest",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Brentford",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Newcastle United",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 5.0,
-          "date": "2026-09-14"
-        }
-      ],
-      "home_avg_scored": 2.5,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 0.5,
-      "shots_on_target_for": 4.0,
-      "shots_on_target_against": 4.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "D",
-        "D",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.75,
+      "home_avg_conceded": 0.75,
+      "away_avg_scored": 1.75,
+      "away_avg_conceded": 0.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.5,
-      "recent_matches": [
-        {
-          "opponent": "Nottingham Forest",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Brentford",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Newcastle United",
-          "score": "4 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 1,
-          "sot_for": 6.0,
-          "sot_against": 5.0,
-          "date": "2026-09-14"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Hull City",
@@ -386,112 +101,17 @@
       "avg_scored": 1.25,
       "avg_conceded": 0.5,
       "win_rate": 50.0,
-      "matches": [
-        {
-          "opponent": "Manchester United",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 5.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Coventry City",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Aston Villa",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 1.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Chelsea",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 0.0,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": 3.75,
-      "shots_on_target_against": 4.0,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "W",
-        "D",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.25,
+      "home_avg_conceded": 0.5,
+      "away_avg_scored": 1.25,
+      "away_avg_conceded": 0.5,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 1.75,
-      "recent_matches": [
-        {
-          "opponent": "Manchester United",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 5.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Coventry City",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Aston Villa",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 1.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Chelsea",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Brighton & Hove Albion",
@@ -508,112 +128,17 @@
       "avg_scored": 3.25,
       "avg_conceded": 1.25,
       "win_rate": 50.0,
-      "matches": [
-        {
-          "opponent": "Aston Villa",
-          "score": "4 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 0.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Chelsea",
-          "score": "3 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 4,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Leeds United",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Coventry City",
-          "score": "5 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 5,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 6.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 2.5,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 4.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 6.0,
-      "shots_on_target_against": 4.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "L",
-        "D",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 3.25,
+      "home_avg_conceded": 1.25,
+      "away_avg_scored": 3.25,
+      "away_avg_conceded": 1.25,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 4.5,
-      "recent_matches": [
-        {
-          "opponent": "Aston Villa",
-          "score": "4 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 0,
-          "sot_for": 6.0,
-          "sot_against": 0.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Chelsea",
-          "score": "3 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 4,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Leeds United",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Coventry City",
-          "score": "5 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 5,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 6.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Chelsea",
@@ -630,112 +155,17 @@
       "avg_scored": 2.5,
       "avg_conceded": 2.25,
       "win_rate": 50.0,
-      "matches": [
-        {
-          "opponent": "Fulham",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "4 - 3",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 3,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Arsenal",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 9.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Hull City",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 3.0,
-      "home_avg_conceded": 2.5,
-      "away_avg_scored": 2.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 6.0,
-      "shots_on_target_against": 6.5,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 2.5,
+      "home_avg_conceded": 2.25,
+      "away_avg_scored": 2.5,
+      "away_avg_conceded": 2.25,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 4.75,
-      "recent_matches": [
-        {
-          "opponent": "Fulham",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "4 - 3",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 4,
-          "goals_against": 3,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Arsenal",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 9.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Hull City",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Brentford",
@@ -752,112 +182,17 @@
       "avg_scored": 1.75,
       "avg_conceded": 1.0,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 8.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Leeds United",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Sunderland",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 10.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": 4.25,
-      "shots_on_target_against": 5.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "D",
-        "D",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.75,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 1.75,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.75,
-      "recent_matches": [
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "3 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 3,
-          "goals_against": 0,
-          "sot_for": 8.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Leeds United",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Sunderland",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 10.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Liverpool",
@@ -874,112 +209,17 @@
       "avg_scored": 1.5,
       "avg_conceded": 1.0,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Newcastle United",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 4.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Nottingham Forest",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Ipswich Town",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Fulham",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 1.0,
+      "matches": [],
+      "home_avg_scored": 1.5,
       "home_avg_conceded": 1.0,
-      "away_avg_scored": 2.0,
+      "away_avg_scored": 1.5,
       "away_avg_conceded": 1.0,
-      "shots_on_target_for": 5.25,
-      "shots_on_target_against": 4.0,
-      "shots_on_target_sample": 4,
-      "form": [
-        "D",
-        "D",
-        "W",
-        "D"
-      ],
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.5,
-      "recent_matches": [
-        {
-          "opponent": "Newcastle United",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 7.0,
-          "sot_against": 4.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Nottingham Forest",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Ipswich Town",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Fulham",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Everton",
@@ -996,112 +236,17 @@
       "avg_scored": 1.25,
       "avg_conceded": 0.75,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Crystal Palace",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Manchester United",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 0.5,
-      "away_avg_conceded": 0.5,
-      "shots_on_target_for": 5.25,
-      "shots_on_target_against": 3.5,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "D",
-        "D",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.25,
+      "home_avg_conceded": 0.75,
+      "away_avg_scored": 1.25,
+      "away_avg_conceded": 0.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.0,
-      "recent_matches": [
-        {
-          "opponent": "Crystal Palace",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 5.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Manchester United",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 3.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Ipswich Town",
@@ -1118,112 +263,17 @@
       "avg_scored": 1.75,
       "avg_conceded": 2.5,
       "win_rate": 50.0,
-      "matches": [
-        {
-          "opponent": "Sunderland",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Manchester United",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 5.0,
-          "sot_against": 11.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Liverpool",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Crystal Palace",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 2.5,
-      "away_avg_conceded": 3.5,
-      "shots_on_target_for": 4.75,
-      "shots_on_target_against": 6.5,
-      "shots_on_target_sample": 4,
-      "form": [
-        "W",
-        "L",
-        "L",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.75,
+      "home_avg_conceded": 2.5,
+      "away_avg_scored": 1.75,
+      "away_avg_conceded": 2.5,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 4.25,
-      "recent_matches": [
-        {
-          "opponent": "Sunderland",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Manchester United",
-          "score": "2 - 5",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 5,
-          "sot_for": 5.0,
-          "sot_against": 11.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Liverpool",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-04"
-        },
-        {
-          "opponent": "Crystal Palace",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 4.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Nottingham Forest",
@@ -1240,112 +290,17 @@
       "avg_scored": 1.0,
       "avg_conceded": 1.0,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Leeds United",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Liverpool",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 0.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Aston Villa",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 0.0,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 2.0,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": 3.5,
-      "shots_on_target_against": 3.0,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "D",
-        "D",
-        "W"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.0,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.0,
-      "recent_matches": [
-        {
-          "opponent": "Leeds United",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Liverpool",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 0.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Aston Villa",
-          "score": "2 - 1",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 1,
-          "sot_for": 7.0,
-          "sot_against": 5.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Newcastle United",
@@ -1362,112 +317,17 @@
       "avg_scored": 1.75,
       "avg_conceded": 2.0,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Liverpool",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 7.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 6.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Leeds United",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 5.0,
-          "sot_against": 6.0,
-          "date": "2026-09-14"
-        }
-      ],
-      "home_avg_scored": 2.0,
+      "matches": [],
+      "home_avg_scored": 1.75,
       "home_avg_conceded": 2.0,
-      "away_avg_scored": 1.5,
+      "away_avg_scored": 1.75,
       "away_avg_conceded": 2.0,
-      "shots_on_target_for": 3.25,
-      "shots_on_target_against": 6.0,
-      "shots_on_target_sample": 4,
-      "form": [
-        "D",
-        "W",
-        "D",
-        "L"
-      ],
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.75,
-      "recent_matches": [
-        {
-          "opponent": "Liverpool",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 7.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Tottenham Hotspur",
-          "score": "2 - 0",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 6.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "AFC Bournemouth",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 2.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Leeds United",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 5.0,
-          "sot_against": 6.0,
-          "date": "2026-09-14"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Manchester United",
@@ -1484,112 +344,17 @@
       "avg_scored": 1.75,
       "avg_conceded": 1.75,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Hull City",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Ipswich Town",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 11.0,
-          "sot_against": 5.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Everton",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 6.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Manchester City",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-09-13"
-        }
-      ],
-      "home_avg_scored": 2.5,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 5.5,
-      "shots_on_target_against": 4.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "W",
-        "D",
-        "L"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.75,
+      "home_avg_conceded": 1.75,
+      "away_avg_scored": 1.75,
+      "away_avg_conceded": 1.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.5,
-      "recent_matches": [
-        {
-          "opponent": "Hull City",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 4.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Ipswich Town",
-          "score": "5 - 2",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 5,
-          "goals_against": 2,
-          "sot_for": 11.0,
-          "sot_against": 5.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Everton",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 6.0,
-          "date": "2026-09-06"
-        },
-        {
-          "opponent": "Manchester City",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Sunderland",
@@ -1606,112 +371,17 @@
       "avg_scored": 0.75,
       "avg_conceded": 1.25,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Ipswich Town",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Fulham",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 0.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Brentford",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Arsenal",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 5.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 0.5,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": 4.0,
-      "shots_on_target_against": 2.5,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "W",
-        "D",
-        "L"
-      ],
+      "matches": [],
+      "home_avg_scored": 0.75,
+      "home_avg_conceded": 1.25,
+      "away_avg_scored": 0.75,
+      "away_avg_conceded": 1.25,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.0,
-      "recent_matches": [
-        {
-          "opponent": "Ipswich Town",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Fulham",
-          "score": "1 - 0",
-          "result": "W",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 0.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Brentford",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Arsenal",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 3.0,
-          "sot_against": 5.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "AFC Bournemouth",
@@ -1728,112 +398,17 @@
       "avg_scored": 1.5,
       "avg_conceded": 1.75,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Manchester City",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 6.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Everton",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Newcastle United",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Brentford",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 10.0,
-          "sot_against": 2.0,
-          "date": "2026-09-12"
-        }
-      ],
+      "matches": [],
       "home_avg_scored": 1.5,
-      "home_avg_conceded": 1.5,
+      "home_avg_conceded": 1.75,
       "away_avg_scored": 1.5,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 6.0,
-      "shots_on_target_against": 4.25,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "D",
-        "D",
-        "D"
-      ],
+      "away_avg_conceded": 1.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 3.25,
-      "recent_matches": [
-        {
-          "opponent": "Manchester City",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 6.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Everton",
-          "score": "1 - 1",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 1,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Newcastle United",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Brentford",
-          "score": "2 - 2",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 2,
-          "sot_for": 10.0,
-          "sot_against": 2.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Crystal Palace",
@@ -1850,112 +425,17 @@
       "avg_scored": 1.5,
       "avg_conceded": 2.75,
       "win_rate": 25.0,
-      "matches": [
-        {
-          "opponent": "Everton",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 5.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Manchester City",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 1.0,
-          "sot_against": 9.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Fulham",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 6.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Ipswich Town",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 6.0,
-          "date": "2026-09-12"
-        }
-      ],
+      "matches": [],
       "home_avg_scored": 1.5,
-      "home_avg_conceded": 3.5,
+      "home_avg_conceded": 2.75,
       "away_avg_scored": 1.5,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 3.5,
-      "shots_on_target_against": 6.5,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L"
-      ],
+      "away_avg_conceded": 2.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 4.25,
-      "recent_matches": [
-        {
-          "opponent": "Everton",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 4.0,
-          "sot_against": 5.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Manchester City",
-          "score": "1 - 4",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 4,
-          "sot_for": 1.0,
-          "sot_against": 9.0,
-          "date": "2026-08-28"
-        },
-        {
-          "opponent": "Fulham",
-          "score": "3 - 2",
-          "result": "W",
-          "venue": "away",
-          "goals_for": 3,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 6.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Ipswich Town",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 6.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Tottenham Hotspur",
@@ -1972,112 +452,17 @@
       "avg_scored": 0.0,
       "avg_conceded": 1.25,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Brentford",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 8.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Newcastle United",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 2.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Nottingham Forest",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Everton",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ],
+      "matches": [],
       "home_avg_scored": 0.0,
-      "home_avg_conceded": 1.0,
+      "home_avg_conceded": 1.25,
       "away_avg_scored": 0.0,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": 3.0,
-      "shots_on_target_against": 3.75,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D"
-      ],
+      "away_avg_conceded": 1.25,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 1.25,
-      "recent_matches": [
-        {
-          "opponent": "Brentford",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 4.0,
-          "sot_against": 8.0,
-          "date": "2026-08-22"
-        },
-        {
-          "opponent": "Newcastle United",
-          "score": "0 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 2,
-          "sot_for": 6.0,
-          "sot_against": 2.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Nottingham Forest",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 0.0,
-          "sot_against": 2.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Everton",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 2.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Fulham",
@@ -2094,112 +479,17 @@
       "avg_scored": 1.0,
       "avg_conceded": 1.75,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Chelsea",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Sunderland",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 4.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Crystal Palace",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 6.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Liverpool",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 3.0,
-      "away_avg_scored": 0.0,
-      "away_avg_conceded": 0.5,
-      "shots_on_target_for": 4.0,
-      "shots_on_target_against": 4.5,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
+      "matches": [],
+      "home_avg_scored": 1.0,
+      "home_avg_conceded": 1.75,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 1.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.75,
-      "recent_matches": [
-        {
-          "opponent": "Chelsea",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 6.0,
-          "sot_against": 6.0,
-          "date": "2026-08-24"
-        },
-        {
-          "opponent": "Sunderland",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 4.0,
-          "date": "2026-08-30"
-        },
-        {
-          "opponent": "Crystal Palace",
-          "score": "2 - 3",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 2,
-          "goals_against": 3,
-          "sot_for": 6.0,
-          "sot_against": 5.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Liverpool",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 4.0,
-          "sot_against": 3.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Aston Villa",
@@ -2216,112 +506,17 @@
       "avg_scored": 0.25,
       "avg_conceded": 1.75,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "0 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 4,
-          "sot_for": 0.0,
-          "sot_against": 6.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Arsenal",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 2.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Hull City",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Nottingham Forest",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-12"
-        }
-      ],
-      "home_avg_scored": 0.5,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 0.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 1.5,
-      "shots_on_target_against": 4.75,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "L",
-        "D",
-        "L"
-      ],
+      "matches": [],
+      "home_avg_scored": 0.25,
+      "home_avg_conceded": 1.75,
+      "away_avg_scored": 0.25,
+      "away_avg_conceded": 1.75,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.0,
-      "recent_matches": [
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "0 - 4",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 4,
-          "sot_for": 0.0,
-          "sot_against": 6.0,
-          "date": "2026-08-23"
-        },
-        {
-          "opponent": "Arsenal",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 0.0,
-          "sot_against": 2.0,
-          "date": "2026-08-31"
-        },
-        {
-          "opponent": "Hull City",
-          "score": "0 - 0",
-          "result": "D",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 0,
-          "sot_for": 1.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Nottingham Forest",
-          "score": "1 - 2",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 1,
-          "goals_against": 2,
-          "sot_for": 5.0,
-          "sot_against": 7.0,
-          "date": "2026-09-12"
-        }
-      ]
+      "recent_matches": []
     },
     {
       "name": "Coventry City",
@@ -2338,112 +533,17 @@
       "avg_scored": 0.0,
       "avg_conceded": 2.5,
       "win_rate": 0.0,
-      "matches": [
-        {
-          "opponent": "Arsenal",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 1.0,
-          "sot_against": 6.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Hull City",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Manchester City",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "0 - 5",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 5,
-          "sot_for": 6.0,
-          "sot_against": 7.0,
-          "date": "2026-09-13"
-        }
-      ],
+      "matches": [],
       "home_avg_scored": 0.0,
-      "home_avg_conceded": 3.0,
+      "home_avg_conceded": 2.5,
       "away_avg_scored": 0.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": 3.25,
-      "shots_on_target_against": 4.75,
-      "shots_on_target_sample": 4,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
+      "away_avg_conceded": 2.5,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
       "recent_goals_avg": 2.5,
-      "recent_matches": [
-        {
-          "opponent": "Arsenal",
-          "score": "0 - 3",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 3,
-          "sot_for": 1.0,
-          "sot_against": 6.0,
-          "date": "2026-08-21"
-        },
-        {
-          "opponent": "Hull City",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 2.0,
-          "date": "2026-08-29"
-        },
-        {
-          "opponent": "Manchester City",
-          "score": "0 - 1",
-          "result": "L",
-          "venue": "away",
-          "goals_for": 0,
-          "goals_against": 1,
-          "sot_for": 3.0,
-          "sot_against": 4.0,
-          "date": "2026-09-05"
-        },
-        {
-          "opponent": "Brighton & Hove Albion",
-          "score": "0 - 5",
-          "result": "L",
-          "venue": "home",
-          "goals_for": 0,
-          "goals_against": 5,
-          "sot_for": 6.0,
-          "sot_against": 7.0,
-          "date": "2026-09-13"
-        }
-      ]
+      "recent_matches": []
     }
   ],
   "upcoming_matches": [
@@ -2454,11 +554,11 @@
       "away": "Chelsea",
       "date": "18.09.2026",
       "time": "22:00",
-      "odds": "MS1: 2.80 | X: 3.90 | MS2: 2.32",
+      "odds": "MS1: 2.95 | X: 3.90 | MS2: 2.20",
       "odds_detail": {
-        "ms1": 2.8,
+        "ms1": 2.95,
         "x": 3.9,
-        "ms2": 2.32
+        "ms2": 2.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -2467,14 +567,14 @@
         "ms2": 2.43
       },
       "current_odds": {
-        "ms1": 2.8,
+        "ms1": 2.95,
         "x": 3.9,
-        "ms2": 2.32
+        "ms2": 2.2
       },
       "odds_change_pct": {
-        "ms1": 6.46,
+        "ms1": 12.17,
         "x": 6.85,
-        "ms2": -4.53
+        "ms2": -9.47
       },
       "odds_history": [
         {
@@ -2524,133 +624,39 @@
           "ms1": 2.8,
           "x": 3.9,
           "ms2": 2.32
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.720085+03:00",
+          "ms1": 2.95,
+          "x": 3.9,
+          "ms2": 2.2
         }
       ],
       "home_stats": {
         "name": "Brentford",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 0.5,
-        "shots_on_target_for": 4.25,
-        "shots_on_target_against": 5.25,
-        "form": [
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
+        "home_avg_scored": 1.75,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.75,
         "played": 4,
         "rank": 7,
         "points": 6,
-        "recent_matches": [
-          {
-            "opponent": "Tottenham Hotspur",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 8.0,
-            "sot_against": 4.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Leeds United",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Sunderland",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "AFC Bournemouth",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 2.0,
-            "sot_against": 10.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Chelsea",
-        "away_avg_scored": 2.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 6.0,
-        "shots_on_target_against": 6.5,
-        "form": [
-          "W",
-          "W",
-          "L",
-          "D"
-        ],
+        "away_avg_scored": 2.5,
+        "away_avg_conceded": 2.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 4.75,
         "played": 4,
         "rank": 6,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Fulham",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 6.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Brighton & Hove Albion",
-            "score": "4 - 3",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 3,
-            "sot_for": 6.0,
-            "sot_against": 6.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Arsenal",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 9.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Hull City",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 5.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -2717,128 +723,28 @@
       "home_stats": {
         "name": "Tottenham Hotspur",
         "home_avg_scored": 0.0,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 3.0,
-        "shots_on_target_against": 3.75,
-        "form": [
-          "L",
-          "L",
-          "D",
-          "D"
-        ],
+        "home_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 1.25,
         "played": 4,
         "rank": 17,
         "points": 2,
-        "recent_matches": [
-          {
-            "opponent": "Brentford",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 8.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Newcastle United",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 2.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Nottingham Forest",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 0.0,
-            "sot_against": 2.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Everton",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Aston Villa",
-        "away_avg_scored": 0.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 1.5,
-        "shots_on_target_against": 4.75,
-        "form": [
-          "L",
-          "L",
-          "D",
-          "L"
-        ],
+        "away_avg_scored": 0.25,
+        "away_avg_conceded": 1.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.0,
         "played": 4,
         "rank": 19,
         "points": 1,
-        "recent_matches": [
-          {
-            "opponent": "Brighton & Hove Albion",
-            "score": "0 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 4,
-            "sot_for": 0.0,
-            "sot_against": 6.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Arsenal",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 2.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Hull City",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 1.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Nottingham Forest",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 7.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -2916,129 +822,29 @@
       ],
       "home_stats": {
         "name": "Everton",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 5.25,
-        "shots_on_target_against": 3.5,
-        "form": [
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
+        "home_avg_scored": 1.25,
+        "home_avg_conceded": 0.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.0,
         "played": 4,
         "rank": 9,
         "points": 6,
-        "recent_matches": [
-          {
-            "opponent": "Crystal Palace",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 4.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "AFC Bournemouth",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 7.0,
-            "sot_against": 5.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Manchester United",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 3.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Tottenham Hotspur",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 2.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Ipswich Town",
-        "away_avg_scored": 2.5,
-        "away_avg_conceded": 3.5,
-        "shots_on_target_for": 4.75,
-        "shots_on_target_against": 6.5,
-        "form": [
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
+        "away_avg_scored": 1.75,
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 4.25,
         "played": 4,
         "rank": 10,
         "points": 6,
-        "recent_matches": [
-          {
-            "opponent": "Sunderland",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Manchester United",
-            "score": "2 - 5",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 5,
-            "sot_for": 5.0,
-            "sot_against": 11.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Liverpool",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 7.0,
-            "date": "2026-09-04"
-          },
-          {
-            "opponent": "Crystal Palace",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 6.0,
-            "sot_against": 4.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -3048,9 +854,9 @@
       "away": "Arsenal",
       "date": "19.09.2026",
       "time": "17:00",
-      "odds": "MS1: 5.00 | X: 3.90 | MS2: 1.68",
+      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.68",
       "odds_detail": {
-        "ms1": 5.0,
+        "ms1": 4.9,
         "x": 3.9,
         "ms2": 1.68
       },
@@ -3061,12 +867,12 @@
         "ms2": 1.76
       },
       "current_odds": {
-        "ms1": 5.0,
+        "ms1": 4.9,
         "x": 3.9,
         "ms2": 1.68
       },
       "odds_change_pct": {
-        "ms1": 14.94,
+        "ms1": 12.64,
         "x": 2.63,
         "ms2": -4.55
       },
@@ -3112,133 +918,39 @@
           "ms1": 5.0,
           "x": 3.9,
           "ms2": 1.68
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.720085+03:00",
+          "ms1": 4.9,
+          "x": 3.9,
+          "ms2": 1.68
         }
       ],
       "home_stats": {
         "name": "Brighton & Hove Albion",
-        "home_avg_scored": 2.5,
-        "home_avg_conceded": 0.5,
-        "shots_on_target_for": 6.0,
-        "shots_on_target_against": 4.25,
-        "form": [
-          "W",
-          "L",
-          "D",
-          "W"
-        ],
+        "home_avg_scored": 3.25,
+        "home_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 4.5,
         "played": 4,
         "rank": 5,
         "points": 7,
-        "recent_matches": [
-          {
-            "opponent": "Aston Villa",
-            "score": "4 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 0,
-            "sot_for": 6.0,
-            "sot_against": 0.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Chelsea",
-            "score": "3 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 4,
-            "sot_for": 6.0,
-            "sot_against": 6.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Leeds United",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Coventry City",
-            "score": "5 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 5,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 6.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Arsenal",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 0.0,
-        "shots_on_target_for": 5.5,
-        "shots_on_target_against": 2.25,
-        "form": [
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
+        "away_avg_scored": 2.0,
+        "away_avg_conceded": 0.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.25,
         "played": 4,
         "rank": 1,
         "points": 12,
-        "recent_matches": [
-          {
-            "opponent": "Coventry City",
-            "score": "3 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 3,
-            "goals_against": 0,
-            "sot_for": 6.0,
-            "sot_against": 1.0,
-            "date": "2026-08-21"
-          },
-          {
-            "opponent": "Aston Villa",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 0.0,
-            "date": "2026-08-31"
-          },
-          {
-            "opponent": "Chelsea",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 9.0,
-            "sot_against": 5.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Sunderland",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 5.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -3340,129 +1052,29 @@
       ],
       "home_stats": {
         "name": "Newcastle United",
-        "home_avg_scored": 2.0,
+        "home_avg_scored": 1.75,
         "home_avg_conceded": 2.0,
-        "shots_on_target_for": 3.25,
-        "shots_on_target_against": 6.0,
-        "form": [
-          "D",
-          "W",
-          "D",
-          "L"
-        ],
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.75,
         "played": 4,
         "rank": 12,
         "points": 5,
-        "recent_matches": [
-          {
-            "opponent": "Liverpool",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 7.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Tottenham Hotspur",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 6.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "AFC Bournemouth",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Leeds United",
-            "score": "1 - 4",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 4,
-            "sot_for": 5.0,
-            "sot_against": 6.0,
-            "date": "2026-09-14"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Hull City",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": 3.75,
-        "shots_on_target_against": 4.0,
-        "form": [
-          "W",
-          "W",
-          "D",
-          "D"
-        ],
+        "away_avg_scored": 1.25,
+        "away_avg_conceded": 0.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 1.75,
         "played": 4,
         "rank": 4,
         "points": 8,
-        "recent_matches": [
-          {
-            "opponent": "Manchester United",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 5.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Coventry City",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Aston Villa",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 1.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Chelsea",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 7.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -3472,11 +1084,11 @@
       "away": "Coventry City",
       "date": "19.09.2026",
       "time": "19:30",
-      "odds": "MS1: 1.68 | X: 4.00 | MS2: 4.90",
+      "odds": "MS1: 1.63 | X: 4.10 | MS2: 5.20",
       "odds_detail": {
-        "ms1": 1.68,
-        "x": 4.0,
-        "ms2": 4.9
+        "ms1": 1.63,
+        "x": 4.1,
+        "ms2": 5.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -3485,14 +1097,14 @@
         "ms2": 4.3
       },
       "current_odds": {
-        "ms1": 1.68,
-        "x": 4.0,
-        "ms2": 4.9
+        "ms1": 1.63,
+        "x": 4.1,
+        "ms2": 5.2
       },
       "odds_change_pct": {
-        "ms1": -5.08,
-        "x": 6.67,
-        "ms2": 13.95
+        "ms1": -7.91,
+        "x": 9.33,
+        "ms2": 20.93
       },
       "odds_history": [
         {
@@ -3530,133 +1142,39 @@
           "ms1": 1.68,
           "x": 4.0,
           "ms2": 4.9
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.720085+03:00",
+          "ms1": 1.63,
+          "x": 4.1,
+          "ms2": 5.2
         }
       ],
       "home_stats": {
         "name": "Nottingham Forest",
-        "home_avg_scored": 0.0,
-        "home_avg_conceded": 0.5,
-        "shots_on_target_for": 3.5,
-        "shots_on_target_against": 3.0,
-        "form": [
-          "L",
-          "D",
-          "D",
-          "W"
-        ],
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.0,
         "played": 4,
         "rank": 11,
         "points": 5,
-        "recent_matches": [
-          {
-            "opponent": "Leeds United",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Liverpool",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Tottenham Hotspur",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 0.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Aston Villa",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 7.0,
-            "sot_against": 5.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Coventry City",
         "away_avg_scored": 0.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 3.25,
-        "shots_on_target_against": 4.75,
-        "form": [
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.5,
         "played": 4,
         "rank": 20,
         "points": 0,
-        "recent_matches": [
-          {
-            "opponent": "Arsenal",
-            "score": "0 - 3",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 3,
-            "sot_for": 1.0,
-            "sot_against": 6.0,
-            "date": "2026-08-21"
-          },
-          {
-            "opponent": "Hull City",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 2.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Manchester City",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Brighton & Hove Albion",
-            "score": "0 - 5",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 5,
-            "sot_for": 6.0,
-            "sot_against": 7.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -3741,128 +1259,28 @@
       "home_stats": {
         "name": "AFC Bournemouth",
         "home_avg_scored": 1.5,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": 6.0,
-        "shots_on_target_against": 4.25,
-        "form": [
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
+        "home_avg_conceded": 1.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.25,
         "played": 4,
         "rank": 15,
         "points": 3,
-        "recent_matches": [
-          {
-            "opponent": "Manchester City",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 6.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Everton",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 7.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Newcastle United",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Brentford",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 10.0,
-            "sot_against": 2.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Liverpool",
-        "away_avg_scored": 2.0,
+        "away_avg_scored": 1.5,
         "away_avg_conceded": 1.0,
-        "shots_on_target_for": 5.25,
-        "shots_on_target_against": 4.0,
-        "form": [
-          "D",
-          "D",
-          "W",
-          "D"
-        ],
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.5,
         "played": 4,
         "rank": 8,
         "points": 6,
-        "recent_matches": [
-          {
-            "opponent": "Newcastle United",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 7.0,
-            "sot_against": 4.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Nottingham Forest",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-08-29"
-          },
-          {
-            "opponent": "Ipswich Town",
-            "score": "2 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 0,
-            "sot_for": 7.0,
-            "sot_against": 5.0,
-            "date": "2026-09-04"
-          },
-          {
-            "opponent": "Fulham",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 4.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -3952,129 +1370,29 @@
       ],
       "home_stats": {
         "name": "Leeds United",
-        "home_avg_scored": 2.5,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 4.25,
-        "form": [
-          "W",
-          "D",
-          "D",
-          "W"
-        ],
+        "home_avg_scored": 1.75,
+        "home_avg_conceded": 0.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.5,
         "played": 4,
         "rank": 3,
         "points": 8,
-        "recent_matches": [
-          {
-            "opponent": "Nottingham Forest",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 3.0,
-            "sot_against": 2.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Brentford",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 2.0,
-            "sot_against": 5.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Brighton & Hove Albion",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Newcastle United",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 5.0,
-            "date": "2026-09-14"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Crystal Palace",
         "away_avg_scored": 1.5,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 3.5,
-        "shots_on_target_against": 6.5,
-        "form": [
-          "L",
-          "L",
-          "W",
-          "L"
-        ],
+        "away_avg_conceded": 2.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 4.25,
         "played": 4,
         "rank": 16,
         "points": 3,
-        "recent_matches": [
-          {
-            "opponent": "Everton",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 5.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Manchester City",
-            "score": "1 - 4",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 4,
-            "sot_for": 1.0,
-            "sot_against": 9.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Fulham",
-            "score": "3 - 2",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 3,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 6.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Ipswich Town",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 4.0,
-            "sot_against": 6.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -4084,10 +1402,10 @@
       "away": "Sunderland",
       "date": "20.09.2026",
       "time": "16:00",
-      "odds": "MS1: 1.29 | X: 5.80 | MS2: 10.00",
+      "odds": "MS1: 1.29 | X: 5.75 | MS2: 10.00",
       "odds_detail": {
         "ms1": 1.29,
-        "x": 5.8,
+        "x": 5.75,
         "ms2": 10.0
       },
       "odds_available": true,
@@ -4098,12 +1416,12 @@
       },
       "current_odds": {
         "ms1": 1.29,
-        "x": 5.8,
+        "x": 5.75,
         "ms2": 10.0
       },
       "odds_change_pct": {
         "ms1": 1.57,
-        "x": 0.87,
+        "x": 0.0,
         "ms2": 0.0
       },
       "odds_history": [
@@ -4142,133 +1460,39 @@
           "ms1": 1.29,
           "x": 5.8,
           "ms2": 10.0
+        },
+        {
+          "timestamp": "2026-09-16T03:04:08.720085+03:00",
+          "ms1": 1.29,
+          "x": 5.75,
+          "ms2": 10.0
         }
       ],
       "home_stats": {
         "name": "Manchester City",
-        "home_avg_scored": 1.5,
+        "home_avg_scored": 2.0,
         "home_avg_conceded": 0.5,
-        "shots_on_target_for": 5.25,
-        "shots_on_target_against": 2.75,
-        "form": [
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.5,
         "played": 4,
         "rank": 2,
         "points": 12,
-        "recent_matches": [
-          {
-            "opponent": "AFC Bournemouth",
-            "score": "2 - 1",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 1,
-            "sot_for": 6.0,
-            "sot_against": 4.0,
-            "date": "2026-08-23"
-          },
-          {
-            "opponent": "Crystal Palace",
-            "score": "4 - 1",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 4,
-            "goals_against": 1,
-            "sot_for": 9.0,
-            "sot_against": 1.0,
-            "date": "2026-08-28"
-          },
-          {
-            "opponent": "Coventry City",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Manchester United",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 2.0,
-            "sot_against": 3.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Sunderland",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 1.5,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 2.5,
-        "form": [
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
+        "away_avg_scored": 0.75,
+        "away_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.0,
         "played": 4,
         "rank": 14,
         "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Ipswich Town",
-            "score": "1 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 2,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Fulham",
-            "score": "1 - 0",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 1,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 0.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Brentford",
-            "score": "1 - 1",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 1,
-            "goals_against": 1,
-            "sot_for": 5.0,
-            "sot_against": 2.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Arsenal",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 5.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       }
     },
     {
@@ -4328,129 +1552,29 @@
       ],
       "home_stats": {
         "name": "Fulham",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 3.0,
-        "shots_on_target_for": 4.0,
-        "shots_on_target_against": 4.5,
-        "form": [
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 1.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 2.75,
         "played": 4,
         "rank": 18,
         "points": 1,
-        "recent_matches": [
-          {
-            "opponent": "Chelsea",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 6.0,
-            "sot_against": 6.0,
-            "date": "2026-08-24"
-          },
-          {
-            "opponent": "Sunderland",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 0.0,
-            "sot_against": 4.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Crystal Palace",
-            "score": "2 - 3",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 2,
-            "goals_against": 3,
-            "sot_for": 6.0,
-            "sot_against": 5.0,
-            "date": "2026-09-05"
-          },
-          {
-            "opponent": "Liverpool",
-            "score": "0 - 0",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 0,
-            "sot_for": 4.0,
-            "sot_against": 3.0,
-            "date": "2026-09-12"
-          }
-        ]
+        "recent_matches": []
       },
       "away_stats": {
         "name": "Manchester United",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": 5.5,
-        "shots_on_target_against": 4.25,
-        "form": [
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
+        "away_avg_scored": 1.75,
+        "away_avg_conceded": 1.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
         "recent_goals_avg": 3.5,
         "played": 4,
         "rank": 13,
         "points": 4,
-        "recent_matches": [
-          {
-            "opponent": "Hull City",
-            "score": "0 - 2",
-            "result": "L",
-            "venue": "away",
-            "goals_for": 0,
-            "goals_against": 2,
-            "sot_for": 5.0,
-            "sot_against": 4.0,
-            "date": "2026-08-22"
-          },
-          {
-            "opponent": "Ipswich Town",
-            "score": "5 - 2",
-            "result": "W",
-            "venue": "home",
-            "goals_for": 5,
-            "goals_against": 2,
-            "sot_for": 11.0,
-            "sot_against": 5.0,
-            "date": "2026-08-30"
-          },
-          {
-            "opponent": "Everton",
-            "score": "2 - 2",
-            "result": "D",
-            "venue": "away",
-            "goals_for": 2,
-            "goals_against": 2,
-            "sot_for": 3.0,
-            "sot_against": 6.0,
-            "date": "2026-09-06"
-          },
-          {
-            "opponent": "Manchester City",
-            "score": "0 - 1",
-            "result": "L",
-            "venue": "home",
-            "goals_for": 0,
-            "goals_against": 1,
-            "sot_for": 3.0,
-            "sot_against": 2.0,
-            "date": "2026-09-13"
-          }
-        ]
+        "recent_matches": []
       }
     }
   ]
