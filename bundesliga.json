@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-16T15:04:30.104994+03:00",
+  "last_updated": "2026-09-17T03:04:19.654939+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "1. FC Union Berlin",
       "date": "18.09.2026",
       "time": "21:30",
-      "odds": "MS1: 1.07 | X: 11.50 | MS2: 21.00",
+      "odds": "MS1: 1.07 | X: 11.00 | MS2: 23.00",
       "odds_detail": {
         "ms1": 1.07,
-        "x": 11.5,
-        "ms2": 21.0
+        "x": 11.0,
+        "ms2": 23.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -514,13 +514,13 @@
       },
       "current_odds": {
         "ms1": 1.07,
-        "x": 11.5,
-        "ms2": 21.0
+        "x": 11.0,
+        "ms2": 23.0
       },
       "odds_change_pct": {
         "ms1": -5.31,
-        "x": 35.29,
-        "ms2": 31.25
+        "x": 29.41,
+        "ms2": 43.75
       },
       "odds_history": [
         {
@@ -570,6 +570,12 @@
           "ms1": 1.07,
           "x": 11.5,
           "ms2": 21.0
+        },
+        {
+          "timestamp": "2026-09-17T03:04:19.654939+03:00",
+          "ms1": 1.07,
+          "x": 11.0,
+          "ms2": 23.0
         }
       ],
       "home_stats": {
@@ -596,164 +602,6 @@
         "played": 3,
         "rank": 16,
         "points": 1,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230329,
-      "home": "Borussia Mönchengladbach",
-      "away": "Mainz",
-      "date": "19.09.2026",
-      "time": "16:30",
-      "odds": "MS1: 2.80 | X: 3.65 | MS2: 2.25",
-      "odds_detail": {
-        "ms1": 2.8,
-        "x": 3.65,
-        "ms2": 2.25
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.63,
-        "x": 3.65,
-        "ms2": 2.4
-      },
-      "current_odds": {
-        "ms1": 2.8,
-        "x": 3.65,
-        "ms2": 2.25
-      },
-      "odds_change_pct": {
-        "ms1": 6.46,
-        "x": 0.0,
-        "ms2": -6.25
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-07T15:04:17.728153+03:00",
-          "ms1": 2.63,
-          "x": 3.65,
-          "ms2": 2.4
-        },
-        {
-          "timestamp": "2026-09-09T15:04:22.408090+03:00",
-          "ms1": 2.65,
-          "x": 3.6,
-          "ms2": 2.4
-        },
-        {
-          "timestamp": "2026-09-11T15:04:36.257204+03:00",
-          "ms1": 2.63,
-          "x": 3.65,
-          "ms2": 2.4
-        },
-        {
-          "timestamp": "2026-09-13T15:03:46.150663+03:00",
-          "ms1": 2.7,
-          "x": 3.6,
-          "ms2": 2.33
-        },
-        {
-          "timestamp": "2026-09-15T03:04:44.558289+03:00",
-          "ms1": 2.8,
-          "x": 3.6,
-          "ms2": 2.25
-        },
-        {
-          "timestamp": "2026-09-16T15:04:30.104994+03:00",
-          "ms1": 2.8,
-          "x": 3.65,
-          "ms2": 2.25
-        }
-      ],
-      "home_stats": {
-        "name": "Borussia Mönchengladbach",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 4.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 5.0,
-        "played": 3,
-        "rank": 17,
-        "points": 0,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Mainz",
-        "away_avg_scored": 2.0,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 3,
-        "rank": 8,
-        "points": 4,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230320,
-      "home": "Hamburg SV",
-      "away": "FC Cologne",
-      "date": "19.09.2026",
-      "time": "16:30",
-      "odds": "MS1: 2.60 | X: 3.55 | MS2: 2.45",
-      "odds_detail": {
-        "ms1": 2.6,
-        "x": 3.55,
-        "ms2": 2.45
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.6,
-        "x": 3.55,
-        "ms2": 2.45
-      },
-      "current_odds": {
-        "ms1": 2.6,
-        "x": 3.55,
-        "ms2": 2.45
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-07T15:04:17.728153+03:00",
-          "ms1": 2.6,
-          "x": 3.55,
-          "ms2": 2.45
-        }
-      ],
-      "home_stats": {
-        "name": "Hamburg SV",
-        "home_avg_scored": 0.0,
-        "home_avg_conceded": 4.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.0,
-        "played": 3,
-        "rank": 18,
-        "points": 0,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "FC Cologne",
-        "away_avg_scored": 1.67,
-        "away_avg_conceded": 2.33,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.0,
-        "played": 3,
-        "rank": 12,
-        "points": 4,
         "recent_matches": []
       }
     },
@@ -953,6 +801,164 @@
     },
     {
       "league": "German Bundesliga",
+      "event_id": 1028230329,
+      "home": "Borussia Mönchengladbach",
+      "away": "Mainz",
+      "date": "19.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.80 | X: 3.65 | MS2: 2.25",
+      "odds_detail": {
+        "ms1": 2.8,
+        "x": 3.65,
+        "ms2": 2.25
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.63,
+        "x": 3.65,
+        "ms2": 2.4
+      },
+      "current_odds": {
+        "ms1": 2.8,
+        "x": 3.65,
+        "ms2": 2.25
+      },
+      "odds_change_pct": {
+        "ms1": 6.46,
+        "x": 0.0,
+        "ms2": -6.25
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.63,
+          "x": 3.65,
+          "ms2": 2.4
+        },
+        {
+          "timestamp": "2026-09-09T15:04:22.408090+03:00",
+          "ms1": 2.65,
+          "x": 3.6,
+          "ms2": 2.4
+        },
+        {
+          "timestamp": "2026-09-11T15:04:36.257204+03:00",
+          "ms1": 2.63,
+          "x": 3.65,
+          "ms2": 2.4
+        },
+        {
+          "timestamp": "2026-09-13T15:03:46.150663+03:00",
+          "ms1": 2.7,
+          "x": 3.6,
+          "ms2": 2.33
+        },
+        {
+          "timestamp": "2026-09-15T03:04:44.558289+03:00",
+          "ms1": 2.8,
+          "x": 3.6,
+          "ms2": 2.25
+        },
+        {
+          "timestamp": "2026-09-16T15:04:30.104994+03:00",
+          "ms1": 2.8,
+          "x": 3.65,
+          "ms2": 2.25
+        }
+      ],
+      "home_stats": {
+        "name": "Borussia Mönchengladbach",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 4.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 5.0,
+        "played": 3,
+        "rank": 17,
+        "points": 0,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Mainz",
+        "away_avg_scored": 2.0,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 3,
+        "rank": 8,
+        "points": 4,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230320,
+      "home": "Hamburg SV",
+      "away": "FC Cologne",
+      "date": "19.09.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.60 | X: 3.55 | MS2: 2.45",
+      "odds_detail": {
+        "ms1": 2.6,
+        "x": 3.55,
+        "ms2": 2.45
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.6,
+        "x": 3.55,
+        "ms2": 2.45
+      },
+      "current_odds": {
+        "ms1": 2.6,
+        "x": 3.55,
+        "ms2": 2.45
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-07T15:04:17.728153+03:00",
+          "ms1": 2.6,
+          "x": 3.55,
+          "ms2": 2.45
+        }
+      ],
+      "home_stats": {
+        "name": "Hamburg SV",
+        "home_avg_scored": 0.0,
+        "home_avg_conceded": 4.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 3,
+        "rank": 18,
+        "points": 0,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "FC Cologne",
+        "away_avg_scored": 1.67,
+        "away_avg_conceded": 2.33,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 3,
+        "rank": 12,
+        "points": 4,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
       "event_id": 1028230306,
       "home": "VfB Stuttgart",
       "away": "Borussia Dortmund",
@@ -1052,11 +1058,11 @@
       "away": "RB Leipzig",
       "date": "20.09.2026",
       "time": "16:30",
-      "odds": "MS1: 1.87 | X: 4.10 | MS2: 3.40",
+      "odds": "MS1: 1.93 | X: 4.10 | MS2: 3.25",
       "odds_detail": {
-        "ms1": 1.87,
+        "ms1": 1.93,
         "x": 4.1,
-        "ms2": 3.4
+        "ms2": 3.25
       },
       "odds_available": true,
       "opening_odds": {
@@ -1065,14 +1071,14 @@
         "ms2": 3.35
       },
       "current_odds": {
-        "ms1": 1.87,
+        "ms1": 1.93,
         "x": 4.1,
-        "ms2": 3.4
+        "ms2": 3.25
       },
       "odds_change_pct": {
-        "ms1": -0.53,
+        "ms1": 2.66,
         "x": -2.38,
-        "ms2": 1.49
+        "ms2": -2.99
       },
       "odds_history": [
         {
@@ -1092,6 +1098,12 @@
           "ms1": 1.87,
           "x": 4.1,
           "ms2": 3.4
+        },
+        {
+          "timestamp": "2026-09-17T03:04:19.654939+03:00",
+          "ms1": 1.93,
+          "x": 4.1,
+          "ms2": 3.25
         }
       ],
       "home_stats": {
