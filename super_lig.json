@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-18T15:04:04.471117+03:00",
+  "last_updated": "2026-09-19T03:04:01.256534+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -90,27 +90,27 @@
       "name": "Kasimpasa",
       "id": "6870",
       "rank": 4,
-      "points": 9,
-      "played": 5,
+      "points": 10,
+      "played": 6,
       "wins": 2,
-      "draws": 3,
+      "draws": 4,
       "losses": 0,
       "goals_for": 7,
       "goals_against": 5,
       "goal_diff": 2,
-      "avg_scored": 1.4,
-      "avg_conceded": 1.0,
-      "win_rate": 40.0,
+      "avg_scored": 1.17,
+      "avg_conceded": 0.83,
+      "win_rate": 33.3,
       "matches": [],
-      "home_avg_scored": 1.4,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.4,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 1.17,
+      "home_avg_conceded": 0.83,
+      "away_avg_scored": 1.17,
+      "away_avg_conceded": 0.83,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.4,
+      "recent_goals_avg": 2.0,
       "recent_matches": []
     },
     {
@@ -330,9 +330,36 @@
       "recent_matches": []
     },
     {
+      "name": "Konyaspor",
+      "id": "7648",
+      "rank": 13,
+      "points": 4,
+      "played": 6,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 4,
+      "goals_against": 8,
+      "goal_diff": -4,
+      "avg_scored": 0.67,
+      "avg_conceded": 1.33,
+      "win_rate": 16.7,
+      "matches": [],
+      "home_avg_scored": 0.67,
+      "home_avg_conceded": 1.33,
+      "away_avg_scored": 0.67,
+      "away_avg_conceded": 1.33,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.0,
+      "recent_matches": []
+    },
+    {
       "name": "Istanbul Basaksehir",
       "id": "7914",
-      "rank": 13,
+      "rank": 14,
       "points": 4,
       "played": 5,
       "wins": 1,
@@ -359,7 +386,7 @@
     {
       "name": "Samsunspor",
       "id": "11429",
-      "rank": 14,
+      "rank": 15,
       "points": 4,
       "played": 5,
       "wins": 1,
@@ -386,7 +413,7 @@
     {
       "name": "Erzurum BB",
       "id": "19267",
-      "rank": 15,
+      "rank": 16,
       "points": 4,
       "played": 5,
       "wins": 1,
@@ -408,33 +435,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.6,
-      "recent_matches": []
-    },
-    {
-      "name": "Konyaspor",
-      "id": "7648",
-      "rank": 16,
-      "points": 3,
-      "played": 5,
-      "wins": 1,
-      "draws": 0,
-      "losses": 4,
-      "goals_for": 4,
-      "goals_against": 8,
-      "goal_diff": -4,
-      "avg_scored": 0.8,
-      "avg_conceded": 1.6,
-      "win_rate": 20.0,
-      "matches": [],
-      "home_avg_scored": 0.8,
-      "home_avg_conceded": 1.6,
-      "away_avg_scored": 0.8,
-      "away_avg_conceded": 1.6,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.4,
       "recent_matches": []
     },
     {
@@ -493,76 +493,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328531,
-      "home": "Kasimpasa",
-      "away": "Konyaspor",
-      "date": "18.09.2026",
-      "time": "20:00",
-      "odds": "MS1: 2.48 | X: 3.25 | MS2: 2.85",
-      "odds_detail": {
-        "ms1": 2.48,
-        "x": 3.25,
-        "ms2": 2.85
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.48,
-        "x": 3.25,
-        "ms2": 2.8
-      },
-      "current_odds": {
-        "ms1": 2.48,
-        "x": 3.25,
-        "ms2": 2.85
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 1.79
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-12T03:04:21.047211+03:00",
-          "ms1": 2.48,
-          "x": 3.25,
-          "ms2": 2.8
-        },
-        {
-          "timestamp": "2026-09-18T03:04:11.501875+03:00",
-          "ms1": 2.48,
-          "x": 3.25,
-          "ms2": 2.85
-        }
-      ],
-      "home_stats": {
-        "name": "Kasimpasa",
-        "home_avg_scored": 1.4,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.4,
-        "played": 5,
-        "rank": 4,
-        "points": 9,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Konyaspor",
-        "away_avg_scored": 0.8,
-        "away_avg_conceded": 1.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.4,
-        "played": 5,
-        "rank": 16,
-        "points": 3,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Trendyol Süper Lig",
       "event_id": 1028328559,
@@ -779,7 +709,7 @@
         "form": [],
         "recent_goals_avg": 3.4,
         "played": 5,
-        "rank": 13,
+        "rank": 14,
         "points": 4,
         "recent_matches": []
       },
@@ -804,11 +734,11 @@
       "away": "Galatasaray",
       "date": "19.09.2026",
       "time": "20:00",
-      "odds": "MS1: 3.25 | X: 3.85 | MS2: 2.02",
+      "odds": "MS1: 2.88 | X: 3.80 | MS2: 2.18",
       "odds_detail": {
-        "ms1": 3.25,
-        "x": 3.85,
-        "ms2": 2.02
+        "ms1": 2.88,
+        "x": 3.8,
+        "ms2": 2.18
       },
       "odds_available": true,
       "opening_odds": {
@@ -817,14 +747,14 @@
         "ms2": 1.92
       },
       "current_odds": {
-        "ms1": 3.25,
-        "x": 3.85,
-        "ms2": 2.02
+        "ms1": 2.88,
+        "x": 3.8,
+        "ms2": 2.18
       },
       "odds_change_pct": {
-        "ms1": -8.45,
-        "x": 0.0,
-        "ms2": 5.21
+        "ms1": -18.87,
+        "x": -1.3,
+        "ms2": 13.54
       },
       "odds_history": [
         {
@@ -862,6 +792,12 @@
           "ms1": 3.25,
           "x": 3.85,
           "ms2": 2.02
+        },
+        {
+          "timestamp": "2026-09-19T03:04:01.256534+03:00",
+          "ms1": 2.88,
+          "x": 3.8,
+          "ms2": 2.18
         }
       ],
       "home_stats": {
@@ -949,7 +885,7 @@
         "form": [],
         "recent_goals_avg": 2.6,
         "played": 5,
-        "rank": 15,
+        "rank": 16,
         "points": 4,
         "recent_matches": []
       },
@@ -962,7 +898,7 @@
         "form": [],
         "recent_goals_avg": 3.4,
         "played": 5,
-        "rank": 14,
+        "rank": 15,
         "points": 4,
         "recent_matches": []
       }
@@ -974,11 +910,11 @@
       "away": "Eyupspor",
       "date": "20.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.18 | X: 6.40 | MS2: 12.50",
+      "odds": "MS1: 1.15 | X: 7.00 | MS2: 14.00",
       "odds_detail": {
-        "ms1": 1.18,
-        "x": 6.4,
-        "ms2": 12.5
+        "ms1": 1.15,
+        "x": 7.0,
+        "ms2": 14.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -987,14 +923,14 @@
         "ms2": 14.0
       },
       "current_odds": {
-        "ms1": 1.18,
-        "x": 6.4,
-        "ms2": 12.5
+        "ms1": 1.15,
+        "x": 7.0,
+        "ms2": 14.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": -8.57,
-        "ms2": -10.71
+        "ms1": -2.54,
+        "x": 0.0,
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -1008,6 +944,12 @@
           "ms1": 1.18,
           "x": 6.4,
           "ms2": 12.5
+        },
+        {
+          "timestamp": "2026-09-19T03:04:01.256534+03:00",
+          "ms1": 1.15,
+          "x": 7.0,
+          "ms2": 14.0
         }
       ],
       "home_stats": {
@@ -1126,11 +1068,11 @@
       "away": "Caykur Rizespor",
       "date": "20.09.2026",
       "time": "20:00",
-      "odds": "MS1: 2.50 | X: 3.40 | MS2: 2.70",
+      "odds": "MS1: 2.43 | X: 3.40 | MS2: 2.80",
       "odds_detail": {
-        "ms1": 2.5,
+        "ms1": 2.43,
         "x": 3.4,
-        "ms2": 2.7
+        "ms2": 2.8
       },
       "odds_available": true,
       "opening_odds": {
@@ -1139,14 +1081,14 @@
         "ms2": 2.75
       },
       "current_odds": {
-        "ms1": 2.5,
+        "ms1": 2.43,
         "x": 3.4,
-        "ms2": 2.7
+        "ms2": 2.8
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -2.8,
         "x": 3.03,
-        "ms2": -1.82
+        "ms2": 1.82
       },
       "odds_history": [
         {
@@ -1160,6 +1102,12 @@
           "ms1": 2.5,
           "x": 3.4,
           "ms2": 2.7
+        },
+        {
+          "timestamp": "2026-09-19T03:04:01.256534+03:00",
+          "ms1": 2.43,
+          "x": 3.4,
+          "ms2": 2.8
         }
       ],
       "home_stats": {

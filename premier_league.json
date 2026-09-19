@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-18T15:04:04.972529+03:00",
+  "last_updated": "2026-09-19T03:04:02.056376+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -60,9 +60,36 @@
       "recent_matches": []
     },
     {
+      "name": "Brentford",
+      "id": "337",
+      "rank": 3,
+      "points": 9,
+      "played": 5,
+      "wins": 2,
+      "draws": 3,
+      "losses": 0,
+      "goals_for": 10,
+      "goals_against": 4,
+      "goal_diff": 6,
+      "avg_scored": 2.0,
+      "avg_conceded": 0.8,
+      "win_rate": 40.0,
+      "matches": [],
+      "home_avg_scored": 2.0,
+      "home_avg_conceded": 0.8,
+      "away_avg_scored": 2.0,
+      "away_avg_conceded": 0.8,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.8,
+      "recent_matches": []
+    },
+    {
       "name": "Leeds United",
       "id": "357",
-      "rank": 3,
+      "rank": 4,
       "points": 8,
       "played": 4,
       "wins": 2,
@@ -89,7 +116,7 @@
     {
       "name": "Hull City",
       "id": "306",
-      "rank": 4,
+      "rank": 5,
       "points": 8,
       "played": 4,
       "wins": 2,
@@ -116,7 +143,7 @@
     {
       "name": "Brighton & Hove Albion",
       "id": "331",
-      "rank": 5,
+      "rank": 6,
       "points": 7,
       "played": 4,
       "wins": 2,
@@ -143,55 +170,28 @@
     {
       "name": "Chelsea",
       "id": "363",
-      "rank": 6,
+      "rank": 7,
       "points": 7,
-      "played": 4,
+      "played": 5,
       "wins": 2,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "goals_for": 10,
-      "goals_against": 9,
-      "goal_diff": 1,
-      "avg_scored": 2.5,
-      "avg_conceded": 2.25,
-      "win_rate": 50.0,
+      "goals_against": 12,
+      "goal_diff": -2,
+      "avg_scored": 2.0,
+      "avg_conceded": 2.4,
+      "win_rate": 40.0,
       "matches": [],
-      "home_avg_scored": 2.5,
-      "home_avg_conceded": 2.25,
-      "away_avg_scored": 2.5,
-      "away_avg_conceded": 2.25,
+      "home_avg_scored": 2.0,
+      "home_avg_conceded": 2.4,
+      "away_avg_scored": 2.0,
+      "away_avg_conceded": 2.4,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 4.75,
-      "recent_matches": []
-    },
-    {
-      "name": "Brentford",
-      "id": "337",
-      "rank": 7,
-      "points": 6,
-      "played": 4,
-      "wins": 1,
-      "draws": 3,
-      "losses": 0,
-      "goals_for": 7,
-      "goals_against": 4,
-      "goal_diff": 3,
-      "avg_scored": 1.75,
-      "avg_conceded": 1.0,
-      "win_rate": 25.0,
-      "matches": [],
-      "home_avg_scored": 1.75,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.75,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.75,
+      "recent_goals_avg": 4.4,
       "recent_matches": []
     },
     {
@@ -549,148 +549,6 @@
   "upcoming_matches": [
     {
       "league": "English Premier League",
-      "event_id": 1028072787,
-      "home": "Brentford",
-      "away": "Chelsea",
-      "date": "18.09.2026",
-      "time": "22:00",
-      "odds": "MS1: 2.65 | X: 3.80 | MS2: 2.43",
-      "odds_detail": {
-        "ms1": 2.65,
-        "x": 3.8,
-        "ms2": 2.43
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.63,
-        "x": 3.65,
-        "ms2": 2.43
-      },
-      "current_odds": {
-        "ms1": 2.65,
-        "x": 3.8,
-        "ms2": 2.43
-      },
-      "odds_change_pct": {
-        "ms1": 0.76,
-        "x": 4.11,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-07T15:04:17.045889+03:00",
-          "ms1": 2.63,
-          "x": 3.65,
-          "ms2": 2.43
-        },
-        {
-          "timestamp": "2026-09-09T03:05:29.743939+03:00",
-          "ms1": 2.6,
-          "x": 3.65,
-          "ms2": 2.45
-        },
-        {
-          "timestamp": "2026-09-09T15:04:21.545880+03:00",
-          "ms1": 2.63,
-          "x": 3.7,
-          "ms2": 2.43
-        },
-        {
-          "timestamp": "2026-09-10T15:04:33.955472+03:00",
-          "ms1": 2.7,
-          "x": 3.8,
-          "ms2": 2.48
-        },
-        {
-          "timestamp": "2026-09-11T15:04:35.197579+03:00",
-          "ms1": 2.7,
-          "x": 3.8,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-09-12T03:04:21.706005+03:00",
-          "ms1": 2.8,
-          "x": 3.8,
-          "ms2": 2.4
-        },
-        {
-          "timestamp": "2026-09-13T03:04:49.113330+03:00",
-          "ms1": 2.8,
-          "x": 3.95,
-          "ms2": 2.33
-        },
-        {
-          "timestamp": "2026-09-14T15:04:37.848958+03:00",
-          "ms1": 2.8,
-          "x": 3.9,
-          "ms2": 2.32
-        },
-        {
-          "timestamp": "2026-09-16T03:04:08.720085+03:00",
-          "ms1": 2.95,
-          "x": 3.9,
-          "ms2": 2.2
-        },
-        {
-          "timestamp": "2026-09-16T15:04:29.704989+03:00",
-          "ms1": 3.0,
-          "x": 3.85,
-          "ms2": 2.18
-        },
-        {
-          "timestamp": "2026-09-17T03:04:18.925036+03:00",
-          "ms1": 2.7,
-          "x": 3.85,
-          "ms2": 2.38
-        },
-        {
-          "timestamp": "2026-09-17T15:04:23.175294+03:00",
-          "ms1": 2.8,
-          "x": 3.75,
-          "ms2": 2.35
-        },
-        {
-          "timestamp": "2026-09-18T03:04:12.201787+03:00",
-          "ms1": 2.75,
-          "x": 3.8,
-          "ms2": 2.38
-        },
-        {
-          "timestamp": "2026-09-18T15:04:04.972529+03:00",
-          "ms1": 2.65,
-          "x": 3.8,
-          "ms2": 2.43
-        }
-      ],
-      "home_stats": {
-        "name": "Brentford",
-        "home_avg_scored": 1.75,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.75,
-        "played": 4,
-        "rank": 7,
-        "points": 6,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Chelsea",
-        "away_avg_scored": 2.5,
-        "away_avg_conceded": 2.25,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.75,
-        "played": 4,
-        "rank": 6,
-        "points": 7,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072795,
       "home": "Tottenham Hotspur",
       "away": "Aston Villa",
@@ -920,11 +778,11 @@
       "away": "Arsenal",
       "date": "19.09.2026",
       "time": "17:00",
-      "odds": "MS1: 5.10 | X: 3.95 | MS2: 1.67",
+      "odds": "MS1: 5.00 | X: 3.90 | MS2: 1.68",
       "odds_detail": {
-        "ms1": 5.1,
-        "x": 3.95,
-        "ms2": 1.67
+        "ms1": 5.0,
+        "x": 3.9,
+        "ms2": 1.68
       },
       "odds_available": true,
       "opening_odds": {
@@ -933,14 +791,14 @@
         "ms2": 1.76
       },
       "current_odds": {
-        "ms1": 5.1,
-        "x": 3.95,
-        "ms2": 1.67
+        "ms1": 5.0,
+        "x": 3.9,
+        "ms2": 1.68
       },
       "odds_change_pct": {
-        "ms1": 17.24,
-        "x": 3.95,
-        "ms2": -5.11
+        "ms1": 14.94,
+        "x": 2.63,
+        "ms2": -4.55
       },
       "odds_history": [
         {
@@ -1008,6 +866,12 @@
           "ms1": 5.1,
           "x": 3.95,
           "ms2": 1.67
+        },
+        {
+          "timestamp": "2026-09-19T03:04:02.056376+03:00",
+          "ms1": 5.0,
+          "x": 3.9,
+          "ms2": 1.68
         }
       ],
       "home_stats": {
@@ -1019,7 +883,7 @@
         "form": [],
         "recent_goals_avg": 4.5,
         "played": 4,
-        "rank": 5,
+        "rank": 6,
         "points": 7,
         "recent_matches": []
       },
@@ -1044,9 +908,9 @@
       "away": "Hull City",
       "date": "19.09.2026",
       "time": "17:00",
-      "odds": "MS1: 1.61 | X: 4.25 | MS2: 5.20",
+      "odds": "MS1: 1.60 | X: 4.25 | MS2: 5.20",
       "odds_detail": {
-        "ms1": 1.61,
+        "ms1": 1.6,
         "x": 4.25,
         "ms2": 5.2
       },
@@ -1057,12 +921,12 @@
         "ms2": 6.0
       },
       "current_odds": {
-        "ms1": 1.61,
+        "ms1": 1.6,
         "x": 4.25,
         "ms2": 5.2
       },
       "odds_change_pct": {
-        "ms1": 9.52,
+        "ms1": 8.84,
         "x": -7.61,
         "ms2": -13.33
       },
@@ -1144,6 +1008,12 @@
           "ms1": 1.61,
           "x": 4.25,
           "ms2": 5.2
+        },
+        {
+          "timestamp": "2026-09-19T03:04:02.056376+03:00",
+          "ms1": 1.6,
+          "x": 4.25,
+          "ms2": 5.2
         }
       ],
       "home_stats": {
@@ -1168,7 +1038,7 @@
         "form": [],
         "recent_goals_avg": 1.75,
         "played": 4,
-        "rank": 4,
+        "rank": 5,
         "points": 8,
         "recent_matches": []
       }
@@ -1180,11 +1050,11 @@
       "away": "Coventry City",
       "date": "19.09.2026",
       "time": "19:30",
-      "odds": "MS1: 1.60 | X: 4.20 | MS2: 5.40",
+      "odds": "MS1: 1.57 | X: 4.10 | MS2: 5.80",
       "odds_detail": {
-        "ms1": 1.6,
-        "x": 4.2,
-        "ms2": 5.4
+        "ms1": 1.57,
+        "x": 4.1,
+        "ms2": 5.8
       },
       "odds_available": true,
       "opening_odds": {
@@ -1193,14 +1063,14 @@
         "ms2": 4.3
       },
       "current_odds": {
-        "ms1": 1.6,
-        "x": 4.2,
-        "ms2": 5.4
+        "ms1": 1.57,
+        "x": 4.1,
+        "ms2": 5.8
       },
       "odds_change_pct": {
-        "ms1": -9.6,
-        "x": 12.0,
-        "ms2": 25.58
+        "ms1": -11.3,
+        "x": 9.33,
+        "ms2": 34.88
       },
       "odds_history": [
         {
@@ -1262,6 +1132,12 @@
           "ms1": 1.6,
           "x": 4.2,
           "ms2": 5.4
+        },
+        {
+          "timestamp": "2026-09-19T03:04:02.056376+03:00",
+          "ms1": 1.57,
+          "x": 4.1,
+          "ms2": 5.8
         }
       ],
       "home_stats": {
@@ -1298,10 +1174,10 @@
       "away": "Liverpool",
       "date": "20.09.2026",
       "time": "16:00",
-      "odds": "MS1: 3.15 | X: 3.80 | MS2: 2.14",
+      "odds": "MS1: 3.15 | X: 3.75 | MS2: 2.14",
       "odds_detail": {
         "ms1": 3.15,
-        "x": 3.8,
+        "x": 3.75,
         "ms2": 2.14
       },
       "odds_available": true,
@@ -1312,12 +1188,12 @@
       },
       "current_odds": {
         "ms1": 3.15,
-        "x": 3.8,
+        "x": 3.75,
         "ms2": 2.14
       },
       "odds_change_pct": {
         "ms1": 1.61,
-        "x": -3.8,
+        "x": -5.06,
         "ms2": 3.88
       },
       "odds_history": [
@@ -1386,6 +1262,12 @@
           "ms1": 3.15,
           "x": 3.8,
           "ms2": 2.14
+        },
+        {
+          "timestamp": "2026-09-19T03:04:02.056376+03:00",
+          "ms1": 3.15,
+          "x": 3.75,
+          "ms2": 2.14
         }
       ],
       "home_stats": {
@@ -1422,11 +1304,11 @@
       "away": "Crystal Palace",
       "date": "20.09.2026",
       "time": "16:00",
-      "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.40",
+      "odds": "MS1: 1.74 | X: 3.90 | MS2: 4.60",
       "odds_detail": {
-        "ms1": 1.78,
-        "x": 3.85,
-        "ms2": 4.4
+        "ms1": 1.74,
+        "x": 3.9,
+        "ms2": 4.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -1435,14 +1317,14 @@
         "ms2": 3.6
       },
       "current_odds": {
-        "ms1": 1.78,
-        "x": 3.85,
-        "ms2": 4.4
+        "ms1": 1.74,
+        "x": 3.9,
+        "ms2": 4.6
       },
       "odds_change_pct": {
-        "ms1": -9.64,
-        "x": 8.45,
-        "ms2": 22.22
+        "ms1": -11.68,
+        "x": 9.86,
+        "ms2": 27.78
       },
       "odds_history": [
         {
@@ -1516,6 +1398,12 @@
           "ms1": 1.78,
           "x": 3.85,
           "ms2": 4.4
+        },
+        {
+          "timestamp": "2026-09-19T03:04:02.056376+03:00",
+          "ms1": 1.74,
+          "x": 3.9,
+          "ms2": 4.6
         }
       ],
       "home_stats": {
@@ -1527,7 +1415,7 @@
         "form": [],
         "recent_goals_avg": 2.5,
         "played": 4,
-        "rank": 3,
+        "rank": 4,
         "points": 8,
         "recent_matches": []
       },
@@ -1552,11 +1440,11 @@
       "away": "Sunderland",
       "date": "20.09.2026",
       "time": "16:00",
-      "odds": "MS1: 1.30 | X: 5.60 | MS2: 9.50",
+      "odds": "MS1: 1.29 | X: 5.60 | MS2: 10.50",
       "odds_detail": {
-        "ms1": 1.3,
+        "ms1": 1.29,
         "x": 5.6,
-        "ms2": 9.5
+        "ms2": 10.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -1565,14 +1453,14 @@
         "ms2": 10.0
       },
       "current_odds": {
-        "ms1": 1.3,
+        "ms1": 1.29,
         "x": 5.6,
-        "ms2": 9.5
+        "ms2": 10.5
       },
       "odds_change_pct": {
-        "ms1": 2.36,
+        "ms1": 1.57,
         "x": -2.61,
-        "ms2": -5.0
+        "ms2": 5.0
       },
       "odds_history": [
         {
@@ -1640,6 +1528,12 @@
           "ms1": 1.3,
           "x": 5.6,
           "ms2": 9.5
+        },
+        {
+          "timestamp": "2026-09-19T03:04:02.056376+03:00",
+          "ms1": 1.29,
+          "x": 5.6,
+          "ms2": 10.5
         }
       ],
       "home_stats": {
