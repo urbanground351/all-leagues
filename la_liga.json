@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-24T15:04:15.520030+03:00",
+  "last_updated": "2026-09-25T03:04:35.846745+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -546,5 +546,70 @@
       "recent_matches": []
     }
   ],
-  "upcoming_matches": []
+  "upcoming_matches": [
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209260,
+      "home": "Málaga",
+      "away": "Espanyol",
+      "date": "09.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 2.65 | X: 3.25 | MS2: 2.70",
+      "odds_detail": {
+        "ms1": 2.65,
+        "x": 3.25,
+        "ms2": 2.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.65,
+        "x": 3.25,
+        "ms2": 2.7
+      },
+      "current_odds": {
+        "ms1": 2.65,
+        "x": 3.25,
+        "ms2": 2.7
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-25T03:04:35.846745+03:00",
+          "ms1": 2.65,
+          "x": 3.25,
+          "ms2": 2.7
+        }
+      ],
+      "home_stats": {
+        "name": "Málaga",
+        "home_avg_scored": 0.43,
+        "home_avg_conceded": 1.71,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.14,
+        "played": 7,
+        "rank": 20,
+        "points": 3,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Espanyol",
+        "away_avg_scored": 1.43,
+        "away_avg_conceded": 1.43,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.86,
+        "played": 7,
+        "rank": 15,
+        "points": 7,
+        "recent_matches": []
+      }
+    }
+  ]
 }
