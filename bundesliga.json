@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-25T15:04:34.393125+03:00",
+  "last_updated": "2026-09-26T03:04:01.887737+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -560,6 +560,390 @@
         "played": 4,
         "rank": 8,
         "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230314,
+      "home": "Mainz",
+      "away": "Bayer Leverkusen",
+      "date": "10.10.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.88 | X: 3.90 | MS2: 2.14",
+      "odds_detail": {
+        "ms1": 2.88,
+        "x": 3.9,
+        "ms2": 2.14
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.88,
+        "x": 3.9,
+        "ms2": 2.14
+      },
+      "current_odds": {
+        "ms1": 2.88,
+        "x": 3.9,
+        "ms2": 2.14
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.887737+03:00",
+          "ms1": 2.88,
+          "x": 3.9,
+          "ms2": 2.14
+        }
+      ],
+      "home_stats": {
+        "name": "Mainz",
+        "home_avg_scored": 2.5,
+        "home_avg_conceded": 1.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 4,
+        "rank": 6,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Bayer Leverkusen",
+        "away_avg_scored": 2.5,
+        "away_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.75,
+        "played": 4,
+        "rank": 5,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230270,
+      "home": "SC Paderborn 07",
+      "away": "VfB Stuttgart",
+      "date": "10.10.2026",
+      "time": "16:30",
+      "odds": "MS1: 4.35 | X: 4.35 | MS2: 1.63",
+      "odds_detail": {
+        "ms1": 4.35,
+        "x": 4.35,
+        "ms2": 1.63
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.35,
+        "x": 4.35,
+        "ms2": 1.63
+      },
+      "current_odds": {
+        "ms1": 4.35,
+        "x": 4.35,
+        "ms2": 1.63
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.887737+03:00",
+          "ms1": 4.35,
+          "x": 4.35,
+          "ms2": 1.63
+        }
+      ],
+      "home_stats": {
+        "name": "SC Paderborn 07",
+        "home_avg_scored": 0.75,
+        "home_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 4,
+        "rank": 12,
+        "points": 4,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "VfB Stuttgart",
+        "away_avg_scored": 1.5,
+        "away_avg_conceded": 2.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.75,
+        "played": 4,
+        "rank": 15,
+        "points": 3,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230307,
+      "home": "TSG Hoffenheim",
+      "away": "Hamburg SV",
+      "date": "10.10.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.36 | X: 5.25 | MS2: 6.75",
+      "odds_detail": {
+        "ms1": 1.36,
+        "x": 5.25,
+        "ms2": 6.75
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.36,
+        "x": 5.25,
+        "ms2": 6.75
+      },
+      "current_odds": {
+        "ms1": 1.36,
+        "x": 5.25,
+        "ms2": 6.75
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.887737+03:00",
+          "ms1": 1.36,
+          "x": 5.25,
+          "ms2": 6.75
+        }
+      ],
+      "home_stats": {
+        "name": "TSG Hoffenheim",
+        "home_avg_scored": 1.75,
+        "home_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.25,
+        "played": 4,
+        "rank": 14,
+        "points": 3,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Hamburg SV",
+        "away_avg_scored": 0.5,
+        "away_avg_conceded": 3.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.75,
+        "played": 4,
+        "rank": 16,
+        "points": 3,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230322,
+      "home": "1. FC Union Berlin",
+      "away": "SV Elversberg",
+      "date": "10.10.2026",
+      "time": "16:30",
+      "odds": "MS1: 2.25 | X: 3.70 | MS2: 2.75",
+      "odds_detail": {
+        "ms1": 2.25,
+        "x": 3.7,
+        "ms2": 2.75
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.25,
+        "x": 3.7,
+        "ms2": 2.75
+      },
+      "current_odds": {
+        "ms1": 2.25,
+        "x": 3.7,
+        "ms2": 2.75
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.887737+03:00",
+          "ms1": 2.25,
+          "x": 3.7,
+          "ms2": 2.75
+        }
+      ],
+      "home_stats": {
+        "name": "1. FC Union Berlin",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 4.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 5.25,
+        "played": 4,
+        "rank": 17,
+        "points": 1,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "SV Elversberg",
+        "away_avg_scored": 2.0,
+        "away_avg_conceded": 1.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.75,
+        "played": 4,
+        "rank": 7,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230310,
+      "home": "FC Augsburg",
+      "away": "Bayern Munich",
+      "date": "10.10.2026",
+      "time": "16:30",
+      "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.21",
+      "odds_detail": {
+        "ms1": 10.0,
+        "x": 7.0,
+        "ms2": 1.21
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 10.0,
+        "x": 7.0,
+        "ms2": 1.21
+      },
+      "current_odds": {
+        "ms1": 10.0,
+        "x": 7.0,
+        "ms2": 1.21
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.887737+03:00",
+          "ms1": 10.0,
+          "x": 7.0,
+          "ms2": 1.21
+        }
+      ],
+      "home_stats": {
+        "name": "FC Augsburg",
+        "home_avg_scored": 2.75,
+        "home_avg_conceded": 1.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.25,
+        "played": 4,
+        "rank": 4,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Bayern Munich",
+        "away_avg_scored": 3.5,
+        "away_avg_conceded": 0.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 4,
+        "rank": 2,
+        "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230287,
+      "home": "RB Leipzig",
+      "away": "Eintracht Frankfurt",
+      "date": "10.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 1.50 | X: 4.70 | MS2: 5.10",
+      "odds_detail": {
+        "ms1": 1.5,
+        "x": 4.7,
+        "ms2": 5.1
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.5,
+        "x": 4.7,
+        "ms2": 5.1
+      },
+      "current_odds": {
+        "ms1": 1.5,
+        "x": 4.7,
+        "ms2": 5.1
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.887737+03:00",
+          "ms1": 1.5,
+          "x": 4.7,
+          "ms2": 5.1
+        }
+      ],
+      "home_stats": {
+        "name": "RB Leipzig",
+        "home_avg_scored": 2.25,
+        "home_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 4,
+        "rank": 9,
+        "points": 6,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Eintracht Frankfurt",
+        "away_avg_scored": 2.25,
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.75,
+        "played": 4,
+        "rank": 10,
+        "points": 5,
         "recent_matches": []
       }
     }

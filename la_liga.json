@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-25T15:04:34.183712+03:00",
+  "last_updated": "2026-09-26T03:04:01.608509+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -608,6 +608,262 @@
         "played": 7,
         "rank": 15,
         "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209233,
+      "home": "Rayo Vallecano",
+      "away": "Athletic Club",
+      "date": "10.10.2026",
+      "time": "15:00",
+      "odds": "MS1: 3.00 | X: 3.35 | MS2: 2.38",
+      "odds_detail": {
+        "ms1": 3.0,
+        "x": 3.35,
+        "ms2": 2.38
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.0,
+        "x": 3.35,
+        "ms2": 2.38
+      },
+      "current_odds": {
+        "ms1": 3.0,
+        "x": 3.35,
+        "ms2": 2.38
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.608509+03:00",
+          "ms1": 3.0,
+          "x": 3.35,
+          "ms2": 2.38
+        }
+      ],
+      "home_stats": {
+        "name": "Rayo Vallecano",
+        "home_avg_scored": 1.57,
+        "home_avg_conceded": 2.29,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.86,
+        "played": 7,
+        "rank": 12,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Athletic Club",
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.17,
+        "played": 6,
+        "rank": 10,
+        "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209248,
+      "home": "Alavés",
+      "away": "Atlético Madrid",
+      "date": "10.10.2026",
+      "time": "17:15",
+      "odds": "MS1: 3.90 | X: 3.60 | MS2: 1.92",
+      "odds_detail": {
+        "ms1": 3.9,
+        "x": 3.6,
+        "ms2": 1.92
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.9,
+        "x": 3.6,
+        "ms2": 1.92
+      },
+      "current_odds": {
+        "ms1": 3.9,
+        "x": 3.6,
+        "ms2": 1.92
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.608509+03:00",
+          "ms1": 3.9,
+          "x": 3.6,
+          "ms2": 1.92
+        }
+      ],
+      "home_stats": {
+        "name": "Alavés",
+        "home_avg_scored": 1.57,
+        "home_avg_conceded": 0.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.43,
+        "played": 7,
+        "rank": 6,
+        "points": 11,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Atlético Madrid",
+        "away_avg_scored": 2.29,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.29,
+        "played": 7,
+        "rank": 2,
+        "points": 16,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209240,
+      "home": "Barcelona",
+      "away": "Getafe",
+      "date": "10.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 1.05 | X: 15.00 | MS2: 29.00",
+      "odds_detail": {
+        "ms1": 1.05,
+        "x": 15.0,
+        "ms2": 29.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.05,
+        "x": 15.0,
+        "ms2": 29.0
+      },
+      "current_odds": {
+        "ms1": 1.05,
+        "x": 15.0,
+        "ms2": 29.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.608509+03:00",
+          "ms1": 1.05,
+          "x": 15.0,
+          "ms2": 29.0
+        }
+      ],
+      "home_stats": {
+        "name": "Barcelona",
+        "home_avg_scored": 4.43,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 5.43,
+        "played": 7,
+        "rank": 1,
+        "points": 21,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Getafe",
+        "away_avg_scored": 0.57,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.57,
+        "played": 7,
+        "rank": 11,
+        "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209227,
+      "home": "Real Madrid",
+      "away": "Villarreal",
+      "date": "10.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 1.27 | X: 6.25 | MS2: 9.00",
+      "odds_detail": {
+        "ms1": 1.27,
+        "x": 6.25,
+        "ms2": 9.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.27,
+        "x": 6.25,
+        "ms2": 9.0
+      },
+      "current_odds": {
+        "ms1": 1.27,
+        "x": 6.25,
+        "ms2": 9.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-26T03:04:01.608509+03:00",
+          "ms1": 1.27,
+          "x": 6.25,
+          "ms2": 9.0
+        }
+      ],
+      "home_stats": {
+        "name": "Real Madrid",
+        "home_avg_scored": 2.57,
+        "home_avg_conceded": 1.14,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.71,
+        "played": 7,
+        "rank": 4,
+        "points": 15,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Villarreal",
+        "away_avg_scored": 1.86,
+        "away_avg_conceded": 1.71,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.57,
+        "played": 7,
+        "rank": 9,
+        "points": 8,
         "recent_matches": []
       }
     }
