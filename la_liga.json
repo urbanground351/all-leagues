@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-26T15:03:45.298160+03:00",
+  "last_updated": "2026-09-27T03:04:59.321530+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -864,6 +864,262 @@
         "played": 7,
         "rank": 9,
         "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209245,
+      "home": "Elche",
+      "away": "Celta Vigo",
+      "date": "11.10.2026",
+      "time": "15:00",
+      "odds": "MS1: 2.90 | X: 3.25 | MS2: 2.55",
+      "odds_detail": {
+        "ms1": 2.9,
+        "x": 3.25,
+        "ms2": 2.55
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.9,
+        "x": 3.25,
+        "ms2": 2.55
+      },
+      "current_odds": {
+        "ms1": 2.9,
+        "x": 3.25,
+        "ms2": 2.55
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-27T03:04:59.321530+03:00",
+          "ms1": 2.9,
+          "x": 3.25,
+          "ms2": 2.55
+        }
+      ],
+      "home_stats": {
+        "name": "Elche",
+        "home_avg_scored": 1.57,
+        "home_avg_conceded": 2.43,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 7,
+        "rank": 18,
+        "points": 5,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Celta Vigo",
+        "away_avg_scored": 1.14,
+        "away_avg_conceded": 0.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 7,
+        "rank": 14,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209230,
+      "home": "Real Sociedad",
+      "away": "Deportivo",
+      "date": "11.10.2026",
+      "time": "17:15",
+      "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.30",
+      "odds_detail": {
+        "ms1": 1.78,
+        "x": 3.85,
+        "ms2": 4.3
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.78,
+        "x": 3.85,
+        "ms2": 4.3
+      },
+      "current_odds": {
+        "ms1": 1.78,
+        "x": 3.85,
+        "ms2": 4.3
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-27T03:04:59.321530+03:00",
+          "ms1": 1.78,
+          "x": 3.85,
+          "ms2": 4.3
+        }
+      ],
+      "home_stats": {
+        "name": "Real Sociedad",
+        "home_avg_scored": 1.29,
+        "home_avg_conceded": 1.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.15,
+        "played": 7,
+        "rank": 8,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Deportivo",
+        "away_avg_scored": 1.43,
+        "away_avg_conceded": 1.14,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.57,
+        "played": 7,
+        "rank": 7,
+        "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209247,
+      "home": "Real Betis",
+      "away": "Osasuna",
+      "date": "11.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 1.73 | X: 3.90 | MS2: 4.50",
+      "odds_detail": {
+        "ms1": 1.73,
+        "x": 3.9,
+        "ms2": 4.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.73,
+        "x": 3.9,
+        "ms2": 4.5
+      },
+      "current_odds": {
+        "ms1": 1.73,
+        "x": 3.9,
+        "ms2": 4.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-27T03:04:59.321530+03:00",
+          "ms1": 1.73,
+          "x": 3.9,
+          "ms2": 4.5
+        }
+      ],
+      "home_stats": {
+        "name": "Real Betis",
+        "home_avg_scored": 1.29,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.29,
+        "played": 7,
+        "rank": 3,
+        "points": 16,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Osasuna",
+        "away_avg_scored": 0.86,
+        "away_avg_conceded": 1.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.72,
+        "played": 7,
+        "rank": 13,
+        "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209261,
+      "home": "Racing Santander",
+      "away": "Valencia",
+      "date": "11.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 2.04 | X: 3.55 | MS2: 3.50",
+      "odds_detail": {
+        "ms1": 2.04,
+        "x": 3.55,
+        "ms2": 3.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.04,
+        "x": 3.55,
+        "ms2": 3.5
+      },
+      "current_odds": {
+        "ms1": 2.04,
+        "x": 3.55,
+        "ms2": 3.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-27T03:04:59.321530+03:00",
+          "ms1": 2.04,
+          "x": 3.55,
+          "ms2": 3.5
+        }
+      ],
+      "home_stats": {
+        "name": "Racing Santander",
+        "home_avg_scored": 1.57,
+        "home_avg_conceded": 3.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.57,
+        "played": 7,
+        "rank": 16,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Valencia",
+        "away_avg_scored": 0.57,
+        "away_avg_conceded": 1.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.43,
+        "played": 7,
+        "rank": 19,
+        "points": 4,
         "recent_matches": []
       }
     }
