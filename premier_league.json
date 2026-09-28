@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-27T15:04:52.931166+03:00",
+  "last_updated": "2026-09-28T03:04:48.962223+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1126,6 +1126,70 @@
         "played": 5,
         "rank": 1,
         "points": 15,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072798,
+      "home": "Coventry City",
+      "away": "Newcastle United",
+      "date": "12.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 3.25 | X: 3.75 | MS2: 2.17",
+      "odds_detail": {
+        "ms1": 3.25,
+        "x": 3.75,
+        "ms2": 2.17
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.25,
+        "x": 3.75,
+        "ms2": 2.17
+      },
+      "current_odds": {
+        "ms1": 3.25,
+        "x": 3.75,
+        "ms2": 2.17
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-09-28T03:04:48.962223+03:00",
+          "ms1": 3.25,
+          "x": 3.75,
+          "ms2": 2.17
+        }
+      ],
+      "home_stats": {
+        "name": "Coventry City",
+        "home_avg_scored": 0.2,
+        "home_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.2,
+        "played": 5,
+        "rank": 18,
+        "points": 3,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Newcastle United",
+        "away_avg_scored": 1.8,
+        "away_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.6,
+        "played": 5,
+        "rank": 9,
+        "points": 8,
         "recent_matches": []
       }
     }
