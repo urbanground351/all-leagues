@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-28T03:04:49.397657+03:00",
+  "last_updated": "2026-09-28T15:04:26.011369+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -570,11 +570,11 @@
       "away": "Bayer Leverkusen",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 2.88 | X: 3.90 | MS2: 2.14",
+      "odds": "MS1: 2.85 | X: 3.85 | MS2: 2.17",
       "odds_detail": {
-        "ms1": 2.88,
-        "x": 3.9,
-        "ms2": 2.14
+        "ms1": 2.85,
+        "x": 3.85,
+        "ms2": 2.17
       },
       "odds_available": true,
       "opening_odds": {
@@ -583,14 +583,14 @@
         "ms2": 2.14
       },
       "current_odds": {
-        "ms1": 2.88,
-        "x": 3.9,
-        "ms2": 2.14
+        "ms1": 2.85,
+        "x": 3.85,
+        "ms2": 2.17
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -1.04,
+        "x": -1.28,
+        "ms2": 1.4
       },
       "odds_history": [
         {
@@ -598,6 +598,12 @@
           "ms1": 2.88,
           "x": 3.9,
           "ms2": 2.14
+        },
+        {
+          "timestamp": "2026-09-28T15:04:26.011369+03:00",
+          "ms1": 2.85,
+          "x": 3.85,
+          "ms2": 2.17
         }
       ],
       "home_stats": {
