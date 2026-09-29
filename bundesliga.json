@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-29T03:05:01.152663+03:00",
+  "last_updated": "2026-09-29T20:14:22.634055+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -978,11 +978,11 @@
       "away": "Borussia Mönchengladbach",
       "date": "11.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.92 | X: 4.00 | MS2: 3.35",
+      "odds": "MS1: 1.92 | X: 4.00 | MS2: 3.30",
       "odds_detail": {
         "ms1": 1.92,
         "x": 4.0,
-        "ms2": 3.35
+        "ms2": 3.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -993,12 +993,12 @@
       "current_odds": {
         "ms1": 1.92,
         "x": 4.0,
-        "ms2": 3.35
+        "ms2": 3.3
       },
       "odds_change_pct": {
         "ms1": 0.52,
         "x": 0.0,
-        "ms2": 1.52
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -1012,6 +1012,12 @@
           "ms1": 1.92,
           "x": 4.0,
           "ms2": 3.35
+        },
+        {
+          "timestamp": "2026-09-29T20:14:22.634055+03:00",
+          "ms1": 1.92,
+          "x": 4.0,
+          "ms2": 3.3
         }
       ],
       "home_stats": {
