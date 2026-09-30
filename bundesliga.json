@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-09-29T20:14:22.634055+03:00",
+  "last_updated": "2026-09-30T05:56:19.104549+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -710,11 +710,11 @@
       "away": "Hamburg SV",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.37 | X: 5.20 | MS2: 6.75",
+      "odds": "MS1: 1.40 | X: 5.10 | MS2: 6.40",
       "odds_detail": {
-        "ms1": 1.37,
-        "x": 5.2,
-        "ms2": 6.75
+        "ms1": 1.4,
+        "x": 5.1,
+        "ms2": 6.4
       },
       "odds_available": true,
       "opening_odds": {
@@ -723,14 +723,14 @@
         "ms2": 6.75
       },
       "current_odds": {
-        "ms1": 1.37,
-        "x": 5.2,
-        "ms2": 6.75
+        "ms1": 1.4,
+        "x": 5.1,
+        "ms2": 6.4
       },
       "odds_change_pct": {
-        "ms1": 0.74,
-        "x": -0.95,
-        "ms2": 0.0
+        "ms1": 2.94,
+        "x": -2.86,
+        "ms2": -5.19
       },
       "odds_history": [
         {
@@ -750,6 +750,12 @@
           "ms1": 1.37,
           "x": 5.2,
           "ms2": 6.75
+        },
+        {
+          "timestamp": "2026-09-30T05:56:19.104549+03:00",
+          "ms1": 1.4,
+          "x": 5.1,
+          "ms2": 6.4
         }
       ],
       "home_stats": {
