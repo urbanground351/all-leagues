@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-01T06:02:30.673141+03:00",
+  "last_updated": "2026-10-01T20:41:58.695236+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1068,11 +1068,11 @@
       "away": "Osasuna",
       "date": "11.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.75 | X: 4.00 | MS2: 4.60",
+      "odds": "MS1: 1.65 | X: 4.10 | MS2: 5.20",
       "odds_detail": {
-        "ms1": 1.75,
-        "x": 4.0,
-        "ms2": 4.6
+        "ms1": 1.65,
+        "x": 4.1,
+        "ms2": 5.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -1081,14 +1081,14 @@
         "ms2": 4.5
       },
       "current_odds": {
-        "ms1": 1.75,
-        "x": 4.0,
-        "ms2": 4.6
+        "ms1": 1.65,
+        "x": 4.1,
+        "ms2": 5.2
       },
       "odds_change_pct": {
-        "ms1": 1.16,
-        "x": 2.56,
-        "ms2": 2.22
+        "ms1": -4.62,
+        "x": 5.13,
+        "ms2": 15.56
       },
       "odds_history": [
         {
@@ -1102,6 +1102,12 @@
           "ms1": 1.75,
           "x": 4.0,
           "ms2": 4.6
+        },
+        {
+          "timestamp": "2026-10-01T20:41:58.695236+03:00",
+          "ms1": 1.65,
+          "x": 4.1,
+          "ms2": 5.2
         }
       ],
       "home_stats": {
