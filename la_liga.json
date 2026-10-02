@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-01T20:41:58.695236+03:00",
+  "last_updated": "2026-10-02T06:04:55.176848+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1286,6 +1286,70 @@
         "played": 7,
         "rank": 5,
         "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209215,
+      "home": "Deportivo",
+      "away": "Levante",
+      "date": "16.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 2.08 | X: 3.55 | MS2: 3.60",
+      "odds_detail": {
+        "ms1": 2.08,
+        "x": 3.55,
+        "ms2": 3.6
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.08,
+        "x": 3.55,
+        "ms2": 3.6
+      },
+      "current_odds": {
+        "ms1": 2.08,
+        "x": 3.55,
+        "ms2": 3.6
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-02T06:04:55.176848+03:00",
+          "ms1": 2.08,
+          "x": 3.55,
+          "ms2": 3.6
+        }
+      ],
+      "home_stats": {
+        "name": "Deportivo",
+        "home_avg_scored": 1.43,
+        "home_avg_conceded": 1.14,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.57,
+        "played": 7,
+        "rank": 7,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Levante",
+        "away_avg_scored": 1.33,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.33,
+        "played": 6,
+        "rank": 17,
+        "points": 5,
         "recent_matches": []
       }
     }
