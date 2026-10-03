@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-03T05:51:29.510434+03:00",
+  "last_updated": "2026-10-03T18:23:49.146950+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -554,6 +554,198 @@
         "played": 6,
         "rank": 8,
         "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328447,
+      "home": "Genclerbirligi",
+      "away": "Amed SFK",
+      "date": "10.10.2026",
+      "time": "13:30",
+      "odds": "MS1: 2.50 | X: 3.35 | MS2: 2.70",
+      "odds_detail": {
+        "ms1": 2.5,
+        "x": 3.35,
+        "ms2": 2.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.5,
+        "x": 3.35,
+        "ms2": 2.7
+      },
+      "current_odds": {
+        "ms1": 2.5,
+        "x": 3.35,
+        "ms2": 2.7
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T18:23:49.146950+03:00",
+          "ms1": 2.5,
+          "x": 3.35,
+          "ms2": 2.7
+        }
+      ],
+      "home_stats": {
+        "name": "Genclerbirligi",
+        "home_avg_scored": 0.83,
+        "home_avg_conceded": 2.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 6,
+        "rank": 13,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Amed SFK",
+        "away_avg_scored": 2.5,
+        "away_avg_conceded": 1.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.67,
+        "played": 6,
+        "rank": 1,
+        "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328443,
+      "home": "Samsunspor",
+      "away": "Trabzonspor",
+      "date": "10.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 3.45 | X: 3.65 | MS2: 2.00",
+      "odds_detail": {
+        "ms1": 3.45,
+        "x": 3.65,
+        "ms2": 2.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.45,
+        "x": 3.65,
+        "ms2": 2.0
+      },
+      "current_odds": {
+        "ms1": 3.45,
+        "x": 3.65,
+        "ms2": 2.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T18:23:49.146950+03:00",
+          "ms1": 3.45,
+          "x": 3.65,
+          "ms2": 2.0
+        }
+      ],
+      "home_stats": {
+        "name": "Samsunspor",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 6,
+        "rank": 16,
+        "points": 4,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Trabzonspor",
+        "away_avg_scored": 2.17,
+        "away_avg_conceded": 0.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 6,
+        "rank": 7,
+        "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328569,
+      "home": "Alanyaspor",
+      "away": "Erzurum BB",
+      "date": "10.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.90",
+      "odds_detail": {
+        "ms1": 2.0,
+        "x": 3.2,
+        "ms2": 3.9
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.0,
+        "x": 3.2,
+        "ms2": 3.9
+      },
+      "current_odds": {
+        "ms1": 2.0,
+        "x": 3.2,
+        "ms2": 3.9
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T18:23:49.146950+03:00",
+          "ms1": 2.0,
+          "x": 3.2,
+          "ms2": 3.9
+        }
+      ],
+      "home_stats": {
+        "name": "Alanyaspor",
+        "home_avg_scored": 1.33,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.33,
+        "played": 6,
+        "rank": 5,
+        "points": 11,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Erzurum BB",
+        "away_avg_scored": 0.5,
+        "away_avg_conceded": 1.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.33,
+        "played": 6,
+        "rank": 14,
+        "points": 7,
         "recent_matches": []
       }
     }
