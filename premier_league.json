@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-02T20:00:53.148283+03:00",
+  "last_updated": "2026-10-03T05:51:30.046972+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1226,6 +1226,326 @@
         "played": 5,
         "rank": 9,
         "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072694,
+      "home": "Everton",
+      "away": "Chelsea",
+      "date": "17.10.2026",
+      "time": "14:30",
+      "odds": "MS1: 2.95 | X: 3.80 | MS2: 2.28",
+      "odds_detail": {
+        "ms1": 2.95,
+        "x": 3.8,
+        "ms2": 2.28
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.95,
+        "x": 3.8,
+        "ms2": 2.28
+      },
+      "current_odds": {
+        "ms1": 2.95,
+        "x": 3.8,
+        "ms2": 2.28
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.046972+03:00",
+          "ms1": 2.95,
+          "x": 3.8,
+          "ms2": 2.28
+        }
+      ],
+      "home_stats": {
+        "name": "Everton",
+        "home_avg_scored": 1.2,
+        "home_avg_conceded": 0.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.8,
+        "played": 5,
+        "rank": 7,
+        "points": 9,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Chelsea",
+        "away_avg_scored": 2.0,
+        "away_avg_conceded": 2.4,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.4,
+        "played": 5,
+        "rank": 10,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072692,
+      "home": "Brentford",
+      "away": "Liverpool",
+      "date": "17.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 2.70 | X: 3.85 | MS2: 2.48",
+      "odds_detail": {
+        "ms1": 2.7,
+        "x": 3.85,
+        "ms2": 2.48
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.7,
+        "x": 3.85,
+        "ms2": 2.48
+      },
+      "current_odds": {
+        "ms1": 2.7,
+        "x": 3.85,
+        "ms2": 2.48
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.046972+03:00",
+          "ms1": 2.7,
+          "x": 3.85,
+          "ms2": 2.48
+        }
+      ],
+      "home_stats": {
+        "name": "Brentford",
+        "home_avg_scored": 2.0,
+        "home_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.8,
+        "played": 5,
+        "rank": 4,
+        "points": 9,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Liverpool",
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.2,
+        "played": 5,
+        "rank": 6,
+        "points": 9,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072700,
+      "home": "Manchester City",
+      "away": "Ipswich Town",
+      "date": "17.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.24 | X: 6.75 | MS2: 12.00",
+      "odds_detail": {
+        "ms1": 1.24,
+        "x": 6.75,
+        "ms2": 12.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.24,
+        "x": 6.75,
+        "ms2": 12.0
+      },
+      "current_odds": {
+        "ms1": 1.24,
+        "x": 6.75,
+        "ms2": 12.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.046972+03:00",
+          "ms1": 1.24,
+          "x": 6.75,
+          "ms2": 12.0
+        }
+      ],
+      "home_stats": {
+        "name": "Manchester City",
+        "home_avg_scored": 2.6,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.6,
+        "played": 5,
+        "rank": 1,
+        "points": 15,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Ipswich Town",
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 2.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.6,
+        "played": 5,
+        "rank": 11,
+        "points": 6,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072696,
+      "home": "Fulham",
+      "away": "Hull City",
+      "date": "17.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.73 | X: 4.00 | MS2: 4.70",
+      "odds_detail": {
+        "ms1": 1.73,
+        "x": 4.0,
+        "ms2": 4.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.73,
+        "x": 4.0,
+        "ms2": 4.7
+      },
+      "current_odds": {
+        "ms1": 1.73,
+        "x": 4.0,
+        "ms2": 4.7
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.046972+03:00",
+          "ms1": 1.73,
+          "x": 4.0,
+          "ms2": 4.7
+        }
+      ],
+      "home_stats": {
+        "name": "Fulham",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.6,
+        "played": 5,
+        "rank": 19,
+        "points": 2,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Hull City",
+        "away_avg_scored": 1.2,
+        "away_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 5,
+        "rank": 8,
+        "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072708,
+      "home": "Newcastle United",
+      "away": "Aston Villa",
+      "date": "17.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 2.10 | X: 3.95 | MS2: 3.25",
+      "odds_detail": {
+        "ms1": 2.1,
+        "x": 3.95,
+        "ms2": 3.25
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.1,
+        "x": 3.95,
+        "ms2": 3.25
+      },
+      "current_odds": {
+        "ms1": 2.1,
+        "x": 3.95,
+        "ms2": 3.25
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.046972+03:00",
+          "ms1": 2.1,
+          "x": 3.95,
+          "ms2": 3.25
+        }
+      ],
+      "home_stats": {
+        "name": "Newcastle United",
+        "home_avg_scored": 1.8,
+        "home_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.6,
+        "played": 5,
+        "rank": 9,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Aston Villa",
+        "away_avg_scored": 0.8,
+        "away_avg_conceded": 1.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.6,
+        "played": 5,
+        "rank": 16,
+        "points": 4,
         "recent_matches": []
       }
     }

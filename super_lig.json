@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-02T20:00:52.376137+03:00",
+  "last_updated": "2026-10-03T05:51:29.510434+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -492,5 +492,70 @@
       "recent_matches": []
     }
   ],
-  "upcoming_matches": []
+  "upcoming_matches": [
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328451,
+      "home": "Galatasaray",
+      "away": "Kasimpasa",
+      "date": "09.10.2026",
+      "time": "20:00",
+      "odds": "MS1: 1.25 | X: 6.00 | MS2: 10.50",
+      "odds_detail": {
+        "ms1": 1.25,
+        "x": 6.0,
+        "ms2": 10.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.25,
+        "x": 6.0,
+        "ms2": 10.5
+      },
+      "current_odds": {
+        "ms1": 1.25,
+        "x": 6.0,
+        "ms2": 10.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:29.510434+03:00",
+          "ms1": 1.25,
+          "x": 6.0,
+          "ms2": 10.5
+        }
+      ],
+      "home_stats": {
+        "name": "Galatasaray",
+        "home_avg_scored": 2.17,
+        "home_avg_conceded": 1.67,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.84,
+        "played": 6,
+        "rank": 2,
+        "points": 13,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Kasimpasa",
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 0.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 6,
+        "rank": 8,
+        "points": 10,
+        "recent_matches": []
+      }
+    }
+  ]
 }

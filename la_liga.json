@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-02T20:00:53.550410+03:00",
+  "last_updated": "2026-10-03T05:51:30.307391+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1356,6 +1356,262 @@
         "played": 6,
         "rank": 17,
         "points": 5,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209217,
+      "home": "Espanyol",
+      "away": "Atlético Madrid",
+      "date": "17.10.2026",
+      "time": "15:00",
+      "odds": "MS1: 4.10 | X: 3.65 | MS2: 1.86",
+      "odds_detail": {
+        "ms1": 4.1,
+        "x": 3.65,
+        "ms2": 1.86
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.1,
+        "x": 3.65,
+        "ms2": 1.86
+      },
+      "current_odds": {
+        "ms1": 4.1,
+        "x": 3.65,
+        "ms2": 1.86
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.307391+03:00",
+          "ms1": 4.1,
+          "x": 3.65,
+          "ms2": 1.86
+        }
+      ],
+      "home_stats": {
+        "name": "Espanyol",
+        "home_avg_scored": 1.43,
+        "home_avg_conceded": 1.43,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.86,
+        "played": 7,
+        "rank": 15,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Atlético Madrid",
+        "away_avg_scored": 2.29,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.29,
+        "played": 7,
+        "rank": 2,
+        "points": 16,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209194,
+      "home": "Villarreal",
+      "away": "Elche",
+      "date": "17.10.2026",
+      "time": "17:15",
+      "odds": "MS1: 1.45 | X: 4.90 | MS2: 6.25",
+      "odds_detail": {
+        "ms1": 1.45,
+        "x": 4.9,
+        "ms2": 6.25
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.45,
+        "x": 4.9,
+        "ms2": 6.25
+      },
+      "current_odds": {
+        "ms1": 1.45,
+        "x": 4.9,
+        "ms2": 6.25
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.307391+03:00",
+          "ms1": 1.45,
+          "x": 4.9,
+          "ms2": 6.25
+        }
+      ],
+      "home_stats": {
+        "name": "Villarreal",
+        "home_avg_scored": 1.86,
+        "home_avg_conceded": 1.71,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.57,
+        "played": 7,
+        "rank": 9,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Elche",
+        "away_avg_scored": 1.57,
+        "away_avg_conceded": 2.43,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 7,
+        "rank": 18,
+        "points": 5,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209220,
+      "home": "Real Betis",
+      "away": "Barcelona",
+      "date": "17.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 5.40 | X: 5.25 | MS2: 1.50",
+      "odds_detail": {
+        "ms1": 5.4,
+        "x": 5.25,
+        "ms2": 1.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 5.4,
+        "x": 5.25,
+        "ms2": 1.5
+      },
+      "current_odds": {
+        "ms1": 5.4,
+        "x": 5.25,
+        "ms2": 1.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.307391+03:00",
+          "ms1": 5.4,
+          "x": 5.25,
+          "ms2": 1.5
+        }
+      ],
+      "home_stats": {
+        "name": "Real Betis",
+        "home_avg_scored": 1.29,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.29,
+        "played": 7,
+        "rank": 3,
+        "points": 16,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Barcelona",
+        "away_avg_scored": 4.43,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 5.43,
+        "played": 7,
+        "rank": 1,
+        "points": 21,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209201,
+      "home": "Valencia",
+      "away": "Athletic Club",
+      "date": "17.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 3.55 | X: 3.50 | MS2: 2.12",
+      "odds_detail": {
+        "ms1": 3.55,
+        "x": 3.5,
+        "ms2": 2.12
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.55,
+        "x": 3.5,
+        "ms2": 2.12
+      },
+      "current_odds": {
+        "ms1": 3.55,
+        "x": 3.5,
+        "ms2": 2.12
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-03T05:51:30.307391+03:00",
+          "ms1": 3.55,
+          "x": 3.5,
+          "ms2": 2.12
+        }
+      ],
+      "home_stats": {
+        "name": "Valencia",
+        "home_avg_scored": 0.57,
+        "home_avg_conceded": 1.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.43,
+        "played": 7,
+        "rank": 19,
+        "points": 4,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Athletic Club",
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.17,
+        "played": 6,
+        "rank": 10,
+        "points": 8,
         "recent_matches": []
       }
     }
