@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-03T18:23:49.903584+03:00",
+  "last_updated": "2026-10-04T06:21:22.630808+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1612,6 +1612,198 @@
         "played": 6,
         "rank": 10,
         "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209222,
+      "home": "Celta Vigo",
+      "away": "Alavés",
+      "date": "18.10.2026",
+      "time": "17:15",
+      "odds": "MS1: 2.04 | X: 3.40 | MS2: 3.90",
+      "odds_detail": {
+        "ms1": 2.04,
+        "x": 3.4,
+        "ms2": 3.9
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.04,
+        "x": 3.4,
+        "ms2": 3.9
+      },
+      "current_odds": {
+        "ms1": 2.04,
+        "x": 3.4,
+        "ms2": 3.9
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.630808+03:00",
+          "ms1": 2.04,
+          "x": 3.4,
+          "ms2": 3.9
+        }
+      ],
+      "home_stats": {
+        "name": "Celta Vigo",
+        "home_avg_scored": 1.14,
+        "home_avg_conceded": 0.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 7,
+        "rank": 14,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Alavés",
+        "away_avg_scored": 1.57,
+        "away_avg_conceded": 0.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.43,
+        "played": 7,
+        "rank": 6,
+        "points": 11,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209212,
+      "home": "Málaga",
+      "away": "Real Sociedad",
+      "date": "18.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 3.25 | X: 3.45 | MS2: 2.18",
+      "odds_detail": {
+        "ms1": 3.25,
+        "x": 3.45,
+        "ms2": 2.18
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.25,
+        "x": 3.45,
+        "ms2": 2.18
+      },
+      "current_odds": {
+        "ms1": 3.25,
+        "x": 3.45,
+        "ms2": 2.18
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.630808+03:00",
+          "ms1": 3.25,
+          "x": 3.45,
+          "ms2": 2.18
+        }
+      ],
+      "home_stats": {
+        "name": "Málaga",
+        "home_avg_scored": 0.43,
+        "home_avg_conceded": 1.71,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.14,
+        "played": 7,
+        "rank": 20,
+        "points": 3,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Real Sociedad",
+        "away_avg_scored": 1.29,
+        "away_avg_conceded": 1.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.15,
+        "played": 7,
+        "rank": 8,
+        "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209198,
+      "home": "Real Madrid",
+      "away": "Sevilla",
+      "date": "18.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 1.25 | X: 6.25 | MS2: 10.50",
+      "odds_detail": {
+        "ms1": 1.25,
+        "x": 6.25,
+        "ms2": 10.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.25,
+        "x": 6.25,
+        "ms2": 10.5
+      },
+      "current_odds": {
+        "ms1": 1.25,
+        "x": 6.25,
+        "ms2": 10.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.630808+03:00",
+          "ms1": 1.25,
+          "x": 6.25,
+          "ms2": 10.5
+        }
+      ],
+      "home_stats": {
+        "name": "Real Madrid",
+        "home_avg_scored": 2.57,
+        "home_avg_conceded": 1.14,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.71,
+        "played": 7,
+        "rank": 4,
+        "points": 15,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Sevilla",
+        "away_avg_scored": 1.43,
+        "away_avg_conceded": 1.29,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.72,
+        "played": 7,
+        "rank": 5,
+        "points": 13,
         "recent_matches": []
       }
     }

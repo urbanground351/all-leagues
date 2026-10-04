@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-03T18:23:49.146950+03:00",
+  "last_updated": "2026-10-04T06:21:20.893045+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Kasimpasa",
       "date": "09.10.2026",
       "time": "20:00",
-      "odds": "MS1: 1.25 | X: 6.00 | MS2: 10.50",
+      "odds": "MS1: 1.24 | X: 6.00 | MS2: 11.00",
       "odds_detail": {
-        "ms1": 1.25,
+        "ms1": 1.24,
         "x": 6.0,
-        "ms2": 10.5
+        "ms2": 11.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 10.5
       },
       "current_odds": {
-        "ms1": 1.25,
+        "ms1": 1.24,
         "x": 6.0,
-        "ms2": 10.5
+        "ms2": 11.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -0.8,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": 4.76
       },
       "odds_history": [
         {
@@ -528,6 +528,12 @@
           "ms1": 1.25,
           "x": 6.0,
           "ms2": 10.5
+        },
+        {
+          "timestamp": "2026-10-04T06:21:20.893045+03:00",
+          "ms1": 1.24,
+          "x": 6.0,
+          "ms2": 11.0
         }
       ],
       "home_stats": {
@@ -564,11 +570,11 @@
       "away": "Amed SFK",
       "date": "10.10.2026",
       "time": "13:30",
-      "odds": "MS1: 2.50 | X: 3.35 | MS2: 2.70",
+      "odds": "MS1: 2.55 | X: 3.30 | MS2: 2.55",
       "odds_detail": {
-        "ms1": 2.5,
-        "x": 3.35,
-        "ms2": 2.7
+        "ms1": 2.55,
+        "x": 3.3,
+        "ms2": 2.55
       },
       "odds_available": true,
       "opening_odds": {
@@ -577,14 +583,14 @@
         "ms2": 2.7
       },
       "current_odds": {
-        "ms1": 2.5,
-        "x": 3.35,
-        "ms2": 2.7
+        "ms1": 2.55,
+        "x": 3.3,
+        "ms2": 2.55
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 2.0,
+        "x": -1.49,
+        "ms2": -5.56
       },
       "odds_history": [
         {
@@ -592,6 +598,12 @@
           "ms1": 2.5,
           "x": 3.35,
           "ms2": 2.7
+        },
+        {
+          "timestamp": "2026-10-04T06:21:20.893045+03:00",
+          "ms1": 2.55,
+          "x": 3.3,
+          "ms2": 2.55
         }
       ],
       "home_stats": {
@@ -746,6 +758,70 @@
         "played": 6,
         "rank": 14,
         "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328567,
+      "home": "Caykur Rizespor",
+      "away": "Fenerbahce",
+      "date": "10.10.2026",
+      "time": "19:00",
+      "odds": "MS1: 4.10 | X: 3.80 | MS2: 1.78",
+      "odds_detail": {
+        "ms1": 4.1,
+        "x": 3.8,
+        "ms2": 1.78
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.1,
+        "x": 3.8,
+        "ms2": 1.78
+      },
+      "current_odds": {
+        "ms1": 4.1,
+        "x": 3.8,
+        "ms2": 1.78
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:20.893045+03:00",
+          "ms1": 4.1,
+          "x": 3.8,
+          "ms2": 1.78
+        }
+      ],
+      "home_stats": {
+        "name": "Caykur Rizespor",
+        "home_avg_scored": 1.17,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.17,
+        "played": 6,
+        "rank": 9,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Fenerbahce",
+        "away_avg_scored": 2.67,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.67,
+        "played": 6,
+        "rank": 6,
+        "points": 10,
         "recent_matches": []
       }
     }

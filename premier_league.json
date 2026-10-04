@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-03T18:23:49.680018+03:00",
+  "last_updated": "2026-10-04T06:21:22.446769+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1558,6 +1558,262 @@
         "played": 5,
         "rank": 16,
         "points": 4,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072684,
+      "home": "AFC Bournemouth",
+      "away": "Sunderland",
+      "date": "18.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 2.00 | X: 3.70 | MS2: 3.70",
+      "odds_detail": {
+        "ms1": 2.0,
+        "x": 3.7,
+        "ms2": 3.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.0,
+        "x": 3.7,
+        "ms2": 3.7
+      },
+      "current_odds": {
+        "ms1": 2.0,
+        "x": 3.7,
+        "ms2": 3.7
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.446769+03:00",
+          "ms1": 2.0,
+          "x": 3.7,
+          "ms2": 3.7
+        }
+      ],
+      "home_stats": {
+        "name": "AFC Bournemouth",
+        "home_avg_scored": 1.2,
+        "home_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.8,
+        "played": 5,
+        "rank": 17,
+        "points": 3,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Sunderland",
+        "away_avg_scored": 1.2,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.2,
+        "played": 5,
+        "rank": 14,
+        "points": 4,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072690,
+      "home": "Brighton & Hove Albion",
+      "away": "Crystal Palace",
+      "date": "18.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 1.58 | X: 4.40 | MS2: 5.50",
+      "odds_detail": {
+        "ms1": 1.58,
+        "x": 4.4,
+        "ms2": 5.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.58,
+        "x": 4.4,
+        "ms2": 5.5
+      },
+      "current_odds": {
+        "ms1": 1.58,
+        "x": 4.4,
+        "ms2": 5.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.446769+03:00",
+          "ms1": 1.58,
+          "x": 4.4,
+          "ms2": 5.5
+        }
+      ],
+      "home_stats": {
+        "name": "Brighton & Hove Albion",
+        "home_avg_scored": 3.2,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.2,
+        "played": 5,
+        "rank": 3,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Crystal Palace",
+        "away_avg_scored": 1.2,
+        "away_avg_conceded": 2.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.4,
+        "played": 5,
+        "rank": 15,
+        "points": 4,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072703,
+      "home": "Leeds United",
+      "away": "Manchester United",
+      "date": "18.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 2.90 | X: 3.70 | MS2: 2.35",
+      "odds_detail": {
+        "ms1": 2.9,
+        "x": 3.7,
+        "ms2": 2.35
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.9,
+        "x": 3.7,
+        "ms2": 2.35
+      },
+      "current_odds": {
+        "ms1": 2.9,
+        "x": 3.7,
+        "ms2": 2.35
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.446769+03:00",
+          "ms1": 2.9,
+          "x": 3.7,
+          "ms2": 2.35
+        }
+      ],
+      "home_stats": {
+        "name": "Leeds United",
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 0.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 5,
+        "rank": 5,
+        "points": 9,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Manchester United",
+        "away_avg_scored": 1.6,
+        "away_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.2,
+        "played": 5,
+        "rank": 12,
+        "points": 5,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072705,
+      "home": "Nottingham Forest",
+      "away": "Arsenal",
+      "date": "18.10.2026",
+      "time": "18:30",
+      "odds": "MS1: 6.10 | X: 4.10 | MS2: 1.58",
+      "odds_detail": {
+        "ms1": 6.1,
+        "x": 4.1,
+        "ms2": 1.58
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 6.1,
+        "x": 4.1,
+        "ms2": 1.58
+      },
+      "current_odds": {
+        "ms1": 6.1,
+        "x": 4.1,
+        "ms2": 1.58
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.446769+03:00",
+          "ms1": 6.1,
+          "x": 4.1,
+          "ms2": 1.58
+        }
+      ],
+      "home_stats": {
+        "name": "Nottingham Forest",
+        "home_avg_scored": 0.8,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.8,
+        "played": 5,
+        "rank": 13,
+        "points": 5,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Arsenal",
+        "away_avg_scored": 1.6,
+        "away_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.4,
+        "played": 5,
+        "rank": 2,
+        "points": 12,
         "recent_matches": []
       }
     }
