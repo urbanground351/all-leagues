@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-04T06:21:22.446769+03:00",
+  "last_updated": "2026-10-04T19:08:22.319315+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -624,11 +624,11 @@
       "away": "AFC Bournemouth",
       "date": "10.10.2026",
       "time": "17:00",
-      "odds": "MS1: 1.75 | X: 4.25 | MS2: 4.30",
+      "odds": "MS1: 1.75 | X: 4.25 | MS2: 4.35",
       "odds_detail": {
         "ms1": 1.75,
         "x": 4.25,
-        "ms2": 4.3
+        "ms2": 4.35
       },
       "odds_available": true,
       "opening_odds": {
@@ -639,12 +639,12 @@
       "current_odds": {
         "ms1": 1.75,
         "x": 4.25,
-        "ms2": 4.3
+        "ms2": 4.35
       },
       "odds_change_pct": {
         "ms1": -4.37,
         "x": 1.19,
-        "ms2": 7.5
+        "ms2": 8.75
       },
       "odds_history": [
         {
@@ -670,6 +670,12 @@
           "ms1": 1.75,
           "x": 4.25,
           "ms2": 4.3
+        },
+        {
+          "timestamp": "2026-10-04T19:08:22.319315+03:00",
+          "ms1": 1.75,
+          "x": 4.25,
+          "ms2": 4.35
         }
       ],
       "home_stats": {

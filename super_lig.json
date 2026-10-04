@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-04T06:21:20.893045+03:00",
+  "last_updated": "2026-10-04T19:08:21.814445+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -822,6 +822,198 @@
         "played": 6,
         "rank": 6,
         "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328445,
+      "home": "Konyaspor",
+      "away": "Istanbul Basaksehir",
+      "date": "11.10.2026",
+      "time": "13:30",
+      "odds": "MS1: 2.63 | X: 3.50 | MS2: 2.50",
+      "odds_detail": {
+        "ms1": 2.63,
+        "x": 3.5,
+        "ms2": 2.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.63,
+        "x": 3.5,
+        "ms2": 2.5
+      },
+      "current_odds": {
+        "ms1": 2.63,
+        "x": 3.5,
+        "ms2": 2.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T19:08:21.814445+03:00",
+          "ms1": 2.63,
+          "x": 3.5,
+          "ms2": 2.5
+        }
+      ],
+      "home_stats": {
+        "name": "Konyaspor",
+        "home_avg_scored": 0.67,
+        "home_avg_conceded": 1.33,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 6,
+        "rank": 15,
+        "points": 4,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Istanbul Basaksehir",
+        "away_avg_scored": 1.67,
+        "away_avg_conceded": 1.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 6,
+        "rank": 12,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328578,
+      "home": "Gaziantep FK",
+      "away": "Çorum FK",
+      "date": "11.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 2.40 | X: 3.35 | MS2: 2.88",
+      "odds_detail": {
+        "ms1": 2.4,
+        "x": 3.35,
+        "ms2": 2.88
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.4,
+        "x": 3.35,
+        "ms2": 2.88
+      },
+      "current_odds": {
+        "ms1": 2.4,
+        "x": 3.35,
+        "ms2": 2.88
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T19:08:21.814445+03:00",
+          "ms1": 2.4,
+          "x": 3.35,
+          "ms2": 2.88
+        }
+      ],
+      "home_stats": {
+        "name": "Gaziantep FK",
+        "home_avg_scored": 1.17,
+        "home_avg_conceded": 1.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.34,
+        "played": 6,
+        "rank": 10,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Çorum FK",
+        "away_avg_scored": 2.17,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.17,
+        "played": 6,
+        "rank": 11,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328449,
+      "home": "Besiktas",
+      "away": "Kocaelispor",
+      "date": "11.10.2026",
+      "time": "19:00",
+      "odds": "MS1: 1.38 | X: 4.70 | MS2: 8.00",
+      "odds_detail": {
+        "ms1": 1.38,
+        "x": 4.7,
+        "ms2": 8.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.38,
+        "x": 4.7,
+        "ms2": 8.0
+      },
+      "current_odds": {
+        "ms1": 1.38,
+        "x": 4.7,
+        "ms2": 8.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T19:08:21.814445+03:00",
+          "ms1": 1.38,
+          "x": 4.7,
+          "ms2": 8.0
+        }
+      ],
+      "home_stats": {
+        "name": "Besiktas",
+        "home_avg_scored": 2.33,
+        "home_avg_conceded": 1.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 6,
+        "rank": 3,
+        "points": 12,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Kocaelispor",
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 0.67,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.84,
+        "played": 6,
+        "rank": 4,
+        "points": 12,
         "recent_matches": []
       }
     }

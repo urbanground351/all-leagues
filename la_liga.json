@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-04T06:21:22.630808+03:00",
+  "last_updated": "2026-10-04T19:08:22.523122+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -688,11 +688,11 @@
       "away": "Atlético Madrid",
       "date": "10.10.2026",
       "time": "17:15",
-      "odds": "MS1: 4.00 | X: 3.65 | MS2: 1.88",
+      "odds": "MS1: 4.10 | X: 3.65 | MS2: 1.84",
       "odds_detail": {
-        "ms1": 4.0,
+        "ms1": 4.1,
         "x": 3.65,
-        "ms2": 1.88
+        "ms2": 1.84
       },
       "odds_available": true,
       "opening_odds": {
@@ -701,14 +701,14 @@
         "ms2": 1.92
       },
       "current_odds": {
-        "ms1": 4.0,
+        "ms1": 4.1,
         "x": 3.65,
-        "ms2": 1.88
+        "ms2": 1.84
       },
       "odds_change_pct": {
-        "ms1": 2.56,
+        "ms1": 5.13,
         "x": 1.39,
-        "ms2": -2.08
+        "ms2": -4.17
       },
       "odds_history": [
         {
@@ -728,6 +728,12 @@
           "ms1": 4.0,
           "x": 3.65,
           "ms2": 1.88
+        },
+        {
+          "timestamp": "2026-10-04T19:08:22.523122+03:00",
+          "ms1": 4.1,
+          "x": 3.65,
+          "ms2": 1.84
         }
       ],
       "home_stats": {
