@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-04T19:08:22.734532+03:00",
+  "last_updated": "2026-10-05T05:58:14.421055+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -868,11 +868,11 @@
       "away": "Bayern Munich",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.21",
+      "odds": "MS1: 10.50 | X: 7.50 | MS2: 1.20",
       "odds_detail": {
-        "ms1": 10.0,
-        "x": 7.0,
-        "ms2": 1.21
+        "ms1": 10.5,
+        "x": 7.5,
+        "ms2": 1.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -881,14 +881,14 @@
         "ms2": 1.21
       },
       "current_odds": {
-        "ms1": 10.0,
-        "x": 7.0,
-        "ms2": 1.21
+        "ms1": 10.5,
+        "x": 7.5,
+        "ms2": 1.2
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 5.0,
+        "x": 7.14,
+        "ms2": -0.83
       },
       "odds_history": [
         {
@@ -896,6 +896,12 @@
           "ms1": 10.0,
           "x": 7.0,
           "ms2": 1.21
+        },
+        {
+          "timestamp": "2026-10-05T05:58:14.421055+03:00",
+          "ms1": 10.5,
+          "x": 7.5,
+          "ms2": 1.2
         }
       ],
       "home_stats": {

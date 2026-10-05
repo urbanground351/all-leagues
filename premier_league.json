@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-04T19:08:22.319315+03:00",
+  "last_updated": "2026-10-05T05:58:13.883217+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1120,10 +1120,10 @@
       "away": "Manchester City",
       "date": "11.10.2026",
       "time": "18:30",
-      "odds": "MS1: 2.63 | X: 3.85 | MS2: 2.50",
+      "odds": "MS1: 2.65 | X: 3.80 | MS2: 2.50",
       "odds_detail": {
-        "ms1": 2.63,
-        "x": 3.85,
+        "ms1": 2.65,
+        "x": 3.8,
         "ms2": 2.5
       },
       "odds_available": true,
@@ -1133,13 +1133,13 @@
         "ms2": 2.5
       },
       "current_odds": {
-        "ms1": 2.63,
-        "x": 3.85,
+        "ms1": 2.65,
+        "x": 3.8,
         "ms2": 2.5
       },
       "odds_change_pct": {
-        "ms1": -0.75,
-        "x": 1.32,
+        "ms1": 0.0,
+        "x": 0.0,
         "ms2": 0.0
       },
       "odds_history": [
@@ -1153,6 +1153,12 @@
           "timestamp": "2026-10-03T18:23:49.680018+03:00",
           "ms1": 2.63,
           "x": 3.85,
+          "ms2": 2.5
+        },
+        {
+          "timestamp": "2026-10-05T05:58:13.883217+03:00",
+          "ms1": 2.65,
+          "x": 3.8,
           "ms2": 2.5
         }
       ],
@@ -1820,6 +1826,70 @@
         "played": 5,
         "rank": 2,
         "points": 12,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072710,
+      "home": "Tottenham Hotspur",
+      "away": "Coventry City",
+      "date": "19.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 1.50 | X: 4.60 | MS2: 6.40",
+      "odds_detail": {
+        "ms1": 1.5,
+        "x": 4.6,
+        "ms2": 6.4
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.5,
+        "x": 4.6,
+        "ms2": 6.4
+      },
+      "current_odds": {
+        "ms1": 1.5,
+        "x": 4.6,
+        "ms2": 6.4
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-05T05:58:13.883217+03:00",
+          "ms1": 1.5,
+          "x": 4.6,
+          "ms2": 6.4
+        }
+      ],
+      "home_stats": {
+        "name": "Tottenham Hotspur",
+        "home_avg_scored": 0.4,
+        "home_avg_conceded": 1.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.0,
+        "played": 5,
+        "rank": 20,
+        "points": 2,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Coventry City",
+        "away_avg_scored": 0.2,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.2,
+        "played": 5,
+        "rank": 18,
+        "points": 3,
         "recent_matches": []
       }
     }

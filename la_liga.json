@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-04T19:08:22.523122+03:00",
+  "last_updated": "2026-10-05T05:58:14.119609+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -618,11 +618,11 @@
       "away": "Athletic Club",
       "date": "10.10.2026",
       "time": "15:00",
-      "odds": "MS1: 3.00 | X: 3.40 | MS2: 2.43",
+      "odds": "MS1: 3.05 | X: 3.40 | MS2: 2.40",
       "odds_detail": {
-        "ms1": 3.0,
+        "ms1": 3.05,
         "x": 3.4,
-        "ms2": 2.43
+        "ms2": 2.4
       },
       "odds_available": true,
       "opening_odds": {
@@ -631,14 +631,14 @@
         "ms2": 2.38
       },
       "current_odds": {
-        "ms1": 3.0,
+        "ms1": 3.05,
         "x": 3.4,
-        "ms2": 2.43
+        "ms2": 2.4
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 1.67,
         "x": 1.49,
-        "ms2": 2.1
+        "ms2": 0.84
       },
       "odds_history": [
         {
@@ -652,6 +652,12 @@
           "ms1": 3.0,
           "x": 3.4,
           "ms2": 2.43
+        },
+        {
+          "timestamp": "2026-10-05T05:58:14.119609+03:00",
+          "ms1": 3.05,
+          "x": 3.4,
+          "ms2": 2.4
         }
       ],
       "home_stats": {
@@ -770,11 +776,11 @@
       "away": "Getafe",
       "date": "10.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.05 | X: 16.00 | MS2: 30.00",
+      "odds": "MS1: 1.06 | X: 16.00 | MS2: 31.00",
       "odds_detail": {
-        "ms1": 1.05,
+        "ms1": 1.06,
         "x": 16.0,
-        "ms2": 30.0
+        "ms2": 31.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -783,14 +789,14 @@
         "ms2": 29.0
       },
       "current_odds": {
-        "ms1": 1.05,
+        "ms1": 1.06,
         "x": 16.0,
-        "ms2": 30.0
+        "ms2": 31.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 0.95,
         "x": 6.67,
-        "ms2": 3.45
+        "ms2": 6.9
       },
       "odds_history": [
         {
@@ -816,6 +822,12 @@
           "ms1": 1.05,
           "x": 16.0,
           "ms2": 30.0
+        },
+        {
+          "timestamp": "2026-10-05T05:58:14.119609+03:00",
+          "ms1": 1.06,
+          "x": 16.0,
+          "ms2": 31.0
         }
       ],
       "home_stats": {
@@ -852,10 +864,10 @@
       "away": "Villarreal",
       "date": "10.10.2026",
       "time": "22:00",
-      "odds": "MS1: 1.30 | X: 6.25 | MS2: 8.50",
+      "odds": "MS1: 1.32 | X: 6.10 | MS2: 8.50",
       "odds_detail": {
-        "ms1": 1.3,
-        "x": 6.25,
+        "ms1": 1.32,
+        "x": 6.1,
         "ms2": 8.5
       },
       "odds_available": true,
@@ -865,13 +877,13 @@
         "ms2": 9.0
       },
       "current_odds": {
-        "ms1": 1.3,
-        "x": 6.25,
+        "ms1": 1.32,
+        "x": 6.1,
         "ms2": 8.5
       },
       "odds_change_pct": {
-        "ms1": 2.36,
-        "x": 0.0,
+        "ms1": 3.94,
+        "x": -2.4,
         "ms2": -5.56
       },
       "odds_history": [
@@ -897,6 +909,12 @@
           "timestamp": "2026-09-30T20:12:29.788874+03:00",
           "ms1": 1.3,
           "x": 6.25,
+          "ms2": 8.5
+        },
+        {
+          "timestamp": "2026-10-05T05:58:14.119609+03:00",
+          "ms1": 1.32,
+          "x": 6.1,
           "ms2": 8.5
         }
       ],
@@ -1564,10 +1582,10 @@
       "away": "Athletic Club",
       "date": "17.10.2026",
       "time": "22:00",
-      "odds": "MS1: 3.55 | X: 3.50 | MS2: 2.12",
+      "odds": "MS1: 3.50 | X: 3.35 | MS2: 2.12",
       "odds_detail": {
-        "ms1": 3.55,
-        "x": 3.5,
+        "ms1": 3.5,
+        "x": 3.35,
         "ms2": 2.12
       },
       "odds_available": true,
@@ -1577,13 +1595,13 @@
         "ms2": 2.12
       },
       "current_odds": {
-        "ms1": 3.55,
-        "x": 3.5,
+        "ms1": 3.5,
+        "x": 3.35,
         "ms2": 2.12
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
+        "ms1": -1.41,
+        "x": -4.29,
         "ms2": 0.0
       },
       "odds_history": [
@@ -1591,6 +1609,12 @@
           "timestamp": "2026-10-03T05:51:30.307391+03:00",
           "ms1": 3.55,
           "x": 3.5,
+          "ms2": 2.12
+        },
+        {
+          "timestamp": "2026-10-05T05:58:14.119609+03:00",
+          "ms1": 3.5,
+          "x": 3.35,
           "ms2": 2.12
         }
       ],
@@ -1810,6 +1834,70 @@
         "played": 7,
         "rank": 5,
         "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209209,
+      "home": "Getafe",
+      "away": "Rayo Vallecano",
+      "date": "19.10.2026",
+      "time": "22:00",
+      "odds": "MS1: 2.70 | X: 3.10 | MS2: 2.75",
+      "odds_detail": {
+        "ms1": 2.7,
+        "x": 3.1,
+        "ms2": 2.75
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.7,
+        "x": 3.1,
+        "ms2": 2.75
+      },
+      "current_odds": {
+        "ms1": 2.7,
+        "x": 3.1,
+        "ms2": 2.75
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-05T05:58:14.119609+03:00",
+          "ms1": 2.7,
+          "x": 3.1,
+          "ms2": 2.75
+        }
+      ],
+      "home_stats": {
+        "name": "Getafe",
+        "home_avg_scored": 0.57,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.57,
+        "played": 7,
+        "rank": 11,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Rayo Vallecano",
+        "away_avg_scored": 1.57,
+        "away_avg_conceded": 2.29,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.86,
+        "played": 7,
+        "rank": 12,
+        "points": 8,
         "recent_matches": []
       }
     }
