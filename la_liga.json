@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-07T06:15:12.727901+03:00",
+  "last_updated": "2026-10-07T21:06:28.822088+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -554,10 +554,10 @@
       "away": "Espanyol",
       "date": "09.10.2026",
       "time": "22:00",
-      "odds": "MS1: 2.65 | X: 3.25 | MS2: 2.70",
+      "odds": "MS1: 2.65 | X: 3.20 | MS2: 2.70",
       "odds_detail": {
         "ms1": 2.65,
-        "x": 3.25,
+        "x": 3.2,
         "ms2": 2.7
       },
       "odds_available": true,
@@ -568,12 +568,12 @@
       },
       "current_odds": {
         "ms1": 2.65,
-        "x": 3.25,
+        "x": 3.2,
         "ms2": 2.7
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 0.0,
+        "x": -1.54,
         "ms2": 0.0
       },
       "odds_history": [
@@ -581,6 +581,12 @@
           "timestamp": "2026-09-25T03:04:35.846745+03:00",
           "ms1": 2.65,
           "x": 3.25,
+          "ms2": 2.7
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 2.65,
+          "x": 3.2,
           "ms2": 2.7
         }
       ],
@@ -618,11 +624,11 @@
       "away": "Athletic Club",
       "date": "10.10.2026",
       "time": "15:00",
-      "odds": "MS1: 2.90 | X: 3.30 | MS2: 2.43",
+      "odds": "MS1: 2.80 | X: 3.35 | MS2: 2.50",
       "odds_detail": {
-        "ms1": 2.9,
-        "x": 3.3,
-        "ms2": 2.43
+        "ms1": 2.8,
+        "x": 3.35,
+        "ms2": 2.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -631,14 +637,14 @@
         "ms2": 2.38
       },
       "current_odds": {
-        "ms1": 2.9,
-        "x": 3.3,
-        "ms2": 2.43
+        "ms1": 2.8,
+        "x": 3.35,
+        "ms2": 2.5
       },
       "odds_change_pct": {
-        "ms1": -3.33,
-        "x": -1.49,
-        "ms2": 2.1
+        "ms1": -6.67,
+        "x": 0.0,
+        "ms2": 5.04
       },
       "odds_history": [
         {
@@ -664,6 +670,12 @@
           "ms1": 2.9,
           "x": 3.3,
           "ms2": 2.43
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 2.8,
+          "x": 3.35,
+          "ms2": 2.5
         }
       ],
       "home_stats": {
@@ -700,11 +712,11 @@
       "away": "Atlético Madrid",
       "date": "10.10.2026",
       "time": "17:15",
-      "odds": "MS1: 4.30 | X: 3.65 | MS2: 1.82",
+      "odds": "MS1: 4.20 | X: 3.65 | MS2: 1.83",
       "odds_detail": {
-        "ms1": 4.3,
+        "ms1": 4.2,
         "x": 3.65,
-        "ms2": 1.82
+        "ms2": 1.83
       },
       "odds_available": true,
       "opening_odds": {
@@ -713,14 +725,14 @@
         "ms2": 1.92
       },
       "current_odds": {
-        "ms1": 4.3,
+        "ms1": 4.2,
         "x": 3.65,
-        "ms2": 1.82
+        "ms2": 1.83
       },
       "odds_change_pct": {
-        "ms1": 10.26,
+        "ms1": 7.69,
         "x": 1.39,
-        "ms2": -5.21
+        "ms2": -4.69
       },
       "odds_history": [
         {
@@ -758,6 +770,12 @@
           "ms1": 4.3,
           "x": 3.65,
           "ms2": 1.82
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 4.2,
+          "x": 3.65,
+          "ms2": 1.83
         }
       ],
       "home_stats": {
@@ -794,11 +812,11 @@
       "away": "Getafe",
       "date": "10.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.05 | X: 14.00 | MS2: 30.00",
+      "odds": "MS1: 1.06 | X: 14.00 | MS2: 29.00",
       "odds_detail": {
-        "ms1": 1.05,
+        "ms1": 1.06,
         "x": 14.0,
-        "ms2": 30.0
+        "ms2": 29.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -807,14 +825,14 @@
         "ms2": 29.0
       },
       "current_odds": {
-        "ms1": 1.05,
+        "ms1": 1.06,
         "x": 14.0,
-        "ms2": 30.0
+        "ms2": 29.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 0.95,
         "x": -6.67,
-        "ms2": 3.45
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -852,6 +870,12 @@
           "ms1": 1.05,
           "x": 14.0,
           "ms2": 30.0
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 1.06,
+          "x": 14.0,
+          "ms2": 29.0
         }
       ],
       "home_stats": {
@@ -888,10 +912,10 @@
       "away": "Villarreal",
       "date": "10.10.2026",
       "time": "22:00",
-      "odds": "MS1: 1.30 | X: 6.00 | MS2: 8.50",
+      "odds": "MS1: 1.30 | X: 6.10 | MS2: 8.50",
       "odds_detail": {
         "ms1": 1.3,
-        "x": 6.0,
+        "x": 6.1,
         "ms2": 8.5
       },
       "odds_available": true,
@@ -902,12 +926,12 @@
       },
       "current_odds": {
         "ms1": 1.3,
-        "x": 6.0,
+        "x": 6.1,
         "ms2": 8.5
       },
       "odds_change_pct": {
         "ms1": 2.36,
-        "x": -4.0,
+        "x": -2.4,
         "ms2": -5.56
       },
       "odds_history": [
@@ -958,6 +982,12 @@
           "ms1": 1.3,
           "x": 6.0,
           "ms2": 8.5
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 1.3,
+          "x": 6.1,
+          "ms2": 8.5
         }
       ],
       "home_stats": {
@@ -994,11 +1024,11 @@
       "away": "Celta Vigo",
       "date": "11.10.2026",
       "time": "15:00",
-      "odds": "MS1: 2.80 | X: 3.20 | MS2: 2.60",
+      "odds": "MS1: 2.85 | X: 3.20 | MS2: 2.55",
       "odds_detail": {
-        "ms1": 2.8,
+        "ms1": 2.85,
         "x": 3.2,
-        "ms2": 2.6
+        "ms2": 2.55
       },
       "odds_available": true,
       "opening_odds": {
@@ -1007,14 +1037,14 @@
         "ms2": 2.55
       },
       "current_odds": {
-        "ms1": 2.8,
+        "ms1": 2.85,
         "x": 3.2,
-        "ms2": 2.6
+        "ms2": 2.55
       },
       "odds_change_pct": {
-        "ms1": -3.45,
+        "ms1": -1.72,
         "x": -1.54,
-        "ms2": 1.96
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -1040,6 +1070,12 @@
           "ms1": 2.8,
           "x": 3.2,
           "ms2": 2.6
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 2.85,
+          "x": 3.2,
+          "ms2": 2.55
         }
       ],
       "home_stats": {
@@ -1076,11 +1112,11 @@
       "away": "Deportivo",
       "date": "11.10.2026",
       "time": "17:15",
-      "odds": "MS1: 1.68 | X: 3.90 | MS2: 4.80",
+      "odds": "MS1: 1.65 | X: 4.00 | MS2: 5.00",
       "odds_detail": {
-        "ms1": 1.68,
-        "x": 3.9,
-        "ms2": 4.8
+        "ms1": 1.65,
+        "x": 4.0,
+        "ms2": 5.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1089,14 +1125,14 @@
         "ms2": 4.3
       },
       "current_odds": {
-        "ms1": 1.68,
-        "x": 3.9,
-        "ms2": 4.8
+        "ms1": 1.65,
+        "x": 4.0,
+        "ms2": 5.0
       },
       "odds_change_pct": {
-        "ms1": -5.62,
-        "x": 1.3,
-        "ms2": 11.63
+        "ms1": -7.3,
+        "x": 3.9,
+        "ms2": 16.28
       },
       "odds_history": [
         {
@@ -1122,6 +1158,12 @@
           "ms1": 1.68,
           "x": 3.9,
           "ms2": 4.8
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 1.65,
+          "x": 4.0,
+          "ms2": 5.0
         }
       ],
       "home_stats": {
@@ -1158,11 +1200,11 @@
       "away": "Osasuna",
       "date": "11.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.57 | X: 4.20 | MS2: 5.40",
+      "odds": "MS1: 1.58 | X: 4.20 | MS2: 5.50",
       "odds_detail": {
-        "ms1": 1.57,
+        "ms1": 1.58,
         "x": 4.2,
-        "ms2": 5.4
+        "ms2": 5.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -1171,14 +1213,14 @@
         "ms2": 4.5
       },
       "current_odds": {
-        "ms1": 1.57,
+        "ms1": 1.58,
         "x": 4.2,
-        "ms2": 5.4
+        "ms2": 5.5
       },
       "odds_change_pct": {
-        "ms1": -9.25,
+        "ms1": -8.67,
         "x": 7.69,
-        "ms2": 20.0
+        "ms2": 22.22
       },
       "odds_history": [
         {
@@ -1210,6 +1252,12 @@
           "ms1": 1.57,
           "x": 4.2,
           "ms2": 5.4
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 1.58,
+          "x": 4.2,
+          "ms2": 5.5
         }
       ],
       "home_stats": {
@@ -1246,11 +1294,11 @@
       "away": "Valencia",
       "date": "11.10.2026",
       "time": "22:00",
-      "odds": "MS1: 2.20 | X: 3.55 | MS2: 3.10",
+      "odds": "MS1: 2.25 | X: 3.50 | MS2: 3.05",
       "odds_detail": {
-        "ms1": 2.2,
-        "x": 3.55,
-        "ms2": 3.1
+        "ms1": 2.25,
+        "x": 3.5,
+        "ms2": 3.05
       },
       "odds_available": true,
       "opening_odds": {
@@ -1259,14 +1307,14 @@
         "ms2": 3.5
       },
       "current_odds": {
-        "ms1": 2.2,
-        "x": 3.55,
-        "ms2": 3.1
+        "ms1": 2.25,
+        "x": 3.5,
+        "ms2": 3.05
       },
       "odds_change_pct": {
-        "ms1": 7.84,
-        "x": 0.0,
-        "ms2": -11.43
+        "ms1": 10.29,
+        "x": -1.41,
+        "ms2": -12.86
       },
       "odds_history": [
         {
@@ -1298,6 +1346,12 @@
           "ms1": 2.2,
           "x": 3.55,
           "ms2": 3.1
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 2.25,
+          "x": 3.5,
+          "ms2": 3.05
         }
       ],
       "home_stats": {
@@ -1334,11 +1388,11 @@
       "away": "Sevilla",
       "date": "12.10.2026",
       "time": "22:00",
-      "odds": "MS1: 2.65 | X: 3.35 | MS2: 2.75",
+      "odds": "MS1: 2.63 | X: 3.25 | MS2: 2.70",
       "odds_detail": {
-        "ms1": 2.65,
-        "x": 3.35,
-        "ms2": 2.75
+        "ms1": 2.63,
+        "x": 3.25,
+        "ms2": 2.7
       },
       "odds_available": true,
       "opening_odds": {
@@ -1347,14 +1401,14 @@
         "ms2": 2.8
       },
       "current_odds": {
-        "ms1": 2.65,
-        "x": 3.35,
-        "ms2": 2.75
+        "ms1": 2.63,
+        "x": 3.25,
+        "ms2": 2.7
       },
       "odds_change_pct": {
-        "ms1": 0.76,
-        "x": 1.52,
-        "ms2": -1.79
+        "ms1": 0.0,
+        "x": -1.52,
+        "ms2": -3.57
       },
       "odds_history": [
         {
@@ -1374,6 +1428,12 @@
           "ms1": 2.65,
           "x": 3.35,
           "ms2": 2.75
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 2.63,
+          "x": 3.25,
+          "ms2": 2.7
         }
       ],
       "home_stats": {
@@ -1743,6 +1803,70 @@
     },
     {
       "league": "Spanish LALIGA",
+      "event_id": 1028209203,
+      "home": "Osasuna",
+      "away": "Racing Santander",
+      "date": "18.10.2026",
+      "time": "15:00",
+      "odds": "MS1: 1.88 | X: 3.55 | MS2: 4.10",
+      "odds_detail": {
+        "ms1": 1.88,
+        "x": 3.55,
+        "ms2": 4.1
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.88,
+        "x": 3.55,
+        "ms2": 4.1
+      },
+      "current_odds": {
+        "ms1": 1.88,
+        "x": 3.55,
+        "ms2": 4.1
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 1.88,
+          "x": 3.55,
+          "ms2": 4.1
+        }
+      ],
+      "home_stats": {
+        "name": "Osasuna",
+        "home_avg_scored": 0.86,
+        "home_avg_conceded": 1.86,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.72,
+        "played": 7,
+        "rank": 13,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Racing Santander",
+        "away_avg_scored": 1.57,
+        "away_avg_conceded": 3.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.57,
+        "played": 7,
+        "rank": 16,
+        "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
       "event_id": 1028209222,
       "home": "Celta Vigo",
       "away": "Alavés",
@@ -1882,11 +2006,11 @@
       "away": "Sevilla",
       "date": "18.10.2026",
       "time": "22:00",
-      "odds": "MS1: 1.25 | X: 6.10 | MS2: 10.50",
+      "odds": "MS1: 1.25 | X: 6.10 | MS2: 11.00",
       "odds_detail": {
         "ms1": 1.25,
         "x": 6.1,
-        "ms2": 10.5
+        "ms2": 11.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1897,12 +2021,12 @@
       "current_odds": {
         "ms1": 1.25,
         "x": 6.1,
-        "ms2": 10.5
+        "ms2": 11.0
       },
       "odds_change_pct": {
         "ms1": 0.0,
         "x": -2.4,
-        "ms2": 0.0
+        "ms2": 4.76
       },
       "odds_history": [
         {
@@ -1916,6 +2040,12 @@
           "ms1": 1.25,
           "x": 6.1,
           "ms2": 10.5
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.822088+03:00",
+          "ms1": 1.25,
+          "x": 6.1,
+          "ms2": 11.0
         }
       ],
       "home_stats": {
