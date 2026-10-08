@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-08T06:30:41.581336+03:00",
+  "last_updated": "2026-10-08T21:08:43.687517+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,10 +500,10 @@
       "away": "Werder Bremen",
       "date": "09.10.2026",
       "time": "21:30",
-      "odds": "MS1: 1.30 | X: 5.60 | MS2: 8.00",
+      "odds": "MS1: 1.29 | X: 5.80 | MS2: 8.00",
       "odds_detail": {
-        "ms1": 1.3,
-        "x": 5.6,
+        "ms1": 1.29,
+        "x": 5.8,
         "ms2": 8.0
       },
       "odds_available": true,
@@ -513,13 +513,13 @@
         "ms2": 7.5
       },
       "current_odds": {
-        "ms1": 1.3,
-        "x": 5.6,
+        "ms1": 1.29,
+        "x": 5.8,
         "ms2": 8.0
       },
       "odds_change_pct": {
-        "ms1": -2.26,
-        "x": 3.7,
+        "ms1": -3.01,
+        "x": 7.41,
         "ms2": 6.67
       },
       "odds_history": [
@@ -551,6 +551,12 @@
           "timestamp": "2026-10-07T21:06:29.171292+03:00",
           "ms1": 1.3,
           "x": 5.6,
+          "ms2": 8.0
+        },
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 1.29,
+          "x": 5.8,
           "ms2": 8.0
         }
       ],
@@ -658,10 +664,10 @@
       "away": "Hamburg SV",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.40 | X: 5.00 | MS2: 6.50",
+      "odds": "MS1: 1.40 | X: 4.90 | MS2: 6.50",
       "odds_detail": {
         "ms1": 1.4,
-        "x": 5.0,
+        "x": 4.9,
         "ms2": 6.5
       },
       "odds_available": true,
@@ -672,12 +678,12 @@
       },
       "current_odds": {
         "ms1": 1.4,
-        "x": 5.0,
+        "x": 4.9,
         "ms2": 6.5
       },
       "odds_change_pct": {
         "ms1": 2.94,
-        "x": -4.76,
+        "x": -6.67,
         "ms2": -3.7
       },
       "odds_history": [
@@ -716,6 +722,12 @@
           "ms1": 1.4,
           "x": 5.0,
           "ms2": 6.5
+        },
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 1.4,
+          "x": 4.9,
+          "ms2": 6.5
         }
       ],
       "home_stats": {
@@ -752,9 +764,9 @@
       "away": "Bayern Munich",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 10.50 | X: 7.50 | MS2: 1.19",
+      "odds": "MS1: 11.00 | X: 7.50 | MS2: 1.19",
       "odds_detail": {
-        "ms1": 10.5,
+        "ms1": 11.0,
         "x": 7.5,
         "ms2": 1.19
       },
@@ -765,12 +777,12 @@
         "ms2": 1.21
       },
       "current_odds": {
-        "ms1": 10.5,
+        "ms1": 11.0,
         "x": 7.5,
         "ms2": 1.19
       },
       "odds_change_pct": {
-        "ms1": 5.0,
+        "ms1": 10.0,
         "x": 7.14,
         "ms2": -1.65
       },
@@ -796,6 +808,12 @@
         {
           "timestamp": "2026-10-07T21:06:29.171292+03:00",
           "ms1": 10.5,
+          "x": 7.5,
+          "ms2": 1.19
+        },
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 11.0,
           "x": 7.5,
           "ms2": 1.19
         }
@@ -916,11 +934,11 @@
       "away": "SV Elversberg",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 2.23 | X: 3.70 | MS2: 2.80",
+      "odds": "MS1: 2.23 | X: 3.70 | MS2: 2.85",
       "odds_detail": {
         "ms1": 2.23,
         "x": 3.7,
-        "ms2": 2.8
+        "ms2": 2.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -931,12 +949,12 @@
       "current_odds": {
         "ms1": 2.23,
         "x": 3.7,
-        "ms2": 2.8
+        "ms2": 2.85
       },
       "odds_change_pct": {
         "ms1": -0.89,
         "x": 0.0,
-        "ms2": 1.82
+        "ms2": 3.64
       },
       "odds_history": [
         {
@@ -950,6 +968,12 @@
           "ms1": 2.23,
           "x": 3.7,
           "ms2": 2.8
+        },
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 2.23,
+          "x": 3.7,
+          "ms2": 2.85
         }
       ],
       "home_stats": {
@@ -1050,10 +1074,10 @@
       "away": "Borussia Mönchengladbach",
       "date": "11.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.93 | X: 4.00 | MS2: 3.25",
+      "odds": "MS1: 1.96 | X: 3.95 | MS2: 3.25",
       "odds_detail": {
-        "ms1": 1.93,
-        "x": 4.0,
+        "ms1": 1.96,
+        "x": 3.95,
         "ms2": 3.25
       },
       "odds_available": true,
@@ -1063,13 +1087,13 @@
         "ms2": 3.3
       },
       "current_odds": {
-        "ms1": 1.93,
-        "x": 4.0,
+        "ms1": 1.96,
+        "x": 3.95,
         "ms2": 3.25
       },
       "odds_change_pct": {
-        "ms1": 1.05,
-        "x": 0.0,
+        "ms1": 2.62,
+        "x": -1.25,
         "ms2": -1.52
       },
       "odds_history": [
@@ -1101,6 +1125,12 @@
           "timestamp": "2026-10-07T06:15:13.031712+03:00",
           "ms1": 1.93,
           "x": 4.0,
+          "ms2": 3.25
+        },
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 1.96,
+          "x": 3.95,
           "ms2": 3.25
         }
       ],
@@ -1604,11 +1634,11 @@
       "away": "RB Leipzig",
       "date": "17.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.19 | X: 7.50 | MS2: 10.50",
+      "odds": "MS1: 1.20 | X: 7.50 | MS2: 10.00",
       "odds_detail": {
-        "ms1": 1.19,
+        "ms1": 1.2,
         "x": 7.5,
-        "ms2": 10.5
+        "ms2": 10.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1617,14 +1647,14 @@
         "ms2": 11.0
       },
       "current_odds": {
-        "ms1": 1.19,
+        "ms1": 1.2,
         "x": 7.5,
-        "ms2": 10.5
+        "ms2": 10.0
       },
       "odds_change_pct": {
-        "ms1": 1.71,
+        "ms1": 2.56,
         "x": -6.25,
-        "ms2": -4.55
+        "ms2": -9.09
       },
       "odds_history": [
         {
@@ -1638,6 +1668,12 @@
           "ms1": 1.19,
           "x": 7.5,
           "ms2": 10.5
+        },
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 1.2,
+          "x": 7.5,
+          "ms2": 10.0
         }
       ],
       "home_stats": {
@@ -1664,6 +1700,134 @@
         "played": 4,
         "rank": 9,
         "points": 6,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230629,
+      "home": "Bayer Leverkusen",
+      "away": "SC Freiburg",
+      "date": "18.10.2026",
+      "time": "16:30",
+      "odds": "MS1: 1.66 | X: 4.25 | MS2: 4.20",
+      "odds_detail": {
+        "ms1": 1.66,
+        "x": 4.25,
+        "ms2": 4.2
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.66,
+        "x": 4.25,
+        "ms2": 4.2
+      },
+      "current_odds": {
+        "ms1": 1.66,
+        "x": 4.25,
+        "ms2": 4.2
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 1.66,
+          "x": 4.25,
+          "ms2": 4.2
+        }
+      ],
+      "home_stats": {
+        "name": "Bayer Leverkusen",
+        "home_avg_scored": 2.5,
+        "home_avg_conceded": 1.25,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.75,
+        "played": 4,
+        "rank": 5,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "SC Freiburg",
+        "away_avg_scored": 3.0,
+        "away_avg_conceded": 0.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.75,
+        "played": 4,
+        "rank": 3,
+        "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230637,
+      "home": "Borussia Mönchengladbach",
+      "away": "TSG Hoffenheim",
+      "date": "18.10.2026",
+      "time": "18:30",
+      "odds": "MS1: 3.20 | X: 4.00 | MS2: 1.95",
+      "odds_detail": {
+        "ms1": 3.2,
+        "x": 4.0,
+        "ms2": 1.95
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.2,
+        "x": 4.0,
+        "ms2": 1.95
+      },
+      "current_odds": {
+        "ms1": 3.2,
+        "x": 4.0,
+        "ms2": 1.95
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-08T21:08:43.687517+03:00",
+          "ms1": 3.2,
+          "x": 4.0,
+          "ms2": 1.95
+        }
+      ],
+      "home_stats": {
+        "name": "Borussia Mönchengladbach",
+        "home_avg_scored": 1.5,
+        "home_avg_conceded": 4.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 5.5,
+        "played": 4,
+        "rank": 18,
+        "points": 0,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "TSG Hoffenheim",
+        "away_avg_scored": 1.75,
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.25,
+        "played": 4,
+        "rank": 14,
+        "points": 3,
         "recent_matches": []
       }
     }
