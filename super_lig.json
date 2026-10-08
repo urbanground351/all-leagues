@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-07T21:06:27.850127+03:00",
+  "last_updated": "2026-10-08T06:30:40.423594+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Kasimpasa",
       "date": "09.10.2026",
       "time": "20:00",
-      "odds": "MS1: 1.22 | X: 6.25 | MS2: 11.50",
+      "odds": "MS1: 1.20 | X: 6.10 | MS2: 11.00",
       "odds_detail": {
-        "ms1": 1.22,
-        "x": 6.25,
-        "ms2": 11.5
+        "ms1": 1.2,
+        "x": 6.1,
+        "ms2": 11.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 10.5
       },
       "current_odds": {
-        "ms1": 1.22,
-        "x": 6.25,
-        "ms2": 11.5
+        "ms1": 1.2,
+        "x": 6.1,
+        "ms2": 11.0
       },
       "odds_change_pct": {
-        "ms1": -2.4,
-        "x": 4.17,
-        "ms2": 9.52
+        "ms1": -4.0,
+        "x": 1.67,
+        "ms2": 4.76
       },
       "odds_history": [
         {
@@ -546,6 +546,12 @@
           "ms1": 1.22,
           "x": 6.25,
           "ms2": 11.5
+        },
+        {
+          "timestamp": "2026-10-08T06:30:40.423594+03:00",
+          "ms1": 1.2,
+          "x": 6.1,
+          "ms2": 11.0
         }
       ],
       "home_stats": {
