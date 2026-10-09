@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-09T06:36:11.401043+03:00",
+  "last_updated": "2026-10-09T20:42:23.473102+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -499,12 +499,12 @@
       "home": "Galatasaray",
       "away": "Kasimpasa",
       "date": "09.10.2026",
-      "time": "20:00",
-      "odds": "MS1: 1.20 | X: 6.10 | MS2: 11.00",
+      "time": "20:01",
+      "odds": "MS1: 1.48 | X: 3.55 | MS2: 7.00",
       "odds_detail": {
-        "ms1": 1.2,
-        "x": 6.1,
-        "ms2": 11.0
+        "ms1": 1.48,
+        "x": 3.55,
+        "ms2": 7.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 10.5
       },
       "current_odds": {
-        "ms1": 1.2,
-        "x": 6.1,
-        "ms2": 11.0
+        "ms1": 1.48,
+        "x": 3.55,
+        "ms2": 7.0
       },
       "odds_change_pct": {
-        "ms1": -4.0,
-        "x": 1.67,
-        "ms2": 4.76
+        "ms1": 18.4,
+        "x": -40.83,
+        "ms2": -33.33
       },
       "odds_history": [
         {
@@ -552,6 +552,12 @@
           "ms1": 1.2,
           "x": 6.1,
           "ms2": 11.0
+        },
+        {
+          "timestamp": "2026-10-09T20:42:23.473102+03:00",
+          "ms1": 1.48,
+          "x": 3.55,
+          "ms2": 7.0
         }
       ],
       "home_stats": {
@@ -588,11 +594,11 @@
       "away": "Amed SFK",
       "date": "10.10.2026",
       "time": "13:30",
-      "odds": "MS1: 2.55 | X: 3.30 | MS2: 2.55",
+      "odds": "MS1: 3.05 | X: 3.45 | MS2: 2.23",
       "odds_detail": {
-        "ms1": 2.55,
-        "x": 3.3,
-        "ms2": 2.55
+        "ms1": 3.05,
+        "x": 3.45,
+        "ms2": 2.23
       },
       "odds_available": true,
       "opening_odds": {
@@ -601,14 +607,14 @@
         "ms2": 2.7
       },
       "current_odds": {
-        "ms1": 2.55,
-        "x": 3.3,
-        "ms2": 2.55
+        "ms1": 3.05,
+        "x": 3.45,
+        "ms2": 2.23
       },
       "odds_change_pct": {
-        "ms1": 2.0,
-        "x": -1.49,
-        "ms2": -5.56
+        "ms1": 22.0,
+        "x": 2.99,
+        "ms2": -17.41
       },
       "odds_history": [
         {
@@ -622,6 +628,12 @@
           "ms1": 2.55,
           "x": 3.3,
           "ms2": 2.55
+        },
+        {
+          "timestamp": "2026-10-09T20:42:23.473102+03:00",
+          "ms1": 3.05,
+          "x": 3.45,
+          "ms2": 2.23
         }
       ],
       "home_stats": {
@@ -734,11 +746,11 @@
       "away": "Erzurum BB",
       "date": "10.10.2026",
       "time": "16:00",
-      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.95",
+      "odds": "MS1: 1.85 | X: 3.35 | MS2: 4.35",
       "odds_detail": {
-        "ms1": 2.0,
-        "x": 3.2,
-        "ms2": 3.95
+        "ms1": 1.85,
+        "x": 3.35,
+        "ms2": 4.35
       },
       "odds_available": true,
       "opening_odds": {
@@ -747,14 +759,14 @@
         "ms2": 3.9
       },
       "current_odds": {
-        "ms1": 2.0,
-        "x": 3.2,
-        "ms2": 3.95
+        "ms1": 1.85,
+        "x": 3.35,
+        "ms2": 4.35
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 1.28
+        "ms1": -7.5,
+        "x": 4.69,
+        "ms2": 11.54
       },
       "odds_history": [
         {
@@ -768,6 +780,12 @@
           "ms1": 2.0,
           "x": 3.2,
           "ms2": 3.95
+        },
+        {
+          "timestamp": "2026-10-09T20:42:23.473102+03:00",
+          "ms1": 1.85,
+          "x": 3.35,
+          "ms2": 4.35
         }
       ],
       "home_stats": {
@@ -1150,6 +1168,70 @@
         "played": 6,
         "rank": 17,
         "points": 3,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328466,
+      "home": "Çorum FK",
+      "away": "Caykur Rizespor",
+      "date": "16.10.2026",
+      "time": "20:00",
+      "odds": "MS1: 2.60 | X: 3.40 | MS2: 2.55",
+      "odds_detail": {
+        "ms1": 2.6,
+        "x": 3.4,
+        "ms2": 2.55
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.6,
+        "x": 3.4,
+        "ms2": 2.55
+      },
+      "current_odds": {
+        "ms1": 2.6,
+        "x": 3.4,
+        "ms2": 2.55
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-09T20:42:23.473102+03:00",
+          "ms1": 2.6,
+          "x": 3.4,
+          "ms2": 2.55
+        }
+      ],
+      "home_stats": {
+        "name": "Çorum FK",
+        "home_avg_scored": 2.17,
+        "home_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.17,
+        "played": 6,
+        "rank": 11,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Caykur Rizespor",
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.17,
+        "played": 6,
+        "rank": 9,
+        "points": 10,
         "recent_matches": []
       }
     }
