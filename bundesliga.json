@@ -2,34 +2,34 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-09T20:42:25.102944+03:00",
+  "last_updated": "2026-10-10T06:17:11.572132+03:00",
   "total_teams": 18,
   "teams": [
     {
       "name": "Borussia Dortmund",
       "id": "124",
       "rank": 1,
-      "points": 12,
-      "played": 4,
+      "points": 13,
+      "played": 5,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goals_for": 9,
-      "goals_against": 2,
+      "goals_for": 11,
+      "goals_against": 4,
       "goal_diff": 7,
-      "avg_scored": 2.25,
-      "avg_conceded": 0.5,
-      "win_rate": 100.0,
+      "avg_scored": 2.2,
+      "avg_conceded": 0.8,
+      "win_rate": 80.0,
       "matches": [],
-      "home_avg_scored": 2.25,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 2.25,
-      "away_avg_conceded": 0.5,
+      "home_avg_scored": 2.2,
+      "home_avg_conceded": 0.8,
+      "away_avg_scored": 2.2,
+      "away_avg_conceded": 0.8,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.75,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     },
     {
@@ -87,9 +87,36 @@
       "recent_matches": []
     },
     {
+      "name": "Werder Bremen",
+      "id": "137",
+      "rank": 4,
+      "points": 8,
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 10,
+      "goals_against": 10,
+      "goal_diff": 0,
+      "avg_scored": 2.0,
+      "avg_conceded": 2.0,
+      "win_rate": 40.0,
+      "matches": [],
+      "home_avg_scored": 2.0,
+      "home_avg_conceded": 2.0,
+      "away_avg_scored": 2.0,
+      "away_avg_conceded": 2.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 4.0,
+      "recent_matches": []
+    },
+    {
       "name": "FC Augsburg",
       "id": "3841",
-      "rank": 4,
+      "rank": 5,
       "points": 7,
       "played": 4,
       "wins": 2,
@@ -116,7 +143,7 @@
     {
       "name": "Bayer Leverkusen",
       "id": "131",
-      "rank": 5,
+      "rank": 6,
       "points": 7,
       "played": 4,
       "wins": 2,
@@ -143,7 +170,7 @@
     {
       "name": "Mainz",
       "id": "2950",
-      "rank": 6,
+      "rank": 7,
       "points": 7,
       "played": 4,
       "wins": 2,
@@ -170,7 +197,7 @@
     {
       "name": "SV Elversberg",
       "id": "10388",
-      "rank": 7,
+      "rank": 8,
       "points": 7,
       "played": 4,
       "wins": 2,
@@ -192,33 +219,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.75,
-      "recent_matches": []
-    },
-    {
-      "name": "Werder Bremen",
-      "id": "137",
-      "rank": 8,
-      "points": 7,
-      "played": 4,
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "goals_for": 8,
-      "goals_against": 8,
-      "goal_diff": 0,
-      "avg_scored": 2.0,
-      "avg_conceded": 2.0,
-      "win_rate": 50.0,
-      "matches": [],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 2.0,
-      "away_avg_scored": 2.0,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 4.0,
       "recent_matches": []
     },
     {
@@ -495,106 +495,6 @@
   "upcoming_matches": [
     {
       "league": "German Bundesliga",
-      "event_id": 1028230297,
-      "home": "Borussia Dortmund",
-      "away": "Werder Bremen",
-      "date": "09.10.2026",
-      "time": "21:30",
-      "odds": "MS1: 1.33 | X: 5.30 | MS2: 8.00",
-      "odds_detail": {
-        "ms1": 1.33,
-        "x": 5.3,
-        "ms2": 8.0
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.33,
-        "x": 5.4,
-        "ms2": 7.5
-      },
-      "current_odds": {
-        "ms1": 1.33,
-        "x": 5.3,
-        "ms2": 8.0
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": -1.85,
-        "ms2": 6.67
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-25T03:04:36.210222+03:00",
-          "ms1": 1.33,
-          "x": 5.4,
-          "ms2": 7.5
-        },
-        {
-          "timestamp": "2026-09-25T15:04:34.393125+03:00",
-          "ms1": 1.34,
-          "x": 5.3,
-          "ms2": 7.5
-        },
-        {
-          "timestamp": "2026-10-06T06:47:26.344871+03:00",
-          "ms1": 1.33,
-          "x": 5.5,
-          "ms2": 7.5
-        },
-        {
-          "timestamp": "2026-10-07T06:15:13.031712+03:00",
-          "ms1": 1.34,
-          "x": 5.3,
-          "ms2": 7.5
-        },
-        {
-          "timestamp": "2026-10-07T21:06:29.171292+03:00",
-          "ms1": 1.3,
-          "x": 5.6,
-          "ms2": 8.0
-        },
-        {
-          "timestamp": "2026-10-08T21:08:43.687517+03:00",
-          "ms1": 1.29,
-          "x": 5.8,
-          "ms2": 8.0
-        },
-        {
-          "timestamp": "2026-10-09T20:42:25.102944+03:00",
-          "ms1": 1.33,
-          "x": 5.3,
-          "ms2": 8.0
-        }
-      ],
-      "home_stats": {
-        "name": "Borussia Dortmund",
-        "home_avg_scored": 2.25,
-        "home_avg_conceded": 0.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.75,
-        "played": 4,
-        "rank": 1,
-        "points": 12,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Werder Bremen",
-        "away_avg_scored": 2.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.0,
-        "played": 4,
-        "rank": 8,
-        "points": 7,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230314,
       "home": "Mainz",
       "away": "Bayer Leverkusen",
@@ -651,7 +551,7 @@
         "form": [],
         "recent_goals_avg": 4.0,
         "played": 4,
-        "rank": 6,
+        "rank": 7,
         "points": 7,
         "recent_matches": []
       },
@@ -664,7 +564,7 @@
         "form": [],
         "recent_goals_avg": 3.75,
         "played": 4,
-        "rank": 5,
+        "rank": 6,
         "points": 7,
         "recent_matches": []
       }
@@ -788,11 +688,11 @@
       "away": "Bayern Munich",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 11.50 | X: 8.00 | MS2: 1.17",
+      "odds": "MS1: 12.50 | X: 8.00 | MS2: 1.16",
       "odds_detail": {
-        "ms1": 11.5,
+        "ms1": 12.5,
         "x": 8.0,
-        "ms2": 1.17
+        "ms2": 1.16
       },
       "odds_available": true,
       "opening_odds": {
@@ -801,14 +701,14 @@
         "ms2": 1.21
       },
       "current_odds": {
-        "ms1": 11.5,
+        "ms1": 12.5,
         "x": 8.0,
-        "ms2": 1.17
+        "ms2": 1.16
       },
       "odds_change_pct": {
-        "ms1": 15.0,
+        "ms1": 25.0,
         "x": 14.29,
-        "ms2": -3.31
+        "ms2": -4.13
       },
       "odds_history": [
         {
@@ -846,6 +746,12 @@
           "ms1": 11.5,
           "x": 8.0,
           "ms2": 1.17
+        },
+        {
+          "timestamp": "2026-10-10T06:17:11.572132+03:00",
+          "ms1": 12.5,
+          "x": 8.0,
+          "ms2": 1.16
         }
       ],
       "home_stats": {
@@ -857,7 +763,7 @@
         "form": [],
         "recent_goals_avg": 4.25,
         "played": 4,
-        "rank": 4,
+        "rank": 5,
         "points": 7,
         "recent_matches": []
       },
@@ -970,11 +876,11 @@
       "away": "SV Elversberg",
       "date": "10.10.2026",
       "time": "16:30",
-      "odds": "MS1: 2.25 | X: 3.70 | MS2: 2.80",
+      "odds": "MS1: 2.32 | X: 3.70 | MS2: 2.70",
       "odds_detail": {
-        "ms1": 2.25,
+        "ms1": 2.32,
         "x": 3.7,
-        "ms2": 2.8
+        "ms2": 2.7
       },
       "odds_available": true,
       "opening_odds": {
@@ -983,14 +889,14 @@
         "ms2": 2.75
       },
       "current_odds": {
-        "ms1": 2.25,
+        "ms1": 2.32,
         "x": 3.7,
-        "ms2": 2.8
+        "ms2": 2.7
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 3.11,
         "x": 0.0,
-        "ms2": 1.82
+        "ms2": -1.82
       },
       "odds_history": [
         {
@@ -1016,6 +922,12 @@
           "ms1": 2.25,
           "x": 3.7,
           "ms2": 2.8
+        },
+        {
+          "timestamp": "2026-10-10T06:17:11.572132+03:00",
+          "ms1": 2.32,
+          "x": 3.7,
+          "ms2": 2.7
         }
       ],
       "home_stats": {
@@ -1040,7 +952,7 @@
         "form": [],
         "recent_goals_avg": 3.75,
         "played": 4,
-        "rank": 7,
+        "rank": 8,
         "points": 7,
         "recent_matches": []
       }
@@ -1419,15 +1331,15 @@
       },
       "away_stats": {
         "name": "Borussia Dortmund",
-        "away_avg_scored": 2.25,
-        "away_avg_conceded": 0.5,
+        "away_avg_scored": 2.2,
+        "away_avg_conceded": 0.8,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.75,
-        "played": 4,
+        "recent_goals_avg": 3.0,
+        "played": 5,
         "rank": 1,
-        "points": 12,
+        "points": 13,
         "recent_matches": []
       }
     },
@@ -1566,7 +1478,7 @@
         "form": [],
         "recent_goals_avg": 4.0,
         "played": 4,
-        "rank": 6,
+        "rank": 7,
         "points": 7,
         "recent_matches": []
       }
@@ -1616,9 +1528,9 @@
         "shots_on_target_against": null,
         "form": [],
         "recent_goals_avg": 4.0,
-        "played": 4,
-        "rank": 8,
-        "points": 7,
+        "played": 5,
+        "rank": 4,
+        "points": 8,
         "recent_matches": []
       },
       "away_stats": {
@@ -1681,7 +1593,7 @@
         "form": [],
         "recent_goals_avg": 3.75,
         "played": 4,
-        "rank": 7,
+        "rank": 8,
         "points": 7,
         "recent_matches": []
       },
@@ -1694,7 +1606,7 @@
         "form": [],
         "recent_goals_avg": 4.25,
         "played": 4,
-        "rank": 4,
+        "rank": 5,
         "points": 7,
         "recent_matches": []
       }
@@ -1821,7 +1733,7 @@
         "form": [],
         "recent_goals_avg": 3.75,
         "played": 4,
-        "rank": 5,
+        "rank": 6,
         "points": 7,
         "recent_matches": []
       },
