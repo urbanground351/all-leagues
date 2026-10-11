@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-11T05:50:09.252175+03:00",
+  "last_updated": "2026-10-11T19:59:14.174943+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -249,9 +249,36 @@
       "recent_matches": []
     },
     {
+      "name": "FC Cologne",
+      "id": "122",
+      "rank": 10,
+      "points": 7,
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 8,
+      "goals_against": 10,
+      "goal_diff": -2,
+      "avg_scored": 1.6,
+      "avg_conceded": 2.0,
+      "win_rate": 40.0,
+      "matches": [],
+      "home_avg_scored": 1.6,
+      "home_avg_conceded": 2.0,
+      "away_avg_scored": 1.6,
+      "away_avg_conceded": 2.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.6,
+      "recent_matches": []
+    },
+    {
       "name": "VfB Stuttgart",
       "id": "134",
-      "rank": 10,
+      "rank": 11,
       "points": 6,
       "played": 5,
       "wins": 2,
@@ -278,7 +305,7 @@
     {
       "name": "Hamburg SV",
       "id": "127",
-      "rank": 11,
+      "rank": 12,
       "points": 6,
       "played": 5,
       "wins": 2,
@@ -305,7 +332,7 @@
     {
       "name": "Schalke 04",
       "id": "133",
-      "rank": 12,
+      "rank": 13,
       "points": 5,
       "played": 4,
       "wins": 1,
@@ -332,7 +359,7 @@
     {
       "name": "Eintracht Frankfurt",
       "id": "125",
-      "rank": 13,
+      "rank": 14,
       "points": 5,
       "played": 5,
       "wins": 1,
@@ -354,33 +381,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 5.0,
-      "recent_matches": []
-    },
-    {
-      "name": "FC Cologne",
-      "id": "122",
-      "rank": 14,
-      "points": 4,
-      "played": 4,
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "goals_for": 6,
-      "goals_against": 9,
-      "goal_diff": -3,
-      "avg_scored": 1.5,
-      "avg_conceded": 2.25,
-      "win_rate": 25.0,
-      "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 2.25,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 2.25,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.75,
       "recent_matches": []
     },
     {
@@ -469,148 +469,42 @@
       "id": "268",
       "rank": 18,
       "points": 0,
-      "played": 4,
+      "played": 5,
       "wins": 0,
       "draws": 0,
-      "losses": 4,
-      "goals_for": 6,
-      "goals_against": 16,
-      "goal_diff": -10,
-      "avg_scored": 1.5,
-      "avg_conceded": 4.0,
+      "losses": 5,
+      "goals_for": 7,
+      "goals_against": 18,
+      "goal_diff": -11,
+      "avg_scored": 1.4,
+      "avg_conceded": 3.6,
       "win_rate": 0.0,
       "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 4.0,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 4.0,
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 3.6,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 3.6,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 5.5,
+      "recent_goals_avg": 5.0,
       "recent_matches": []
     }
   ],
   "upcoming_matches": [
     {
       "league": "German Bundesliga",
-      "event_id": 1028230319,
-      "home": "FC Cologne",
-      "away": "Borussia Mönchengladbach",
-      "date": "11.10.2026",
-      "time": "16:30",
-      "odds": "MS1: 1.98 | X: 3.85 | MS2: 3.20",
-      "odds_detail": {
-        "ms1": 1.98,
-        "x": 3.85,
-        "ms2": 3.2
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.91,
-        "x": 4.0,
-        "ms2": 3.3
-      },
-      "current_odds": {
-        "ms1": 1.98,
-        "x": 3.85,
-        "ms2": 3.2
-      },
-      "odds_change_pct": {
-        "ms1": 3.66,
-        "x": -3.75,
-        "ms2": -3.03
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-27T03:04:59.742810+03:00",
-          "ms1": 1.91,
-          "x": 4.0,
-          "ms2": 3.3
-        },
-        {
-          "timestamp": "2026-09-28T03:04:49.397657+03:00",
-          "ms1": 1.92,
-          "x": 4.0,
-          "ms2": 3.35
-        },
-        {
-          "timestamp": "2026-09-29T20:14:22.634055+03:00",
-          "ms1": 1.92,
-          "x": 4.0,
-          "ms2": 3.3
-        },
-        {
-          "timestamp": "2026-10-06T20:35:03.560488+03:00",
-          "ms1": 1.91,
-          "x": 4.0,
-          "ms2": 3.3
-        },
-        {
-          "timestamp": "2026-10-07T06:15:13.031712+03:00",
-          "ms1": 1.93,
-          "x": 4.0,
-          "ms2": 3.25
-        },
-        {
-          "timestamp": "2026-10-08T21:08:43.687517+03:00",
-          "ms1": 1.96,
-          "x": 3.95,
-          "ms2": 3.25
-        },
-        {
-          "timestamp": "2026-10-09T20:42:25.102944+03:00",
-          "ms1": 1.97,
-          "x": 3.9,
-          "ms2": 3.25
-        },
-        {
-          "timestamp": "2026-10-10T19:34:04.883519+03:00",
-          "ms1": 1.98,
-          "x": 3.85,
-          "ms2": 3.2
-        }
-      ],
-      "home_stats": {
-        "name": "FC Cologne",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 2.25,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.75,
-        "played": 4,
-        "rank": 14,
-        "points": 4,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Borussia Mönchengladbach",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 4.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 5.5,
-        "played": 4,
-        "rank": 18,
-        "points": 0,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230305,
       "home": "SC Freiburg",
       "away": "Schalke 04",
       "date": "11.10.2026",
-      "time": "18:30",
-      "odds": "MS1: 1.60 | X: 3.85 | MS2: 5.30",
+      "time": "18:29",
+      "odds": "MS1: 4.00 | X: 1.84 | MS2: 3.45",
       "odds_detail": {
-        "ms1": 1.6,
-        "x": 3.85,
-        "ms2": 5.3
+        "ms1": 4.0,
+        "x": 1.84,
+        "ms2": 3.45
       },
       "odds_available": true,
       "opening_odds": {
@@ -619,14 +513,14 @@
         "ms2": 5.0
       },
       "current_odds": {
-        "ms1": 1.6,
-        "x": 3.85,
-        "ms2": 5.3
+        "ms1": 4.0,
+        "x": 1.84,
+        "ms2": 3.45
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": -6.1,
-        "ms2": 6.0
+        "ms1": 150.0,
+        "x": -55.12,
+        "ms2": -31.0
       },
       "odds_history": [
         {
@@ -658,6 +552,12 @@
           "ms1": 1.6,
           "x": 3.85,
           "ms2": 5.3
+        },
+        {
+          "timestamp": "2026-10-11T19:59:14.174943+03:00",
+          "ms1": 4.0,
+          "x": 1.84,
+          "ms2": 3.45
         }
       ],
       "home_stats": {
@@ -682,7 +582,7 @@
         "form": [],
         "recent_goals_avg": 1.75,
         "played": 4,
-        "rank": 12,
+        "rank": 13,
         "points": 5,
         "recent_matches": []
       }
@@ -739,21 +639,21 @@
         "form": [],
         "recent_goals_avg": 5.0,
         "played": 5,
-        "rank": 13,
+        "rank": 14,
         "points": 5,
         "recent_matches": []
       },
       "away_stats": {
         "name": "FC Cologne",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 2.25,
+        "away_avg_scored": 1.6,
+        "away_avg_conceded": 2.0,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.75,
-        "played": 4,
-        "rank": 14,
-        "points": 4,
+        "recent_goals_avg": 3.6,
+        "played": 5,
+        "rank": 10,
+        "points": 7,
         "recent_matches": []
       }
     },
@@ -879,7 +779,7 @@
         "form": [],
         "recent_goals_avg": 4.0,
         "played": 5,
-        "rank": 11,
+        "rank": 12,
         "points": 6,
         "recent_matches": []
       },
@@ -892,7 +792,7 @@
         "form": [],
         "recent_goals_avg": 3.4,
         "played": 5,
-        "rank": 10,
+        "rank": 11,
         "points": 6,
         "recent_matches": []
       }
@@ -949,7 +849,7 @@
         "form": [],
         "recent_goals_avg": 1.75,
         "played": 4,
-        "rank": 12,
+        "rank": 13,
         "points": 5,
         "recent_matches": []
       },
@@ -1260,11 +1160,11 @@
       "away": "TSG Hoffenheim",
       "date": "18.10.2026",
       "time": "18:30",
-      "odds": "MS1: 3.20 | X: 4.00 | MS2: 1.95",
+      "odds": "MS1: 3.30 | X: 3.95 | MS2: 1.94",
       "odds_detail": {
-        "ms1": 3.2,
-        "x": 4.0,
-        "ms2": 1.95
+        "ms1": 3.3,
+        "x": 3.95,
+        "ms2": 1.94
       },
       "odds_available": true,
       "opening_odds": {
@@ -1273,14 +1173,14 @@
         "ms2": 1.95
       },
       "current_odds": {
-        "ms1": 3.2,
-        "x": 4.0,
-        "ms2": 1.95
+        "ms1": 3.3,
+        "x": 3.95,
+        "ms2": 1.94
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 3.12,
+        "x": -1.25,
+        "ms2": -0.51
       },
       "odds_history": [
         {
@@ -1288,17 +1188,23 @@
           "ms1": 3.2,
           "x": 4.0,
           "ms2": 1.95
+        },
+        {
+          "timestamp": "2026-10-11T19:59:14.174943+03:00",
+          "ms1": 3.3,
+          "x": 3.95,
+          "ms2": 1.94
         }
       ],
       "home_stats": {
         "name": "Borussia Mönchengladbach",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 4.0,
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 3.6,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 5.5,
-        "played": 4,
+        "recent_goals_avg": 5.0,
+        "played": 5,
         "rank": 18,
         "points": 0,
         "recent_matches": []
