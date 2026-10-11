@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-10T19:34:04.883519+03:00",
+  "last_updated": "2026-10-11T05:50:09.252175+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -114,9 +114,36 @@
       "recent_matches": []
     },
     {
+      "name": "RB Leipzig",
+      "id": "11420",
+      "rank": 5,
+      "points": 9,
+      "played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 15,
+      "goals_against": 5,
+      "goal_diff": 10,
+      "avg_scored": 3.0,
+      "avg_conceded": 1.0,
+      "win_rate": 60.0,
+      "matches": [],
+      "home_avg_scored": 3.0,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 3.0,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 4.0,
+      "recent_matches": []
+    },
+    {
       "name": "FC Augsburg",
       "id": "3841",
-      "rank": 5,
+      "rank": 6,
       "points": 8,
       "played": 5,
       "wins": 2,
@@ -143,7 +170,7 @@
     {
       "name": "Werder Bremen",
       "id": "137",
-      "rank": 6,
+      "rank": 7,
       "points": 8,
       "played": 5,
       "wins": 2,
@@ -170,7 +197,7 @@
     {
       "name": "Mainz",
       "id": "2950",
-      "rank": 7,
+      "rank": 8,
       "points": 7,
       "played": 5,
       "wins": 2,
@@ -197,7 +224,7 @@
     {
       "name": "SV Elversberg",
       "id": "10388",
-      "rank": 8,
+      "rank": 9,
       "points": 7,
       "played": 5,
       "wins": 2,
@@ -219,33 +246,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.2,
-      "recent_matches": []
-    },
-    {
-      "name": "RB Leipzig",
-      "id": "11420",
-      "rank": 9,
-      "points": 6,
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "goals_for": 9,
-      "goals_against": 5,
-      "goal_diff": 4,
-      "avg_scored": 2.25,
-      "avg_conceded": 1.25,
-      "win_rate": 50.0,
-      "matches": [],
-      "home_avg_scored": 2.25,
-      "home_avg_conceded": 1.25,
-      "away_avg_scored": 2.25,
-      "away_avg_conceded": 1.25,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.5,
       "recent_matches": []
     },
     {
@@ -303,36 +303,9 @@
       "recent_matches": []
     },
     {
-      "name": "Eintracht Frankfurt",
-      "id": "125",
-      "rank": 12,
-      "points": 5,
-      "played": 4,
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "goals_for": 9,
-      "goals_against": 10,
-      "goal_diff": -1,
-      "avg_scored": 2.25,
-      "avg_conceded": 2.5,
-      "win_rate": 25.0,
-      "matches": [],
-      "home_avg_scored": 2.25,
-      "home_avg_conceded": 2.5,
-      "away_avg_scored": 2.25,
-      "away_avg_conceded": 2.5,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 4.75,
-      "recent_matches": []
-    },
-    {
       "name": "Schalke 04",
       "id": "133",
-      "rank": 13,
+      "rank": 12,
       "points": 5,
       "played": 4,
       "wins": 1,
@@ -354,6 +327,33 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 1.75,
+      "recent_matches": []
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "id": "125",
+      "rank": 13,
+      "points": 5,
+      "played": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 9,
+      "goals_against": 16,
+      "goal_diff": -7,
+      "avg_scored": 1.8,
+      "avg_conceded": 3.2,
+      "win_rate": 20.0,
+      "matches": [],
+      "home_avg_scored": 1.8,
+      "home_avg_conceded": 3.2,
+      "away_avg_scored": 1.8,
+      "away_avg_conceded": 3.2,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 5.0,
       "recent_matches": []
     },
     {
@@ -493,82 +493,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230287,
-      "home": "RB Leipzig",
-      "away": "Eintracht Frankfurt",
-      "date": "10.10.2026",
-      "time": "19:30",
-      "odds": "MS1: 1.25 | X: 6.25 | MS2: 8.50",
-      "odds_detail": {
-        "ms1": 1.25,
-        "x": 6.25,
-        "ms2": 8.5
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.5,
-        "x": 4.7,
-        "ms2": 5.1
-      },
-      "current_odds": {
-        "ms1": 1.25,
-        "x": 6.25,
-        "ms2": 8.5
-      },
-      "odds_change_pct": {
-        "ms1": -16.67,
-        "x": 32.98,
-        "ms2": 66.67
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-26T03:04:01.887737+03:00",
-          "ms1": 1.5,
-          "x": 4.7,
-          "ms2": 5.1
-        },
-        {
-          "timestamp": "2026-10-09T20:42:25.102944+03:00",
-          "ms1": 1.52,
-          "x": 4.75,
-          "ms2": 4.9
-        },
-        {
-          "timestamp": "2026-10-10T19:34:04.883519+03:00",
-          "ms1": 1.25,
-          "x": 6.25,
-          "ms2": 8.5
-        }
-      ],
-      "home_stats": {
-        "name": "RB Leipzig",
-        "home_avg_scored": 2.25,
-        "home_avg_conceded": 1.25,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.5,
-        "played": 4,
-        "rank": 9,
-        "points": 6,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Eintracht Frankfurt",
-        "away_avg_scored": 2.25,
-        "away_avg_conceded": 2.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.75,
-        "played": 4,
-        "rank": 12,
-        "points": 5,
-        "recent_matches": []
-      }
-    },
     {
       "league": "German Bundesliga",
       "event_id": 1028230319,
@@ -758,7 +682,7 @@
         "form": [],
         "recent_goals_avg": 1.75,
         "played": 4,
-        "rank": 13,
+        "rank": 12,
         "points": 5,
         "recent_matches": []
       }
@@ -808,14 +732,14 @@
       ],
       "home_stats": {
         "name": "Eintracht Frankfurt",
-        "home_avg_scored": 2.25,
-        "home_avg_conceded": 2.5,
+        "home_avg_scored": 1.8,
+        "home_avg_conceded": 3.2,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 4.75,
-        "played": 4,
-        "rank": 12,
+        "recent_goals_avg": 5.0,
+        "played": 5,
+        "rank": 13,
         "points": 5,
         "recent_matches": []
       },
@@ -1025,7 +949,7 @@
         "form": [],
         "recent_goals_avg": 1.75,
         "played": 4,
-        "rank": 13,
+        "rank": 12,
         "points": 5,
         "recent_matches": []
       },
@@ -1038,7 +962,7 @@
         "form": [],
         "recent_goals_avg": 4.6,
         "played": 5,
-        "rank": 7,
+        "rank": 8,
         "points": 7,
         "recent_matches": []
       }
@@ -1095,7 +1019,7 @@
         "form": [],
         "recent_goals_avg": 4.0,
         "played": 5,
-        "rank": 6,
+        "rank": 7,
         "points": 8,
         "recent_matches": []
       },
@@ -1165,7 +1089,7 @@
         "form": [],
         "recent_goals_avg": 3.2,
         "played": 5,
-        "rank": 8,
+        "rank": 9,
         "points": 7,
         "recent_matches": []
       },
@@ -1178,7 +1102,7 @@
         "form": [],
         "recent_goals_avg": 4.2,
         "played": 5,
-        "rank": 5,
+        "rank": 6,
         "points": 8,
         "recent_matches": []
       }
@@ -1247,15 +1171,15 @@
       },
       "away_stats": {
         "name": "RB Leipzig",
-        "away_avg_scored": 2.25,
-        "away_avg_conceded": 1.25,
+        "away_avg_scored": 3.0,
+        "away_avg_conceded": 1.0,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.5,
-        "played": 4,
-        "rank": 9,
-        "points": 6,
+        "recent_goals_avg": 4.0,
+        "played": 5,
+        "rank": 5,
+        "points": 9,
         "recent_matches": []
       }
     },

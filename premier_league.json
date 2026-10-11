@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-10T19:34:04.363339+03:00",
+  "last_updated": "2026-10-11T05:50:08.698072+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -306,27 +306,27 @@
       "name": "Manchester United",
       "id": "360",
       "rank": 12,
-      "points": 5,
-      "played": 5,
+      "points": 6,
+      "played": 6,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "losses": 2,
-      "goals_for": 8,
-      "goals_against": 8,
+      "goals_for": 9,
+      "goals_against": 9,
       "goal_diff": 0,
-      "avg_scored": 1.6,
-      "avg_conceded": 1.6,
-      "win_rate": 20.0,
+      "avg_scored": 1.5,
+      "avg_conceded": 1.5,
+      "win_rate": 16.7,
       "matches": [],
-      "home_avg_scored": 1.6,
-      "home_avg_conceded": 1.6,
-      "away_avg_scored": 1.6,
-      "away_avg_conceded": 1.6,
+      "home_avg_scored": 1.5,
+      "home_avg_conceded": 1.5,
+      "away_avg_scored": 1.5,
+      "away_avg_conceded": 1.5,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.2,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     },
     {
@@ -465,9 +465,36 @@
       "recent_matches": []
     },
     {
+      "name": "Tottenham Hotspur",
+      "id": "367",
+      "rank": 18,
+      "points": 3,
+      "played": 6,
+      "wins": 0,
+      "draws": 3,
+      "losses": 3,
+      "goals_for": 3,
+      "goals_against": 9,
+      "goal_diff": -6,
+      "avg_scored": 0.5,
+      "avg_conceded": 1.5,
+      "win_rate": 0.0,
+      "matches": [],
+      "home_avg_scored": 0.5,
+      "home_avg_conceded": 1.5,
+      "away_avg_scored": 0.5,
+      "away_avg_conceded": 1.5,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.0,
+      "recent_matches": []
+    },
+    {
       "name": "Coventry City",
       "id": "388",
-      "rank": 18,
+      "rank": 19,
       "points": 3,
       "played": 5,
       "wins": 1,
@@ -494,7 +521,7 @@
     {
       "name": "Fulham",
       "id": "370",
-      "rank": 19,
+      "rank": 20,
       "points": 2,
       "played": 6,
       "wins": 0,
@@ -517,148 +544,9 @@
       "form": [],
       "recent_goals_avg": 2.67,
       "recent_matches": []
-    },
-    {
-      "name": "Tottenham Hotspur",
-      "id": "367",
-      "rank": 20,
-      "points": 2,
-      "played": 5,
-      "wins": 0,
-      "draws": 2,
-      "losses": 3,
-      "goals_for": 2,
-      "goals_against": 8,
-      "goal_diff": -6,
-      "avg_scored": 0.4,
-      "avg_conceded": 1.6,
-      "win_rate": 0.0,
-      "matches": [],
-      "home_avg_scored": 0.4,
-      "home_avg_conceded": 1.6,
-      "away_avg_scored": 0.4,
-      "away_avg_conceded": 1.6,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.0,
-      "recent_matches": []
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "English Premier League",
-      "event_id": 1028072680,
-      "home": "Manchester United",
-      "away": "Tottenham Hotspur",
-      "date": "10.10.2026",
-      "time": "19:30",
-      "odds": "MS1: 1.68 | X: 3.95 | MS2: 4.40",
-      "odds_detail": {
-        "ms1": 1.68,
-        "x": 3.95,
-        "ms2": 4.4
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.72,
-        "x": 4.2,
-        "ms2": 4.5
-      },
-      "current_odds": {
-        "ms1": 1.68,
-        "x": 3.95,
-        "ms2": 4.4
-      },
-      "odds_change_pct": {
-        "ms1": -2.33,
-        "x": -5.95,
-        "ms2": -2.22
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-26T03:04:01.297422+03:00",
-          "ms1": 1.72,
-          "x": 4.2,
-          "ms2": 4.5
-        },
-        {
-          "timestamp": "2026-09-28T15:04:25.648437+03:00",
-          "ms1": 1.73,
-          "x": 4.2,
-          "ms2": 4.5
-        },
-        {
-          "timestamp": "2026-10-01T20:41:58.414670+03:00",
-          "ms1": 1.73,
-          "x": 4.25,
-          "ms2": 4.5
-        },
-        {
-          "timestamp": "2026-10-06T06:47:25.627879+03:00",
-          "ms1": 1.72,
-          "x": 4.1,
-          "ms2": 4.4
-        },
-        {
-          "timestamp": "2026-10-07T21:06:28.427664+03:00",
-          "ms1": 1.68,
-          "x": 4.2,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-10-08T21:08:42.972329+03:00",
-          "ms1": 1.67,
-          "x": 4.25,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-10-09T06:36:12.109205+03:00",
-          "ms1": 1.67,
-          "x": 4.3,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-10-09T20:42:24.261129+03:00",
-          "ms1": 1.67,
-          "x": 4.2,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-10-10T19:34:04.363339+03:00",
-          "ms1": 1.68,
-          "x": 3.95,
-          "ms2": 4.4
-        }
-      ],
-      "home_stats": {
-        "name": "Manchester United",
-        "home_avg_scored": 1.6,
-        "home_avg_conceded": 1.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.2,
-        "played": 5,
-        "rank": 12,
-        "points": 5,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Tottenham Hotspur",
-        "away_avg_scored": 0.4,
-        "away_avg_conceded": 1.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.0,
-        "played": 5,
-        "rank": 20,
-        "points": 2,
-        "recent_matches": []
-      }
-    },
     {
       "league": "English Premier League",
       "event_id": 1028072779,
@@ -666,11 +554,11 @@
       "away": "Nottingham Forest",
       "date": "11.10.2026",
       "time": "16:00",
-      "odds": "MS1: 2.70 | X: 3.35 | MS2: 2.60",
+      "odds": "MS1: 2.80 | X: 3.35 | MS2: 2.55",
       "odds_detail": {
-        "ms1": 2.7,
+        "ms1": 2.8,
         "x": 3.35,
-        "ms2": 2.6
+        "ms2": 2.55
       },
       "odds_available": true,
       "opening_odds": {
@@ -679,14 +567,14 @@
         "ms2": 2.7
       },
       "current_odds": {
-        "ms1": 2.7,
+        "ms1": 2.8,
         "x": 3.35,
-        "ms2": 2.6
+        "ms2": 2.55
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 3.7,
         "x": 0.0,
-        "ms2": -3.7
+        "ms2": -5.56
       },
       "odds_history": [
         {
@@ -724,6 +612,12 @@
           "ms1": 2.7,
           "x": 3.35,
           "ms2": 2.6
+        },
+        {
+          "timestamp": "2026-10-11T05:50:08.698072+03:00",
+          "ms1": 2.8,
+          "x": 3.35,
+          "ms2": 2.55
         }
       ],
       "home_stats": {
@@ -760,11 +654,11 @@
       "away": "Everton",
       "date": "11.10.2026",
       "time": "16:00",
-      "odds": "MS1: 3.70 | X: 3.35 | MS2: 2.07",
+      "odds": "MS1: 3.55 | X: 3.35 | MS2: 2.12",
       "odds_detail": {
-        "ms1": 3.7,
+        "ms1": 3.55,
         "x": 3.35,
-        "ms2": 2.07
+        "ms2": 2.12
       },
       "odds_available": true,
       "opening_odds": {
@@ -773,14 +667,14 @@
         "ms2": 2.1
       },
       "current_odds": {
-        "ms1": 3.7,
+        "ms1": 3.55,
         "x": 3.35,
-        "ms2": 2.07
+        "ms2": 2.12
       },
       "odds_change_pct": {
-        "ms1": -3.9,
+        "ms1": -7.79,
         "x": 1.52,
-        "ms2": -1.43
+        "ms2": 0.95
       },
       "odds_history": [
         {
@@ -824,6 +718,12 @@
           "ms1": 3.7,
           "x": 3.35,
           "ms2": 2.07
+        },
+        {
+          "timestamp": "2026-10-11T05:50:08.698072+03:00",
+          "ms1": 3.55,
+          "x": 3.35,
+          "ms2": 2.12
         }
       ],
       "home_stats": {
@@ -860,11 +760,11 @@
       "away": "Manchester City",
       "date": "11.10.2026",
       "time": "18:30",
-      "odds": "MS1: 3.00 | X: 3.70 | MS2: 2.23",
+      "odds": "MS1: 3.00 | X: 3.70 | MS2: 2.25",
       "odds_detail": {
         "ms1": 3.0,
         "x": 3.7,
-        "ms2": 2.23
+        "ms2": 2.25
       },
       "odds_available": true,
       "opening_odds": {
@@ -875,12 +775,12 @@
       "current_odds": {
         "ms1": 3.0,
         "x": 3.7,
-        "ms2": 2.23
+        "ms2": 2.25
       },
       "odds_change_pct": {
         "ms1": 13.21,
         "x": -2.63,
-        "ms2": -10.8
+        "ms2": -10.0
       },
       "odds_history": [
         {
@@ -936,6 +836,12 @@
           "ms1": 3.0,
           "x": 3.7,
           "ms2": 2.23
+        },
+        {
+          "timestamp": "2026-10-11T05:50:08.698072+03:00",
+          "ms1": 3.0,
+          "x": 3.7,
+          "ms2": 2.25
         }
       ],
       "home_stats": {
@@ -1035,7 +941,7 @@
         "form": [],
         "recent_goals_avg": 2.2,
         "played": 5,
-        "rank": 18,
+        "rank": 19,
         "points": 3,
         "recent_matches": []
       },
@@ -1357,7 +1263,7 @@
         "form": [],
         "recent_goals_avg": 2.67,
         "played": 6,
-        "rank": 19,
+        "rank": 20,
         "points": 2,
         "recent_matches": []
       },
@@ -1622,11 +1528,11 @@
       "away": "Manchester United",
       "date": "18.10.2026",
       "time": "16:00",
-      "odds": "MS1: 2.90 | X: 3.75 | MS2: 2.33",
+      "odds": "MS1: 2.65 | X: 3.75 | MS2: 2.55",
       "odds_detail": {
-        "ms1": 2.9,
+        "ms1": 2.65,
         "x": 3.75,
-        "ms2": 2.33
+        "ms2": 2.55
       },
       "odds_available": true,
       "opening_odds": {
@@ -1635,14 +1541,14 @@
         "ms2": 2.35
       },
       "current_odds": {
-        "ms1": 2.9,
+        "ms1": 2.65,
         "x": 3.75,
-        "ms2": 2.33
+        "ms2": 2.55
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -8.62,
         "x": 1.35,
-        "ms2": -0.85
+        "ms2": 8.51
       },
       "odds_history": [
         {
@@ -1662,6 +1568,12 @@
           "ms1": 2.9,
           "x": 3.75,
           "ms2": 2.33
+        },
+        {
+          "timestamp": "2026-10-11T05:50:08.698072+03:00",
+          "ms1": 2.65,
+          "x": 3.75,
+          "ms2": 2.55
         }
       ],
       "home_stats": {
@@ -1679,15 +1591,15 @@
       },
       "away_stats": {
         "name": "Manchester United",
-        "away_avg_scored": 1.6,
-        "away_avg_conceded": 1.6,
+        "away_avg_scored": 1.5,
+        "away_avg_conceded": 1.5,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.2,
-        "played": 5,
+        "recent_goals_avg": 3.0,
+        "played": 6,
         "rank": 12,
-        "points": 5,
+        "points": 6,
         "recent_matches": []
       }
     },
@@ -1812,15 +1724,15 @@
       ],
       "home_stats": {
         "name": "Tottenham Hotspur",
-        "home_avg_scored": 0.4,
-        "home_avg_conceded": 1.6,
+        "home_avg_scored": 0.5,
+        "home_avg_conceded": 1.5,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
         "recent_goals_avg": 2.0,
-        "played": 5,
-        "rank": 20,
-        "points": 2,
+        "played": 6,
+        "rank": 18,
+        "points": 3,
         "recent_matches": []
       },
       "away_stats": {
@@ -1832,7 +1744,7 @@
         "form": [],
         "recent_goals_avg": 2.2,
         "played": 5,
-        "rank": 18,
+        "rank": 19,
         "points": 3,
         "recent_matches": []
       }
