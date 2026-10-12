@@ -2,34 +2,34 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-11T19:59:13.650031+03:00",
+  "last_updated": "2026-10-12T06:13:27.100238+03:00",
   "total_teams": 20,
   "teams": [
     {
       "name": "Manchester City",
       "id": "382",
       "rank": 1,
-      "points": 15,
-      "played": 5,
-      "wins": 5,
+      "points": 18,
+      "played": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
-      "goals_for": 13,
+      "goals_for": 16,
       "goals_against": 5,
-      "goal_diff": 8,
-      "avg_scored": 2.6,
-      "avg_conceded": 1.0,
+      "goal_diff": 11,
+      "avg_scored": 2.67,
+      "avg_conceded": 0.83,
       "win_rate": 100.0,
       "matches": [],
-      "home_avg_scored": 2.6,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 2.6,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 2.67,
+      "home_avg_conceded": 0.83,
+      "away_avg_scored": 2.67,
+      "away_avg_conceded": 0.83,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.6,
+      "recent_goals_avg": 3.5,
       "recent_matches": []
     },
     {
@@ -195,36 +195,9 @@
       "recent_matches": []
     },
     {
-      "name": "Liverpool",
-      "id": "364",
-      "rank": 8,
-      "points": 9,
-      "played": 5,
-      "wins": 2,
-      "draws": 3,
-      "losses": 0,
-      "goals_for": 7,
-      "goals_against": 4,
-      "goal_diff": 3,
-      "avg_scored": 1.4,
-      "avg_conceded": 0.8,
-      "win_rate": 40.0,
-      "matches": [],
-      "home_avg_scored": 1.4,
-      "home_avg_conceded": 0.8,
-      "away_avg_scored": 1.4,
-      "away_avg_conceded": 0.8,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.2,
-      "recent_matches": []
-    },
-    {
       "name": "Hull City",
       "id": "306",
-      "rank": 9,
+      "rank": 8,
       "points": 9,
       "played": 6,
       "wins": 2,
@@ -246,6 +219,33 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.33,
+      "recent_matches": []
+    },
+    {
+      "name": "Liverpool",
+      "id": "364",
+      "rank": 9,
+      "points": 9,
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 7,
+      "goals_against": 7,
+      "goal_diff": 0,
+      "avg_scored": 1.17,
+      "avg_conceded": 1.17,
+      "win_rate": 33.3,
+      "matches": [],
+      "home_avg_scored": 1.17,
+      "home_avg_conceded": 1.17,
+      "away_avg_scored": 1.17,
+      "away_avg_conceded": 1.17,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.34,
       "recent_matches": []
     },
     {
@@ -549,134 +549,16 @@
   "upcoming_matches": [
     {
       "league": "English Premier League",
-      "event_id": 1028072675,
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "11.10.2026",
-      "time": "18:31",
-      "odds": "Oran yok",
-      "odds_detail": {
-        "ms1": 181.0,
-        "x": 34.0,
-        "ms2": null
-      },
-      "odds_available": false,
-      "opening_odds": {
-        "ms1": 2.65,
-        "x": 3.8,
-        "ms2": 2.5
-      },
-      "current_odds": {
-        "ms1": 181.0,
-        "x": 34.0,
-        "ms2": null
-      },
-      "odds_change_pct": {
-        "ms1": 6730.19,
-        "x": 794.74,
-        "ms2": null
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-27T03:04:58.992514+03:00",
-          "ms1": 2.65,
-          "x": 3.8,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-10-03T18:23:49.680018+03:00",
-          "ms1": 2.63,
-          "x": 3.85,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-10-05T05:58:13.883217+03:00",
-          "ms1": 2.65,
-          "x": 3.8,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-10-06T06:47:25.627879+03:00",
-          "ms1": 2.6,
-          "x": 3.8,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-10-06T20:35:02.869640+03:00",
-          "ms1": 2.63,
-          "x": 3.8,
-          "ms2": 2.48
-        },
-        {
-          "timestamp": "2026-10-07T21:06:28.427664+03:00",
-          "ms1": 2.65,
-          "x": 3.75,
-          "ms2": 2.48
-        },
-        {
-          "timestamp": "2026-10-08T21:08:42.972329+03:00",
-          "ms1": 2.6,
-          "x": 3.8,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-10-09T20:42:24.261129+03:00",
-          "ms1": 2.95,
-          "x": 3.65,
-          "ms2": 2.28
-        },
-        {
-          "timestamp": "2026-10-10T19:34:04.363339+03:00",
-          "ms1": 3.0,
-          "x": 3.7,
-          "ms2": 2.23
-        },
-        {
-          "timestamp": "2026-10-11T05:50:08.698072+03:00",
-          "ms1": 3.0,
-          "x": 3.7,
-          "ms2": 2.25
-        }
-      ],
-      "home_stats": {
-        "name": "Liverpool",
-        "home_avg_scored": 1.4,
-        "home_avg_conceded": 0.8,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.2,
-        "played": 5,
-        "rank": 8,
-        "points": 9,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Manchester City",
-        "away_avg_scored": 2.6,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.6,
-        "played": 5,
-        "rank": 1,
-        "points": 15,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072798,
       "home": "Coventry City",
       "away": "Newcastle United",
       "date": "12.10.2026",
       "time": "22:00",
-      "odds": "MS1: 3.15 | X: 3.65 | MS2: 2.18",
+      "odds": "MS1: 3.30 | X: 3.60 | MS2: 2.12",
       "odds_detail": {
-        "ms1": 3.15,
-        "x": 3.65,
-        "ms2": 2.18
+        "ms1": 3.3,
+        "x": 3.6,
+        "ms2": 2.12
       },
       "odds_available": true,
       "opening_odds": {
@@ -685,14 +567,14 @@
         "ms2": 2.17
       },
       "current_odds": {
-        "ms1": 3.15,
-        "x": 3.65,
-        "ms2": 2.18
+        "ms1": 3.3,
+        "x": 3.6,
+        "ms2": 2.12
       },
       "odds_change_pct": {
-        "ms1": -3.08,
-        "x": -2.67,
-        "ms2": 0.46
+        "ms1": 1.54,
+        "x": -4.0,
+        "ms2": -2.3
       },
       "odds_history": [
         {
@@ -730,6 +612,12 @@
           "ms1": 3.15,
           "x": 3.65,
           "ms2": 2.18
+        },
+        {
+          "timestamp": "2026-10-12T06:13:27.100238+03:00",
+          "ms1": 3.3,
+          "x": 3.6,
+          "ms2": 2.12
         }
       ],
       "home_stats": {
@@ -848,11 +736,11 @@
       "away": "Liverpool",
       "date": "17.10.2026",
       "time": "17:00",
-      "odds": "MS1: 2.70 | X: 3.75 | MS2: 2.48",
+      "odds": "MS1: 2.50 | X: 3.80 | MS2: 2.63",
       "odds_detail": {
-        "ms1": 2.7,
-        "x": 3.75,
-        "ms2": 2.48
+        "ms1": 2.5,
+        "x": 3.8,
+        "ms2": 2.63
       },
       "odds_available": true,
       "opening_odds": {
@@ -861,14 +749,14 @@
         "ms2": 2.48
       },
       "current_odds": {
-        "ms1": 2.7,
-        "x": 3.75,
-        "ms2": 2.48
+        "ms1": 2.5,
+        "x": 3.8,
+        "ms2": 2.63
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": -2.6,
-        "ms2": 0.0
+        "ms1": -7.41,
+        "x": -1.3,
+        "ms2": 6.05
       },
       "odds_history": [
         {
@@ -900,6 +788,12 @@
           "ms1": 2.7,
           "x": 3.75,
           "ms2": 2.48
+        },
+        {
+          "timestamp": "2026-10-12T06:13:27.100238+03:00",
+          "ms1": 2.5,
+          "x": 3.8,
+          "ms2": 2.63
         }
       ],
       "home_stats": {
@@ -917,14 +811,14 @@
       },
       "away_stats": {
         "name": "Liverpool",
-        "away_avg_scored": 1.4,
-        "away_avg_conceded": 0.8,
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 1.17,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.2,
-        "played": 5,
-        "rank": 8,
+        "recent_goals_avg": 2.34,
+        "played": 6,
+        "rank": 9,
         "points": 9,
         "recent_matches": []
       }
@@ -986,15 +880,15 @@
       ],
       "home_stats": {
         "name": "Manchester City",
-        "home_avg_scored": 2.6,
-        "home_avg_conceded": 1.0,
+        "home_avg_scored": 2.67,
+        "home_avg_conceded": 0.83,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.6,
-        "played": 5,
+        "recent_goals_avg": 3.5,
+        "played": 6,
         "rank": 1,
-        "points": 15,
+        "points": 18,
         "recent_matches": []
       },
       "away_stats": {
@@ -1088,7 +982,7 @@
         "form": [],
         "recent_goals_avg": 2.33,
         "played": 6,
-        "rank": 9,
+        "rank": 8,
         "points": 9,
         "recent_matches": []
       }
@@ -1166,6 +1060,88 @@
         "played": 6,
         "rank": 15,
         "points": 5,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072684,
+      "home": "AFC Bournemouth",
+      "away": "Sunderland",
+      "date": "18.10.2026",
+      "time": "16:00",
+      "odds": "MS1: 2.02 | X: 3.70 | MS2: 3.70",
+      "odds_detail": {
+        "ms1": 2.02,
+        "x": 3.7,
+        "ms2": 3.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.0,
+        "x": 3.7,
+        "ms2": 3.7
+      },
+      "current_odds": {
+        "ms1": 2.02,
+        "x": 3.7,
+        "ms2": 3.7
+      },
+      "odds_change_pct": {
+        "ms1": 1.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-04T06:21:22.446769+03:00",
+          "ms1": 2.0,
+          "x": 3.7,
+          "ms2": 3.7
+        },
+        {
+          "timestamp": "2026-10-06T06:47:25.627879+03:00",
+          "ms1": 2.0,
+          "x": 3.7,
+          "ms2": 3.75
+        },
+        {
+          "timestamp": "2026-10-07T21:06:28.427664+03:00",
+          "ms1": 2.0,
+          "x": 3.7,
+          "ms2": 3.7
+        },
+        {
+          "timestamp": "2026-10-09T20:42:24.261129+03:00",
+          "ms1": 2.02,
+          "x": 3.7,
+          "ms2": 3.7
+        }
+      ],
+      "home_stats": {
+        "name": "AFC Bournemouth",
+        "home_avg_scored": 1.17,
+        "home_avg_conceded": 2.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.34,
+        "played": 6,
+        "rank": 17,
+        "points": 3,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Sunderland",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 6,
+        "rank": 16,
+        "points": 4,
         "recent_matches": []
       }
     },
@@ -1347,88 +1323,6 @@
     },
     {
       "league": "English Premier League",
-      "event_id": 1028072684,
-      "home": "AFC Bournemouth",
-      "away": "Sunderland",
-      "date": "18.10.2026",
-      "time": "16:00",
-      "odds": "MS1: 2.02 | X: 3.70 | MS2: 3.70",
-      "odds_detail": {
-        "ms1": 2.02,
-        "x": 3.7,
-        "ms2": 3.7
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.0,
-        "x": 3.7,
-        "ms2": 3.7
-      },
-      "current_odds": {
-        "ms1": 2.02,
-        "x": 3.7,
-        "ms2": 3.7
-      },
-      "odds_change_pct": {
-        "ms1": 1.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-04T06:21:22.446769+03:00",
-          "ms1": 2.0,
-          "x": 3.7,
-          "ms2": 3.7
-        },
-        {
-          "timestamp": "2026-10-06T06:47:25.627879+03:00",
-          "ms1": 2.0,
-          "x": 3.7,
-          "ms2": 3.75
-        },
-        {
-          "timestamp": "2026-10-07T21:06:28.427664+03:00",
-          "ms1": 2.0,
-          "x": 3.7,
-          "ms2": 3.7
-        },
-        {
-          "timestamp": "2026-10-09T20:42:24.261129+03:00",
-          "ms1": 2.02,
-          "x": 3.7,
-          "ms2": 3.7
-        }
-      ],
-      "home_stats": {
-        "name": "AFC Bournemouth",
-        "home_avg_scored": 1.17,
-        "home_avg_conceded": 2.17,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.34,
-        "played": 6,
-        "rank": 17,
-        "points": 3,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Sunderland",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 6,
-        "rank": 16,
-        "points": 4,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072705,
       "home": "Nottingham Forest",
       "away": "Arsenal",
@@ -1504,11 +1398,11 @@
       "away": "Coventry City",
       "date": "19.10.2026",
       "time": "22:00",
-      "odds": "MS1: 1.52 | X: 4.40 | MS2: 6.40",
+      "odds": "MS1: 1.50 | X: 4.50 | MS2: 6.75",
       "odds_detail": {
-        "ms1": 1.52,
-        "x": 4.4,
-        "ms2": 6.4
+        "ms1": 1.5,
+        "x": 4.5,
+        "ms2": 6.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -1517,14 +1411,14 @@
         "ms2": 6.4
       },
       "current_odds": {
-        "ms1": 1.52,
-        "x": 4.4,
-        "ms2": 6.4
+        "ms1": 1.5,
+        "x": 4.5,
+        "ms2": 6.75
       },
       "odds_change_pct": {
-        "ms1": 1.33,
-        "x": -4.35,
-        "ms2": 0.0
+        "ms1": 0.0,
+        "x": -2.17,
+        "ms2": 5.47
       },
       "odds_history": [
         {
@@ -1550,6 +1444,12 @@
           "ms1": 1.52,
           "x": 4.4,
           "ms2": 6.4
+        },
+        {
+          "timestamp": "2026-10-12T06:13:27.100238+03:00",
+          "ms1": 1.5,
+          "x": 4.5,
+          "ms2": 6.75
         }
       ],
       "home_stats": {

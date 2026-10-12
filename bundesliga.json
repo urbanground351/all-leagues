@@ -2,13 +2,40 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-11T19:59:14.174943+03:00",
+  "last_updated": "2026-10-12T06:13:27.617092+03:00",
   "total_teams": 18,
   "teams": [
     {
+      "name": "SC Freiburg",
+      "id": "126",
+      "rank": 1,
+      "points": 13,
+      "played": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 14,
+      "goals_against": 4,
+      "goal_diff": 10,
+      "avg_scored": 2.8,
+      "avg_conceded": 0.8,
+      "win_rate": 80.0,
+      "matches": [],
+      "home_avg_scored": 2.8,
+      "home_avg_conceded": 0.8,
+      "away_avg_scored": 2.8,
+      "away_avg_conceded": 0.8,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.6,
+      "recent_matches": []
+    },
+    {
       "name": "Borussia Dortmund",
       "id": "124",
-      "rank": 1,
+      "rank": 2,
       "points": 13,
       "played": 5,
       "wins": 4,
@@ -35,7 +62,7 @@
     {
       "name": "Bayern Munich",
       "id": "132",
-      "rank": 2,
+      "rank": 3,
       "points": 11,
       "played": 5,
       "wins": 3,
@@ -57,33 +84,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 4.0,
-      "recent_matches": []
-    },
-    {
-      "name": "SC Freiburg",
-      "id": "126",
-      "rank": 3,
-      "points": 10,
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "losses": 0,
-      "goals_for": 12,
-      "goals_against": 3,
-      "goal_diff": 9,
-      "avg_scored": 3.0,
-      "avg_conceded": 0.75,
-      "win_rate": 75.0,
-      "matches": [],
-      "home_avg_scored": 3.0,
-      "home_avg_conceded": 0.75,
-      "away_avg_scored": 3.0,
-      "away_avg_conceded": 0.75,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.75,
       "recent_matches": []
     },
     {
@@ -334,26 +334,26 @@
       "id": "133",
       "rank": 13,
       "points": 5,
-      "played": 4,
+      "played": 5,
       "wins": 1,
       "draws": 2,
-      "losses": 1,
-      "goals_for": 3,
-      "goals_against": 4,
-      "goal_diff": -1,
-      "avg_scored": 0.75,
-      "avg_conceded": 1.0,
-      "win_rate": 25.0,
+      "losses": 2,
+      "goals_for": 4,
+      "goals_against": 6,
+      "goal_diff": -2,
+      "avg_scored": 0.8,
+      "avg_conceded": 1.2,
+      "win_rate": 20.0,
       "matches": [],
-      "home_avg_scored": 0.75,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 0.75,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 0.8,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 0.8,
+      "away_avg_conceded": 1.2,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 1.75,
+      "recent_goals_avg": 2.0,
       "recent_matches": []
     },
     {
@@ -495,100 +495,6 @@
   "upcoming_matches": [
     {
       "league": "German Bundesliga",
-      "event_id": 1028230305,
-      "home": "SC Freiburg",
-      "away": "Schalke 04",
-      "date": "11.10.2026",
-      "time": "18:29",
-      "odds": "MS1: 4.00 | X: 1.84 | MS2: 3.45",
-      "odds_detail": {
-        "ms1": 4.0,
-        "x": 1.84,
-        "ms2": 3.45
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.6,
-        "x": 4.1,
-        "ms2": 5.0
-      },
-      "current_odds": {
-        "ms1": 4.0,
-        "x": 1.84,
-        "ms2": 3.45
-      },
-      "odds_change_pct": {
-        "ms1": 150.0,
-        "x": -55.12,
-        "ms2": -31.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-27T03:04:59.742810+03:00",
-          "ms1": 1.6,
-          "x": 4.1,
-          "ms2": 5.0
-        },
-        {
-          "timestamp": "2026-10-07T21:06:29.171292+03:00",
-          "ms1": 1.6,
-          "x": 4.25,
-          "ms2": 4.8
-        },
-        {
-          "timestamp": "2026-10-08T06:30:41.581336+03:00",
-          "ms1": 1.62,
-          "x": 4.2,
-          "ms2": 4.7
-        },
-        {
-          "timestamp": "2026-10-09T20:42:25.102944+03:00",
-          "ms1": 1.58,
-          "x": 3.95,
-          "ms2": 5.3
-        },
-        {
-          "timestamp": "2026-10-10T19:34:04.883519+03:00",
-          "ms1": 1.6,
-          "x": 3.85,
-          "ms2": 5.3
-        },
-        {
-          "timestamp": "2026-10-11T19:59:14.174943+03:00",
-          "ms1": 4.0,
-          "x": 1.84,
-          "ms2": 3.45
-        }
-      ],
-      "home_stats": {
-        "name": "SC Freiburg",
-        "home_avg_scored": 3.0,
-        "home_avg_conceded": 0.75,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.75,
-        "played": 4,
-        "rank": 3,
-        "points": 10,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Schalke 04",
-        "away_avg_scored": 0.75,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 1.75,
-        "played": 4,
-        "rank": 13,
-        "points": 5,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230634,
       "home": "Eintracht Frankfurt",
       "away": "FC Cologne",
@@ -716,7 +622,7 @@
         "form": [],
         "recent_goals_avg": 3.0,
         "played": 5,
-        "rank": 1,
+        "rank": 2,
         "points": 13,
         "recent_matches": []
       }
@@ -842,13 +748,13 @@
       ],
       "home_stats": {
         "name": "Schalke 04",
-        "home_avg_scored": 0.75,
-        "home_avg_conceded": 1.0,
+        "home_avg_scored": 0.8,
+        "home_avg_conceded": 1.2,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 1.75,
-        "played": 4,
+        "recent_goals_avg": 2.0,
+        "played": 5,
         "rank": 13,
         "points": 5,
         "recent_matches": []
@@ -1065,7 +971,7 @@
         "form": [],
         "recent_goals_avg": 4.0,
         "played": 5,
-        "rank": 2,
+        "rank": 3,
         "points": 11,
         "recent_matches": []
       },
@@ -1141,15 +1047,15 @@
       },
       "away_stats": {
         "name": "SC Freiburg",
-        "away_avg_scored": 3.0,
-        "away_avg_conceded": 0.75,
+        "away_avg_scored": 2.8,
+        "away_avg_conceded": 0.8,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.75,
-        "played": 4,
-        "rank": 3,
-        "points": 10,
+        "recent_goals_avg": 3.6,
+        "played": 5,
+        "rank": 1,
+        "points": 13,
         "recent_matches": []
       }
     },
