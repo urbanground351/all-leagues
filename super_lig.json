@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-12T23:34:36.127495+03:00",
+  "last_updated": "2026-10-13T07:29:00.215331+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -576,11 +576,11 @@
       "away": "Eyupspor",
       "date": "17.10.2026",
       "time": "13:30",
-      "odds": "MS1: 1.73 | X: 3.55 | MS2: 4.80",
+      "odds": "MS1: 1.65 | X: 3.70 | MS2: 5.40",
       "odds_detail": {
-        "ms1": 1.73,
-        "x": 3.55,
-        "ms2": 4.8
+        "ms1": 1.65,
+        "x": 3.7,
+        "ms2": 5.4
       },
       "odds_available": true,
       "opening_odds": {
@@ -589,14 +589,14 @@
         "ms2": 3.75
       },
       "current_odds": {
-        "ms1": 1.73,
-        "x": 3.55,
-        "ms2": 4.8
+        "ms1": 1.65,
+        "x": 3.7,
+        "ms2": 5.4
       },
       "odds_change_pct": {
-        "ms1": -15.2,
-        "x": 9.23,
-        "ms2": 28.0
+        "ms1": -19.12,
+        "x": 13.85,
+        "ms2": 44.0
       },
       "odds_history": [
         {
@@ -610,6 +610,12 @@
           "ms1": 1.73,
           "x": 3.55,
           "ms2": 4.8
+        },
+        {
+          "timestamp": "2026-10-13T07:29:00.215331+03:00",
+          "ms1": 1.65,
+          "x": 3.7,
+          "ms2": 5.4
         }
       ],
       "home_stats": {

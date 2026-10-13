@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-12T23:34:37.260015+03:00",
+  "last_updated": "2026-10-13T07:29:01.277329+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -117,27 +117,27 @@
       "name": "Sevilla",
       "id": "243",
       "rank": 5,
-      "points": 13,
-      "played": 7,
+      "points": 14,
+      "played": 8,
       "wins": 4,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
-      "goals_for": 10,
-      "goals_against": 9,
+      "goals_for": 13,
+      "goals_against": 12,
       "goal_diff": 1,
-      "avg_scored": 1.43,
-      "avg_conceded": 1.29,
-      "win_rate": 57.1,
+      "avg_scored": 1.62,
+      "avg_conceded": 1.5,
+      "win_rate": 50.0,
       "matches": [],
-      "home_avg_scored": 1.43,
-      "home_avg_conceded": 1.29,
-      "away_avg_scored": 1.43,
-      "away_avg_conceded": 1.29,
+      "home_avg_scored": 1.62,
+      "home_avg_conceded": 1.5,
+      "away_avg_scored": 1.62,
+      "away_avg_conceded": 1.5,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.72,
+      "recent_goals_avg": 3.12,
       "recent_matches": []
     },
     {
@@ -438,9 +438,36 @@
       "recent_matches": []
     },
     {
+      "name": "Levante",
+      "id": "1538",
+      "rank": 17,
+      "points": 6,
+      "played": 7,
+      "wins": 1,
+      "draws": 3,
+      "losses": 3,
+      "goals_for": 11,
+      "goals_against": 15,
+      "goal_diff": -4,
+      "avg_scored": 1.57,
+      "avg_conceded": 2.14,
+      "win_rate": 14.3,
+      "matches": [],
+      "home_avg_scored": 1.57,
+      "home_avg_conceded": 2.14,
+      "away_avg_scored": 1.57,
+      "away_avg_conceded": 2.14,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.71,
+      "recent_matches": []
+    },
+    {
       "name": "Elche",
       "id": "3751",
-      "rank": 17,
+      "rank": 18,
       "points": 6,
       "played": 8,
       "wins": 1,
@@ -462,33 +489,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.5,
-      "recent_matches": []
-    },
-    {
-      "name": "Levante",
-      "id": "1538",
-      "rank": 18,
-      "points": 5,
-      "played": 6,
-      "wins": 1,
-      "draws": 2,
-      "losses": 3,
-      "goals_for": 8,
-      "goals_against": 12,
-      "goal_diff": -4,
-      "avg_scored": 1.33,
-      "avg_conceded": 2.0,
-      "win_rate": 16.7,
-      "matches": [],
-      "home_avg_scored": 1.33,
-      "home_avg_conceded": 2.0,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.33,
       "recent_matches": []
     },
     {
@@ -547,118 +547,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028209241,
-      "home": "Levante",
-      "away": "Sevilla",
-      "date": "12.10.2026",
-      "time": "22:02",
-      "odds": "MS1: 25.00 | X: 5.10 | MS2: 1.20",
-      "odds_detail": {
-        "ms1": 25.0,
-        "x": 5.1,
-        "ms2": 1.2
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.63,
-        "x": 3.3,
-        "ms2": 2.8
-      },
-      "current_odds": {
-        "ms1": 25.0,
-        "x": 5.1,
-        "ms2": 1.2
-      },
-      "odds_change_pct": {
-        "ms1": 850.57,
-        "x": 54.55,
-        "ms2": -57.14
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-09-28T03:04:49.207595+03:00",
-          "ms1": 2.63,
-          "x": 3.3,
-          "ms2": 2.8
-        },
-        {
-          "timestamp": "2026-09-29T20:14:22.434118+03:00",
-          "ms1": 2.63,
-          "x": 3.25,
-          "ms2": 2.75
-        },
-        {
-          "timestamp": "2026-09-30T20:12:29.788874+03:00",
-          "ms1": 2.65,
-          "x": 3.35,
-          "ms2": 2.75
-        },
-        {
-          "timestamp": "2026-10-07T21:06:28.822088+03:00",
-          "ms1": 2.63,
-          "x": 3.25,
-          "ms2": 2.7
-        },
-        {
-          "timestamp": "2026-10-08T06:30:41.326867+03:00",
-          "ms1": 2.6,
-          "x": 3.25,
-          "ms2": 2.75
-        },
-        {
-          "timestamp": "2026-10-09T20:42:24.671362+03:00",
-          "ms1": 2.7,
-          "x": 3.25,
-          "ms2": 2.65
-        },
-        {
-          "timestamp": "2026-10-11T05:50:08.969229+03:00",
-          "ms1": 2.7,
-          "x": 3.3,
-          "ms2": 2.63
-        },
-        {
-          "timestamp": "2026-10-12T06:13:27.343119+03:00",
-          "ms1": 2.7,
-          "x": 3.25,
-          "ms2": 2.63
-        },
-        {
-          "timestamp": "2026-10-12T23:34:37.260015+03:00",
-          "ms1": 25.0,
-          "x": 5.1,
-          "ms2": 1.2
-        }
-      ],
-      "home_stats": {
-        "name": "Levante",
-        "home_avg_scored": 1.33,
-        "home_avg_conceded": 2.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 6,
-        "rank": 18,
-        "points": 5,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Sevilla",
-        "away_avg_scored": 1.43,
-        "away_avg_conceded": 1.29,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.72,
-        "played": 7,
-        "rank": 5,
-        "points": 13,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Spanish LALIGA",
       "event_id": 1028209215,
@@ -729,15 +617,15 @@
       },
       "away_stats": {
         "name": "Levante",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 2.0,
+        "away_avg_scored": 1.57,
+        "away_avg_conceded": 2.14,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 6,
-        "rank": 18,
-        "points": 5,
+        "recent_goals_avg": 3.71,
+        "played": 7,
+        "rank": 17,
+        "points": 6,
         "recent_matches": []
       }
     },
@@ -888,7 +776,7 @@
         "form": [],
         "recent_goals_avg": 3.5,
         "played": 8,
-        "rank": 17,
+        "rank": 18,
         "points": 6,
         "recent_matches": []
       }
@@ -1403,15 +1291,15 @@
       },
       "away_stats": {
         "name": "Sevilla",
-        "away_avg_scored": 1.43,
-        "away_avg_conceded": 1.29,
+        "away_avg_scored": 1.62,
+        "away_avg_conceded": 1.5,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.72,
-        "played": 7,
+        "recent_goals_avg": 3.12,
+        "played": 8,
         "rank": 5,
-        "points": 13,
+        "points": 14,
         "recent_matches": []
       }
     },
@@ -1524,15 +1412,15 @@
       ],
       "home_stats": {
         "name": "Levante",
-        "home_avg_scored": 1.33,
-        "home_avg_conceded": 2.0,
+        "home_avg_scored": 1.57,
+        "home_avg_conceded": 2.14,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 6,
-        "rank": 18,
-        "points": 5,
+        "recent_goals_avg": 3.71,
+        "played": 7,
+        "rank": 17,
+        "points": 6,
         "recent_matches": []
       },
       "away_stats": {
@@ -1672,7 +1560,7 @@
         "form": [],
         "recent_goals_avg": 3.5,
         "played": 8,
-        "rank": 17,
+        "rank": 18,
         "points": 6,
         "recent_matches": []
       }
@@ -2049,15 +1937,15 @@
       },
       "away_stats": {
         "name": "Levante",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 2.0,
+        "away_avg_scored": 1.57,
+        "away_avg_conceded": 2.14,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 6,
-        "rank": 18,
-        "points": 5,
+        "recent_goals_avg": 3.71,
+        "played": 7,
+        "rank": 17,
+        "points": 6,
         "recent_matches": []
       }
     },
@@ -2164,15 +2052,15 @@
       ],
       "home_stats": {
         "name": "Sevilla",
-        "home_avg_scored": 1.43,
-        "home_avg_conceded": 1.29,
+        "home_avg_scored": 1.62,
+        "home_avg_conceded": 1.5,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.72,
-        "played": 7,
+        "recent_goals_avg": 3.12,
+        "played": 8,
         "rank": 5,
-        "points": 13,
+        "points": 14,
         "recent_matches": []
       },
       "away_stats": {
