@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-14T05:38:41.030515+03:00",
+  "last_updated": "2026-10-14T19:09:01.350784+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -926,11 +926,11 @@
       "away": "Goztepe",
       "date": "18.10.2026",
       "time": "16:00",
-      "odds": "MS1: 2.70 | X: 3.20 | MS2: 2.60",
+      "odds": "MS1: 2.80 | X: 3.20 | MS2: 2.50",
       "odds_detail": {
-        "ms1": 2.7,
+        "ms1": 2.8,
         "x": 3.2,
-        "ms2": 2.6
+        "ms2": 2.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -939,14 +939,14 @@
         "ms2": 2.88
       },
       "current_odds": {
-        "ms1": 2.7,
+        "ms1": 2.8,
         "x": 3.2,
-        "ms2": 2.6
+        "ms2": 2.5
       },
       "odds_change_pct": {
-        "ms1": 8.0,
+        "ms1": 12.0,
         "x": 1.59,
-        "ms2": -9.72
+        "ms2": -13.19
       },
       "odds_history": [
         {
@@ -972,6 +972,12 @@
           "ms1": 2.7,
           "x": 3.2,
           "ms2": 2.6
+        },
+        {
+          "timestamp": "2026-10-14T19:09:01.350784+03:00",
+          "ms1": 2.8,
+          "x": 3.2,
+          "ms2": 2.5
         }
       ],
       "home_stats": {
