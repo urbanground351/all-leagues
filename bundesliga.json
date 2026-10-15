@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-14T19:09:02.550500+03:00",
+  "last_updated": "2026-10-15T05:18:49.998410+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -658,11 +658,11 @@
       "away": "VfB Stuttgart",
       "date": "17.10.2026",
       "time": "16:30",
-      "odds": "MS1: 4.00 | X: 4.20 | MS2: 1.71",
+      "odds": "MS1: 3.95 | X: 4.10 | MS2: 1.74",
       "odds_detail": {
-        "ms1": 4.0,
-        "x": 4.2,
-        "ms2": 1.71
+        "ms1": 3.95,
+        "x": 4.1,
+        "ms2": 1.74
       },
       "odds_available": true,
       "opening_odds": {
@@ -671,14 +671,14 @@
         "ms2": 1.71
       },
       "current_odds": {
-        "ms1": 4.0,
-        "x": 4.2,
-        "ms2": 1.71
+        "ms1": 3.95,
+        "x": 4.1,
+        "ms2": 1.74
       },
       "odds_change_pct": {
-        "ms1": -2.44,
-        "x": 2.44,
-        "ms2": 0.0
+        "ms1": -3.66,
+        "x": 0.0,
+        "ms2": 1.75
       },
       "odds_history": [
         {
@@ -698,6 +698,12 @@
           "ms1": 4.0,
           "x": 4.2,
           "ms2": 1.71
+        },
+        {
+          "timestamp": "2026-10-15T05:18:49.998410+03:00",
+          "ms1": 3.95,
+          "x": 4.1,
+          "ms2": 1.74
         }
       ],
       "home_stats": {
@@ -1470,11 +1476,11 @@
       "away": "1. FC Union Berlin",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.72 | X: 4.10 | MS2: 4.10",
+      "odds": "MS1: 1.75 | X: 4.00 | MS2: 4.00",
       "odds_detail": {
-        "ms1": 1.72,
-        "x": 4.1,
-        "ms2": 4.1
+        "ms1": 1.75,
+        "x": 4.0,
+        "ms2": 4.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1483,14 +1489,14 @@
         "ms2": 4.1
       },
       "current_odds": {
-        "ms1": 1.72,
-        "x": 4.1,
-        "ms2": 4.1
+        "ms1": 1.75,
+        "x": 4.0,
+        "ms2": 4.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 1.74,
+        "x": -2.44,
+        "ms2": -2.44
       },
       "odds_history": [
         {
@@ -1498,6 +1504,12 @@
           "ms1": 1.72,
           "x": 4.1,
           "ms2": 4.1
+        },
+        {
+          "timestamp": "2026-10-15T05:18:49.998410+03:00",
+          "ms1": 1.75,
+          "x": 4.0,
+          "ms2": 4.0
         }
       ],
       "home_stats": {
@@ -1588,6 +1600,70 @@
         "played": 5,
         "rank": 9,
         "points": 7,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230642,
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "date": "24.10.2026",
+      "time": "19:30",
+      "odds": "MS1: 1.45 | X: 4.80 | MS2: 5.80",
+      "odds_detail": {
+        "ms1": 1.45,
+        "x": 4.8,
+        "ms2": 5.8
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.45,
+        "x": 4.8,
+        "ms2": 5.8
+      },
+      "current_odds": {
+        "ms1": 1.45,
+        "x": 4.8,
+        "ms2": 5.8
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-15T05:18:49.998410+03:00",
+          "ms1": 1.45,
+          "x": 4.8,
+          "ms2": 5.8
+        }
+      ],
+      "home_stats": {
+        "name": "Borussia Dortmund",
+        "home_avg_scored": 2.2,
+        "home_avg_conceded": 0.8,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 5,
+        "rank": 2,
+        "points": 13,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Eintracht Frankfurt",
+        "away_avg_scored": 1.8,
+        "away_avg_conceded": 3.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 5.0,
+        "played": 5,
+        "rank": 14,
+        "points": 5,
         "recent_matches": []
       }
     }

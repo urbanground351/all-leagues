@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-14T19:09:01.816624+03:00",
+  "last_updated": "2026-10-15T05:18:49.346922+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1342,11 +1342,11 @@
       "away": "Arsenal",
       "date": "18.10.2026",
       "time": "18:30",
-      "odds": "MS1: 5.80 | X: 4.00 | MS2: 1.58",
+      "odds": "MS1: 5.75 | X: 3.95 | MS2: 1.61",
       "odds_detail": {
-        "ms1": 5.8,
-        "x": 4.0,
-        "ms2": 1.58
+        "ms1": 5.75,
+        "x": 3.95,
+        "ms2": 1.61
       },
       "odds_available": true,
       "opening_odds": {
@@ -1355,14 +1355,14 @@
         "ms2": 1.58
       },
       "current_odds": {
-        "ms1": 5.8,
-        "x": 4.0,
-        "ms2": 1.58
+        "ms1": 5.75,
+        "x": 3.95,
+        "ms2": 1.61
       },
       "odds_change_pct": {
-        "ms1": -4.92,
-        "x": -2.44,
-        "ms2": 0.0
+        "ms1": -5.74,
+        "x": -3.66,
+        "ms2": 1.9
       },
       "odds_history": [
         {
@@ -1400,6 +1400,12 @@
           "ms1": 5.8,
           "x": 4.0,
           "ms2": 1.58
+        },
+        {
+          "timestamp": "2026-10-15T05:18:49.346922+03:00",
+          "ms1": 5.75,
+          "x": 3.95,
+          "ms2": 1.61
         }
       ],
       "home_stats": {
@@ -1881,140 +1887,6 @@
     },
     {
       "league": "English Premier League",
-      "event_id": 1028072804,
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "date": "25.10.2026",
-      "time": "17:00",
-      "odds": "MS1: 1.83 | X: 4.25 | MS2: 3.90",
-      "odds_detail": {
-        "ms1": 1.83,
-        "x": 4.25,
-        "ms2": 3.9
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.83,
-        "x": 4.2,
-        "ms2": 3.95
-      },
-      "current_odds": {
-        "ms1": 1.83,
-        "x": 4.25,
-        "ms2": 3.9
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 1.19,
-        "ms2": -1.27
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-12T23:34:36.839011+03:00",
-          "ms1": 1.83,
-          "x": 4.2,
-          "ms2": 3.95
-        },
-        {
-          "timestamp": "2026-10-14T05:38:41.457722+03:00",
-          "ms1": 1.83,
-          "x": 4.25,
-          "ms2": 3.9
-        }
-      ],
-      "home_stats": {
-        "name": "Manchester United",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 6,
-        "rank": 13,
-        "points": 6,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "AFC Bournemouth",
-        "away_avg_scored": 1.17,
-        "away_avg_conceded": 2.17,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.34,
-        "played": 6,
-        "rank": 18,
-        "points": 3,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
-      "event_id": 1028072739,
-      "home": "Liverpool",
-      "away": "Brighton & Hove Albion",
-      "date": "25.10.2026",
-      "time": "17:00",
-      "odds": "MS1: 2.02 | X: 4.00 | MS2: 3.45",
-      "odds_detail": {
-        "ms1": 2.02,
-        "x": 4.0,
-        "ms2": 3.45
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.02,
-        "x": 4.0,
-        "ms2": 3.45
-      },
-      "current_odds": {
-        "ms1": 2.02,
-        "x": 4.0,
-        "ms2": 3.45
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-12T23:34:36.839011+03:00",
-          "ms1": 2.02,
-          "x": 4.0,
-          "ms2": 3.45
-        }
-      ],
-      "home_stats": {
-        "name": "Liverpool",
-        "home_avg_scored": 1.17,
-        "home_avg_conceded": 1.17,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.34,
-        "played": 6,
-        "rank": 9,
-        "points": 9,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Brighton & Hove Albion",
-        "away_avg_scored": 3.0,
-        "away_avg_conceded": 0.83,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.83,
-        "played": 6,
-        "rank": 3,
-        "points": 13,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072735,
       "home": "Crystal Palace",
       "away": "Newcastle United",
@@ -2144,6 +2016,140 @@
         "played": 6,
         "rank": 4,
         "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072804,
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "date": "25.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 1.83 | X: 4.25 | MS2: 3.90",
+      "odds_detail": {
+        "ms1": 1.83,
+        "x": 4.25,
+        "ms2": 3.9
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.83,
+        "x": 4.2,
+        "ms2": 3.95
+      },
+      "current_odds": {
+        "ms1": 1.83,
+        "x": 4.25,
+        "ms2": 3.9
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 1.19,
+        "ms2": -1.27
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-12T23:34:36.839011+03:00",
+          "ms1": 1.83,
+          "x": 4.2,
+          "ms2": 3.95
+        },
+        {
+          "timestamp": "2026-10-14T05:38:41.457722+03:00",
+          "ms1": 1.83,
+          "x": 4.25,
+          "ms2": 3.9
+        }
+      ],
+      "home_stats": {
+        "name": "Manchester United",
+        "home_avg_scored": 1.5,
+        "home_avg_conceded": 1.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 6,
+        "rank": 13,
+        "points": 6,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "AFC Bournemouth",
+        "away_avg_scored": 1.17,
+        "away_avg_conceded": 2.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.34,
+        "played": 6,
+        "rank": 18,
+        "points": 3,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072739,
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "date": "25.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 2.02 | X: 4.00 | MS2: 3.45",
+      "odds_detail": {
+        "ms1": 2.02,
+        "x": 4.0,
+        "ms2": 3.45
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.02,
+        "x": 4.0,
+        "ms2": 3.45
+      },
+      "current_odds": {
+        "ms1": 2.02,
+        "x": 4.0,
+        "ms2": 3.45
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-12T23:34:36.839011+03:00",
+          "ms1": 2.02,
+          "x": 4.0,
+          "ms2": 3.45
+        }
+      ],
+      "home_stats": {
+        "name": "Liverpool",
+        "home_avg_scored": 1.17,
+        "home_avg_conceded": 1.17,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.34,
+        "played": 6,
+        "rank": 9,
+        "points": 9,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Brighton & Hove Albion",
+        "away_avg_scored": 3.0,
+        "away_avg_conceded": 0.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.83,
+        "played": 6,
+        "rank": 3,
+        "points": 13,
         "recent_matches": []
       }
     },
