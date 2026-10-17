@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-17T05:04:25.404830+03:00",
+  "last_updated": "2026-10-17T17:37:32.593323+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -36,27 +36,27 @@
       "name": "Atlético Madrid",
       "id": "1068",
       "rank": 2,
-      "points": 19,
-      "played": 8,
-      "wins": 6,
+      "points": 22,
+      "played": 9,
+      "wins": 7,
       "draws": 1,
       "losses": 1,
-      "goals_for": 18,
+      "goals_for": 19,
       "goals_against": 8,
-      "goal_diff": 10,
-      "avg_scored": 2.25,
-      "avg_conceded": 1.0,
-      "win_rate": 75.0,
+      "goal_diff": 11,
+      "avg_scored": 2.11,
+      "avg_conceded": 0.89,
+      "win_rate": 77.8,
       "matches": [],
-      "home_avg_scored": 2.25,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 2.25,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 2.11,
+      "home_avg_conceded": 0.89,
+      "away_avg_scored": 2.11,
+      "away_avg_conceded": 0.89,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.25,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     },
     {
@@ -307,26 +307,26 @@
       "id": "88",
       "rank": 12,
       "points": 8,
-      "played": 8,
+      "played": 9,
       "wins": 2,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "goals_for": 11,
-      "goals_against": 11,
-      "goal_diff": 0,
-      "avg_scored": 1.38,
-      "avg_conceded": 1.38,
-      "win_rate": 25.0,
+      "goals_against": 12,
+      "goal_diff": -1,
+      "avg_scored": 1.22,
+      "avg_conceded": 1.33,
+      "win_rate": 22.2,
       "matches": [],
-      "home_avg_scored": 1.38,
-      "home_avg_conceded": 1.38,
-      "away_avg_scored": 1.38,
-      "away_avg_conceded": 1.38,
+      "home_avg_scored": 1.22,
+      "home_avg_conceded": 1.33,
+      "away_avg_scored": 1.22,
+      "away_avg_conceded": 1.33,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.76,
+      "recent_goals_avg": 2.55,
       "recent_matches": []
     },
     {
@@ -549,110 +549,16 @@
   "upcoming_matches": [
     {
       "league": "Spanish LALIGA",
-      "event_id": 1028209217,
-      "home": "Espanyol",
-      "away": "Atlético Madrid",
-      "date": "17.10.2026",
-      "time": "15:00",
-      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.68",
-      "odds_detail": {
-        "ms1": 4.9,
-        "x": 3.9,
-        "ms2": 1.68
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 4.1,
-        "x": 3.65,
-        "ms2": 1.86
-      },
-      "current_odds": {
-        "ms1": 4.9,
-        "x": 3.9,
-        "ms2": 1.68
-      },
-      "odds_change_pct": {
-        "ms1": 19.51,
-        "x": 6.85,
-        "ms2": -9.68
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-03T05:51:30.307391+03:00",
-          "ms1": 4.1,
-          "x": 3.65,
-          "ms2": 1.86
-        },
-        {
-          "timestamp": "2026-10-12T06:13:27.343119+03:00",
-          "ms1": 4.25,
-          "x": 3.7,
-          "ms2": 1.82
-        },
-        {
-          "timestamp": "2026-10-12T23:34:37.260015+03:00",
-          "ms1": 4.4,
-          "x": 3.75,
-          "ms2": 1.78
-        },
-        {
-          "timestamp": "2026-10-14T19:09:02.239216+03:00",
-          "ms1": 4.5,
-          "x": 3.75,
-          "ms2": 1.76
-        },
-        {
-          "timestamp": "2026-10-15T05:18:49.672803+03:00",
-          "ms1": 4.7,
-          "x": 3.8,
-          "ms2": 1.73
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.715359+03:00",
-          "ms1": 4.9,
-          "x": 3.9,
-          "ms2": 1.68
-        }
-      ],
-      "home_stats": {
-        "name": "Espanyol",
-        "home_avg_scored": 1.38,
-        "home_avg_conceded": 1.38,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.76,
-        "played": 8,
-        "rank": 12,
-        "points": 8,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Atlético Madrid",
-        "away_avg_scored": 2.25,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.25,
-        "played": 8,
-        "rank": 2,
-        "points": 19,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
       "event_id": 1028209194,
       "home": "Villarreal",
       "away": "Elche",
       "date": "17.10.2026",
       "time": "17:15",
-      "odds": "MS1: 1.44 | X: 4.90 | MS2: 6.40",
+      "odds": "MS1: 1.47 | X: 4.35 | MS2: 6.00",
       "odds_detail": {
-        "ms1": 1.44,
-        "x": 4.9,
-        "ms2": 6.4
+        "ms1": 1.47,
+        "x": 4.35,
+        "ms2": 6.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -661,14 +567,14 @@
         "ms2": 6.25
       },
       "current_odds": {
-        "ms1": 1.44,
-        "x": 4.9,
-        "ms2": 6.4
+        "ms1": 1.47,
+        "x": 4.35,
+        "ms2": 6.0
       },
       "odds_change_pct": {
-        "ms1": -0.69,
-        "x": 0.0,
-        "ms2": 2.4
+        "ms1": 1.38,
+        "x": -11.22,
+        "ms2": -4.0
       },
       "odds_history": [
         {
@@ -712,6 +618,12 @@
           "ms1": 1.44,
           "x": 4.9,
           "ms2": 6.4
+        },
+        {
+          "timestamp": "2026-10-17T17:37:32.593323+03:00",
+          "ms1": 1.47,
+          "x": 4.35,
+          "ms2": 6.0
         }
       ],
       "home_stats": {
@@ -748,11 +660,11 @@
       "away": "Barcelona",
       "date": "17.10.2026",
       "time": "19:30",
-      "odds": "MS1: 6.40 | X: 5.60 | MS2: 1.38",
+      "odds": "MS1: 5.80 | X: 5.60 | MS2: 1.40",
       "odds_detail": {
-        "ms1": 6.4,
+        "ms1": 5.8,
         "x": 5.6,
-        "ms2": 1.38
+        "ms2": 1.4
       },
       "odds_available": true,
       "opening_odds": {
@@ -761,14 +673,14 @@
         "ms2": 1.5
       },
       "current_odds": {
-        "ms1": 6.4,
+        "ms1": 5.8,
         "x": 5.6,
-        "ms2": 1.38
+        "ms2": 1.4
       },
       "odds_change_pct": {
-        "ms1": 18.52,
+        "ms1": 7.41,
         "x": 6.67,
-        "ms2": -8.0
+        "ms2": -6.67
       },
       "odds_history": [
         {
@@ -818,6 +730,12 @@
           "ms1": 6.4,
           "x": 5.6,
           "ms2": 1.38
+        },
+        {
+          "timestamp": "2026-10-17T17:37:32.593323+03:00",
+          "ms1": 5.8,
+          "x": 5.6,
+          "ms2": 1.4
         }
       ],
       "home_stats": {
@@ -1739,13 +1657,13 @@
       },
       "away_stats": {
         "name": "Espanyol",
-        "away_avg_scored": 1.38,
-        "away_avg_conceded": 1.38,
+        "away_avg_scored": 1.22,
+        "away_avg_conceded": 1.33,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.76,
-        "played": 8,
+        "recent_goals_avg": 2.55,
+        "played": 9,
         "rank": 12,
         "points": 8,
         "recent_matches": []
@@ -1896,15 +1814,15 @@
       ],
       "home_stats": {
         "name": "Atlético Madrid",
-        "home_avg_scored": 2.25,
-        "home_avg_conceded": 1.0,
+        "home_avg_scored": 2.11,
+        "home_avg_conceded": 0.89,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.25,
-        "played": 8,
+        "recent_goals_avg": 3.0,
+        "played": 9,
         "rank": 2,
-        "points": 19,
+        "points": 22,
         "recent_matches": []
       },
       "away_stats": {
@@ -2162,11 +2080,11 @@
       "away": "Real Madrid",
       "date": "25.10.2026",
       "time": "23:00",
-      "odds": "MS1: 1.50 | X: 5.10 | MS2: 5.10",
+      "odds": "MS1: 1.56 | X: 5.00 | MS2: 5.00",
       "odds_detail": {
-        "ms1": 1.5,
-        "x": 5.1,
-        "ms2": 5.1
+        "ms1": 1.56,
+        "x": 5.0,
+        "ms2": 5.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -2175,14 +2093,14 @@
         "ms2": 5.0
       },
       "current_odds": {
-        "ms1": 1.5,
-        "x": 5.1,
-        "ms2": 5.1
+        "ms1": 1.56,
+        "x": 5.0,
+        "ms2": 5.0
       },
       "odds_change_pct": {
-        "ms1": -3.23,
-        "x": 6.25,
-        "ms2": 2.0
+        "ms1": 0.65,
+        "x": 4.17,
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -2208,6 +2126,12 @@
           "ms1": 1.5,
           "x": 5.1,
           "ms2": 5.1
+        },
+        {
+          "timestamp": "2026-10-17T17:37:32.593323+03:00",
+          "ms1": 1.56,
+          "x": 5.0,
+          "ms2": 5.0
         }
       ],
       "home_stats": {
