@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-18T18:04:32.356991+03:00",
+  "last_updated": "2026-10-19T05:20:37.214538+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -60,9 +60,36 @@
       "recent_matches": []
     },
     {
+      "name": "Real Madrid",
+      "id": "86",
+      "rank": 3,
+      "points": 21,
+      "played": 9,
+      "wins": 7,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 23,
+      "goals_against": 9,
+      "goal_diff": 14,
+      "avg_scored": 2.56,
+      "avg_conceded": 1.0,
+      "win_rate": 77.8,
+      "matches": [],
+      "home_avg_scored": 2.56,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 2.56,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.56,
+      "recent_matches": []
+    },
+    {
       "name": "Real Betis",
       "id": "244",
-      "rank": 3,
+      "rank": 4,
       "points": 19,
       "played": 9,
       "wins": 6,
@@ -87,84 +114,57 @@
       "recent_matches": []
     },
     {
-      "name": "Real Madrid",
-      "id": "86",
-      "rank": 4,
-      "points": 18,
-      "played": 8,
-      "wins": 6,
-      "draws": 0,
-      "losses": 2,
-      "goals_for": 19,
-      "goals_against": 8,
-      "goal_diff": 11,
-      "avg_scored": 2.38,
-      "avg_conceded": 1.0,
-      "win_rate": 75.0,
+      "name": "Real Sociedad",
+      "id": "89",
+      "rank": 5,
+      "points": 16,
+      "played": 9,
+      "wins": 5,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 17,
+      "goals_against": 17,
+      "goal_diff": 0,
+      "avg_scored": 1.89,
+      "avg_conceded": 1.89,
+      "win_rate": 55.6,
       "matches": [],
-      "home_avg_scored": 2.38,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 2.38,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 1.89,
+      "home_avg_conceded": 1.89,
+      "away_avg_scored": 1.89,
+      "away_avg_conceded": 1.89,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.38,
+      "recent_goals_avg": 3.78,
       "recent_matches": []
     },
     {
       "name": "Sevilla",
       "id": "243",
-      "rank": 5,
+      "rank": 6,
       "points": 14,
-      "played": 8,
+      "played": 9,
       "wins": 4,
       "draws": 2,
-      "losses": 2,
-      "goals_for": 13,
-      "goals_against": 12,
-      "goal_diff": 1,
-      "avg_scored": 1.62,
-      "avg_conceded": 1.5,
-      "win_rate": 50.0,
-      "matches": [],
-      "home_avg_scored": 1.62,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 1.62,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.12,
-      "recent_matches": []
-    },
-    {
-      "name": "Real Sociedad",
-      "id": "89",
-      "rank": 6,
-      "points": 13,
-      "played": 8,
-      "wins": 4,
-      "draws": 1,
       "losses": 3,
-      "goals_for": 12,
-      "goals_against": 15,
-      "goal_diff": -3,
-      "avg_scored": 1.5,
-      "avg_conceded": 1.88,
-      "win_rate": 50.0,
+      "goals_for": 14,
+      "goals_against": 16,
+      "goal_diff": -2,
+      "avg_scored": 1.56,
+      "avg_conceded": 1.78,
+      "win_rate": 44.4,
       "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 1.88,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.88,
+      "home_avg_scored": 1.56,
+      "home_avg_conceded": 1.78,
+      "away_avg_scored": 1.56,
+      "away_avg_conceded": 1.78,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.38,
+      "recent_goals_avg": 3.34,
       "recent_matches": []
     },
     {
@@ -172,32 +172,59 @@
       "id": "96",
       "rank": 7,
       "points": 11,
-      "played": 8,
+      "played": 9,
       "wins": 3,
       "draws": 2,
-      "losses": 3,
-      "goals_for": 12,
-      "goals_against": 8,
-      "goal_diff": 4,
-      "avg_scored": 1.5,
-      "avg_conceded": 1.0,
-      "win_rate": 37.5,
+      "losses": 4,
+      "goals_for": 13,
+      "goals_against": 10,
+      "goal_diff": 3,
+      "avg_scored": 1.44,
+      "avg_conceded": 1.11,
+      "win_rate": 33.3,
       "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 1.44,
+      "home_avg_conceded": 1.11,
+      "away_avg_scored": 1.44,
+      "away_avg_conceded": 1.11,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.5,
+      "recent_goals_avg": 2.55,
+      "recent_matches": []
+    },
+    {
+      "name": "Celta Vigo",
+      "id": "85",
+      "rank": 8,
+      "points": 11,
+      "played": 9,
+      "wins": 2,
+      "draws": 5,
+      "losses": 2,
+      "goals_for": 10,
+      "goals_against": 7,
+      "goal_diff": 3,
+      "avg_scored": 1.11,
+      "avg_conceded": 0.78,
+      "win_rate": 22.2,
+      "matches": [],
+      "home_avg_scored": 1.11,
+      "home_avg_conceded": 0.78,
+      "away_avg_scored": 1.11,
+      "away_avg_conceded": 0.78,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 1.89,
       "recent_matches": []
     },
     {
       "name": "Deportivo",
       "id": "90",
-      "rank": 8,
+      "rank": 9,
       "points": 11,
       "played": 9,
       "wins": 2,
@@ -224,7 +251,7 @@
     {
       "name": "Osasuna",
       "id": "97",
-      "rank": 9,
+      "rank": 10,
       "points": 11,
       "played": 9,
       "wins": 3,
@@ -251,7 +278,7 @@
     {
       "name": "Athletic Club",
       "id": "93",
-      "rank": 10,
+      "rank": 11,
       "points": 9,
       "played": 7,
       "wins": 2,
@@ -278,7 +305,7 @@
     {
       "name": "Villarreal",
       "id": "102",
-      "rank": 11,
+      "rank": 12,
       "points": 9,
       "played": 9,
       "wins": 2,
@@ -300,33 +327,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.88,
-      "recent_matches": []
-    },
-    {
-      "name": "Celta Vigo",
-      "id": "85",
-      "rank": 12,
-      "points": 8,
-      "played": 8,
-      "wins": 1,
-      "draws": 5,
-      "losses": 2,
-      "goals_for": 8,
-      "goals_against": 6,
-      "goal_diff": 2,
-      "avg_scored": 1.0,
-      "avg_conceded": 0.75,
-      "win_rate": 12.5,
-      "matches": [],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 0.75,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 0.75,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 1.75,
       "recent_matches": []
     },
     {
@@ -523,384 +523,30 @@
       "id": "99",
       "rank": 20,
       "points": 4,
-      "played": 8,
+      "played": 9,
       "wins": 0,
       "draws": 4,
-      "losses": 4,
-      "goals_for": 4,
-      "goals_against": 13,
-      "goal_diff": -9,
-      "avg_scored": 0.5,
-      "avg_conceded": 1.62,
+      "losses": 5,
+      "goals_for": 6,
+      "goals_against": 18,
+      "goal_diff": -12,
+      "avg_scored": 0.67,
+      "avg_conceded": 2.0,
       "win_rate": 0.0,
       "matches": [],
-      "home_avg_scored": 0.5,
-      "home_avg_conceded": 1.62,
-      "away_avg_scored": 0.5,
-      "away_avg_conceded": 1.62,
+      "home_avg_scored": 0.67,
+      "home_avg_conceded": 2.0,
+      "away_avg_scored": 0.67,
+      "away_avg_conceded": 2.0,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.12,
+      "recent_goals_avg": 2.67,
       "recent_matches": []
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028209222,
-      "home": "Celta Vigo",
-      "away": "Alavés",
-      "date": "18.10.2026",
-      "time": "17:16",
-      "odds": "MS1: 3.00 | X: 2.14 | MS2: 3.70",
-      "odds_detail": {
-        "ms1": 3.0,
-        "x": 2.14,
-        "ms2": 3.7
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.04,
-        "x": 3.4,
-        "ms2": 3.9
-      },
-      "current_odds": {
-        "ms1": 3.0,
-        "x": 2.14,
-        "ms2": 3.7
-      },
-      "odds_change_pct": {
-        "ms1": 47.06,
-        "x": -37.06,
-        "ms2": -5.13
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-04T06:21:22.630808+03:00",
-          "ms1": 2.04,
-          "x": 3.4,
-          "ms2": 3.9
-        },
-        {
-          "timestamp": "2026-10-06T06:47:25.998566+03:00",
-          "ms1": 2.0,
-          "x": 3.35,
-          "ms2": 3.85
-        },
-        {
-          "timestamp": "2026-10-10T19:34:04.664652+03:00",
-          "ms1": 2.0,
-          "x": 3.4,
-          "ms2": 3.8
-        },
-        {
-          "timestamp": "2026-10-11T19:59:13.948035+03:00",
-          "ms1": 2.02,
-          "x": 3.4,
-          "ms2": 3.8
-        },
-        {
-          "timestamp": "2026-10-12T23:34:37.260015+03:00",
-          "ms1": 2.0,
-          "x": 3.4,
-          "ms2": 3.8
-        },
-        {
-          "timestamp": "2026-10-13T21:38:47.017376+03:00",
-          "ms1": 2.15,
-          "x": 3.3,
-          "ms2": 3.5
-        },
-        {
-          "timestamp": "2026-10-15T18:57:15.090686+03:00",
-          "ms1": 2.18,
-          "x": 3.2,
-          "ms2": 3.5
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.715359+03:00",
-          "ms1": 2.16,
-          "x": 3.2,
-          "ms2": 3.55
-        },
-        {
-          "timestamp": "2026-10-18T18:04:32.356991+03:00",
-          "ms1": 3.0,
-          "x": 2.14,
-          "ms2": 3.7
-        }
-      ],
-      "home_stats": {
-        "name": "Celta Vigo",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 0.75,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 1.75,
-        "played": 8,
-        "rank": 12,
-        "points": 8,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Alavés",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.5,
-        "played": 8,
-        "rank": 7,
-        "points": 11,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028209212,
-      "home": "Málaga",
-      "away": "Real Sociedad",
-      "date": "18.10.2026",
-      "time": "19:30",
-      "odds": "MS1: 3.15 | X: 3.50 | MS2: 2.23",
-      "odds_detail": {
-        "ms1": 3.15,
-        "x": 3.5,
-        "ms2": 2.23
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 3.25,
-        "x": 3.45,
-        "ms2": 2.18
-      },
-      "current_odds": {
-        "ms1": 3.15,
-        "x": 3.5,
-        "ms2": 2.23
-      },
-      "odds_change_pct": {
-        "ms1": -3.08,
-        "x": 1.45,
-        "ms2": 2.29
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-04T06:21:22.630808+03:00",
-          "ms1": 3.25,
-          "x": 3.45,
-          "ms2": 2.18
-        },
-        {
-          "timestamp": "2026-10-08T21:08:43.322789+03:00",
-          "ms1": 3.2,
-          "x": 3.45,
-          "ms2": 2.2
-        },
-        {
-          "timestamp": "2026-10-12T23:34:37.260015+03:00",
-          "ms1": 3.25,
-          "x": 3.45,
-          "ms2": 2.18
-        },
-        {
-          "timestamp": "2026-10-13T21:38:47.017376+03:00",
-          "ms1": 3.25,
-          "x": 3.45,
-          "ms2": 2.2
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.715359+03:00",
-          "ms1": 3.2,
-          "x": 3.45,
-          "ms2": 2.2
-        },
-        {
-          "timestamp": "2026-10-17T05:04:25.404830+03:00",
-          "ms1": 3.3,
-          "x": 3.45,
-          "ms2": 2.14
-        },
-        {
-          "timestamp": "2026-10-18T05:03:47.239633+03:00",
-          "ms1": 3.4,
-          "x": 3.45,
-          "ms2": 2.1
-        },
-        {
-          "timestamp": "2026-10-18T18:04:32.356991+03:00",
-          "ms1": 3.15,
-          "x": 3.5,
-          "ms2": 2.23
-        }
-      ],
-      "home_stats": {
-        "name": "Málaga",
-        "home_avg_scored": 0.5,
-        "home_avg_conceded": 1.62,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.12,
-        "played": 8,
-        "rank": 20,
-        "points": 4,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Real Sociedad",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 1.88,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.38,
-        "played": 8,
-        "rank": 6,
-        "points": 13,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028209198,
-      "home": "Real Madrid",
-      "away": "Sevilla",
-      "date": "18.10.2026",
-      "time": "22:00",
-      "odds": "MS1: 1.23 | X: 6.50 | MS2: 11.00",
-      "odds_detail": {
-        "ms1": 1.23,
-        "x": 6.5,
-        "ms2": 11.0
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.25,
-        "x": 6.25,
-        "ms2": 10.5
-      },
-      "current_odds": {
-        "ms1": 1.23,
-        "x": 6.5,
-        "ms2": 11.0
-      },
-      "odds_change_pct": {
-        "ms1": -1.6,
-        "x": 4.0,
-        "ms2": 4.76
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-04T06:21:22.630808+03:00",
-          "ms1": 1.25,
-          "x": 6.25,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-10-06T06:47:25.998566+03:00",
-          "ms1": 1.25,
-          "x": 6.1,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-10-07T21:06:28.822088+03:00",
-          "ms1": 1.25,
-          "x": 6.1,
-          "ms2": 11.0
-        },
-        {
-          "timestamp": "2026-10-08T06:30:41.326867+03:00",
-          "ms1": 1.27,
-          "x": 6.4,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-10-08T21:08:43.322789+03:00",
-          "ms1": 1.23,
-          "x": 6.75,
-          "ms2": 11.0
-        },
-        {
-          "timestamp": "2026-10-11T19:59:13.948035+03:00",
-          "ms1": 1.23,
-          "x": 7.0,
-          "ms2": 12.0
-        },
-        {
-          "timestamp": "2026-10-12T23:34:37.260015+03:00",
-          "ms1": 1.22,
-          "x": 6.75,
-          "ms2": 11.5
-        },
-        {
-          "timestamp": "2026-10-13T21:38:47.017376+03:00",
-          "ms1": 1.24,
-          "x": 6.4,
-          "ms2": 11.0
-        },
-        {
-          "timestamp": "2026-10-14T05:38:41.750528+03:00",
-          "ms1": 1.25,
-          "x": 6.4,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-10-16T05:10:54.088415+03:00",
-          "ms1": 1.23,
-          "x": 6.5,
-          "ms2": 11.5
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.715359+03:00",
-          "ms1": 1.22,
-          "x": 6.75,
-          "ms2": 12.0
-        },
-        {
-          "timestamp": "2026-10-18T05:03:47.239633+03:00",
-          "ms1": 1.21,
-          "x": 6.75,
-          "ms2": 12.5
-        },
-        {
-          "timestamp": "2026-10-18T18:04:32.356991+03:00",
-          "ms1": 1.23,
-          "x": 6.5,
-          "ms2": 11.0
-        }
-      ],
-      "home_stats": {
-        "name": "Real Madrid",
-        "home_avg_scored": 2.38,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.38,
-        "played": 8,
-        "rank": 4,
-        "points": 18,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Sevilla",
-        "away_avg_scored": 1.62,
-        "away_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.12,
-        "played": 8,
-        "rank": 5,
-        "points": 14,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Spanish LALIGA",
       "event_id": 1028209209,
@@ -908,11 +554,11 @@
       "away": "Rayo Vallecano",
       "date": "19.10.2026",
       "time": "22:00",
-      "odds": "MS1: 2.88 | X: 3.00 | MS2: 2.70",
+      "odds": "MS1: 2.88 | X: 3.00 | MS2: 2.63",
       "odds_detail": {
         "ms1": 2.88,
         "x": 3.0,
-        "ms2": 2.7
+        "ms2": 2.63
       },
       "odds_available": true,
       "opening_odds": {
@@ -923,12 +569,12 @@
       "current_odds": {
         "ms1": 2.88,
         "x": 3.0,
-        "ms2": 2.7
+        "ms2": 2.63
       },
       "odds_change_pct": {
         "ms1": 6.67,
         "x": -3.23,
-        "ms2": -1.82
+        "ms2": -4.36
       },
       "odds_history": [
         {
@@ -972,6 +618,12 @@
           "ms1": 2.88,
           "x": 3.0,
           "ms2": 2.7
+        },
+        {
+          "timestamp": "2026-10-19T05:20:37.214538+03:00",
+          "ms1": 2.88,
+          "x": 3.0,
+          "ms2": 2.63
         }
       ],
       "home_stats": {
@@ -1008,11 +660,11 @@
       "away": "Athletic Club",
       "date": "21.10.2026",
       "time": "21:00",
-      "odds": "MS1: 3.65 | X: 3.45 | MS2: 2.10",
+      "odds": "MS1: 3.60 | X: 3.35 | MS2: 2.07",
       "odds_detail": {
-        "ms1": 3.65,
-        "x": 3.45,
-        "ms2": 2.1
+        "ms1": 3.6,
+        "x": 3.35,
+        "ms2": 2.07
       },
       "odds_available": true,
       "opening_odds": {
@@ -1021,14 +673,14 @@
         "ms2": 2.2
       },
       "current_odds": {
-        "ms1": 3.65,
-        "x": 3.45,
-        "ms2": 2.1
+        "ms1": 3.6,
+        "x": 3.35,
+        "ms2": 2.07
       },
       "odds_change_pct": {
-        "ms1": 10.61,
-        "x": 2.99,
-        "ms2": -4.55
+        "ms1": 9.09,
+        "x": 0.0,
+        "ms2": -5.91
       },
       "odds_history": [
         {
@@ -1066,6 +718,12 @@
           "ms1": 3.65,
           "x": 3.45,
           "ms2": 2.1
+        },
+        {
+          "timestamp": "2026-10-19T05:20:37.214538+03:00",
+          "ms1": 3.6,
+          "x": 3.35,
+          "ms2": 2.07
         }
       ],
       "home_stats": {
@@ -1090,7 +748,7 @@
         "form": [],
         "recent_goals_avg": 1.86,
         "played": 7,
-        "rank": 10,
+        "rank": 11,
         "points": 9,
         "recent_matches": []
       }
@@ -1102,9 +760,9 @@
       "away": "Málaga",
       "date": "23.10.2026",
       "time": "22:00",
-      "odds": "MS1: 1.90 | X: 3.45 | MS2: 4.50",
+      "odds": "MS1: 1.84 | X: 3.45 | MS2: 4.50",
       "odds_detail": {
-        "ms1": 1.9,
+        "ms1": 1.84,
         "x": 3.45,
         "ms2": 4.5
       },
@@ -1115,12 +773,12 @@
         "ms2": 4.5
       },
       "current_odds": {
-        "ms1": 1.9,
+        "ms1": 1.84,
         "x": 3.45,
         "ms2": 4.5
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -3.16,
         "x": 0.0,
         "ms2": 0.0
       },
@@ -1130,30 +788,36 @@
           "ms1": 1.9,
           "x": 3.45,
           "ms2": 4.5
+        },
+        {
+          "timestamp": "2026-10-19T05:20:37.214538+03:00",
+          "ms1": 1.84,
+          "x": 3.45,
+          "ms2": 4.5
         }
       ],
       "home_stats": {
         "name": "Alavés",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 1.0,
+        "home_avg_scored": 1.44,
+        "home_avg_conceded": 1.11,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.5,
-        "played": 8,
+        "recent_goals_avg": 2.55,
+        "played": 9,
         "rank": 7,
         "points": 11,
         "recent_matches": []
       },
       "away_stats": {
         "name": "Málaga",
-        "away_avg_scored": 0.5,
-        "away_avg_conceded": 1.62,
+        "away_avg_scored": 0.67,
+        "away_avg_conceded": 2.0,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.12,
-        "played": 8,
+        "recent_goals_avg": 2.67,
+        "played": 9,
         "rank": 20,
         "points": 4,
         "recent_matches": []
@@ -1388,7 +1052,7 @@
         "form": [],
         "recent_goals_avg": 2.88,
         "played": 9,
-        "rank": 11,
+        "rank": 12,
         "points": 9,
         "recent_matches": []
       }
@@ -1482,7 +1146,7 @@
         "form": [],
         "recent_goals_avg": 2.77,
         "played": 9,
-        "rank": 8,
+        "rank": 9,
         "points": 11,
         "recent_matches": []
       }
@@ -1494,11 +1158,11 @@
       "away": "Getafe",
       "date": "25.10.2026",
       "time": "16:00",
-      "odds": "MS1: 1.67 | X: 3.55 | MS2: 5.60",
+      "odds": "MS1: 1.68 | X: 3.70 | MS2: 5.75",
       "odds_detail": {
-        "ms1": 1.67,
-        "x": 3.55,
-        "ms2": 5.6
+        "ms1": 1.68,
+        "x": 3.7,
+        "ms2": 5.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -1507,14 +1171,14 @@
         "ms2": 6.25
       },
       "current_odds": {
-        "ms1": 1.67,
-        "x": 3.55,
-        "ms2": 5.6
+        "ms1": 1.68,
+        "x": 3.7,
+        "ms2": 5.75
       },
       "odds_change_pct": {
-        "ms1": 2.45,
-        "x": -5.33,
-        "ms2": -10.4
+        "ms1": 3.07,
+        "x": -1.33,
+        "ms2": -8.0
       },
       "odds_history": [
         {
@@ -1546,6 +1210,12 @@
           "ms1": 1.67,
           "x": 3.55,
           "ms2": 5.6
+        },
+        {
+          "timestamp": "2026-10-19T05:20:37.214538+03:00",
+          "ms1": 1.68,
+          "x": 3.7,
+          "ms2": 5.75
         }
       ],
       "home_stats": {
@@ -1557,7 +1227,7 @@
         "form": [],
         "recent_goals_avg": 1.86,
         "played": 7,
-        "rank": 10,
+        "rank": 11,
         "points": 9,
         "recent_matches": []
       },
@@ -1632,15 +1302,15 @@
       ],
       "home_stats": {
         "name": "Celta Vigo",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 0.75,
+        "home_avg_scored": 1.11,
+        "home_avg_conceded": 0.78,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 1.75,
-        "played": 8,
-        "rank": 12,
-        "points": 8,
+        "recent_goals_avg": 1.89,
+        "played": 9,
+        "rank": 8,
+        "points": 11,
         "recent_matches": []
       },
       "away_stats": {
@@ -1652,7 +1322,7 @@
         "form": [],
         "recent_goals_avg": 3.34,
         "played": 9,
-        "rank": 3,
+        "rank": 4,
         "points": 19,
         "recent_matches": []
       }
@@ -1702,15 +1372,15 @@
       ],
       "home_stats": {
         "name": "Real Sociedad",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 1.88,
+        "home_avg_scored": 1.89,
+        "home_avg_conceded": 1.89,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.38,
-        "played": 8,
-        "rank": 6,
-        "points": 13,
+        "recent_goals_avg": 3.78,
+        "played": 9,
+        "rank": 5,
+        "points": 16,
         "recent_matches": []
       },
       "away_stats": {
@@ -1815,15 +1485,15 @@
       },
       "away_stats": {
         "name": "Real Madrid",
-        "away_avg_scored": 2.38,
+        "away_avg_scored": 2.56,
         "away_avg_conceded": 1.0,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.38,
-        "played": 8,
-        "rank": 4,
-        "points": 18,
+        "recent_goals_avg": 3.56,
+        "played": 9,
+        "rank": 3,
+        "points": 21,
         "recent_matches": []
       }
     },
@@ -1834,11 +1504,11 @@
       "away": "Osasuna",
       "date": "26.10.2026",
       "time": "23:00",
-      "odds": "MS1: 1.94 | X: 3.35 | MS2: 4.10",
+      "odds": "MS1: 1.95 | X: 3.45 | MS2: 4.20",
       "odds_detail": {
-        "ms1": 1.94,
-        "x": 3.35,
-        "ms2": 4.1
+        "ms1": 1.95,
+        "x": 3.45,
+        "ms2": 4.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -1847,14 +1517,14 @@
         "ms2": 4.1
       },
       "current_odds": {
-        "ms1": 1.94,
-        "x": 3.35,
-        "ms2": 4.1
+        "ms1": 1.95,
+        "x": 3.45,
+        "ms2": 4.2
       },
       "odds_change_pct": {
-        "ms1": -1.52,
-        "x": -2.9,
-        "ms2": 0.0
+        "ms1": -1.02,
+        "x": 0.0,
+        "ms2": 2.44
       },
       "odds_history": [
         {
@@ -1868,18 +1538,24 @@
           "ms1": 1.94,
           "x": 3.35,
           "ms2": 4.1
+        },
+        {
+          "timestamp": "2026-10-19T05:20:37.214538+03:00",
+          "ms1": 1.95,
+          "x": 3.45,
+          "ms2": 4.2
         }
       ],
       "home_stats": {
         "name": "Sevilla",
-        "home_avg_scored": 1.62,
-        "home_avg_conceded": 1.5,
+        "home_avg_scored": 1.56,
+        "home_avg_conceded": 1.78,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.12,
-        "played": 8,
-        "rank": 5,
+        "recent_goals_avg": 3.34,
+        "played": 9,
+        "rank": 6,
         "points": 14,
         "recent_matches": []
       },
@@ -1892,7 +1568,7 @@
         "form": [],
         "recent_goals_avg": 3.11,
         "played": 9,
-        "rank": 9,
+        "rank": 10,
         "points": 11,
         "recent_matches": []
       }
