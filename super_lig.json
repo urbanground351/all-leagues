@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-19T05:20:36.280292+03:00",
+  "last_updated": "2026-10-19T20:56:05.936344+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Besiktas",
       "date": "19.10.2026",
       "time": "20:00",
-      "odds": "MS1: 2.60 | X: 3.60 | MS2: 2.45",
+      "odds": "MS1: 1.68 | X: 3.40 | MS2: 4.60",
       "odds_detail": {
-        "ms1": 2.6,
-        "x": 3.6,
-        "ms2": 2.45
+        "ms1": 1.68,
+        "x": 3.4,
+        "ms2": 4.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 2.18
       },
       "current_odds": {
-        "ms1": 2.6,
-        "x": 3.6,
-        "ms2": 2.45
+        "ms1": 1.68,
+        "x": 3.4,
+        "ms2": 4.6
       },
       "odds_change_pct": {
-        "ms1": -13.33,
-        "x": -2.7,
-        "ms2": 12.39
+        "ms1": -44.0,
+        "x": -8.11,
+        "ms2": 111.01
       },
       "odds_history": [
         {
@@ -564,6 +564,12 @@
           "ms1": 2.6,
           "x": 3.6,
           "ms2": 2.45
+        },
+        {
+          "timestamp": "2026-10-19T20:56:05.936344+03:00",
+          "ms1": 1.68,
+          "x": 3.4,
+          "ms2": 4.6
         }
       ],
       "home_stats": {
@@ -746,11 +752,11 @@
       "away": "Erzurum BB",
       "date": "24.10.2026",
       "time": "16:00",
-      "odds": "MS1: 2.06 | X: 3.30 | MS2: 3.60",
+      "odds": "MS1: 2.10 | X: 3.25 | MS2: 3.55",
       "odds_detail": {
-        "ms1": 2.06,
-        "x": 3.3,
-        "ms2": 3.6
+        "ms1": 2.1,
+        "x": 3.25,
+        "ms2": 3.55
       },
       "odds_available": true,
       "opening_odds": {
@@ -759,14 +765,14 @@
         "ms2": 3.6
       },
       "current_odds": {
-        "ms1": 2.06,
-        "x": 3.3,
-        "ms2": 3.6
+        "ms1": 2.1,
+        "x": 3.25,
+        "ms2": 3.55
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": -1.49,
-        "ms2": 0.0
+        "ms1": 1.94,
+        "x": -2.99,
+        "ms2": -1.39
       },
       "odds_history": [
         {
@@ -780,6 +786,12 @@
           "ms1": 2.06,
           "x": 3.3,
           "ms2": 3.6
+        },
+        {
+          "timestamp": "2026-10-19T20:56:05.936344+03:00",
+          "ms1": 2.1,
+          "x": 3.25,
+          "ms2": 3.55
         }
       ],
       "home_stats": {
@@ -816,11 +828,11 @@
       "away": "Amed SFK",
       "date": "24.10.2026",
       "time": "19:00",
-      "odds": "MS1: 2.55 | X: 3.40 | MS2: 2.65",
+      "odds": "MS1: 2.88 | X: 3.45 | MS2: 2.33",
       "odds_detail": {
-        "ms1": 2.55,
-        "x": 3.4,
-        "ms2": 2.65
+        "ms1": 2.88,
+        "x": 3.45,
+        "ms2": 2.33
       },
       "odds_available": true,
       "opening_odds": {
@@ -829,14 +841,14 @@
         "ms2": 2.8
       },
       "current_odds": {
-        "ms1": 2.55,
-        "x": 3.4,
-        "ms2": 2.65
+        "ms1": 2.88,
+        "x": 3.45,
+        "ms2": 2.33
       },
       "odds_change_pct": {
-        "ms1": 6.25,
-        "x": -1.45,
-        "ms2": -5.36
+        "ms1": 20.0,
+        "x": 0.0,
+        "ms2": -16.79
       },
       "odds_history": [
         {
@@ -856,6 +868,12 @@
           "ms1": 2.55,
           "x": 3.4,
           "ms2": 2.65
+        },
+        {
+          "timestamp": "2026-10-19T20:56:05.936344+03:00",
+          "ms1": 2.88,
+          "x": 3.45,
+          "ms2": 2.33
         }
       ],
       "home_stats": {
@@ -1015,6 +1033,134 @@
         "recent_goals_avg": 3.87,
         "played": 8,
         "rank": 6,
+        "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328506,
+      "home": "Besiktas",
+      "away": "Istanbul Basaksehir",
+      "date": "26.10.2026",
+      "time": "19:00",
+      "odds": "MS1: 1.33 | X: 5.20 | MS2: 7.00",
+      "odds_detail": {
+        "ms1": 1.33,
+        "x": 5.2,
+        "ms2": 7.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.33,
+        "x": 5.2,
+        "ms2": 7.0
+      },
+      "current_odds": {
+        "ms1": 1.33,
+        "x": 5.2,
+        "ms2": 7.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-19T20:56:05.936344+03:00",
+          "ms1": 1.33,
+          "x": 5.2,
+          "ms2": 7.0
+        }
+      ],
+      "home_stats": {
+        "name": "Besiktas",
+        "home_avg_scored": 2.29,
+        "home_avg_conceded": 1.14,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.43,
+        "played": 7,
+        "rank": 4,
+        "points": 15,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Istanbul Basaksehir",
+        "away_avg_scored": 1.5,
+        "away_avg_conceded": 1.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 8,
+        "rank": 10,
+        "points": 11,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328495,
+      "home": "Caykur Rizespor",
+      "away": "Trabzonspor",
+      "date": "26.10.2026",
+      "time": "19:00",
+      "odds": "MS1: 3.20 | X: 3.65 | MS2: 2.10",
+      "odds_detail": {
+        "ms1": 3.2,
+        "x": 3.65,
+        "ms2": 2.1
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 3.2,
+        "x": 3.65,
+        "ms2": 2.1
+      },
+      "current_odds": {
+        "ms1": 3.2,
+        "x": 3.65,
+        "ms2": 2.1
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-19T20:56:05.936344+03:00",
+          "ms1": 3.2,
+          "x": 3.65,
+          "ms2": 2.1
+        }
+      ],
+      "home_stats": {
+        "name": "Caykur Rizespor",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 1.38,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.38,
+        "played": 8,
+        "rank": 12,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Trabzonspor",
+        "away_avg_scored": 2.29,
+        "away_avg_conceded": 0.71,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 7,
+        "rank": 5,
         "points": 13,
         "recent_matches": []
       }
