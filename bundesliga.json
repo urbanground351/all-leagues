@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-20T05:34:11.715591+03:00",
+  "last_updated": "2026-10-20T19:00:22.760434+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Borussia Mönchengladbach",
       "date": "23.10.2026",
       "time": "21:30",
-      "odds": "MS1: 1.38 | X: 5.30 | MS2: 6.25",
+      "odds": "MS1: 1.37 | X: 5.30 | MS2: 6.50",
       "odds_detail": {
-        "ms1": 1.38,
+        "ms1": 1.37,
         "x": 5.3,
-        "ms2": 6.25
+        "ms2": 6.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 6.4
       },
       "current_odds": {
-        "ms1": 1.38,
+        "ms1": 1.37,
         "x": 5.3,
-        "ms2": 6.25
+        "ms2": 6.5
       },
       "odds_change_pct": {
-        "ms1": 0.73,
+        "ms1": 0.0,
         "x": -1.85,
-        "ms2": -2.34
+        "ms2": 1.56
       },
       "odds_history": [
         {
@@ -546,6 +546,12 @@
           "ms1": 1.38,
           "x": 5.3,
           "ms2": 6.25
+        },
+        {
+          "timestamp": "2026-10-20T19:00:22.760434+03:00",
+          "ms1": 1.37,
+          "x": 5.3,
+          "ms2": 6.5
         }
       ],
       "home_stats": {
@@ -1014,11 +1020,11 @@
       "away": "Bayer Leverkusen",
       "date": "25.10.2026",
       "time": "17:30",
-      "odds": "MS1: 2.55 | X: 3.90 | MS2: 2.35",
+      "odds": "MS1: 2.63 | X: 3.90 | MS2: 2.30",
       "odds_detail": {
-        "ms1": 2.55,
+        "ms1": 2.63,
         "x": 3.9,
-        "ms2": 2.35
+        "ms2": 2.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -1027,14 +1033,14 @@
         "ms2": 2.43
       },
       "current_odds": {
-        "ms1": 2.55,
+        "ms1": 2.63,
         "x": 3.9,
-        "ms2": 2.35
+        "ms2": 2.3
       },
       "odds_change_pct": {
-        "ms1": 4.08,
+        "ms1": 7.35,
         "x": -1.27,
-        "ms2": -3.29
+        "ms2": -5.35
       },
       "odds_history": [
         {
@@ -1060,6 +1066,12 @@
           "ms1": 2.55,
           "x": 3.9,
           "ms2": 2.35
+        },
+        {
+          "timestamp": "2026-10-20T19:00:22.760434+03:00",
+          "ms1": 2.63,
+          "x": 3.9,
+          "ms2": 2.3
         }
       ],
       "home_stats": {
@@ -1096,11 +1108,11 @@
       "away": "Bayern Munich",
       "date": "25.10.2026",
       "time": "19:30",
-      "odds": "MS1: 6.00 | X: 5.25 | MS2: 1.40",
+      "odds": "MS1: 6.50 | X: 5.60 | MS2: 1.35",
       "odds_detail": {
-        "ms1": 6.0,
-        "x": 5.25,
-        "ms2": 1.4
+        "ms1": 6.5,
+        "x": 5.6,
+        "ms2": 1.35
       },
       "odds_available": true,
       "opening_odds": {
@@ -1109,14 +1121,14 @@
         "ms2": 1.4
       },
       "current_odds": {
-        "ms1": 6.0,
-        "x": 5.25,
-        "ms2": 1.4
+        "ms1": 6.5,
+        "x": 5.6,
+        "ms2": 1.35
       },
       "odds_change_pct": {
-        "ms1": -4.0,
-        "x": 2.94,
-        "ms2": 0.0
+        "ms1": 4.0,
+        "x": 9.8,
+        "ms2": -3.57
       },
       "odds_history": [
         {
@@ -1136,6 +1148,12 @@
           "ms1": 6.0,
           "x": 5.25,
           "ms2": 1.4
+        },
+        {
+          "timestamp": "2026-10-20T19:00:22.760434+03:00",
+          "ms1": 6.5,
+          "x": 5.6,
+          "ms2": 1.35
         }
       ],
       "home_stats": {
