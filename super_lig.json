@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-19T20:56:05.936344+03:00",
+  "last_updated": "2026-10-20T05:34:10.364425+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -87,57 +87,57 @@
       "recent_matches": []
     },
     {
-      "name": "Besiktas",
-      "id": "1895",
+      "name": "Trabzonspor",
+      "id": "997",
       "rank": 4,
-      "points": 15,
-      "played": 7,
+      "points": 16,
+      "played": 8,
       "wins": 5,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
-      "goals_for": 16,
-      "goals_against": 8,
-      "goal_diff": 8,
-      "avg_scored": 2.29,
-      "avg_conceded": 1.14,
-      "win_rate": 71.4,
+      "goals_for": 18,
+      "goals_against": 5,
+      "goal_diff": 13,
+      "avg_scored": 2.25,
+      "avg_conceded": 0.62,
+      "win_rate": 62.5,
       "matches": [],
-      "home_avg_scored": 2.29,
-      "home_avg_conceded": 1.14,
-      "away_avg_scored": 2.29,
-      "away_avg_conceded": 1.14,
+      "home_avg_scored": 2.25,
+      "home_avg_conceded": 0.62,
+      "away_avg_scored": 2.25,
+      "away_avg_conceded": 0.62,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.43,
+      "recent_goals_avg": 2.87,
       "recent_matches": []
     },
     {
-      "name": "Trabzonspor",
-      "id": "997",
+      "name": "Besiktas",
+      "id": "1895",
       "rank": 5,
-      "points": 13,
-      "played": 7,
-      "wins": 4,
-      "draws": 1,
-      "losses": 2,
+      "points": 15,
+      "played": 8,
+      "wins": 5,
+      "draws": 0,
+      "losses": 3,
       "goals_for": 16,
-      "goals_against": 5,
-      "goal_diff": 11,
-      "avg_scored": 2.29,
-      "avg_conceded": 0.71,
-      "win_rate": 57.1,
+      "goals_against": 10,
+      "goal_diff": 6,
+      "avg_scored": 2.0,
+      "avg_conceded": 1.25,
+      "win_rate": 62.5,
       "matches": [],
-      "home_avg_scored": 2.29,
-      "home_avg_conceded": 0.71,
-      "away_avg_scored": 2.29,
-      "away_avg_conceded": 0.71,
+      "home_avg_scored": 2.0,
+      "home_avg_conceded": 1.25,
+      "away_avg_scored": 2.0,
+      "away_avg_conceded": 1.25,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.0,
+      "recent_goals_avg": 3.25,
       "recent_matches": []
     },
     {
@@ -493,112 +493,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328459,
-      "home": "Trabzonspor",
-      "away": "Besiktas",
-      "date": "19.10.2026",
-      "time": "20:00",
-      "odds": "MS1: 1.68 | X: 3.40 | MS2: 4.60",
-      "odds_detail": {
-        "ms1": 1.68,
-        "x": 3.4,
-        "ms2": 4.6
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 3.0,
-        "x": 3.7,
-        "ms2": 2.18
-      },
-      "current_odds": {
-        "ms1": 1.68,
-        "x": 3.4,
-        "ms2": 4.6
-      },
-      "odds_change_pct": {
-        "ms1": -44.0,
-        "x": -8.11,
-        "ms2": 111.01
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-12T23:34:36.127495+03:00",
-          "ms1": 3.0,
-          "x": 3.7,
-          "ms2": 2.18
-        },
-        {
-          "timestamp": "2026-10-16T05:10:53.098098+03:00",
-          "ms1": 2.95,
-          "x": 3.75,
-          "ms2": 2.18
-        },
-        {
-          "timestamp": "2026-10-17T05:04:24.396862+03:00",
-          "ms1": 3.0,
-          "x": 3.7,
-          "ms2": 2.17
-        },
-        {
-          "timestamp": "2026-10-17T17:37:31.777177+03:00",
-          "ms1": 2.6,
-          "x": 3.6,
-          "ms2": 2.48
-        },
-        {
-          "timestamp": "2026-10-18T05:03:46.392552+03:00",
-          "ms1": 2.63,
-          "x": 3.6,
-          "ms2": 2.45
-        },
-        {
-          "timestamp": "2026-10-18T18:04:31.487861+03:00",
-          "ms1": 2.6,
-          "x": 3.65,
-          "ms2": 2.45
-        },
-        {
-          "timestamp": "2026-10-19T05:20:36.280292+03:00",
-          "ms1": 2.6,
-          "x": 3.6,
-          "ms2": 2.45
-        },
-        {
-          "timestamp": "2026-10-19T20:56:05.936344+03:00",
-          "ms1": 1.68,
-          "x": 3.4,
-          "ms2": 4.6
-        }
-      ],
-      "home_stats": {
-        "name": "Trabzonspor",
-        "home_avg_scored": 2.29,
-        "home_avg_conceded": 0.71,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 7,
-        "rank": 5,
-        "points": 13,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Besiktas",
-        "away_avg_scored": 2.29,
-        "away_avg_conceded": 1.14,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.43,
-        "played": 7,
-        "rank": 4,
-        "points": 15,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Trendyol Süper Lig",
       "event_id": 1028328498,
@@ -1076,14 +970,14 @@
       ],
       "home_stats": {
         "name": "Besiktas",
-        "home_avg_scored": 2.29,
-        "home_avg_conceded": 1.14,
+        "home_avg_scored": 2.0,
+        "home_avg_conceded": 1.25,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.43,
-        "played": 7,
-        "rank": 4,
+        "recent_goals_avg": 3.25,
+        "played": 8,
+        "rank": 5,
         "points": 15,
         "recent_matches": []
       },
@@ -1153,15 +1047,79 @@
       },
       "away_stats": {
         "name": "Trabzonspor",
-        "away_avg_scored": 2.29,
-        "away_avg_conceded": 0.71,
+        "away_avg_scored": 2.25,
+        "away_avg_conceded": 0.62,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 7,
-        "rank": 5,
-        "points": 13,
+        "recent_goals_avg": 2.87,
+        "played": 8,
+        "rank": 4,
+        "points": 16,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328508,
+      "home": "Galatasaray",
+      "away": "Fenerbahce",
+      "date": "26.10.2026",
+      "time": "21:30",
+      "odds": "MS1: 2.15 | X: 3.65 | MS2: 3.05",
+      "odds_detail": {
+        "ms1": 2.15,
+        "x": 3.65,
+        "ms2": 3.05
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.15,
+        "x": 3.65,
+        "ms2": 3.05
+      },
+      "current_odds": {
+        "ms1": 2.15,
+        "x": 3.65,
+        "ms2": 3.05
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-20T05:34:10.364425+03:00",
+          "ms1": 2.15,
+          "x": 3.65,
+          "ms2": 3.05
+        }
+      ],
+      "home_stats": {
+        "name": "Galatasaray",
+        "home_avg_scored": 2.12,
+        "home_avg_conceded": 1.38,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 8,
+        "rank": 1,
+        "points": 19,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Fenerbahce",
+        "away_avg_scored": 2.75,
+        "away_avg_conceded": 0.75,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 8,
+        "rank": 3,
+        "points": 16,
         "recent_matches": []
       }
     }
