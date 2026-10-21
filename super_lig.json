@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-20T19:00:21.385416+03:00",
+  "last_updated": "2026-10-21T05:28:28.033658+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -1084,11 +1084,11 @@
       "away": "Fenerbahce",
       "date": "26.10.2026",
       "time": "21:30",
-      "odds": "MS1: 2.15 | X: 3.65 | MS2: 3.05",
+      "odds": "MS1: 2.10 | X: 3.60 | MS2: 3.00",
       "odds_detail": {
-        "ms1": 2.15,
-        "x": 3.65,
-        "ms2": 3.05
+        "ms1": 2.1,
+        "x": 3.6,
+        "ms2": 3.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1097,14 +1097,14 @@
         "ms2": 3.05
       },
       "current_odds": {
-        "ms1": 2.15,
-        "x": 3.65,
-        "ms2": 3.05
+        "ms1": 2.1,
+        "x": 3.6,
+        "ms2": 3.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -2.33,
+        "x": -1.37,
+        "ms2": -1.64
       },
       "odds_history": [
         {
@@ -1112,6 +1112,12 @@
           "ms1": 2.15,
           "x": 3.65,
           "ms2": 3.05
+        },
+        {
+          "timestamp": "2026-10-21T05:28:28.033658+03:00",
+          "ms1": 2.1,
+          "x": 3.6,
+          "ms2": 3.0
         }
       ],
       "home_stats": {

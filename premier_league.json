@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-20T19:00:22.090941+03:00",
+  "last_updated": "2026-10-21T05:28:28.541683+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -906,11 +906,11 @@
       "away": "Tottenham Hotspur",
       "date": "24.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.72 | X: 4.20 | MS2: 4.30",
+      "odds": "MS1: 1.68 | X: 4.25 | MS2: 4.50",
       "odds_detail": {
-        "ms1": 1.72,
-        "x": 4.2,
-        "ms2": 4.3
+        "ms1": 1.68,
+        "x": 4.25,
+        "ms2": 4.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -919,14 +919,14 @@
         "ms2": 3.85
       },
       "current_odds": {
-        "ms1": 1.72,
-        "x": 4.2,
-        "ms2": 4.3
+        "ms1": 1.68,
+        "x": 4.25,
+        "ms2": 4.5
       },
       "odds_change_pct": {
-        "ms1": -8.51,
-        "x": 2.44,
-        "ms2": 11.69
+        "ms1": -10.64,
+        "x": 3.66,
+        "ms2": 16.88
       },
       "odds_history": [
         {
@@ -964,6 +964,12 @@
           "ms1": 1.72,
           "x": 4.2,
           "ms2": 4.3
+        },
+        {
+          "timestamp": "2026-10-21T05:28:28.541683+03:00",
+          "ms1": 1.68,
+          "x": 4.25,
+          "ms2": 4.5
         }
       ],
       "home_stats": {
@@ -1088,11 +1094,11 @@
       "away": "Brighton & Hove Albion",
       "date": "25.10.2026",
       "time": "17:00",
-      "odds": "MS1: 2.12 | X: 3.85 | MS2: 3.15",
+      "odds": "MS1: 2.16 | X: 3.80 | MS2: 3.05",
       "odds_detail": {
-        "ms1": 2.12,
-        "x": 3.85,
-        "ms2": 3.15
+        "ms1": 2.16,
+        "x": 3.8,
+        "ms2": 3.05
       },
       "odds_available": true,
       "opening_odds": {
@@ -1101,14 +1107,14 @@
         "ms2": 3.45
       },
       "current_odds": {
-        "ms1": 2.12,
-        "x": 3.85,
-        "ms2": 3.15
+        "ms1": 2.16,
+        "x": 3.8,
+        "ms2": 3.05
       },
       "odds_change_pct": {
-        "ms1": 4.95,
-        "x": -3.75,
-        "ms2": -8.7
+        "ms1": 6.93,
+        "x": -5.0,
+        "ms2": -11.59
       },
       "odds_history": [
         {
@@ -1140,6 +1146,12 @@
           "ms1": 2.12,
           "x": 3.85,
           "ms2": 3.15
+        },
+        {
+          "timestamp": "2026-10-21T05:28:28.541683+03:00",
+          "ms1": 2.16,
+          "x": 3.8,
+          "ms2": 3.05
         }
       ],
       "home_stats": {
