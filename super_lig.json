@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-21T19:17:15.099629+03:00",
+  "last_updated": "2026-10-22T05:24:29.100986+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -810,11 +810,11 @@
       "away": "Genclerbirligi",
       "date": "25.10.2026",
       "time": "16:00",
-      "odds": "MS1: 1.87 | X: 3.50 | MS2: 4.10",
+      "odds": "MS1: 1.68 | X: 3.70 | MS2: 5.00",
       "odds_detail": {
-        "ms1": 1.87,
-        "x": 3.5,
-        "ms2": 4.1
+        "ms1": 1.68,
+        "x": 3.7,
+        "ms2": 5.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -823,14 +823,14 @@
         "ms2": 4.6
       },
       "current_odds": {
-        "ms1": 1.87,
-        "x": 3.5,
-        "ms2": 4.1
+        "ms1": 1.68,
+        "x": 3.7,
+        "ms2": 5.0
       },
       "odds_change_pct": {
-        "ms1": 8.72,
-        "x": -6.67,
-        "ms2": -10.87
+        "ms1": -2.33,
+        "x": -1.33,
+        "ms2": 8.7
       },
       "odds_history": [
         {
@@ -856,6 +856,12 @@
           "ms1": 1.87,
           "x": 3.5,
           "ms2": 4.1
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.100986+03:00",
+          "ms1": 1.68,
+          "x": 3.7,
+          "ms2": 5.0
         }
       ],
       "home_stats": {

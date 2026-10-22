@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-21T19:17:16.026360+03:00",
+  "last_updated": "2026-10-22T05:24:30.659401+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,10 +500,10 @@
       "away": "Borussia Mönchengladbach",
       "date": "23.10.2026",
       "time": "21:30",
-      "odds": "MS1: 1.36 | X: 5.30 | MS2: 6.75",
+      "odds": "MS1: 1.37 | X: 5.20 | MS2: 6.75",
       "odds_detail": {
-        "ms1": 1.36,
-        "x": 5.3,
+        "ms1": 1.37,
+        "x": 5.2,
         "ms2": 6.75
       },
       "odds_available": true,
@@ -513,13 +513,13 @@
         "ms2": 6.4
       },
       "current_odds": {
-        "ms1": 1.36,
-        "x": 5.3,
+        "ms1": 1.37,
+        "x": 5.2,
         "ms2": 6.75
       },
       "odds_change_pct": {
-        "ms1": -0.73,
-        "x": -1.85,
+        "ms1": 0.0,
+        "x": -3.7,
         "ms2": 5.47
       },
       "odds_history": [
@@ -557,6 +557,12 @@
           "timestamp": "2026-10-21T19:17:16.026360+03:00",
           "ms1": 1.36,
           "x": 5.3,
+          "ms2": 6.75
+        },
+        {
+          "timestamp": "2026-10-22T05:24:30.659401+03:00",
+          "ms1": 1.37,
+          "x": 5.2,
           "ms2": 6.75
         }
       ],
@@ -904,11 +910,11 @@
       "away": "SV Elversberg",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.34 | X: 5.50 | MS2: 7.00",
+      "odds": "MS1: 1.37 | X: 5.30 | MS2: 6.75",
       "odds_detail": {
-        "ms1": 1.34,
-        "x": 5.5,
-        "ms2": 7.0
+        "ms1": 1.37,
+        "x": 5.3,
+        "ms2": 6.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -917,14 +923,14 @@
         "ms2": 6.5
       },
       "current_odds": {
-        "ms1": 1.34,
-        "x": 5.5,
-        "ms2": 7.0
+        "ms1": 1.37,
+        "x": 5.3,
+        "ms2": 6.75
       },
       "odds_change_pct": {
-        "ms1": -1.47,
-        "x": 1.85,
-        "ms2": 7.69
+        "ms1": 0.74,
+        "x": -1.85,
+        "ms2": 3.85
       },
       "odds_history": [
         {
@@ -944,6 +950,12 @@
           "ms1": 1.34,
           "x": 5.5,
           "ms2": 7.0
+        },
+        {
+          "timestamp": "2026-10-22T05:24:30.659401+03:00",
+          "ms1": 1.37,
+          "x": 5.3,
+          "ms2": 6.75
         }
       ],
       "home_stats": {
@@ -1138,9 +1150,9 @@
       "away": "Bayern Munich",
       "date": "25.10.2026",
       "time": "19:30",
-      "odds": "MS1: 6.50 | X: 5.60 | MS2: 1.35",
+      "odds": "MS1: 6.75 | X: 5.60 | MS2: 1.35",
       "odds_detail": {
-        "ms1": 6.5,
+        "ms1": 6.75,
         "x": 5.6,
         "ms2": 1.35
       },
@@ -1151,12 +1163,12 @@
         "ms2": 1.4
       },
       "current_odds": {
-        "ms1": 6.5,
+        "ms1": 6.75,
         "x": 5.6,
         "ms2": 1.35
       },
       "odds_change_pct": {
-        "ms1": 4.0,
+        "ms1": 8.0,
         "x": 9.8,
         "ms2": -3.57
       },
@@ -1182,6 +1194,12 @@
         {
           "timestamp": "2026-10-20T19:00:22.760434+03:00",
           "ms1": 6.5,
+          "x": 5.6,
+          "ms2": 1.35
+        },
+        {
+          "timestamp": "2026-10-22T05:24:30.659401+03:00",
+          "ms1": 6.75,
           "x": 5.6,
           "ms2": 1.35
         }
@@ -1546,11 +1564,11 @@
       "away": "SC Freiburg",
       "date": "31.10.2026",
       "time": "17:30",
-      "odds": "MS1: 2.65 | X: 3.70 | MS2: 2.38",
+      "odds": "MS1: 2.70 | X: 3.70 | MS2: 2.30",
       "odds_detail": {
-        "ms1": 2.65,
+        "ms1": 2.7,
         "x": 3.7,
-        "ms2": 2.38
+        "ms2": 2.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -1559,14 +1577,14 @@
         "ms2": 2.38
       },
       "current_odds": {
-        "ms1": 2.65,
+        "ms1": 2.7,
         "x": 3.7,
-        "ms2": 2.38
+        "ms2": 2.3
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 1.89,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": -3.36
       },
       "odds_history": [
         {
@@ -1574,6 +1592,12 @@
           "ms1": 2.65,
           "x": 3.7,
           "ms2": 2.38
+        },
+        {
+          "timestamp": "2026-10-22T05:24:30.659401+03:00",
+          "ms1": 2.7,
+          "x": 3.7,
+          "ms2": 2.3
         }
       ],
       "home_stats": {
@@ -1600,6 +1624,70 @@
         "played": 6,
         "rank": 3,
         "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230594,
+      "home": "Bayern Munich",
+      "away": "Borussia Dortmund",
+      "date": "31.10.2026",
+      "time": "20:30",
+      "odds": "MS1: 1.28 | X: 6.10 | MS2: 8.00",
+      "odds_detail": {
+        "ms1": 1.28,
+        "x": 6.1,
+        "ms2": 8.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.28,
+        "x": 6.1,
+        "ms2": 8.0
+      },
+      "current_odds": {
+        "ms1": 1.28,
+        "x": 6.1,
+        "ms2": 8.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-22T05:24:30.659401+03:00",
+          "ms1": 1.28,
+          "x": 6.1,
+          "ms2": 8.0
+        }
+      ],
+      "home_stats": {
+        "name": "Bayern Munich",
+        "home_avg_scored": 3.67,
+        "home_avg_conceded": 0.83,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.5,
+        "played": 6,
+        "rank": 1,
+        "points": 14,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Borussia Dortmund",
+        "away_avg_scored": 1.83,
+        "away_avg_conceded": 0.67,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.5,
+        "played": 6,
+        "rank": 2,
+        "points": 14,
         "recent_matches": []
       }
     }

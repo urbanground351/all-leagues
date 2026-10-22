@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-21T19:17:15.572905+03:00",
+  "last_updated": "2026-10-22T05:24:29.887821+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -636,10 +636,10 @@
       "away": "Manchester City",
       "date": "24.10.2026",
       "time": "14:30",
-      "odds": "MS1: 4.40 | X: 4.25 | MS2: 1.70",
+      "odds": "MS1: 4.40 | X: 4.30 | MS2: 1.70",
       "odds_detail": {
         "ms1": 4.4,
-        "x": 4.25,
+        "x": 4.3,
         "ms2": 1.7
       },
       "odds_available": true,
@@ -650,12 +650,12 @@
       },
       "current_odds": {
         "ms1": 4.4,
-        "x": 4.25,
+        "x": 4.3,
         "ms2": 1.7
       },
       "odds_change_pct": {
         "ms1": -10.2,
-        "x": -1.16,
+        "x": 0.0,
         "ms2": 2.41
       },
       "odds_history": [
@@ -706,6 +706,12 @@
           "ms1": 4.4,
           "x": 4.25,
           "ms2": 1.7
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 4.4,
+          "x": 4.3,
+          "ms2": 1.7
         }
       ],
       "home_stats": {
@@ -742,9 +748,9 @@
       "away": "Everton",
       "date": "24.10.2026",
       "time": "17:00",
-      "odds": "MS1: 1.37 | X: 4.80 | MS2: 8.50",
+      "odds": "MS1: 1.38 | X: 4.80 | MS2: 8.50",
       "odds_detail": {
-        "ms1": 1.37,
+        "ms1": 1.38,
         "x": 4.8,
         "ms2": 8.5
       },
@@ -755,12 +761,12 @@
         "ms2": 8.5
       },
       "current_odds": {
-        "ms1": 1.37,
+        "ms1": 1.38,
         "x": 4.8,
         "ms2": 8.5
       },
       "odds_change_pct": {
-        "ms1": -2.84,
+        "ms1": -2.13,
         "x": 0.0,
         "ms2": 0.0
       },
@@ -800,6 +806,12 @@
           "ms1": 1.37,
           "x": 4.8,
           "ms2": 8.5
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 1.38,
+          "x": 4.8,
+          "ms2": 8.5
         }
       ],
       "home_stats": {
@@ -836,11 +848,11 @@
       "away": "Fulham",
       "date": "24.10.2026",
       "time": "17:00",
-      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.35",
+      "odds": "MS1: 3.00 | X: 3.60 | MS2: 2.28",
       "odds_detail": {
-        "ms1": 2.88,
+        "ms1": 3.0,
         "x": 3.6,
-        "ms2": 2.35
+        "ms2": 2.28
       },
       "odds_available": true,
       "opening_odds": {
@@ -849,14 +861,14 @@
         "ms2": 2.4
       },
       "current_odds": {
-        "ms1": 2.88,
+        "ms1": 3.0,
         "x": 3.6,
-        "ms2": 2.35
+        "ms2": 2.28
       },
       "odds_change_pct": {
-        "ms1": -2.37,
+        "ms1": 1.69,
         "x": 0.0,
-        "ms2": -2.08
+        "ms2": -5.0
       },
       "odds_history": [
         {
@@ -888,6 +900,12 @@
           "ms1": 2.88,
           "x": 3.6,
           "ms2": 2.35
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 3.0,
+          "x": 3.6,
+          "ms2": 2.28
         }
       ],
       "home_stats": {
@@ -924,9 +942,9 @@
       "away": "Tottenham Hotspur",
       "date": "24.10.2026",
       "time": "19:30",
-      "odds": "MS1: 1.71 | X: 4.20 | MS2: 4.40",
+      "odds": "MS1: 1.70 | X: 4.20 | MS2: 4.40",
       "odds_detail": {
-        "ms1": 1.71,
+        "ms1": 1.7,
         "x": 4.2,
         "ms2": 4.4
       },
@@ -937,12 +955,12 @@
         "ms2": 3.85
       },
       "current_odds": {
-        "ms1": 1.71,
+        "ms1": 1.7,
         "x": 4.2,
         "ms2": 4.4
       },
       "odds_change_pct": {
-        "ms1": -9.04,
+        "ms1": -9.57,
         "x": 2.44,
         "ms2": 14.29
       },
@@ -994,6 +1012,12 @@
           "ms1": 1.71,
           "x": 4.2,
           "ms2": 4.4
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 1.7,
+          "x": 4.2,
+          "ms2": 4.4
         }
       ],
       "home_stats": {
@@ -1025,16 +1049,204 @@
     },
     {
       "league": "English Premier League",
+      "event_id": 1028072735,
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "date": "25.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 2.88 | X: 3.65 | MS2: 2.33",
+      "odds_detail": {
+        "ms1": 2.88,
+        "x": 3.65,
+        "ms2": 2.33
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.65,
+        "x": 3.6,
+        "ms2": 2.6
+      },
+      "current_odds": {
+        "ms1": 2.88,
+        "x": 3.65,
+        "ms2": 2.33
+      },
+      "odds_change_pct": {
+        "ms1": 8.68,
+        "x": 1.39,
+        "ms2": -10.38
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-12T23:34:36.839011+03:00",
+          "ms1": 2.65,
+          "x": 3.6,
+          "ms2": 2.6
+        },
+        {
+          "timestamp": "2026-10-18T18:04:32.109359+03:00",
+          "ms1": 2.75,
+          "x": 3.6,
+          "ms2": 2.5
+        },
+        {
+          "timestamp": "2026-10-19T05:20:36.946177+03:00",
+          "ms1": 2.85,
+          "x": 3.6,
+          "ms2": 2.45
+        },
+        {
+          "timestamp": "2026-10-19T20:56:06.376701+03:00",
+          "ms1": 2.88,
+          "x": 3.65,
+          "ms2": 2.33
+        }
+      ],
+      "home_stats": {
+        "name": "Crystal Palace",
+        "home_avg_scored": 1.29,
+        "home_avg_conceded": 2.43,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.72,
+        "played": 7,
+        "rank": 14,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Newcastle United",
+        "away_avg_scored": 1.43,
+        "away_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.43,
+        "played": 7,
+        "rank": 11,
+        "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072732,
+      "home": "Hull City",
+      "away": "Brentford",
+      "date": "25.10.2026",
+      "time": "17:00",
+      "odds": "MS1: 4.75 | X: 3.95 | MS2: 1.70",
+      "odds_detail": {
+        "ms1": 4.75,
+        "x": 3.95,
+        "ms2": 1.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.5,
+        "x": 3.95,
+        "ms2": 1.77
+      },
+      "current_odds": {
+        "ms1": 4.75,
+        "x": 3.95,
+        "ms2": 1.7
+      },
+      "odds_change_pct": {
+        "ms1": 5.56,
+        "x": 0.0,
+        "ms2": -3.95
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-12T23:34:36.839011+03:00",
+          "ms1": 4.5,
+          "x": 3.95,
+          "ms2": 1.77
+        },
+        {
+          "timestamp": "2026-10-14T05:38:41.457722+03:00",
+          "ms1": 4.6,
+          "x": 3.95,
+          "ms2": 1.77
+        },
+        {
+          "timestamp": "2026-10-16T18:45:03.532270+03:00",
+          "ms1": 4.5,
+          "x": 4.0,
+          "ms2": 1.76
+        },
+        {
+          "timestamp": "2026-10-19T05:20:36.946177+03:00",
+          "ms1": 4.6,
+          "x": 4.0,
+          "ms2": 1.75
+        },
+        {
+          "timestamp": "2026-10-19T20:56:06.376701+03:00",
+          "ms1": 4.5,
+          "x": 3.95,
+          "ms2": 1.74
+        },
+        {
+          "timestamp": "2026-10-20T19:00:22.090941+03:00",
+          "ms1": 4.6,
+          "x": 3.95,
+          "ms2": 1.73
+        },
+        {
+          "timestamp": "2026-10-21T19:17:15.572905+03:00",
+          "ms1": 4.75,
+          "x": 4.0,
+          "ms2": 1.7
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 4.75,
+          "x": 3.95,
+          "ms2": 1.7
+        }
+      ],
+      "home_stats": {
+        "name": "Hull City",
+        "home_avg_scored": 1.14,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.14,
+        "played": 7,
+        "rank": 9,
+        "points": 9,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Brentford",
+        "away_avg_scored": 1.86,
+        "away_avg_conceded": 1.14,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.0,
+        "played": 7,
+        "rank": 6,
+        "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
       "event_id": 1028072804,
       "home": "Manchester United",
       "away": "AFC Bournemouth",
       "date": "25.10.2026",
       "time": "17:00",
-      "odds": "MS1: 1.84 | X: 3.95 | MS2: 3.90",
+      "odds": "MS1: 1.94 | X: 3.80 | MS2: 3.70",
       "odds_detail": {
-        "ms1": 1.84,
-        "x": 3.95,
-        "ms2": 3.9
+        "ms1": 1.94,
+        "x": 3.8,
+        "ms2": 3.7
       },
       "odds_available": true,
       "opening_odds": {
@@ -1043,14 +1255,14 @@
         "ms2": 3.95
       },
       "current_odds": {
-        "ms1": 1.84,
-        "x": 3.95,
-        "ms2": 3.9
+        "ms1": 1.94,
+        "x": 3.8,
+        "ms2": 3.7
       },
       "odds_change_pct": {
-        "ms1": 0.55,
-        "x": -5.95,
-        "ms2": -1.27
+        "ms1": 6.01,
+        "x": -9.52,
+        "ms2": -6.33
       },
       "odds_history": [
         {
@@ -1088,6 +1300,12 @@
           "ms1": 1.84,
           "x": 3.95,
           "ms2": 3.9
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 1.94,
+          "x": 3.8,
+          "ms2": 3.7
         }
       ],
       "home_stats": {
@@ -1219,188 +1437,6 @@
     },
     {
       "league": "English Premier League",
-      "event_id": 1028072735,
-      "home": "Crystal Palace",
-      "away": "Newcastle United",
-      "date": "25.10.2026",
-      "time": "17:00",
-      "odds": "MS1: 2.88 | X: 3.65 | MS2: 2.33",
-      "odds_detail": {
-        "ms1": 2.88,
-        "x": 3.65,
-        "ms2": 2.33
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.65,
-        "x": 3.6,
-        "ms2": 2.6
-      },
-      "current_odds": {
-        "ms1": 2.88,
-        "x": 3.65,
-        "ms2": 2.33
-      },
-      "odds_change_pct": {
-        "ms1": 8.68,
-        "x": 1.39,
-        "ms2": -10.38
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-12T23:34:36.839011+03:00",
-          "ms1": 2.65,
-          "x": 3.6,
-          "ms2": 2.6
-        },
-        {
-          "timestamp": "2026-10-18T18:04:32.109359+03:00",
-          "ms1": 2.75,
-          "x": 3.6,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-10-19T05:20:36.946177+03:00",
-          "ms1": 2.85,
-          "x": 3.6,
-          "ms2": 2.45
-        },
-        {
-          "timestamp": "2026-10-19T20:56:06.376701+03:00",
-          "ms1": 2.88,
-          "x": 3.65,
-          "ms2": 2.33
-        }
-      ],
-      "home_stats": {
-        "name": "Crystal Palace",
-        "home_avg_scored": 1.29,
-        "home_avg_conceded": 2.43,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.72,
-        "played": 7,
-        "rank": 14,
-        "points": 7,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Newcastle United",
-        "away_avg_scored": 1.43,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.43,
-        "played": 7,
-        "rank": 11,
-        "points": 8,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
-      "event_id": 1028072732,
-      "home": "Hull City",
-      "away": "Brentford",
-      "date": "25.10.2026",
-      "time": "17:00",
-      "odds": "MS1: 4.75 | X: 4.00 | MS2: 1.70",
-      "odds_detail": {
-        "ms1": 4.75,
-        "x": 4.0,
-        "ms2": 1.7
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 4.5,
-        "x": 3.95,
-        "ms2": 1.77
-      },
-      "current_odds": {
-        "ms1": 4.75,
-        "x": 4.0,
-        "ms2": 1.7
-      },
-      "odds_change_pct": {
-        "ms1": 5.56,
-        "x": 1.27,
-        "ms2": -3.95
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-12T23:34:36.839011+03:00",
-          "ms1": 4.5,
-          "x": 3.95,
-          "ms2": 1.77
-        },
-        {
-          "timestamp": "2026-10-14T05:38:41.457722+03:00",
-          "ms1": 4.6,
-          "x": 3.95,
-          "ms2": 1.77
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.532270+03:00",
-          "ms1": 4.5,
-          "x": 4.0,
-          "ms2": 1.76
-        },
-        {
-          "timestamp": "2026-10-19T05:20:36.946177+03:00",
-          "ms1": 4.6,
-          "x": 4.0,
-          "ms2": 1.75
-        },
-        {
-          "timestamp": "2026-10-19T20:56:06.376701+03:00",
-          "ms1": 4.5,
-          "x": 3.95,
-          "ms2": 1.74
-        },
-        {
-          "timestamp": "2026-10-20T19:00:22.090941+03:00",
-          "ms1": 4.6,
-          "x": 3.95,
-          "ms2": 1.73
-        },
-        {
-          "timestamp": "2026-10-21T19:17:15.572905+03:00",
-          "ms1": 4.75,
-          "x": 4.0,
-          "ms2": 1.7
-        }
-      ],
-      "home_stats": {
-        "name": "Hull City",
-        "home_avg_scored": 1.14,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.14,
-        "played": 7,
-        "rank": 9,
-        "points": 9,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Brentford",
-        "away_avg_scored": 1.86,
-        "away_avg_conceded": 1.14,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 7,
-        "rank": 6,
-        "points": 10,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072814,
       "home": "Sunderland",
       "away": "Leeds United",
@@ -1500,11 +1536,11 @@
       "away": "Manchester United",
       "date": "31.10.2026",
       "time": "15:30",
-      "odds": "MS1: 1.91 | X: 4.10 | MS2: 3.75",
+      "odds": "MS1: 1.84 | X: 4.10 | MS2: 3.85",
       "odds_detail": {
-        "ms1": 1.91,
+        "ms1": 1.84,
         "x": 4.1,
-        "ms2": 3.75
+        "ms2": 3.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -1513,14 +1549,14 @@
         "ms2": 3.55
       },
       "current_odds": {
-        "ms1": 1.91,
+        "ms1": 1.84,
         "x": 4.1,
-        "ms2": 3.75
+        "ms2": 3.85
       },
       "odds_change_pct": {
-        "ms1": -3.05,
+        "ms1": -6.6,
         "x": 0.0,
-        "ms2": 5.63
+        "ms2": 8.45
       },
       "odds_history": [
         {
@@ -1540,6 +1576,12 @@
           "ms1": 1.91,
           "x": 4.1,
           "ms2": 3.75
+        },
+        {
+          "timestamp": "2026-10-22T05:24:29.887821+03:00",
+          "ms1": 1.84,
+          "x": 4.1,
+          "ms2": 3.85
         }
       ],
       "home_stats": {
