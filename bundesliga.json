@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-23T19:06:01.642237+03:00",
+  "last_updated": "2026-10-24T05:28:00.256314+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -330,36 +330,9 @@
       "recent_matches": []
     },
     {
-      "name": "VfB Stuttgart",
-      "id": "134",
-      "rank": 13,
-      "points": 6,
-      "played": 6,
-      "wins": 2,
-      "draws": 0,
-      "losses": 4,
-      "goals_for": 8,
-      "goals_against": 10,
-      "goal_diff": -2,
-      "avg_scored": 1.33,
-      "avg_conceded": 1.67,
-      "win_rate": 33.3,
-      "matches": [],
-      "home_avg_scored": 1.33,
-      "home_avg_conceded": 1.67,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 1.67,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.0,
-      "recent_matches": []
-    },
-    {
       "name": "TSG Hoffenheim",
       "id": "7911",
-      "rank": 14,
+      "rank": 13,
       "points": 6,
       "played": 6,
       "wins": 2,
@@ -381,6 +354,33 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 4.16,
+      "recent_matches": []
+    },
+    {
+      "name": "VfB Stuttgart",
+      "id": "134",
+      "rank": 14,
+      "points": 6,
+      "played": 7,
+      "wins": 2,
+      "draws": 0,
+      "losses": 5,
+      "goals_for": 10,
+      "goals_against": 13,
+      "goal_diff": -3,
+      "avg_scored": 1.43,
+      "avg_conceded": 1.86,
+      "win_rate": 28.6,
+      "matches": [],
+      "home_avg_scored": 1.43,
+      "home_avg_conceded": 1.86,
+      "away_avg_scored": 1.43,
+      "away_avg_conceded": 1.86,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.29,
       "recent_matches": []
     },
     {
@@ -468,143 +468,31 @@
       "name": "Borussia Mönchengladbach",
       "id": "268",
       "rank": 18,
-      "points": 0,
-      "played": 6,
-      "wins": 0,
+      "points": 3,
+      "played": 7,
+      "wins": 1,
       "draws": 0,
       "losses": 6,
-      "goals_for": 8,
-      "goals_against": 20,
-      "goal_diff": -12,
-      "avg_scored": 1.33,
-      "avg_conceded": 3.33,
-      "win_rate": 0.0,
+      "goals_for": 11,
+      "goals_against": 22,
+      "goal_diff": -11,
+      "avg_scored": 1.57,
+      "avg_conceded": 3.14,
+      "win_rate": 14.3,
       "matches": [],
-      "home_avg_scored": 1.33,
-      "home_avg_conceded": 3.33,
-      "away_avg_scored": 1.33,
-      "away_avg_conceded": 3.33,
+      "home_avg_scored": 1.57,
+      "home_avg_conceded": 3.14,
+      "away_avg_scored": 1.57,
+      "away_avg_conceded": 3.14,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 4.66,
+      "recent_goals_avg": 4.71,
       "recent_matches": []
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230586,
-      "home": "VfB Stuttgart",
-      "away": "Borussia Mönchengladbach",
-      "date": "23.10.2026",
-      "time": "21:30",
-      "odds": "MS1: 1.32 | X: 5.60 | MS2: 7.50",
-      "odds_detail": {
-        "ms1": 1.32,
-        "x": 5.6,
-        "ms2": 7.5
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.37,
-        "x": 5.4,
-        "ms2": 6.4
-      },
-      "current_odds": {
-        "ms1": 1.32,
-        "x": 5.6,
-        "ms2": 7.5
-      },
-      "odds_change_pct": {
-        "ms1": -3.65,
-        "x": 3.7,
-        "ms2": 17.19
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-13T21:38:47.217386+03:00",
-          "ms1": 1.37,
-          "x": 5.4,
-          "ms2": 6.4
-        },
-        {
-          "timestamp": "2026-10-15T18:57:15.425038+03:00",
-          "ms1": 1.38,
-          "x": 5.3,
-          "ms2": 6.4
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.910677+03:00",
-          "ms1": 1.37,
-          "x": 5.4,
-          "ms2": 6.4
-        },
-        {
-          "timestamp": "2026-10-19T20:56:06.863046+03:00",
-          "ms1": 1.38,
-          "x": 5.3,
-          "ms2": 6.25
-        },
-        {
-          "timestamp": "2026-10-20T19:00:22.760434+03:00",
-          "ms1": 1.37,
-          "x": 5.3,
-          "ms2": 6.5
-        },
-        {
-          "timestamp": "2026-10-21T19:17:16.026360+03:00",
-          "ms1": 1.36,
-          "x": 5.3,
-          "ms2": 6.75
-        },
-        {
-          "timestamp": "2026-10-22T05:24:30.659401+03:00",
-          "ms1": 1.37,
-          "x": 5.2,
-          "ms2": 6.75
-        },
-        {
-          "timestamp": "2026-10-23T05:29:42.321030+03:00",
-          "ms1": 1.35,
-          "x": 5.4,
-          "ms2": 7.0
-        },
-        {
-          "timestamp": "2026-10-23T19:06:01.642237+03:00",
-          "ms1": 1.32,
-          "x": 5.6,
-          "ms2": 7.5
-        }
-      ],
-      "home_stats": {
-        "name": "VfB Stuttgart",
-        "home_avg_scored": 1.33,
-        "home_avg_conceded": 1.67,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 6,
-        "rank": 13,
-        "points": 6,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Borussia Mönchengladbach",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 3.33,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.66,
-        "played": 6,
-        "rank": 18,
-        "points": 0,
-        "recent_matches": []
-      }
-    },
     {
       "league": "German Bundesliga",
       "event_id": 1028230602,
@@ -612,9 +500,9 @@
       "away": "Schalke 04",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 2.00 | X: 3.70 | MS2: 3.30",
+      "odds": "MS1: 2.02 | X: 3.70 | MS2: 3.30",
       "odds_detail": {
-        "ms1": 2.0,
+        "ms1": 2.02,
         "x": 3.7,
         "ms2": 3.3
       },
@@ -625,12 +513,12 @@
         "ms2": 3.5
       },
       "current_odds": {
-        "ms1": 2.0,
+        "ms1": 2.02,
         "x": 3.7,
         "ms2": 3.3
       },
       "odds_change_pct": {
-        "ms1": 3.63,
+        "ms1": 4.66,
         "x": 0.0,
         "ms2": -5.71
       },
@@ -668,6 +556,12 @@
         {
           "timestamp": "2026-10-23T19:06:01.642237+03:00",
           "ms1": 2.0,
+          "x": 3.7,
+          "ms2": 3.3
+        },
+        {
+          "timestamp": "2026-10-24T05:28:00.256314+03:00",
+          "ms1": 2.02,
           "x": 3.7,
           "ms2": 3.3
         }
@@ -876,11 +770,11 @@
       "away": "1. FC Union Berlin",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.78 | X: 3.90 | MS2: 3.95",
+      "odds": "MS1: 1.80 | X: 3.90 | MS2: 3.85",
       "odds_detail": {
-        "ms1": 1.78,
+        "ms1": 1.8,
         "x": 3.9,
-        "ms2": 3.95
+        "ms2": 3.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -889,14 +783,14 @@
         "ms2": 4.1
       },
       "current_odds": {
-        "ms1": 1.78,
+        "ms1": 1.8,
         "x": 3.9,
-        "ms2": 3.95
+        "ms2": 3.85
       },
       "odds_change_pct": {
-        "ms1": 3.49,
+        "ms1": 4.65,
         "x": -4.88,
-        "ms2": -3.66
+        "ms2": -6.1
       },
       "odds_history": [
         {
@@ -940,6 +834,12 @@
           "ms1": 1.78,
           "x": 3.9,
           "ms2": 3.95
+        },
+        {
+          "timestamp": "2026-10-24T05:28:00.256314+03:00",
+          "ms1": 1.8,
+          "x": 3.9,
+          "ms2": 3.85
         }
       ],
       "home_stats": {
@@ -1215,7 +1115,7 @@
         "form": [],
         "recent_goals_avg": 4.16,
         "played": 6,
-        "rank": 14,
+        "rank": 13,
         "points": 6,
         "recent_matches": []
       },
@@ -1240,11 +1140,11 @@
       "away": "Bayern Munich",
       "date": "25.10.2026",
       "time": "19:30",
-      "odds": "MS1: 6.75 | X: 5.40 | MS2: 1.36",
+      "odds": "MS1: 6.10 | X: 5.30 | MS2: 1.38",
       "odds_detail": {
-        "ms1": 6.75,
-        "x": 5.4,
-        "ms2": 1.36
+        "ms1": 6.1,
+        "x": 5.3,
+        "ms2": 1.38
       },
       "odds_available": true,
       "opening_odds": {
@@ -1253,14 +1153,14 @@
         "ms2": 1.4
       },
       "current_odds": {
-        "ms1": 6.75,
-        "x": 5.4,
-        "ms2": 1.36
+        "ms1": 6.1,
+        "x": 5.3,
+        "ms2": 1.38
       },
       "odds_change_pct": {
-        "ms1": 8.0,
-        "x": 5.88,
-        "ms2": -2.86
+        "ms1": -2.4,
+        "x": 3.92,
+        "ms2": -1.43
       },
       "odds_history": [
         {
@@ -1310,6 +1210,12 @@
           "ms1": 6.75,
           "x": 5.4,
           "ms2": 1.36
+        },
+        {
+          "timestamp": "2026-10-24T05:28:00.256314+03:00",
+          "ms1": 6.1,
+          "x": 5.3,
+          "ms2": 1.38
         }
       ],
       "home_stats": {
@@ -1346,11 +1252,11 @@
       "away": "Mainz",
       "date": "30.10.2026",
       "time": "22:30",
-      "odds": "MS1: 3.05 | X: 3.60 | MS2: 2.15",
+      "odds": "MS1: 3.15 | X: 3.65 | MS2: 2.10",
       "odds_detail": {
-        "ms1": 3.05,
-        "x": 3.6,
-        "ms2": 2.15
+        "ms1": 3.15,
+        "x": 3.65,
+        "ms2": 2.1
       },
       "odds_available": true,
       "opening_odds": {
@@ -1359,14 +1265,14 @@
         "ms2": 2.12
       },
       "current_odds": {
-        "ms1": 3.05,
-        "x": 3.6,
-        "ms2": 2.15
+        "ms1": 3.15,
+        "x": 3.65,
+        "ms2": 2.1
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 1.42
+        "ms1": 3.28,
+        "x": 1.39,
+        "ms2": -0.94
       },
       "odds_history": [
         {
@@ -1386,6 +1292,12 @@
           "ms1": 3.05,
           "x": 3.6,
           "ms2": 2.15
+        },
+        {
+          "timestamp": "2026-10-24T05:28:00.256314+03:00",
+          "ms1": 3.15,
+          "x": 3.65,
+          "ms2": 2.1
         }
       ],
       "home_stats": {
@@ -1473,14 +1385,14 @@
       },
       "away_stats": {
         "name": "VfB Stuttgart",
-        "away_avg_scored": 1.33,
-        "away_avg_conceded": 1.67,
+        "away_avg_scored": 1.43,
+        "away_avg_conceded": 1.86,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.0,
-        "played": 6,
-        "rank": 13,
+        "recent_goals_avg": 3.29,
+        "played": 7,
+        "rank": 14,
         "points": 6,
         "recent_matches": []
       }
@@ -1536,15 +1448,15 @@
       ],
       "home_stats": {
         "name": "Borussia Mönchengladbach",
-        "home_avg_scored": 1.33,
-        "home_avg_conceded": 3.33,
+        "home_avg_scored": 1.57,
+        "home_avg_conceded": 3.14,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 4.66,
-        "played": 6,
+        "recent_goals_avg": 4.71,
+        "played": 7,
         "rank": 18,
-        "points": 0,
+        "points": 3,
         "recent_matches": []
       },
       "away_stats": {
@@ -1690,7 +1602,7 @@
         "form": [],
         "recent_goals_avg": 4.16,
         "played": 6,
-        "rank": 14,
+        "rank": 13,
         "points": 6,
         "recent_matches": []
       }
