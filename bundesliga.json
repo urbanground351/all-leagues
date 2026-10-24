@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-24T05:28:00.256314+03:00",
+  "last_updated": "2026-10-24T18:02:31.523533+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Schalke 04",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 2.02 | X: 3.70 | MS2: 3.30",
+      "odds": "MS1: 2.95 | X: 1.98 | MS2: 4.25",
       "odds_detail": {
-        "ms1": 2.02,
-        "x": 3.7,
-        "ms2": 3.3
+        "ms1": 2.95,
+        "x": 1.98,
+        "ms2": 4.25
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 3.5
       },
       "current_odds": {
-        "ms1": 2.02,
-        "x": 3.7,
-        "ms2": 3.3
+        "ms1": 2.95,
+        "x": 1.98,
+        "ms2": 4.25
       },
       "odds_change_pct": {
-        "ms1": 4.66,
-        "x": 0.0,
-        "ms2": -5.71
+        "ms1": 52.85,
+        "x": -46.49,
+        "ms2": 21.43
       },
       "odds_history": [
         {
@@ -564,6 +564,12 @@
           "ms1": 2.02,
           "x": 3.7,
           "ms2": 3.3
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 2.95,
+          "x": 1.98,
+          "ms2": 4.25
         }
       ],
       "home_stats": {
@@ -600,11 +606,11 @@
       "away": "Werder Bremen",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.68 | X: 4.00 | MS2: 4.40",
+      "odds": "MS1: 9.00 | X: 3.25 | MS2: 1.52",
       "odds_detail": {
-        "ms1": 1.68,
-        "x": 4.0,
-        "ms2": 4.4
+        "ms1": 9.0,
+        "x": 3.25,
+        "ms2": 1.52
       },
       "odds_available": true,
       "opening_odds": {
@@ -613,14 +619,14 @@
         "ms2": 4.25
       },
       "current_odds": {
-        "ms1": 1.68,
-        "x": 4.0,
-        "ms2": 4.4
+        "ms1": 9.0,
+        "x": 3.25,
+        "ms2": 1.52
       },
       "odds_change_pct": {
-        "ms1": -1.75,
-        "x": 1.27,
-        "ms2": 3.53
+        "ms1": 426.32,
+        "x": -17.72,
+        "ms2": -64.24
       },
       "odds_history": [
         {
@@ -646,6 +652,12 @@
           "ms1": 1.68,
           "x": 4.0,
           "ms2": 4.4
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 9.0,
+          "x": 3.25,
+          "ms2": 1.52
         }
       ],
       "home_stats": {
@@ -677,120 +689,32 @@
     },
     {
       "league": "German Bundesliga",
-      "event_id": 1028230596,
-      "home": "SC Paderborn 07",
-      "away": "Hamburg SV",
-      "date": "24.10.2026",
-      "time": "16:30",
-      "odds": "MS1: 2.23 | X: 3.60 | MS2: 2.88",
-      "odds_detail": {
-        "ms1": 2.23,
-        "x": 3.6,
-        "ms2": 2.88
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.2,
-        "x": 3.6,
-        "ms2": 2.9
-      },
-      "current_odds": {
-        "ms1": 2.23,
-        "x": 3.6,
-        "ms2": 2.88
-      },
-      "odds_change_pct": {
-        "ms1": 1.36,
-        "x": 0.0,
-        "ms2": -0.69
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-14T19:09:02.550500+03:00",
-          "ms1": 2.2,
-          "x": 3.6,
-          "ms2": 2.9
-        },
-        {
-          "timestamp": "2026-10-16T18:45:03.910677+03:00",
-          "ms1": 2.15,
-          "x": 3.7,
-          "ms2": 3.0
-        },
-        {
-          "timestamp": "2026-10-18T18:04:32.677214+03:00",
-          "ms1": 2.23,
-          "x": 3.65,
-          "ms2": 2.88
-        },
-        {
-          "timestamp": "2026-10-22T19:16:04.561737+03:00",
-          "ms1": 2.2,
-          "x": 3.65,
-          "ms2": 2.88
-        },
-        {
-          "timestamp": "2026-10-23T19:06:01.642237+03:00",
-          "ms1": 2.23,
-          "x": 3.6,
-          "ms2": 2.88
-        }
-      ],
-      "home_stats": {
-        "name": "SC Paderborn 07",
-        "home_avg_scored": 0.83,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.33,
-        "played": 6,
-        "rank": 16,
-        "points": 5,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Hamburg SV",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 2.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.5,
-        "played": 6,
-        "rank": 9,
-        "points": 9,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230588,
       "home": "FC Augsburg",
       "away": "1. FC Union Berlin",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.80 | X: 3.90 | MS2: 3.85",
+      "odds": "Oran yok",
       "odds_detail": {
-        "ms1": 1.8,
-        "x": 3.9,
-        "ms2": 3.85
+        "ms1": null,
+        "x": null,
+        "ms2": null
       },
-      "odds_available": true,
+      "odds_available": false,
       "opening_odds": {
         "ms1": 1.72,
         "x": 4.1,
         "ms2": 4.1
       },
       "current_odds": {
-        "ms1": 1.8,
-        "x": 3.9,
-        "ms2": 3.85
+        "ms1": null,
+        "x": null,
+        "ms2": null
       },
       "odds_change_pct": {
-        "ms1": 4.65,
-        "x": -4.88,
-        "ms2": -6.1
+        "ms1": null,
+        "x": null,
+        "ms2": null
       },
       "odds_history": [
         {
@@ -876,11 +800,11 @@
       "away": "SV Elversberg",
       "date": "24.10.2026",
       "time": "16:30",
-      "odds": "MS1: 1.40 | X: 5.10 | MS2: 6.25",
+      "odds": "MS1: 1.02 | X: 21.00 | MS2: 91.00",
       "odds_detail": {
-        "ms1": 1.4,
-        "x": 5.1,
-        "ms2": 6.25
+        "ms1": 1.02,
+        "x": 21.0,
+        "ms2": 91.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -889,14 +813,14 @@
         "ms2": 6.5
       },
       "current_odds": {
-        "ms1": 1.4,
-        "x": 5.1,
-        "ms2": 6.25
+        "ms1": 1.02,
+        "x": 21.0,
+        "ms2": 91.0
       },
       "odds_change_pct": {
-        "ms1": 2.94,
-        "x": -5.56,
-        "ms2": -3.85
+        "ms1": -25.0,
+        "x": 288.89,
+        "ms2": 1300.0
       },
       "odds_history": [
         {
@@ -934,6 +858,12 @@
           "ms1": 1.4,
           "x": 5.1,
           "ms2": 6.25
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 1.02,
+          "x": 21.0,
+          "ms2": 91.0
         }
       ],
       "home_stats": {
@@ -960,6 +890,100 @@
         "played": 6,
         "rank": 6,
         "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230596,
+      "home": "SC Paderborn 07",
+      "away": "Hamburg SV",
+      "date": "24.10.2026",
+      "time": "16:31",
+      "odds": "MS1: 3.05 | X: 1.80 | MS2: 5.00",
+      "odds_detail": {
+        "ms1": 3.05,
+        "x": 1.8,
+        "ms2": 5.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.2,
+        "x": 3.6,
+        "ms2": 2.9
+      },
+      "current_odds": {
+        "ms1": 3.05,
+        "x": 1.8,
+        "ms2": 5.0
+      },
+      "odds_change_pct": {
+        "ms1": 38.64,
+        "x": -50.0,
+        "ms2": 72.41
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-14T19:09:02.550500+03:00",
+          "ms1": 2.2,
+          "x": 3.6,
+          "ms2": 2.9
+        },
+        {
+          "timestamp": "2026-10-16T18:45:03.910677+03:00",
+          "ms1": 2.15,
+          "x": 3.7,
+          "ms2": 3.0
+        },
+        {
+          "timestamp": "2026-10-18T18:04:32.677214+03:00",
+          "ms1": 2.23,
+          "x": 3.65,
+          "ms2": 2.88
+        },
+        {
+          "timestamp": "2026-10-22T19:16:04.561737+03:00",
+          "ms1": 2.2,
+          "x": 3.65,
+          "ms2": 2.88
+        },
+        {
+          "timestamp": "2026-10-23T19:06:01.642237+03:00",
+          "ms1": 2.23,
+          "x": 3.6,
+          "ms2": 2.88
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 3.05,
+          "x": 1.8,
+          "ms2": 5.0
+        }
+      ],
+      "home_stats": {
+        "name": "SC Paderborn 07",
+        "home_avg_scored": 0.83,
+        "home_avg_conceded": 1.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.33,
+        "played": 6,
+        "rank": 16,
+        "points": 5,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Hamburg SV",
+        "away_avg_scored": 1.0,
+        "away_avg_conceded": 2.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 6,
+        "rank": 9,
+        "points": 9,
         "recent_matches": []
       }
     },
@@ -1140,10 +1164,10 @@
       "away": "Bayern Munich",
       "date": "25.10.2026",
       "time": "19:30",
-      "odds": "MS1: 6.10 | X: 5.30 | MS2: 1.38",
+      "odds": "MS1: 6.25 | X: 5.25 | MS2: 1.38",
       "odds_detail": {
-        "ms1": 6.1,
-        "x": 5.3,
+        "ms1": 6.25,
+        "x": 5.25,
         "ms2": 1.38
       },
       "odds_available": true,
@@ -1153,13 +1177,13 @@
         "ms2": 1.4
       },
       "current_odds": {
-        "ms1": 6.1,
-        "x": 5.3,
+        "ms1": 6.25,
+        "x": 5.25,
         "ms2": 1.38
       },
       "odds_change_pct": {
-        "ms1": -2.4,
-        "x": 3.92,
+        "ms1": 0.0,
+        "x": 2.94,
         "ms2": -1.43
       },
       "odds_history": [
@@ -1215,6 +1239,12 @@
           "timestamp": "2026-10-24T05:28:00.256314+03:00",
           "ms1": 6.1,
           "x": 5.3,
+          "ms2": 1.38
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 6.25,
+          "x": 5.25,
           "ms2": 1.38
         }
       ],
@@ -1614,11 +1644,11 @@
       "away": "SC Freiburg",
       "date": "31.10.2026",
       "time": "17:30",
-      "odds": "MS1: 2.70 | X: 3.70 | MS2: 2.30",
+      "odds": "MS1: 2.90 | X: 3.75 | MS2: 2.16",
       "odds_detail": {
-        "ms1": 2.7,
-        "x": 3.7,
-        "ms2": 2.3
+        "ms1": 2.9,
+        "x": 3.75,
+        "ms2": 2.16
       },
       "odds_available": true,
       "opening_odds": {
@@ -1627,14 +1657,14 @@
         "ms2": 2.38
       },
       "current_odds": {
-        "ms1": 2.7,
-        "x": 3.7,
-        "ms2": 2.3
+        "ms1": 2.9,
+        "x": 3.75,
+        "ms2": 2.16
       },
       "odds_change_pct": {
-        "ms1": 1.89,
-        "x": 0.0,
-        "ms2": -3.36
+        "ms1": 9.43,
+        "x": 1.35,
+        "ms2": -9.24
       },
       "odds_history": [
         {
@@ -1648,6 +1678,12 @@
           "ms1": 2.7,
           "x": 3.7,
           "ms2": 2.3
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 2.9,
+          "x": 3.75,
+          "ms2": 2.16
         }
       ],
       "home_stats": {
@@ -1830,10 +1866,10 @@
       "away": "Hamburg SV",
       "date": "01.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.58 | X: 4.40 | MS2: 4.75",
+      "odds": "MS1: 1.57 | X: 4.50 | MS2: 4.75",
       "odds_detail": {
-        "ms1": 1.58,
-        "x": 4.4,
+        "ms1": 1.57,
+        "x": 4.5,
         "ms2": 4.75
       },
       "odds_available": true,
@@ -1843,13 +1879,13 @@
         "ms2": 4.9
       },
       "current_odds": {
-        "ms1": 1.58,
-        "x": 4.4,
+        "ms1": 1.57,
+        "x": 4.5,
         "ms2": 4.75
       },
       "odds_change_pct": {
-        "ms1": 2.6,
-        "x": -4.35,
+        "ms1": 1.95,
+        "x": -2.17,
         "ms2": -3.06
       },
       "odds_history": [
@@ -1863,6 +1899,12 @@
           "timestamp": "2026-10-23T19:06:01.642237+03:00",
           "ms1": 1.58,
           "x": 4.4,
+          "ms2": 4.75
+        },
+        {
+          "timestamp": "2026-10-24T18:02:31.523533+03:00",
+          "ms1": 1.57,
+          "x": 4.5,
           "ms2": 4.75
         }
       ],
