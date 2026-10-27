@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-26T20:52:13.155040+03:00",
+  "last_updated": "2026-10-27T05:51:24.296274+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -144,27 +144,27 @@
       "name": "Sevilla",
       "id": "243",
       "rank": 6,
-      "points": 14,
-      "played": 9,
-      "wins": 4,
+      "points": 17,
+      "played": 10,
+      "wins": 5,
       "draws": 2,
       "losses": 3,
-      "goals_for": 14,
+      "goals_for": 16,
       "goals_against": 16,
-      "goal_diff": -2,
-      "avg_scored": 1.56,
-      "avg_conceded": 1.78,
-      "win_rate": 44.4,
+      "goal_diff": 0,
+      "avg_scored": 1.6,
+      "avg_conceded": 1.6,
+      "win_rate": 50.0,
       "matches": [],
-      "home_avg_scored": 1.56,
-      "home_avg_conceded": 1.78,
-      "away_avg_scored": 1.56,
-      "away_avg_conceded": 1.78,
+      "home_avg_scored": 1.6,
+      "home_avg_conceded": 1.6,
+      "away_avg_scored": 1.6,
+      "away_avg_conceded": 1.6,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.34,
+      "recent_goals_avg": 3.2,
       "recent_matches": []
     },
     {
@@ -307,26 +307,26 @@
       "id": "97",
       "rank": 12,
       "points": 11,
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "goals_for": 10,
-      "goals_against": 18,
-      "goal_diff": -8,
-      "avg_scored": 1.11,
+      "goals_against": 20,
+      "goal_diff": -10,
+      "avg_scored": 1.0,
       "avg_conceded": 2.0,
-      "win_rate": 33.3,
+      "win_rate": 30.0,
       "matches": [],
-      "home_avg_scored": 1.11,
+      "home_avg_scored": 1.0,
       "home_avg_conceded": 2.0,
-      "away_avg_scored": 1.11,
+      "away_avg_scored": 1.0,
       "away_avg_conceded": 2.0,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.11,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     },
     {
@@ -549,122 +549,16 @@
   "upcoming_matches": [
     {
       "league": "Spanish LALIGA",
-      "event_id": 1028209231,
-      "home": "Sevilla",
-      "away": "Osasuna",
-      "date": "26.10.2026",
-      "time": "23:00",
-      "odds": "MS1: 1.78 | X: 3.40 | MS2: 4.90",
-      "odds_detail": {
-        "ms1": 1.78,
-        "x": 3.4,
-        "ms2": 4.9
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.97,
-        "x": 3.45,
-        "ms2": 4.1
-      },
-      "current_odds": {
-        "ms1": 1.78,
-        "x": 3.4,
-        "ms2": 4.9
-      },
-      "odds_change_pct": {
-        "ms1": -9.64,
-        "x": -1.45,
-        "ms2": 19.51
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-12T23:34:37.260015+03:00",
-          "ms1": 1.97,
-          "x": 3.45,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-10-16T05:10:54.088415+03:00",
-          "ms1": 1.94,
-          "x": 3.35,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-10-19T05:20:37.214538+03:00",
-          "ms1": 1.95,
-          "x": 3.45,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-10-20T19:00:22.418062+03:00",
-          "ms1": 1.94,
-          "x": 3.35,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-10-23T19:06:01.357731+03:00",
-          "ms1": 1.92,
-          "x": 3.4,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-10-25T18:14:27.452069+03:00",
-          "ms1": 1.89,
-          "x": 3.4,
-          "ms2": 4.25
-        },
-        {
-          "timestamp": "2026-10-26T05:15:21.847793+03:00",
-          "ms1": 1.86,
-          "x": 3.45,
-          "ms2": 4.4
-        },
-        {
-          "timestamp": "2026-10-26T20:52:13.155040+03:00",
-          "ms1": 1.78,
-          "x": 3.4,
-          "ms2": 4.9
-        }
-      ],
-      "home_stats": {
-        "name": "Sevilla",
-        "home_avg_scored": 1.56,
-        "home_avg_conceded": 1.78,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.34,
-        "played": 9,
-        "rank": 6,
-        "points": 14,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Osasuna",
-        "away_avg_scored": 1.11,
-        "away_avg_conceded": 2.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.11,
-        "played": 9,
-        "rank": 12,
-        "points": 11,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
       "event_id": 1028209197,
       "home": "Villarreal",
       "away": "Espanyol",
       "date": "30.10.2026",
       "time": "23:00",
-      "odds": "MS1: 1.52 | X: 4.50 | MS2: 5.80",
+      "odds": "MS1: 1.43 | X: 4.90 | MS2: 6.50",
       "odds_detail": {
-        "ms1": 1.52,
-        "x": 4.5,
-        "ms2": 5.8
+        "ms1": 1.43,
+        "x": 4.9,
+        "ms2": 6.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -673,14 +567,14 @@
         "ms2": 5.6
       },
       "current_odds": {
-        "ms1": 1.52,
-        "x": 4.5,
-        "ms2": 5.8
+        "ms1": 1.43,
+        "x": 4.9,
+        "ms2": 6.5
       },
       "odds_change_pct": {
-        "ms1": -1.3,
-        "x": 2.27,
-        "ms2": 3.57
+        "ms1": -7.14,
+        "x": 11.36,
+        "ms2": 16.07
       },
       "odds_history": [
         {
@@ -700,6 +594,12 @@
           "ms1": 1.52,
           "x": 4.5,
           "ms2": 5.8
+        },
+        {
+          "timestamp": "2026-10-27T05:51:24.296274+03:00",
+          "ms1": 1.43,
+          "x": 4.9,
+          "ms2": 6.5
         }
       ],
       "home_stats": {
@@ -1088,11 +988,11 @@
       "away": "Sevilla",
       "date": "01.11.2026",
       "time": "16:00",
-      "odds": "MS1: 2.88 | X: 2.95 | MS2: 2.70",
+      "odds": "MS1: 2.95 | X: 2.95 | MS2: 2.63",
       "odds_detail": {
-        "ms1": 2.88,
+        "ms1": 2.95,
         "x": 2.95,
-        "ms2": 2.7
+        "ms2": 2.63
       },
       "odds_available": true,
       "opening_odds": {
@@ -1101,14 +1001,14 @@
         "ms2": 2.75
       },
       "current_odds": {
-        "ms1": 2.88,
+        "ms1": 2.95,
         "x": 2.95,
-        "ms2": 2.7
+        "ms2": 2.63
       },
       "odds_change_pct": {
-        "ms1": 2.86,
+        "ms1": 5.36,
         "x": 0.0,
-        "ms2": -1.82
+        "ms2": -4.36
       },
       "odds_history": [
         {
@@ -1122,6 +1022,12 @@
           "ms1": 2.88,
           "x": 2.95,
           "ms2": 2.7
+        },
+        {
+          "timestamp": "2026-10-27T05:51:24.296274+03:00",
+          "ms1": 2.95,
+          "x": 2.95,
+          "ms2": 2.63
         }
       ],
       "home_stats": {
@@ -1139,15 +1045,15 @@
       },
       "away_stats": {
         "name": "Sevilla",
-        "away_avg_scored": 1.56,
-        "away_avg_conceded": 1.78,
+        "away_avg_scored": 1.6,
+        "away_avg_conceded": 1.6,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.34,
-        "played": 9,
+        "recent_goals_avg": 3.2,
+        "played": 10,
         "rank": 6,
-        "points": 14,
+        "points": 17,
         "recent_matches": []
       }
     },
@@ -1158,11 +1064,11 @@
       "away": "Real Madrid",
       "date": "01.11.2026",
       "time": "18:15",
-      "odds": "MS1: 9.50 | X: 6.40 | MS2: 1.26",
+      "odds": "MS1: 10.00 | X: 6.75 | MS2: 1.24",
       "odds_detail": {
-        "ms1": 9.5,
-        "x": 6.4,
-        "ms2": 1.26
+        "ms1": 10.0,
+        "x": 6.75,
+        "ms2": 1.24
       },
       "odds_available": true,
       "opening_odds": {
@@ -1171,14 +1077,14 @@
         "ms2": 1.27
       },
       "current_odds": {
-        "ms1": 9.5,
-        "x": 6.4,
-        "ms2": 1.26
+        "ms1": 10.0,
+        "x": 6.75,
+        "ms2": 1.24
       },
       "odds_change_pct": {
-        "ms1": 5.56,
-        "x": 0.0,
-        "ms2": -0.79
+        "ms1": 11.11,
+        "x": 5.47,
+        "ms2": -2.36
       },
       "odds_history": [
         {
@@ -1204,6 +1110,12 @@
           "ms1": 9.5,
           "x": 6.4,
           "ms2": 1.26
+        },
+        {
+          "timestamp": "2026-10-27T05:51:24.296274+03:00",
+          "ms1": 10.0,
+          "x": 6.75,
+          "ms2": 1.24
         }
       ],
       "home_stats": {
