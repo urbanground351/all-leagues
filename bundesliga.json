@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-29T06:26:04.699830+03:00",
+  "last_updated": "2026-10-29T20:45:31.946896+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Mainz",
       "date": "30.10.2026",
       "time": "22:30",
-      "odds": "MS1: 3.15 | X: 3.75 | MS2: 2.05",
+      "odds": "MS1: 3.15 | X: 3.75 | MS2: 2.04",
       "odds_detail": {
         "ms1": 3.15,
         "x": 3.75,
-        "ms2": 2.05
+        "ms2": 2.04
       },
       "odds_available": true,
       "opening_odds": {
@@ -515,12 +515,12 @@
       "current_odds": {
         "ms1": 3.15,
         "x": 3.75,
-        "ms2": 2.05
+        "ms2": 2.04
       },
       "odds_change_pct": {
         "ms1": 3.28,
         "x": 4.17,
-        "ms2": -3.3
+        "ms2": -3.77
       },
       "odds_history": [
         {
@@ -564,6 +564,12 @@
           "ms1": 3.15,
           "x": 3.75,
           "ms2": 2.05
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 3.15,
+          "x": 3.75,
+          "ms2": 2.04
         }
       ],
       "home_stats": {
@@ -600,11 +606,11 @@
       "away": "VfB Stuttgart",
       "date": "31.10.2026",
       "time": "17:30",
-      "odds": "MS1: 1.72 | X: 4.20 | MS2: 3.95",
+      "odds": "MS1: 1.72 | X: 4.30 | MS2: 3.85",
       "odds_detail": {
         "ms1": 1.72,
-        "x": 4.2,
-        "ms2": 3.95
+        "x": 4.3,
+        "ms2": 3.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -614,13 +620,13 @@
       },
       "current_odds": {
         "ms1": 1.72,
-        "x": 4.2,
-        "ms2": 3.95
+        "x": 4.3,
+        "ms2": 3.85
       },
       "odds_change_pct": {
         "ms1": 0.58,
-        "x": -2.33,
-        "ms2": 0.0
+        "x": 0.0,
+        "ms2": -2.53
       },
       "odds_history": [
         {
@@ -658,6 +664,12 @@
           "ms1": 1.72,
           "x": 4.2,
           "ms2": 3.95
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 1.72,
+          "x": 4.3,
+          "ms2": 3.85
         }
       ],
       "home_stats": {
@@ -694,11 +706,11 @@
       "away": "SC Paderborn 07",
       "date": "31.10.2026",
       "time": "17:30",
-      "odds": "MS1: 1.84 | X: 3.95 | MS2: 3.65",
+      "odds": "MS1: 1.91 | X: 3.80 | MS2: 3.50",
       "odds_detail": {
-        "ms1": 1.84,
-        "x": 3.95,
-        "ms2": 3.65
+        "ms1": 1.91,
+        "x": 3.8,
+        "ms2": 3.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -707,14 +719,14 @@
         "ms2": 3.8
       },
       "current_odds": {
-        "ms1": 1.84,
-        "x": 3.95,
-        "ms2": 3.65
+        "ms1": 1.91,
+        "x": 3.8,
+        "ms2": 3.5
       },
       "odds_change_pct": {
-        "ms1": 3.95,
-        "x": -3.66,
-        "ms2": -3.95
+        "ms1": 7.91,
+        "x": -7.32,
+        "ms2": -7.89
       },
       "odds_history": [
         {
@@ -740,6 +752,12 @@
           "ms1": 1.84,
           "x": 3.95,
           "ms2": 3.65
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 1.91,
+          "x": 3.8,
+          "ms2": 3.5
         }
       ],
       "home_stats": {
@@ -776,11 +794,11 @@
       "away": "RB Leipzig",
       "date": "31.10.2026",
       "time": "17:30",
-      "odds": "MS1: 3.50 | X: 3.95 | MS2: 1.87",
+      "odds": "MS1: 3.90 | X: 4.00 | MS2: 1.77",
       "odds_detail": {
-        "ms1": 3.5,
-        "x": 3.95,
-        "ms2": 1.87
+        "ms1": 3.9,
+        "x": 4.0,
+        "ms2": 1.77
       },
       "odds_available": true,
       "opening_odds": {
@@ -789,14 +807,14 @@
         "ms2": 1.81
       },
       "current_odds": {
-        "ms1": 3.5,
-        "x": 3.95,
-        "ms2": 1.87
+        "ms1": 3.9,
+        "x": 4.0,
+        "ms2": 1.77
       },
       "odds_change_pct": {
-        "ms1": -5.41,
-        "x": -1.25,
-        "ms2": 3.31
+        "ms1": 5.41,
+        "x": 0.0,
+        "ms2": -2.21
       },
       "odds_history": [
         {
@@ -840,6 +858,12 @@
           "ms1": 3.5,
           "x": 3.95,
           "ms2": 1.87
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 3.9,
+          "x": 4.0,
+          "ms2": 1.77
         }
       ],
       "home_stats": {
@@ -1340,11 +1364,11 @@
       "away": "Borussia Mönchengladbach",
       "date": "06.11.2026",
       "time": "22:30",
-      "odds": "MS1: 2.23 | X: 3.60 | MS2: 2.90",
+      "odds": "MS1: 2.28 | X: 3.60 | MS2: 2.80",
       "odds_detail": {
-        "ms1": 2.23,
+        "ms1": 2.28,
         "x": 3.6,
-        "ms2": 2.9
+        "ms2": 2.8
       },
       "odds_available": true,
       "opening_odds": {
@@ -1353,14 +1377,14 @@
         "ms2": 3.0
       },
       "current_odds": {
-        "ms1": 2.23,
+        "ms1": 2.28,
         "x": 3.6,
-        "ms2": 2.9
+        "ms2": 2.8
       },
       "odds_change_pct": {
-        "ms1": 3.24,
+        "ms1": 5.56,
         "x": -1.37,
-        "ms2": -3.33
+        "ms2": -6.67
       },
       "odds_history": [
         {
@@ -1374,6 +1398,12 @@
           "ms1": 2.23,
           "x": 3.6,
           "ms2": 2.9
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 2.28,
+          "x": 3.6,
+          "ms2": 2.8
         }
       ],
       "home_stats": {
@@ -1410,11 +1440,11 @@
       "away": "Eintracht Frankfurt",
       "date": "07.11.2026",
       "time": "17:30",
-      "odds": "MS1: 2.85 | X: 3.90 | MS2: 2.16",
+      "odds": "MS1: 2.85 | X: 3.75 | MS2: 2.18",
       "odds_detail": {
         "ms1": 2.85,
-        "x": 3.9,
-        "ms2": 2.16
+        "x": 3.75,
+        "ms2": 2.18
       },
       "odds_available": true,
       "opening_odds": {
@@ -1424,13 +1454,13 @@
       },
       "current_odds": {
         "ms1": 2.85,
-        "x": 3.9,
-        "ms2": 2.16
+        "x": 3.75,
+        "ms2": 2.18
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "x": -3.85,
+        "ms2": 0.93
       },
       "odds_history": [
         {
@@ -1438,6 +1468,12 @@
           "ms1": 2.85,
           "x": 3.9,
           "ms2": 2.16
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 2.85,
+          "x": 3.75,
+          "ms2": 2.18
         }
       ],
       "home_stats": {
@@ -1538,11 +1574,11 @@
       "away": "Bayern Munich",
       "date": "07.11.2026",
       "time": "17:30",
-      "odds": "MS1: 5.80 | X: 5.10 | MS2: 1.42",
+      "odds": "MS1: 5.30 | X: 5.25 | MS2: 1.44",
       "odds_detail": {
-        "ms1": 5.8,
-        "x": 5.1,
-        "ms2": 1.42
+        "ms1": 5.3,
+        "x": 5.25,
+        "ms2": 1.44
       },
       "odds_available": true,
       "opening_odds": {
@@ -1551,14 +1587,14 @@
         "ms2": 1.42
       },
       "current_odds": {
-        "ms1": 5.8,
-        "x": 5.1,
-        "ms2": 1.42
+        "ms1": 5.3,
+        "x": 5.25,
+        "ms2": 1.44
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -8.62,
+        "x": 2.94,
+        "ms2": 1.41
       },
       "odds_history": [
         {
@@ -1566,6 +1602,12 @@
           "ms1": 5.8,
           "x": 5.1,
           "ms2": 1.42
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 5.3,
+          "x": 5.25,
+          "ms2": 1.44
         }
       ],
       "home_stats": {
@@ -1726,6 +1768,134 @@
         "played": 7,
         "rank": 6,
         "points": 12,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230553,
+      "home": "FC Cologne",
+      "away": "Bayer Leverkusen",
+      "date": "08.11.2026",
+      "time": "17:30",
+      "odds": "MS1: 4.35 | X: 4.30 | MS2: 1.64",
+      "odds_detail": {
+        "ms1": 4.35,
+        "x": 4.3,
+        "ms2": 1.64
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.35,
+        "x": 4.3,
+        "ms2": 1.64
+      },
+      "current_odds": {
+        "ms1": 4.35,
+        "x": 4.3,
+        "ms2": 1.64
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 4.35,
+          "x": 4.3,
+          "ms2": 1.64
+        }
+      ],
+      "home_stats": {
+        "name": "FC Cologne",
+        "home_avg_scored": 1.14,
+        "home_avg_conceded": 1.57,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.71,
+        "played": 7,
+        "rank": 12,
+        "points": 8,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Bayer Leverkusen",
+        "away_avg_scored": 2.29,
+        "away_avg_conceded": 1.71,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 7,
+        "rank": 4,
+        "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230548,
+      "home": "SC Freiburg",
+      "away": "1. FC Union Berlin",
+      "date": "08.11.2026",
+      "time": "19:30",
+      "odds": "MS1: 1.42 | X: 4.80 | MS2: 6.25",
+      "odds_detail": {
+        "ms1": 1.42,
+        "x": 4.8,
+        "ms2": 6.25
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.42,
+        "x": 4.8,
+        "ms2": 6.25
+      },
+      "current_odds": {
+        "ms1": 1.42,
+        "x": 4.8,
+        "ms2": 6.25
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-29T20:45:31.946896+03:00",
+          "ms1": 1.42,
+          "x": 4.8,
+          "ms2": 6.25
+        }
+      ],
+      "home_stats": {
+        "name": "SC Freiburg",
+        "home_avg_scored": 2.29,
+        "home_avg_conceded": 1.29,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.58,
+        "played": 7,
+        "rank": 3,
+        "points": 13,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "1. FC Union Berlin",
+        "away_avg_scored": 0.86,
+        "away_avg_conceded": 2.57,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.43,
+        "played": 7,
+        "rank": 17,
+        "points": 6,
         "recent_matches": []
       }
     }
