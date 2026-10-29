@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-28T20:37:11.108651+03:00",
+  "last_updated": "2026-10-29T06:26:03.096764+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Galatasaray",
       "date": "30.10.2026",
       "time": "20:00",
-      "odds": "MS1: 5.20 | X: 4.20 | MS2: 1.58",
+      "odds": "MS1: 5.50 | X: 4.25 | MS2: 1.54",
       "odds_detail": {
-        "ms1": 5.2,
-        "x": 4.2,
-        "ms2": 1.58
+        "ms1": 5.5,
+        "x": 4.25,
+        "ms2": 1.54
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 1.67
       },
       "current_odds": {
-        "ms1": 5.2,
-        "x": 4.2,
-        "ms2": 1.58
+        "ms1": 5.5,
+        "x": 4.25,
+        "ms2": 1.54
       },
       "odds_change_pct": {
-        "ms1": 10.64,
-        "x": 6.33,
-        "ms2": -5.39
+        "ms1": 17.02,
+        "x": 7.59,
+        "ms2": -7.78
       },
       "odds_history": [
         {
@@ -552,6 +552,12 @@
           "ms1": 5.2,
           "x": 4.2,
           "ms2": 1.58
+        },
+        {
+          "timestamp": "2026-10-29T06:26:03.096764+03:00",
+          "ms1": 5.5,
+          "x": 4.25,
+          "ms2": 1.54
         }
       ],
       "home_stats": {

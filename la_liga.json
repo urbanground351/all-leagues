@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-28T20:37:12.119308+03:00",
+  "last_updated": "2026-10-29T06:26:04.311106+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1895,70 +1895,6 @@
     },
     {
       "league": "Spanish LALIGA",
-      "event_id": 1028209193,
-      "home": "Celta Vigo",
-      "away": "Levante",
-      "date": "08.11.2026",
-      "time": "20:30",
-      "odds": "MS1: 1.78 | X: 3.80 | MS2: 4.35",
-      "odds_detail": {
-        "ms1": 1.78,
-        "x": 3.8,
-        "ms2": 4.35
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.78,
-        "x": 3.8,
-        "ms2": 4.35
-      },
-      "current_odds": {
-        "ms1": 1.78,
-        "x": 3.8,
-        "ms2": 4.35
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-27T20:00:27.311884+03:00",
-          "ms1": 1.78,
-          "x": 3.8,
-          "ms2": 4.35
-        }
-      ],
-      "home_stats": {
-        "name": "Celta Vigo",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 0.7,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 1.7,
-        "played": 10,
-        "rank": 9,
-        "points": 12,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Levante",
-        "away_avg_scored": 1.6,
-        "away_avg_conceded": 1.9,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.5,
-        "played": 10,
-        "rank": 14,
-        "points": 10,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
       "event_id": 1028209219,
       "home": "Villarreal",
       "away": "Getafe",
@@ -2024,6 +1960,70 @@
         "played": 10,
         "rank": 17,
         "points": 9,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Spanish LALIGA",
+      "event_id": 1028209193,
+      "home": "Celta Vigo",
+      "away": "Levante",
+      "date": "08.11.2026",
+      "time": "20:30",
+      "odds": "MS1: 1.78 | X: 3.80 | MS2: 4.35",
+      "odds_detail": {
+        "ms1": 1.78,
+        "x": 3.8,
+        "ms2": 4.35
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.78,
+        "x": 3.8,
+        "ms2": 4.35
+      },
+      "current_odds": {
+        "ms1": 1.78,
+        "x": 3.8,
+        "ms2": 4.35
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-27T20:00:27.311884+03:00",
+          "ms1": 1.78,
+          "x": 3.8,
+          "ms2": 4.35
+        }
+      ],
+      "home_stats": {
+        "name": "Celta Vigo",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 0.7,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.7,
+        "played": 10,
+        "rank": 9,
+        "points": 12,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Levante",
+        "away_avg_scored": 1.6,
+        "away_avg_conceded": 1.9,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.5,
+        "played": 10,
+        "rank": 14,
+        "points": 10,
         "recent_matches": []
       }
     },
