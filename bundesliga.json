@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-29T20:45:31.946896+03:00",
+  "last_updated": "2026-10-30T06:28:02.134937+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -794,11 +794,11 @@
       "away": "RB Leipzig",
       "date": "31.10.2026",
       "time": "17:30",
-      "odds": "MS1: 3.90 | X: 4.00 | MS2: 1.77",
+      "odds": "MS1: 3.85 | X: 3.95 | MS2: 1.79",
       "odds_detail": {
-        "ms1": 3.9,
-        "x": 4.0,
-        "ms2": 1.77
+        "ms1": 3.85,
+        "x": 3.95,
+        "ms2": 1.79
       },
       "odds_available": true,
       "opening_odds": {
@@ -807,14 +807,14 @@
         "ms2": 1.81
       },
       "current_odds": {
-        "ms1": 3.9,
-        "x": 4.0,
-        "ms2": 1.77
+        "ms1": 3.85,
+        "x": 3.95,
+        "ms2": 1.79
       },
       "odds_change_pct": {
-        "ms1": 5.41,
-        "x": 0.0,
-        "ms2": -2.21
+        "ms1": 4.05,
+        "x": -1.25,
+        "ms2": -1.1
       },
       "odds_history": [
         {
@@ -864,6 +864,12 @@
           "ms1": 3.9,
           "x": 4.0,
           "ms2": 1.77
+        },
+        {
+          "timestamp": "2026-10-30T06:28:02.134937+03:00",
+          "ms1": 3.85,
+          "x": 3.95,
+          "ms2": 1.79
         }
       ],
       "home_stats": {
@@ -1842,10 +1848,10 @@
       "away": "1. FC Union Berlin",
       "date": "08.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.42 | X: 4.80 | MS2: 6.25",
+      "odds": "MS1: 1.44 | X: 4.60 | MS2: 6.25",
       "odds_detail": {
-        "ms1": 1.42,
-        "x": 4.8,
+        "ms1": 1.44,
+        "x": 4.6,
         "ms2": 6.25
       },
       "odds_available": true,
@@ -1855,13 +1861,13 @@
         "ms2": 6.25
       },
       "current_odds": {
-        "ms1": 1.42,
-        "x": 4.8,
+        "ms1": 1.44,
+        "x": 4.6,
         "ms2": 6.25
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
+        "ms1": 1.41,
+        "x": -4.17,
         "ms2": 0.0
       },
       "odds_history": [
@@ -1869,6 +1875,12 @@
           "timestamp": "2026-10-29T20:45:31.946896+03:00",
           "ms1": 1.42,
           "x": 4.8,
+          "ms2": 6.25
+        },
+        {
+          "timestamp": "2026-10-30T06:28:02.134937+03:00",
+          "ms1": 1.44,
+          "x": 4.6,
           "ms2": 6.25
         }
       ],
@@ -1895,6 +1907,70 @@
         "recent_goals_avg": 3.43,
         "played": 7,
         "rank": 17,
+        "points": 6,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230615,
+      "home": "TSG Hoffenheim",
+      "away": "Schalke 04",
+      "date": "08.11.2026",
+      "time": "21:30",
+      "odds": "MS1: 1.58 | X: 4.35 | MS2: 4.70",
+      "odds_detail": {
+        "ms1": 1.58,
+        "x": 4.35,
+        "ms2": 4.7
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.58,
+        "x": 4.35,
+        "ms2": 4.7
+      },
+      "current_odds": {
+        "ms1": 1.58,
+        "x": 4.35,
+        "ms2": 4.7
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-30T06:28:02.134937+03:00",
+          "ms1": 1.58,
+          "x": 4.35,
+          "ms2": 4.7
+        }
+      ],
+      "home_stats": {
+        "name": "TSG Hoffenheim",
+        "home_avg_scored": 2.0,
+        "home_avg_conceded": 2.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 7,
+        "rank": 10,
+        "points": 9,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Schalke 04",
+        "away_avg_scored": 0.57,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.57,
+        "played": 7,
+        "rank": 16,
         "points": 6,
         "recent_matches": []
       }
