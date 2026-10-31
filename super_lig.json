@@ -2,34 +2,34 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-30T20:26:03.480478+03:00",
+  "last_updated": "2026-10-31T06:13:08.190574+03:00",
   "total_teams": 18,
   "teams": [
     {
       "name": "Galatasaray",
       "id": "432",
       "rank": 1,
-      "points": 22,
-      "played": 9,
-      "wins": 7,
+      "points": 25,
+      "played": 10,
+      "wins": 8,
       "draws": 1,
       "losses": 1,
-      "goals_for": 19,
+      "goals_for": 23,
       "goals_against": 12,
-      "goal_diff": 7,
-      "avg_scored": 2.11,
-      "avg_conceded": 1.33,
-      "win_rate": 77.8,
+      "goal_diff": 11,
+      "avg_scored": 2.3,
+      "avg_conceded": 1.2,
+      "win_rate": 80.0,
       "matches": [],
-      "home_avg_scored": 2.11,
-      "home_avg_conceded": 1.33,
-      "away_avg_scored": 2.11,
-      "away_avg_conceded": 1.33,
+      "home_avg_scored": 2.3,
+      "home_avg_conceded": 1.2,
+      "away_avg_scored": 2.3,
+      "away_avg_conceded": 1.2,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.44,
+      "recent_goals_avg": 3.5,
       "recent_matches": []
     },
     {
@@ -357,36 +357,9 @@
       "recent_matches": []
     },
     {
-      "name": "Konyaspor",
-      "id": "7648",
-      "rank": 14,
-      "points": 8,
-      "played": 9,
-      "wins": 2,
-      "draws": 2,
-      "losses": 5,
-      "goals_for": 6,
-      "goals_against": 9,
-      "goal_diff": -3,
-      "avg_scored": 0.67,
-      "avg_conceded": 1.0,
-      "win_rate": 22.2,
-      "matches": [],
-      "home_avg_scored": 0.67,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 0.67,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 1.67,
-      "recent_matches": []
-    },
-    {
       "name": "Gaziantep FK",
       "id": "20070",
-      "rank": 15,
+      "rank": 14,
       "points": 8,
       "played": 9,
       "wins": 2,
@@ -408,6 +381,33 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.67,
+      "recent_matches": []
+    },
+    {
+      "name": "Konyaspor",
+      "id": "7648",
+      "rank": 15,
+      "points": 8,
+      "played": 10,
+      "wins": 2,
+      "draws": 2,
+      "losses": 6,
+      "goals_for": 6,
+      "goals_against": 13,
+      "goal_diff": -7,
+      "avg_scored": 0.6,
+      "avg_conceded": 1.3,
+      "win_rate": 20.0,
+      "matches": [],
+      "home_avg_scored": 0.6,
+      "home_avg_conceded": 1.3,
+      "away_avg_scored": 0.6,
+      "away_avg_conceded": 1.3,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 1.9,
       "recent_matches": []
     },
     {
@@ -493,118 +493,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328537,
-      "home": "Konyaspor",
-      "away": "Galatasaray",
-      "date": "30.10.2026",
-      "time": "20:00",
-      "odds": "MS1: 12.50 | X: 6.00 | MS2: 1.18",
-      "odds_detail": {
-        "ms1": 12.5,
-        "x": 6.0,
-        "ms2": 1.18
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 4.7,
-        "x": 3.95,
-        "ms2": 1.67
-      },
-      "current_odds": {
-        "ms1": 12.5,
-        "x": 6.0,
-        "ms2": 1.18
-      },
-      "odds_change_pct": {
-        "ms1": 165.96,
-        "x": 51.9,
-        "ms2": -29.34
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-24T05:27:58.732357+03:00",
-          "ms1": 4.7,
-          "x": 3.95,
-          "ms2": 1.67
-        },
-        {
-          "timestamp": "2026-10-25T18:14:26.293252+03:00",
-          "ms1": 4.7,
-          "x": 3.95,
-          "ms2": 1.68
-        },
-        {
-          "timestamp": "2026-10-27T05:51:23.540654+03:00",
-          "ms1": 4.6,
-          "x": 3.95,
-          "ms2": 1.68
-        },
-        {
-          "timestamp": "2026-10-27T20:00:25.873338+03:00",
-          "ms1": 4.6,
-          "x": 4.0,
-          "ms2": 1.67
-        },
-        {
-          "timestamp": "2026-10-28T05:58:58.379178+03:00",
-          "ms1": 5.2,
-          "x": 4.2,
-          "ms2": 1.58
-        },
-        {
-          "timestamp": "2026-10-29T06:26:03.096764+03:00",
-          "ms1": 5.5,
-          "x": 4.25,
-          "ms2": 1.54
-        },
-        {
-          "timestamp": "2026-10-29T20:45:30.607940+03:00",
-          "ms1": 6.25,
-          "x": 4.5,
-          "ms2": 1.47
-        },
-        {
-          "timestamp": "2026-10-30T06:28:00.927409+03:00",
-          "ms1": 5.8,
-          "x": 4.35,
-          "ms2": 1.5
-        },
-        {
-          "timestamp": "2026-10-30T20:26:03.480478+03:00",
-          "ms1": 12.5,
-          "x": 6.0,
-          "ms2": 1.18
-        }
-      ],
-      "home_stats": {
-        "name": "Konyaspor",
-        "home_avg_scored": 0.67,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 1.67,
-        "played": 9,
-        "rank": 14,
-        "points": 8,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Galatasaray",
-        "away_avg_scored": 2.11,
-        "away_avg_conceded": 1.33,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.44,
-        "played": 9,
-        "rank": 1,
-        "points": 22,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Trendyol Süper Lig",
       "event_id": 1028328469,
@@ -980,7 +868,7 @@
         "form": [],
         "recent_goals_avg": 2.67,
         "played": 9,
-        "rank": 15,
+        "rank": 14,
         "points": 8,
         "recent_matches": []
       }
@@ -1214,10 +1102,10 @@
       "away": "Kasimpasa",
       "date": "06.11.2026",
       "time": "20:00",
-      "odds": "MS1: 2.75 | X: 3.25 | MS2: 2.55",
+      "odds": "MS1: 2.70 | X: 3.30 | MS2: 2.55",
       "odds_detail": {
-        "ms1": 2.75,
-        "x": 3.25,
+        "ms1": 2.7,
+        "x": 3.3,
         "ms2": 2.55
       },
       "odds_available": true,
@@ -1227,13 +1115,13 @@
         "ms2": 2.55
       },
       "current_odds": {
-        "ms1": 2.75,
-        "x": 3.25,
+        "ms1": 2.7,
+        "x": 3.3,
         "ms2": 2.55
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
+        "ms1": -1.82,
+        "x": 1.54,
         "ms2": 0.0
       },
       "odds_history": [
@@ -1241,6 +1129,12 @@
           "timestamp": "2026-10-30T20:26:03.480478+03:00",
           "ms1": 2.75,
           "x": 3.25,
+          "ms2": 2.55
+        },
+        {
+          "timestamp": "2026-10-31T06:13:08.190574+03:00",
+          "ms1": 2.7,
+          "x": 3.3,
           "ms2": 2.55
         }
       ],
@@ -1253,7 +1147,7 @@
         "form": [],
         "recent_goals_avg": 2.67,
         "played": 9,
-        "rank": 15,
+        "rank": 14,
         "points": 8,
         "recent_matches": []
       },
