@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-10-31T19:29:33.787773+03:00",
+  "last_updated": "2026-11-01T06:10:01.491719+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -118,26 +118,26 @@
       "id": "436",
       "rank": 5,
       "points": 16,
-      "played": 9,
+      "played": 10,
       "wins": 5,
       "draws": 1,
-      "losses": 3,
-      "goals_for": 23,
-      "goals_against": 8,
-      "goal_diff": 15,
-      "avg_scored": 2.56,
-      "avg_conceded": 0.89,
-      "win_rate": 55.6,
+      "losses": 4,
+      "goals_for": 24,
+      "goals_against": 10,
+      "goal_diff": 14,
+      "avg_scored": 2.4,
+      "avg_conceded": 1.0,
+      "win_rate": 50.0,
       "matches": [],
-      "home_avg_scored": 2.56,
-      "home_avg_conceded": 0.89,
-      "away_avg_scored": 2.56,
-      "away_avg_conceded": 0.89,
+      "home_avg_scored": 2.4,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 2.4,
+      "away_avg_conceded": 1.0,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.45,
+      "recent_goals_avg": 3.4,
       "recent_matches": []
     },
     {
@@ -222,9 +222,36 @@
       "recent_matches": []
     },
     {
+      "name": "Goztepe",
+      "id": "789",
+      "rank": 9,
+      "points": 15,
+      "played": 10,
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "goals_for": 21,
+      "goals_against": 17,
+      "goal_diff": 4,
+      "avg_scored": 2.1,
+      "avg_conceded": 1.7,
+      "win_rate": 40.0,
+      "matches": [],
+      "home_avg_scored": 2.1,
+      "home_avg_conceded": 1.7,
+      "away_avg_scored": 2.1,
+      "away_avg_conceded": 1.7,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.8,
+      "recent_matches": []
+    },
+    {
       "name": "Erzurum BB",
       "id": "19267",
-      "rank": 9,
+      "rank": 10,
       "points": 14,
       "played": 10,
       "wins": 4,
@@ -246,33 +273,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.4,
-      "recent_matches": []
-    },
-    {
-      "name": "Goztepe",
-      "id": "789",
-      "rank": 10,
-      "points": 12,
-      "played": 9,
-      "wins": 3,
-      "draws": 3,
-      "losses": 3,
-      "goals_for": 19,
-      "goals_against": 16,
-      "goal_diff": 3,
-      "avg_scored": 2.11,
-      "avg_conceded": 1.78,
-      "win_rate": 33.3,
-      "matches": [],
-      "home_avg_scored": 2.11,
-      "home_avg_conceded": 1.78,
-      "away_avg_scored": 2.11,
-      "away_avg_conceded": 1.78,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.89,
       "recent_matches": []
     },
     {
@@ -493,100 +493,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328544,
-      "home": "Fenerbahce",
-      "away": "Goztepe",
-      "date": "31.10.2026",
-      "time": "19:01",
-      "odds": "MS1: 1.54 | X: 3.70 | MS2: 5.50",
-      "odds_detail": {
-        "ms1": 1.54,
-        "x": 3.7,
-        "ms2": 5.5
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.34,
-        "x": 5.25,
-        "ms2": 8.0
-      },
-      "current_odds": {
-        "ms1": 1.54,
-        "x": 3.7,
-        "ms2": 5.5
-      },
-      "odds_change_pct": {
-        "ms1": 14.93,
-        "x": -29.52,
-        "ms2": -31.25
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-25T05:15:01.503042+03:00",
-          "ms1": 1.34,
-          "x": 5.25,
-          "ms2": 8.0
-        },
-        {
-          "timestamp": "2026-10-27T05:51:23.540654+03:00",
-          "ms1": 1.34,
-          "x": 5.2,
-          "ms2": 8.0
-        },
-        {
-          "timestamp": "2026-10-27T20:00:25.873338+03:00",
-          "ms1": 1.35,
-          "x": 5.1,
-          "ms2": 8.0
-        },
-        {
-          "timestamp": "2026-10-29T20:45:30.607940+03:00",
-          "ms1": 1.34,
-          "x": 5.25,
-          "ms2": 8.0
-        },
-        {
-          "timestamp": "2026-10-30T20:26:03.480478+03:00",
-          "ms1": 1.32,
-          "x": 5.4,
-          "ms2": 8.5
-        },
-        {
-          "timestamp": "2026-10-31T19:29:33.787773+03:00",
-          "ms1": 1.54,
-          "x": 3.7,
-          "ms2": 5.5
-        }
-      ],
-      "home_stats": {
-        "name": "Fenerbahce",
-        "home_avg_scored": 2.56,
-        "home_avg_conceded": 0.89,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.45,
-        "played": 9,
-        "rank": 5,
-        "points": 16,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Goztepe",
-        "away_avg_scored": 2.11,
-        "away_avg_conceded": 1.78,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.89,
-        "played": 9,
-        "rank": 10,
-        "points": 12,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Trendyol Süper Lig",
       "event_id": 1028328527,
@@ -1274,15 +1180,15 @@
       ],
       "home_stats": {
         "name": "Goztepe",
-        "home_avg_scored": 2.11,
-        "home_avg_conceded": 1.78,
+        "home_avg_scored": 2.1,
+        "home_avg_conceded": 1.7,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.89,
-        "played": 9,
-        "rank": 10,
-        "points": 12,
+        "recent_goals_avg": 3.8,
+        "played": 10,
+        "rank": 9,
+        "points": 15,
         "recent_matches": []
       },
       "away_stats": {
