@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-01T06:10:02.542204+03:00",
+  "last_updated": "2026-11-01T20:23:24.220708+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -63,27 +63,27 @@
       "name": "Real Madrid",
       "id": "86",
       "rank": 3,
-      "points": 24,
-      "played": 10,
-      "wins": 8,
+      "points": 27,
+      "played": 11,
+      "wins": 9,
       "draws": 0,
       "losses": 2,
-      "goals_for": 25,
+      "goals_for": 28,
       "goals_against": 10,
-      "goal_diff": 15,
-      "avg_scored": 2.5,
-      "avg_conceded": 1.0,
-      "win_rate": 80.0,
+      "goal_diff": 18,
+      "avg_scored": 2.55,
+      "avg_conceded": 0.91,
+      "win_rate": 81.8,
       "matches": [],
-      "home_avg_scored": 2.5,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 2.5,
-      "away_avg_conceded": 1.0,
+      "home_avg_scored": 2.55,
+      "home_avg_conceded": 0.91,
+      "away_avg_scored": 2.55,
+      "away_avg_conceded": 0.91,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.5,
+      "recent_goals_avg": 3.46,
       "recent_matches": []
     },
     {
@@ -145,26 +145,26 @@
       "id": "243",
       "rank": 6,
       "points": 17,
-      "played": 10,
+      "played": 11,
       "wins": 5,
       "draws": 2,
-      "losses": 3,
-      "goals_for": 16,
-      "goals_against": 16,
-      "goal_diff": 0,
-      "avg_scored": 1.6,
-      "avg_conceded": 1.6,
-      "win_rate": 50.0,
+      "losses": 4,
+      "goals_for": 17,
+      "goals_against": 19,
+      "goal_diff": -2,
+      "avg_scored": 1.55,
+      "avg_conceded": 1.73,
+      "win_rate": 45.5,
       "matches": [],
-      "home_avg_scored": 1.6,
-      "home_avg_conceded": 1.6,
-      "away_avg_scored": 1.6,
-      "away_avg_conceded": 1.6,
+      "home_avg_scored": 1.55,
+      "home_avg_conceded": 1.73,
+      "away_avg_scored": 1.55,
+      "away_avg_conceded": 1.73,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.2,
+      "recent_goals_avg": 3.28,
       "recent_matches": []
     },
     {
@@ -303,9 +303,36 @@
       "recent_matches": []
     },
     {
+      "name": "Getafe",
+      "id": "2922",
+      "rank": 12,
+      "points": 12,
+      "played": 11,
+      "wins": 3,
+      "draws": 3,
+      "losses": 5,
+      "goals_for": 8,
+      "goals_against": 16,
+      "goal_diff": -8,
+      "avg_scored": 0.73,
+      "avg_conceded": 1.45,
+      "win_rate": 27.3,
+      "matches": [],
+      "home_avg_scored": 0.73,
+      "home_avg_conceded": 1.45,
+      "away_avg_scored": 0.73,
+      "away_avg_conceded": 1.45,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.18,
+      "recent_matches": []
+    },
+    {
       "name": "Deportivo",
       "id": "90",
-      "rank": 12,
+      "rank": 13,
       "points": 11,
       "played": 10,
       "wins": 2,
@@ -332,7 +359,7 @@
     {
       "name": "Espanyol",
       "id": "88",
-      "rank": 13,
+      "rank": 14,
       "points": 11,
       "played": 11,
       "wins": 3,
@@ -359,7 +386,7 @@
     {
       "name": "Osasuna",
       "id": "97",
-      "rank": 14,
+      "rank": 15,
       "points": 11,
       "played": 10,
       "wins": 3,
@@ -386,34 +413,34 @@
     {
       "name": "Racing Santander",
       "id": "87",
-      "rank": 15,
+      "rank": 16,
       "points": 11,
-      "played": 10,
+      "played": 11,
       "wins": 3,
       "draws": 2,
-      "losses": 5,
+      "losses": 6,
       "goals_for": 15,
-      "goals_against": 26,
-      "goal_diff": -11,
-      "avg_scored": 1.5,
-      "avg_conceded": 2.6,
-      "win_rate": 30.0,
+      "goals_against": 29,
+      "goal_diff": -14,
+      "avg_scored": 1.36,
+      "avg_conceded": 2.64,
+      "win_rate": 27.3,
       "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 2.6,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 2.6,
+      "home_avg_scored": 1.36,
+      "home_avg_conceded": 2.64,
+      "away_avg_scored": 1.36,
+      "away_avg_conceded": 2.64,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 4.1,
+      "recent_goals_avg": 4.0,
       "recent_matches": []
     },
     {
       "name": "Elche",
       "id": "3751",
-      "rank": 16,
+      "rank": 17,
       "points": 10,
       "played": 10,
       "wins": 2,
@@ -440,7 +467,7 @@
     {
       "name": "Levante",
       "id": "1538",
-      "rank": 17,
+      "rank": 18,
       "points": 10,
       "played": 11,
       "wins": 2,
@@ -462,33 +489,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.36,
-      "recent_matches": []
-    },
-    {
-      "name": "Getafe",
-      "id": "2922",
-      "rank": 18,
-      "points": 9,
-      "played": 10,
-      "wins": 2,
-      "draws": 3,
-      "losses": 5,
-      "goals_for": 5,
-      "goals_against": 15,
-      "goal_diff": -10,
-      "avg_scored": 0.5,
-      "avg_conceded": 1.5,
-      "win_rate": 20.0,
-      "matches": [],
-      "home_avg_scored": 0.5,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 0.5,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.0,
       "recent_matches": []
     },
     {
@@ -549,228 +549,16 @@
   "upcoming_matches": [
     {
       "league": "Spanish LALIGA",
-      "event_id": 1028209216,
-      "home": "Getafe",
-      "away": "Sevilla",
-      "date": "01.11.2026",
-      "time": "16:00",
-      "odds": "MS1: 3.15 | X: 3.00 | MS2: 2.45",
-      "odds_detail": {
-        "ms1": 3.15,
-        "x": 3.0,
-        "ms2": 2.45
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.8,
-        "x": 2.95,
-        "ms2": 2.75
-      },
-      "current_odds": {
-        "ms1": 3.15,
-        "x": 3.0,
-        "ms2": 2.45
-      },
-      "odds_change_pct": {
-        "ms1": 12.5,
-        "x": 1.69,
-        "ms2": -10.91
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-20T19:00:22.418062+03:00",
-          "ms1": 2.8,
-          "x": 2.95,
-          "ms2": 2.75
-        },
-        {
-          "timestamp": "2026-10-26T05:15:21.847793+03:00",
-          "ms1": 2.88,
-          "x": 2.95,
-          "ms2": 2.7
-        },
-        {
-          "timestamp": "2026-10-27T05:51:24.296274+03:00",
-          "ms1": 2.95,
-          "x": 2.95,
-          "ms2": 2.63
-        },
-        {
-          "timestamp": "2026-10-27T20:00:27.311884+03:00",
-          "ms1": 3.15,
-          "x": 3.0,
-          "ms2": 2.48
-        },
-        {
-          "timestamp": "2026-10-29T20:45:31.575510+03:00",
-          "ms1": 3.1,
-          "x": 2.95,
-          "ms2": 2.5
-        },
-        {
-          "timestamp": "2026-11-01T06:10:02.542204+03:00",
-          "ms1": 3.15,
-          "x": 3.0,
-          "ms2": 2.45
-        }
-      ],
-      "home_stats": {
-        "name": "Getafe",
-        "home_avg_scored": 0.5,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.0,
-        "played": 10,
-        "rank": 18,
-        "points": 9,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Sevilla",
-        "away_avg_scored": 1.6,
-        "away_avg_conceded": 1.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.2,
-        "played": 10,
-        "rank": 6,
-        "points": 17,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028209190,
-      "home": "Racing Santander",
-      "away": "Real Madrid",
-      "date": "01.11.2026",
-      "time": "18:15",
-      "odds": "MS1: 12.00 | X: 7.50 | MS2: 1.19",
-      "odds_detail": {
-        "ms1": 12.0,
-        "x": 7.5,
-        "ms2": 1.19
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 9.0,
-        "x": 6.4,
-        "ms2": 1.27
-      },
-      "current_odds": {
-        "ms1": 12.0,
-        "x": 7.5,
-        "ms2": 1.19
-      },
-      "odds_change_pct": {
-        "ms1": 33.33,
-        "x": 17.19,
-        "ms2": -6.3
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-20T19:00:22.418062+03:00",
-          "ms1": 9.0,
-          "x": 6.4,
-          "ms2": 1.27
-        },
-        {
-          "timestamp": "2026-10-25T05:15:02.710564+03:00",
-          "ms1": 9.5,
-          "x": 6.4,
-          "ms2": 1.27
-        },
-        {
-          "timestamp": "2026-10-25T18:14:27.452069+03:00",
-          "ms1": 9.5,
-          "x": 6.5,
-          "ms2": 1.26
-        },
-        {
-          "timestamp": "2026-10-26T20:52:13.155040+03:00",
-          "ms1": 9.5,
-          "x": 6.4,
-          "ms2": 1.26
-        },
-        {
-          "timestamp": "2026-10-27T05:51:24.296274+03:00",
-          "ms1": 10.0,
-          "x": 6.75,
-          "ms2": 1.24
-        },
-        {
-          "timestamp": "2026-10-27T20:00:27.311884+03:00",
-          "ms1": 9.5,
-          "x": 6.5,
-          "ms2": 1.25
-        },
-        {
-          "timestamp": "2026-10-28T05:58:59.139866+03:00",
-          "ms1": 10.0,
-          "x": 6.75,
-          "ms2": 1.23
-        },
-        {
-          "timestamp": "2026-10-29T20:45:31.575510+03:00",
-          "ms1": 10.5,
-          "x": 6.75,
-          "ms2": 1.23
-        },
-        {
-          "timestamp": "2026-10-30T06:28:01.764349+03:00",
-          "ms1": 11.0,
-          "x": 7.0,
-          "ms2": 1.22
-        },
-        {
-          "timestamp": "2026-11-01T06:10:02.542204+03:00",
-          "ms1": 12.0,
-          "x": 7.5,
-          "ms2": 1.19
-        }
-      ],
-      "home_stats": {
-        "name": "Racing Santander",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 2.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.1,
-        "played": 10,
-        "rank": 15,
-        "points": 11,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Real Madrid",
-        "away_avg_scored": 2.5,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.5,
-        "played": 10,
-        "rank": 3,
-        "points": 24,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
       "event_id": 1028209207,
       "home": "Elche",
       "away": "Valencia",
       "date": "01.11.2026",
       "time": "20:30",
-      "odds": "MS1: 2.35 | X: 3.35 | MS2: 2.95",
+      "odds": "MS1: 2.28 | X: 3.45 | MS2: 3.10",
       "odds_detail": {
-        "ms1": 2.35,
-        "x": 3.35,
-        "ms2": 2.95
+        "ms1": 2.28,
+        "x": 3.45,
+        "ms2": 3.1
       },
       "odds_available": true,
       "opening_odds": {
@@ -779,14 +567,14 @@
         "ms2": 2.8
       },
       "current_odds": {
-        "ms1": 2.35,
-        "x": 3.35,
-        "ms2": 2.95
+        "ms1": 2.28,
+        "x": 3.45,
+        "ms2": 3.1
       },
       "odds_change_pct": {
-        "ms1": -6.0,
-        "x": 0.0,
-        "ms2": 5.36
+        "ms1": -8.8,
+        "x": 2.99,
+        "ms2": 10.71
       },
       "odds_history": [
         {
@@ -830,6 +618,12 @@
           "ms1": 2.35,
           "x": 3.35,
           "ms2": 2.95
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 2.28,
+          "x": 3.45,
+          "ms2": 3.1
         }
       ],
       "home_stats": {
@@ -841,7 +635,7 @@
         "form": [],
         "recent_goals_avg": 3.1,
         "played": 10,
-        "rank": 16,
+        "rank": 17,
         "points": 10,
         "recent_matches": []
       },
@@ -866,11 +660,11 @@
       "away": "Real Sociedad",
       "date": "01.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.18 | X: 3.55 | MS2: 3.15",
+      "odds": "MS1: 2.00 | X: 3.60 | MS2: 3.60",
       "odds_detail": {
-        "ms1": 2.18,
-        "x": 3.55,
-        "ms2": 3.15
+        "ms1": 2.0,
+        "x": 3.6,
+        "ms2": 3.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -879,14 +673,14 @@
         "ms2": 3.65
       },
       "current_odds": {
-        "ms1": 2.18,
-        "x": 3.55,
-        "ms2": 3.15
+        "ms1": 2.0,
+        "x": 3.6,
+        "ms2": 3.6
       },
       "odds_change_pct": {
-        "ms1": 9.0,
-        "x": 0.0,
-        "ms2": -13.7
+        "ms1": 0.0,
+        "x": 1.41,
+        "ms2": -1.37
       },
       "odds_history": [
         {
@@ -936,6 +730,12 @@
           "ms1": 2.18,
           "x": 3.55,
           "ms2": 3.15
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 2.0,
+          "x": 3.6,
+          "ms2": 3.6
         }
       ],
       "home_stats": {
@@ -972,10 +772,10 @@
       "away": "Osasuna",
       "date": "02.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.15 | X: 3.35 | MS2: 3.45",
+      "odds": "MS1: 2.16 | X: 3.30 | MS2: 3.45",
       "odds_detail": {
-        "ms1": 2.15,
-        "x": 3.35,
+        "ms1": 2.16,
+        "x": 3.3,
         "ms2": 3.45
       },
       "odds_available": true,
@@ -985,13 +785,13 @@
         "ms2": 3.5
       },
       "current_odds": {
-        "ms1": 2.15,
-        "x": 3.35,
+        "ms1": 2.16,
+        "x": 3.3,
         "ms2": 3.45
       },
       "odds_change_pct": {
-        "ms1": -0.46,
-        "x": 3.08,
+        "ms1": 0.0,
+        "x": 1.54,
         "ms2": -1.43
       },
       "odds_history": [
@@ -1018,6 +818,12 @@
           "ms1": 2.15,
           "x": 3.35,
           "ms2": 3.45
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 2.16,
+          "x": 3.3,
+          "ms2": 3.45
         }
       ],
       "home_stats": {
@@ -1029,7 +835,7 @@
         "form": [],
         "recent_goals_avg": 2.6,
         "played": 10,
-        "rank": 12,
+        "rank": 13,
         "points": 11,
         "recent_matches": []
       },
@@ -1042,7 +848,7 @@
         "form": [],
         "recent_goals_avg": 3.0,
         "played": 10,
-        "rank": 14,
+        "rank": 15,
         "points": 11,
         "recent_matches": []
       }
@@ -1054,11 +860,11 @@
       "away": "Alavés",
       "date": "06.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.04 | X: 3.30 | MS2: 3.85",
+      "odds": "MS1: 1.96 | X: 3.40 | MS2: 4.00",
       "odds_detail": {
-        "ms1": 2.04,
-        "x": 3.3,
-        "ms2": 3.85
+        "ms1": 1.96,
+        "x": 3.4,
+        "ms2": 4.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1067,14 +873,14 @@
         "ms2": 3.6
       },
       "current_odds": {
-        "ms1": 2.04,
-        "x": 3.3,
-        "ms2": 3.85
+        "ms1": 1.96,
+        "x": 3.4,
+        "ms2": 4.0
       },
       "odds_change_pct": {
-        "ms1": -3.77,
-        "x": 1.54,
-        "ms2": 6.94
+        "ms1": -7.55,
+        "x": 4.62,
+        "ms2": 11.11
       },
       "odds_history": [
         {
@@ -1088,17 +894,23 @@
           "ms1": 2.04,
           "x": 3.3,
           "ms2": 3.85
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 1.96,
+          "x": 3.4,
+          "ms2": 4.0
         }
       ],
       "home_stats": {
         "name": "Sevilla",
-        "home_avg_scored": 1.6,
-        "home_avg_conceded": 1.6,
+        "home_avg_scored": 1.55,
+        "home_avg_conceded": 1.73,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.2,
-        "played": 10,
+        "recent_goals_avg": 3.28,
+        "played": 11,
         "rank": 6,
         "points": 17,
         "recent_matches": []
@@ -1169,14 +981,14 @@
       },
       "away_stats": {
         "name": "Racing Santander",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 2.6,
+        "away_avg_scored": 1.36,
+        "away_avg_conceded": 2.64,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 4.1,
-        "played": 10,
-        "rank": 15,
+        "recent_goals_avg": 4.0,
+        "played": 11,
+        "rank": 16,
         "points": 11,
         "recent_matches": []
       }
@@ -1239,7 +1051,7 @@
         "form": [],
         "recent_goals_avg": 2.45,
         "played": 11,
-        "rank": 13,
+        "rank": 14,
         "points": 11,
         "recent_matches": []
       },
@@ -1252,7 +1064,7 @@
         "form": [],
         "recent_goals_avg": 2.6,
         "played": 10,
-        "rank": 12,
+        "rank": 13,
         "points": 11,
         "recent_matches": []
       }
@@ -1309,7 +1121,7 @@
         "form": [],
         "recent_goals_avg": 3.0,
         "played": 10,
-        "rank": 14,
+        "rank": 15,
         "points": 11,
         "recent_matches": []
       },
@@ -1334,11 +1146,11 @@
       "away": "Real Madrid",
       "date": "07.11.2026",
       "time": "23:00",
-      "odds": "MS1: 8.00 | X: 5.40 | MS2: 1.34",
+      "odds": "MS1: 9.00 | X: 5.75 | MS2: 1.30",
       "odds_detail": {
-        "ms1": 8.0,
-        "x": 5.4,
-        "ms2": 1.34
+        "ms1": 9.0,
+        "x": 5.75,
+        "ms2": 1.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -1347,14 +1159,14 @@
         "ms2": 1.42
       },
       "current_odds": {
-        "ms1": 8.0,
-        "x": 5.4,
-        "ms2": 1.34
+        "ms1": 9.0,
+        "x": 5.75,
+        "ms2": 1.3
       },
       "odds_change_pct": {
-        "ms1": 18.52,
-        "x": 8.0,
-        "ms2": -5.63
+        "ms1": 33.33,
+        "x": 15.0,
+        "ms2": -8.45
       },
       "odds_history": [
         {
@@ -1374,6 +1186,12 @@
           "ms1": 8.0,
           "x": 5.4,
           "ms2": 1.34
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 9.0,
+          "x": 5.75,
+          "ms2": 1.3
         }
       ],
       "home_stats": {
@@ -1391,15 +1209,15 @@
       },
       "away_stats": {
         "name": "Real Madrid",
-        "away_avg_scored": 2.5,
-        "away_avg_conceded": 1.0,
+        "away_avg_scored": 2.55,
+        "away_avg_conceded": 0.91,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.5,
-        "played": 10,
+        "recent_goals_avg": 3.46,
+        "played": 11,
         "rank": 3,
-        "points": 24,
+        "points": 27,
         "recent_matches": []
       }
     },
@@ -1455,7 +1273,7 @@
         "form": [],
         "recent_goals_avg": 3.1,
         "played": 10,
-        "rank": 16,
+        "rank": 17,
         "points": 10,
         "recent_matches": []
       },
@@ -1480,11 +1298,11 @@
       "away": "Rayo Vallecano",
       "date": "08.11.2026",
       "time": "18:15",
-      "odds": "MS1: 1.75 | X: 3.95 | MS2: 4.35",
+      "odds": "MS1: 1.71 | X: 4.00 | MS2: 4.50",
       "odds_detail": {
-        "ms1": 1.75,
-        "x": 3.95,
-        "ms2": 4.35
+        "ms1": 1.71,
+        "x": 4.0,
+        "ms2": 4.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -1493,14 +1311,14 @@
         "ms2": 3.95
       },
       "current_odds": {
-        "ms1": 1.75,
-        "x": 3.95,
-        "ms2": 4.35
+        "ms1": 1.71,
+        "x": 4.0,
+        "ms2": 4.5
       },
       "odds_change_pct": {
-        "ms1": -5.91,
-        "x": 3.95,
-        "ms2": 10.13
+        "ms1": -8.06,
+        "x": 5.26,
+        "ms2": 13.92
       },
       "odds_history": [
         {
@@ -1520,6 +1338,12 @@
           "ms1": 1.75,
           "x": 3.95,
           "ms2": 4.35
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 1.71,
+          "x": 4.0,
+          "ms2": 4.5
         }
       ],
       "home_stats": {
@@ -1556,11 +1380,11 @@
       "away": "Levante",
       "date": "08.11.2026",
       "time": "20:30",
-      "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.30",
+      "odds": "MS1: 1.77 | X: 3.85 | MS2: 4.35",
       "odds_detail": {
-        "ms1": 1.78,
+        "ms1": 1.77,
         "x": 3.85,
-        "ms2": 4.3
+        "ms2": 4.35
       },
       "odds_available": true,
       "opening_odds": {
@@ -1569,14 +1393,14 @@
         "ms2": 4.35
       },
       "current_odds": {
-        "ms1": 1.78,
+        "ms1": 1.77,
         "x": 3.85,
-        "ms2": 4.3
+        "ms2": 4.35
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -0.56,
         "x": 1.32,
-        "ms2": -1.15
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -1590,6 +1414,12 @@
           "ms1": 1.78,
           "x": 3.85,
           "ms2": 4.3
+        },
+        {
+          "timestamp": "2026-11-01T20:23:24.220708+03:00",
+          "ms1": 1.77,
+          "x": 3.85,
+          "ms2": 4.35
         }
       ],
       "home_stats": {
@@ -1614,7 +1444,7 @@
         "form": [],
         "recent_goals_avg": 3.36,
         "played": 11,
-        "rank": 17,
+        "rank": 18,
         "points": 10,
         "recent_matches": []
       }
@@ -1677,15 +1507,15 @@
       },
       "away_stats": {
         "name": "Getafe",
-        "away_avg_scored": 0.5,
-        "away_avg_conceded": 1.5,
+        "away_avg_scored": 0.73,
+        "away_avg_conceded": 1.45,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.0,
-        "played": 10,
-        "rank": 18,
-        "points": 9,
+        "recent_goals_avg": 2.18,
+        "played": 11,
+        "rank": 12,
+        "points": 12,
         "recent_matches": []
       }
     },

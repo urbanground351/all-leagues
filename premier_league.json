@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-01T06:10:02.175618+03:00",
+  "last_updated": "2026-11-01T20:23:23.906213+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -554,11 +554,11 @@
       "away": "Arsenal",
       "date": "01.11.2026",
       "time": "19:30",
-      "odds": "MS1: 2.90 | X: 3.40 | MS2: 2.45",
+      "odds": "MS1: 6.50 | X: 3.55 | MS2: 1.56",
       "odds_detail": {
-        "ms1": 2.9,
-        "x": 3.4,
-        "ms2": 2.45
+        "ms1": 6.5,
+        "x": 3.55,
+        "ms2": 1.56
       },
       "odds_available": true,
       "opening_odds": {
@@ -567,14 +567,14 @@
         "ms2": 2.1
       },
       "current_odds": {
-        "ms1": 2.9,
-        "x": 3.4,
-        "ms2": 2.45
+        "ms1": 6.5,
+        "x": 3.55,
+        "ms2": 1.56
       },
       "odds_change_pct": {
-        "ms1": -13.43,
-        "x": -11.69,
-        "ms2": 16.67
+        "ms1": 94.03,
+        "x": -7.79,
+        "ms2": -25.71
       },
       "odds_history": [
         {
@@ -648,6 +648,12 @@
           "ms1": 2.9,
           "x": 3.4,
           "ms2": 2.45
+        },
+        {
+          "timestamp": "2026-11-01T20:23:23.906213+03:00",
+          "ms1": 6.5,
+          "x": 3.55,
+          "ms2": 1.56
         }
       ],
       "home_stats": {
@@ -978,9 +984,9 @@
       "away": "Hull City",
       "date": "07.11.2026",
       "time": "18:00",
-      "odds": "MS1: 1.15 | X: 8.00 | MS2: 18.00",
+      "odds": "MS1: 1.16 | X: 8.00 | MS2: 18.00",
       "odds_detail": {
-        "ms1": 1.15,
+        "ms1": 1.16,
         "x": 8.0,
         "ms2": 18.0
       },
@@ -991,12 +997,12 @@
         "ms2": 21.0
       },
       "current_odds": {
-        "ms1": 1.15,
+        "ms1": 1.16,
         "x": 8.0,
         "ms2": 18.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": 0.87,
         "x": -5.88,
         "ms2": -14.29
       },
@@ -1016,6 +1022,12 @@
         {
           "timestamp": "2026-10-31T19:29:34.238251+03:00",
           "ms1": 1.15,
+          "x": 8.0,
+          "ms2": 18.0
+        },
+        {
+          "timestamp": "2026-11-01T20:23:23.906213+03:00",
+          "ms1": 1.16,
           "x": 8.0,
           "ms2": 18.0
         }
@@ -1054,11 +1066,11 @@
       "away": "Newcastle United",
       "date": "07.11.2026",
       "time": "18:00",
-      "odds": "MS1: 2.25 | X: 3.65 | MS2: 3.15",
+      "odds": "MS1: 2.16 | X: 3.55 | MS2: 3.20",
       "odds_detail": {
-        "ms1": 2.25,
-        "x": 3.65,
-        "ms2": 3.15
+        "ms1": 2.16,
+        "x": 3.55,
+        "ms2": 3.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -1067,14 +1079,14 @@
         "ms2": 3.05
       },
       "current_odds": {
-        "ms1": 2.25,
-        "x": 3.65,
-        "ms2": 3.15
+        "ms1": 2.16,
+        "x": 3.55,
+        "ms2": 3.2
       },
       "odds_change_pct": {
-        "ms1": -1.32,
-        "x": 2.82,
-        "ms2": 3.28
+        "ms1": -5.26,
+        "x": 0.0,
+        "ms2": 4.92
       },
       "odds_history": [
         {
@@ -1094,6 +1106,12 @@
           "ms1": 2.25,
           "x": 3.65,
           "ms2": 3.15
+        },
+        {
+          "timestamp": "2026-11-01T20:23:23.906213+03:00",
+          "ms1": 2.16,
+          "x": 3.55,
+          "ms2": 3.2
         }
       ],
       "home_stats": {
@@ -1213,16 +1231,98 @@
     },
     {
       "league": "English Premier League",
+      "event_id": 1028072852,
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "date": "08.11.2026",
+      "time": "17:00",
+      "odds": "MS1: 4.75 | X: 4.20 | MS2: 1.66",
+      "odds_detail": {
+        "ms1": 4.75,
+        "x": 4.2,
+        "ms2": 1.66
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 4.6,
+        "x": 4.1,
+        "ms2": 1.7
+      },
+      "current_odds": {
+        "ms1": 4.75,
+        "x": 4.2,
+        "ms2": 1.66
+      },
+      "odds_change_pct": {
+        "ms1": 3.26,
+        "x": 2.44,
+        "ms2": -2.35
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-10-26T20:52:12.879650+03:00",
+          "ms1": 4.6,
+          "x": 4.1,
+          "ms2": 1.7
+        },
+        {
+          "timestamp": "2026-10-29T20:45:31.273372+03:00",
+          "ms1": 4.75,
+          "x": 4.1,
+          "ms2": 1.72
+        },
+        {
+          "timestamp": "2026-10-31T06:13:08.819139+03:00",
+          "ms1": 4.6,
+          "x": 4.1,
+          "ms2": 1.7
+        },
+        {
+          "timestamp": "2026-11-01T06:10:02.175618+03:00",
+          "ms1": 4.75,
+          "x": 4.2,
+          "ms2": 1.66
+        }
+      ],
+      "home_stats": {
+        "name": "Crystal Palace",
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 2.33,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.33,
+        "played": 9,
+        "rank": 18,
+        "points": 7,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Liverpool",
+        "away_avg_scored": 1.38,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.38,
+        "played": 8,
+        "rank": 5,
+        "points": 15,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
       "event_id": 1028072782,
       "home": "Sunderland",
       "away": "Chelsea",
       "date": "08.11.2026",
       "time": "17:00",
-      "odds": "MS1: 3.55 | X: 3.50 | MS2: 2.06",
+      "odds": "MS1: 3.85 | X: 3.60 | MS2: 2.00",
       "odds_detail": {
-        "ms1": 3.55,
-        "x": 3.5,
-        "ms2": 2.06
+        "ms1": 3.85,
+        "x": 3.6,
+        "ms2": 2.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1231,14 +1331,14 @@
         "ms2": 2.2
       },
       "current_odds": {
-        "ms1": 3.55,
-        "x": 3.5,
-        "ms2": 2.06
+        "ms1": 3.85,
+        "x": 3.6,
+        "ms2": 2.0
       },
       "odds_change_pct": {
-        "ms1": 4.41,
-        "x": 0.0,
-        "ms2": -6.36
+        "ms1": 13.24,
+        "x": 2.86,
+        "ms2": -9.09
       },
       "odds_history": [
         {
@@ -1264,6 +1364,12 @@
           "ms1": 3.55,
           "x": 3.5,
           "ms2": 2.06
+        },
+        {
+          "timestamp": "2026-11-01T20:23:23.906213+03:00",
+          "ms1": 3.85,
+          "x": 3.6,
+          "ms2": 2.0
         }
       ],
       "home_stats": {
@@ -1365,88 +1471,6 @@
     },
     {
       "league": "English Premier League",
-      "event_id": 1028072852,
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "date": "08.11.2026",
-      "time": "17:00",
-      "odds": "MS1: 4.75 | X: 4.20 | MS2: 1.66",
-      "odds_detail": {
-        "ms1": 4.75,
-        "x": 4.2,
-        "ms2": 1.66
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 4.6,
-        "x": 4.1,
-        "ms2": 1.7
-      },
-      "current_odds": {
-        "ms1": 4.75,
-        "x": 4.2,
-        "ms2": 1.66
-      },
-      "odds_change_pct": {
-        "ms1": 3.26,
-        "x": 2.44,
-        "ms2": -2.35
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-26T20:52:12.879650+03:00",
-          "ms1": 4.6,
-          "x": 4.1,
-          "ms2": 1.7
-        },
-        {
-          "timestamp": "2026-10-29T20:45:31.273372+03:00",
-          "ms1": 4.75,
-          "x": 4.1,
-          "ms2": 1.72
-        },
-        {
-          "timestamp": "2026-10-31T06:13:08.819139+03:00",
-          "ms1": 4.6,
-          "x": 4.1,
-          "ms2": 1.7
-        },
-        {
-          "timestamp": "2026-11-01T06:10:02.175618+03:00",
-          "ms1": 4.75,
-          "x": 4.2,
-          "ms2": 1.66
-        }
-      ],
-      "home_stats": {
-        "name": "Crystal Palace",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 2.33,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 9,
-        "rank": 18,
-        "points": 7,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Liverpool",
-        "away_avg_scored": 1.38,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.38,
-        "played": 8,
-        "rank": 5,
-        "points": 15,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072856,
       "home": "Ipswich Town",
       "away": "AFC Bournemouth",
@@ -1516,11 +1540,11 @@
       "away": "Aston Villa",
       "date": "08.11.2026",
       "time": "19:30",
-      "odds": "MS1: 2.20 | X: 3.95 | MS2: 3.05",
+      "odds": "MS1: 2.30 | X: 3.85 | MS2: 2.95",
       "odds_detail": {
-        "ms1": 2.2,
-        "x": 3.95,
-        "ms2": 3.05
+        "ms1": 2.3,
+        "x": 3.85,
+        "ms2": 2.95
       },
       "odds_available": true,
       "opening_odds": {
@@ -1529,14 +1553,14 @@
         "ms2": 3.0
       },
       "current_odds": {
-        "ms1": 2.2,
-        "x": 3.95,
-        "ms2": 3.05
+        "ms1": 2.3,
+        "x": 3.85,
+        "ms2": 2.95
       },
       "odds_change_pct": {
-        "ms1": 0.92,
-        "x": 2.6,
-        "ms2": 1.67
+        "ms1": 5.5,
+        "x": 0.0,
+        "ms2": -1.67
       },
       "odds_history": [
         {
@@ -1550,6 +1574,12 @@
           "ms1": 2.2,
           "x": 3.95,
           "ms2": 3.05
+        },
+        {
+          "timestamp": "2026-11-01T20:23:23.906213+03:00",
+          "ms1": 2.3,
+          "x": 3.85,
+          "ms2": 2.95
         }
       ],
       "home_stats": {
