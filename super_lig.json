@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-02T06:19:55.076544+03:00",
+  "last_updated": "2026-11-03T00:01:56.351268+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -307,26 +307,26 @@
       "id": "9078",
       "rank": 12,
       "points": 12,
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "goals_for": 9,
-      "goals_against": 11,
-      "goal_diff": -2,
-      "avg_scored": 1.0,
-      "avg_conceded": 1.22,
-      "win_rate": 33.3,
+      "goals_against": 16,
+      "goal_diff": -7,
+      "avg_scored": 0.9,
+      "avg_conceded": 1.6,
+      "win_rate": 30.0,
       "matches": [],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 1.22,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 1.22,
+      "home_avg_scored": 0.9,
+      "home_avg_conceded": 1.6,
+      "away_avg_scored": 0.9,
+      "away_avg_conceded": 1.6,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.22,
+      "recent_goals_avg": 2.5,
       "recent_matches": []
     },
     {
@@ -357,9 +357,36 @@
       "recent_matches": []
     },
     {
+      "name": "Genclerbirligi",
+      "id": "996",
+      "rank": 14,
+      "points": 11,
+      "played": 10,
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "goals_for": 12,
+      "goals_against": 18,
+      "goal_diff": -6,
+      "avg_scored": 1.2,
+      "avg_conceded": 1.8,
+      "win_rate": 30.0,
+      "matches": [],
+      "home_avg_scored": 1.2,
+      "home_avg_conceded": 1.8,
+      "away_avg_scored": 1.2,
+      "away_avg_conceded": 1.8,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.0,
+      "recent_matches": []
+    },
+    {
       "name": "Konyaspor",
       "id": "7648",
-      "rank": 14,
+      "rank": 15,
       "points": 8,
       "played": 10,
       "wins": 2,
@@ -386,7 +413,7 @@
     {
       "name": "Gaziantep FK",
       "id": "20070",
-      "rank": 15,
+      "rank": 16,
       "points": 8,
       "played": 10,
       "wins": 2,
@@ -408,33 +435,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.6,
-      "recent_matches": []
-    },
-    {
-      "name": "Genclerbirligi",
-      "id": "996",
-      "rank": 16,
-      "points": 8,
-      "played": 9,
-      "wins": 2,
-      "draws": 2,
-      "losses": 5,
-      "goals_for": 7,
-      "goals_against": 18,
-      "goal_diff": -11,
-      "avg_scored": 0.78,
-      "avg_conceded": 2.0,
-      "win_rate": 22.2,
-      "matches": [],
-      "home_avg_scored": 0.78,
-      "home_avg_conceded": 2.0,
-      "away_avg_scored": 0.78,
-      "away_avg_conceded": 2.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.78,
       "recent_matches": []
     },
     {
@@ -495,79 +495,15 @@
   "upcoming_matches": [
     {
       "league": "Trendyol Süper Lig",
-      "event_id": 1028328539,
-      "home": "Genclerbirligi",
-      "away": "Alanyaspor",
-      "date": "02.11.2026",
-      "time": "20:00",
-      "odds": "MS1: 2.55 | X: 3.15 | MS2: 2.80",
-      "odds_detail": {
-        "ms1": 2.55,
-        "x": 3.15,
-        "ms2": 2.8
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.55,
-        "x": 3.15,
-        "ms2": 2.8
-      },
-      "current_odds": {
-        "ms1": 2.55,
-        "x": 3.15,
-        "ms2": 2.8
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-26T20:52:12.205657+03:00",
-          "ms1": 2.55,
-          "x": 3.15,
-          "ms2": 2.8
-        }
-      ],
-      "home_stats": {
-        "name": "Genclerbirligi",
-        "home_avg_scored": 0.78,
-        "home_avg_conceded": 2.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.78,
-        "played": 9,
-        "rank": 16,
-        "points": 8,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Alanyaspor",
-        "away_avg_scored": 1.0,
-        "away_avg_conceded": 1.22,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.22,
-        "played": 9,
-        "rank": 12,
-        "points": 12,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
       "event_id": 1028328468,
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "date": "06.11.2026",
       "time": "20:00",
-      "odds": "MS1: 2.70 | X: 3.30 | MS2: 2.55",
+      "odds": "MS1: 2.75 | X: 3.25 | MS2: 2.55",
       "odds_detail": {
-        "ms1": 2.7,
-        "x": 3.3,
+        "ms1": 2.75,
+        "x": 3.25,
         "ms2": 2.55
       },
       "odds_available": true,
@@ -577,13 +513,13 @@
         "ms2": 2.55
       },
       "current_odds": {
-        "ms1": 2.7,
-        "x": 3.3,
+        "ms1": 2.75,
+        "x": 3.25,
         "ms2": 2.55
       },
       "odds_change_pct": {
-        "ms1": -1.82,
-        "x": 1.54,
+        "ms1": 0.0,
+        "x": 0.0,
         "ms2": 0.0
       },
       "odds_history": [
@@ -598,6 +534,12 @@
           "ms1": 2.7,
           "x": 3.3,
           "ms2": 2.55
+        },
+        {
+          "timestamp": "2026-11-03T00:01:56.351268+03:00",
+          "ms1": 2.75,
+          "x": 3.25,
+          "ms2": 2.55
         }
       ],
       "home_stats": {
@@ -609,7 +551,7 @@
         "form": [],
         "recent_goals_avg": 2.6,
         "played": 10,
-        "rank": 15,
+        "rank": 16,
         "points": 8,
         "recent_matches": []
       },
@@ -756,7 +698,7 @@
         "form": [],
         "recent_goals_avg": 1.9,
         "played": 10,
-        "rank": 14,
+        "rank": 15,
         "points": 8,
         "recent_matches": []
       }
@@ -1074,13 +1016,13 @@
       ],
       "home_stats": {
         "name": "Alanyaspor",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 1.22,
+        "home_avg_scored": 0.9,
+        "home_avg_conceded": 1.6,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.22,
-        "played": 9,
+        "recent_goals_avg": 2.5,
+        "played": 10,
         "rank": 12,
         "points": 12,
         "recent_matches": []
@@ -1151,15 +1093,15 @@
       },
       "away_stats": {
         "name": "Genclerbirligi",
-        "away_avg_scored": 0.78,
-        "away_avg_conceded": 2.0,
+        "away_avg_scored": 1.2,
+        "away_avg_conceded": 1.8,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.78,
-        "played": 9,
-        "rank": 16,
-        "points": 8,
+        "recent_goals_avg": 3.0,
+        "played": 10,
+        "rank": 14,
+        "points": 11,
         "recent_matches": []
       }
     }
