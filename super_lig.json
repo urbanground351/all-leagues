@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-03T07:31:59.674444+03:00",
+  "last_updated": "2026-11-03T21:47:55.989471+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -786,11 +786,11 @@
       "away": "Istanbul Basaksehir",
       "date": "07.11.2026",
       "time": "19:00",
-      "odds": "MS1: 1.91 | X: 3.80 | MS2: 3.55",
+      "odds": "MS1: 1.94 | X: 3.80 | MS2: 3.50",
       "odds_detail": {
-        "ms1": 1.91,
+        "ms1": 1.94,
         "x": 3.8,
-        "ms2": 3.55
+        "ms2": 3.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -799,14 +799,14 @@
         "ms2": 2.6
       },
       "current_odds": {
-        "ms1": 1.91,
+        "ms1": 1.94,
         "x": 3.8,
-        "ms2": 3.55
+        "ms2": 3.5
       },
       "odds_change_pct": {
-        "ms1": -22.98,
+        "ms1": -21.77,
         "x": 4.11,
-        "ms2": 36.54
+        "ms2": 34.62
       },
       "odds_history": [
         {
@@ -820,6 +820,12 @@
           "ms1": 1.91,
           "x": 3.8,
           "ms2": 3.55
+        },
+        {
+          "timestamp": "2026-11-03T21:47:55.989471+03:00",
+          "ms1": 1.94,
+          "x": 3.8,
+          "ms2": 3.5
         }
       ],
       "home_stats": {
