@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-03T00:01:56.962383+03:00",
+  "last_updated": "2026-11-03T07:32:00.408590+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -168,9 +168,36 @@
       "recent_matches": []
     },
     {
+      "name": "Everton",
+      "id": "368",
+      "rank": 7,
+      "points": 13,
+      "played": 9,
+      "wins": 3,
+      "draws": 4,
+      "losses": 2,
+      "goals_for": 9,
+      "goals_against": 9,
+      "goal_diff": 0,
+      "avg_scored": 1.0,
+      "avg_conceded": 1.0,
+      "win_rate": 33.3,
+      "matches": [],
+      "home_avg_scored": 1.0,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.0,
+      "recent_matches": []
+    },
+    {
       "name": "AFC Bournemouth",
       "id": "349",
-      "rank": 7,
+      "rank": 8,
       "points": 12,
       "played": 9,
       "wins": 3,
@@ -197,7 +224,7 @@
     {
       "name": "Tottenham Hotspur",
       "id": "367",
-      "rank": 8,
+      "rank": 9,
       "points": 12,
       "played": 9,
       "wins": 3,
@@ -224,7 +251,7 @@
     {
       "name": "Aston Villa",
       "id": "362",
-      "rank": 9,
+      "rank": 10,
       "points": 12,
       "played": 9,
       "wins": 3,
@@ -251,7 +278,7 @@
     {
       "name": "Hull City",
       "id": "306",
-      "rank": 10,
+      "rank": 11,
       "points": 11,
       "played": 9,
       "wins": 2,
@@ -278,7 +305,7 @@
     {
       "name": "Leeds United",
       "id": "357",
-      "rank": 11,
+      "rank": 12,
       "points": 11,
       "played": 9,
       "wins": 2,
@@ -305,34 +332,34 @@
     {
       "name": "Newcastle United",
       "id": "361",
-      "rank": 12,
+      "rank": 13,
       "points": 11,
-      "played": 8,
+      "played": 9,
       "wins": 3,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "goals_for": 12,
-      "goals_against": 14,
-      "goal_diff": -2,
-      "avg_scored": 1.5,
-      "avg_conceded": 1.75,
-      "win_rate": 37.5,
+      "goals_against": 15,
+      "goal_diff": -3,
+      "avg_scored": 1.33,
+      "avg_conceded": 1.67,
+      "win_rate": 33.3,
       "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 1.75,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.75,
+      "home_avg_scored": 1.33,
+      "home_avg_conceded": 1.67,
+      "away_avg_scored": 1.33,
+      "away_avg_conceded": 1.67,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.25,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     },
     {
       "name": "Ipswich Town",
       "id": "373",
-      "rank": 13,
+      "rank": 14,
       "points": 11,
       "played": 9,
       "wins": 3,
@@ -354,33 +381,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.56,
-      "recent_matches": []
-    },
-    {
-      "name": "Everton",
-      "id": "368",
-      "rank": 14,
-      "points": 10,
-      "played": 8,
-      "wins": 2,
-      "draws": 4,
-      "losses": 2,
-      "goals_for": 8,
-      "goals_against": 9,
-      "goal_diff": -1,
-      "avg_scored": 1.0,
-      "avg_conceded": 1.12,
-      "win_rate": 25.0,
-      "matches": [],
-      "home_avg_scored": 1.0,
-      "home_avg_conceded": 1.12,
-      "away_avg_scored": 1.0,
-      "away_avg_conceded": 1.12,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.12,
       "recent_matches": []
     },
     {
@@ -611,14 +611,14 @@
       "home_stats": {
         "name": "Everton",
         "home_avg_scored": 1.0,
-        "home_avg_conceded": 1.12,
+        "home_avg_conceded": 1.0,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.12,
-        "played": 8,
-        "rank": 14,
-        "points": 10,
+        "recent_goals_avg": 2.0,
+        "played": 9,
+        "rank": 7,
+        "points": 13,
         "recent_matches": []
       },
       "away_stats": {
@@ -711,7 +711,7 @@
         "form": [],
         "recent_goals_avg": 1.89,
         "played": 9,
-        "rank": 11,
+        "rank": 12,
         "points": 11,
         "recent_matches": []
       },
@@ -724,7 +724,7 @@
         "form": [],
         "recent_goals_avg": 2.22,
         "played": 9,
-        "rank": 8,
+        "rank": 9,
         "points": 12,
         "recent_matches": []
       }
@@ -812,7 +812,7 @@
         "form": [],
         "recent_goals_avg": 2.33,
         "played": 9,
-        "rank": 10,
+        "rank": 11,
         "points": 11,
         "recent_matches": []
       }
@@ -824,11 +824,11 @@
       "away": "Newcastle United",
       "date": "07.11.2026",
       "time": "18:00",
-      "odds": "MS1: 2.17 | X: 3.55 | MS2: 3.25",
+      "odds": "MS1: 2.12 | X: 3.55 | MS2: 3.35",
       "odds_detail": {
-        "ms1": 2.17,
+        "ms1": 2.12,
         "x": 3.55,
-        "ms2": 3.25
+        "ms2": 3.35
       },
       "odds_available": true,
       "opening_odds": {
@@ -837,14 +837,14 @@
         "ms2": 3.05
       },
       "current_odds": {
-        "ms1": 2.17,
+        "ms1": 2.12,
         "x": 3.55,
-        "ms2": 3.25
+        "ms2": 3.35
       },
       "odds_change_pct": {
-        "ms1": -4.82,
+        "ms1": -7.02,
         "x": 0.0,
-        "ms2": 6.56
+        "ms2": 9.84
       },
       "odds_history": [
         {
@@ -876,6 +876,12 @@
           "ms1": 2.17,
           "x": 3.55,
           "ms2": 3.25
+        },
+        {
+          "timestamp": "2026-11-03T07:32:00.408590+03:00",
+          "ms1": 2.12,
+          "x": 3.55,
+          "ms2": 3.35
         }
       ],
       "home_stats": {
@@ -893,14 +899,14 @@
       },
       "away_stats": {
         "name": "Newcastle United",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 1.75,
+        "away_avg_scored": 1.33,
+        "away_avg_conceded": 1.67,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.25,
-        "played": 8,
-        "rank": 12,
+        "recent_goals_avg": 3.0,
+        "played": 9,
+        "rank": 13,
         "points": 11,
         "recent_matches": []
       }
@@ -1309,7 +1315,7 @@
         "form": [],
         "recent_goals_avg": 3.56,
         "played": 9,
-        "rank": 13,
+        "rank": 14,
         "points": 11,
         "recent_matches": []
       },
@@ -1322,7 +1328,7 @@
         "form": [],
         "recent_goals_avg": 3.0,
         "played": 9,
-        "rank": 7,
+        "rank": 8,
         "points": 12,
         "recent_matches": []
       }
@@ -1404,7 +1410,7 @@
         "form": [],
         "recent_goals_avg": 2.55,
         "played": 9,
-        "rank": 9,
+        "rank": 10,
         "points": 12,
         "recent_matches": []
       }

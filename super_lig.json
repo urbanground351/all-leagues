@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-03T00:01:56.351268+03:00",
+  "last_updated": "2026-11-03T07:31:59.674444+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -984,11 +984,11 @@
       "away": "Trabzonspor",
       "date": "08.11.2026",
       "time": "18:30",
-      "odds": "MS1: 4.00 | X: 3.65 | MS2: 1.85",
+      "odds": "MS1: 4.40 | X: 3.70 | MS2: 1.75",
       "odds_detail": {
-        "ms1": 4.0,
-        "x": 3.65,
-        "ms2": 1.85
+        "ms1": 4.4,
+        "x": 3.7,
+        "ms2": 1.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -997,14 +997,14 @@
         "ms2": 1.85
       },
       "current_odds": {
-        "ms1": 4.0,
-        "x": 3.65,
-        "ms2": 1.85
+        "ms1": 4.4,
+        "x": 3.7,
+        "ms2": 1.75
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 10.0,
+        "x": 1.37,
+        "ms2": -5.41
       },
       "odds_history": [
         {
@@ -1012,6 +1012,12 @@
           "ms1": 4.0,
           "x": 3.65,
           "ms2": 1.85
+        },
+        {
+          "timestamp": "2026-11-03T07:31:59.674444+03:00",
+          "ms1": 4.4,
+          "x": 3.7,
+          "ms2": 1.75
         }
       ],
       "home_stats": {

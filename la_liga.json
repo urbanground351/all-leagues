@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-03T00:01:57.218430+03:00",
+  "last_updated": "2026-11-03T07:32:00.664824+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -195,9 +195,36 @@
       "recent_matches": []
     },
     {
+      "name": "Deportivo",
+      "id": "90",
+      "rank": 8,
+      "points": 14,
+      "played": 11,
+      "wins": 3,
+      "draws": 5,
+      "losses": 3,
+      "goals_for": 15,
+      "goals_against": 14,
+      "goal_diff": 1,
+      "avg_scored": 1.36,
+      "avg_conceded": 1.27,
+      "win_rate": 27.3,
+      "matches": [],
+      "home_avg_scored": 1.36,
+      "home_avg_conceded": 1.27,
+      "away_avg_scored": 1.36,
+      "away_avg_conceded": 1.27,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.63,
+      "recent_matches": []
+    },
+    {
       "name": "Villarreal",
       "id": "102",
-      "rank": 8,
+      "rank": 9,
       "points": 12,
       "played": 11,
       "wins": 3,
@@ -224,7 +251,7 @@
     {
       "name": "Celta Vigo",
       "id": "85",
-      "rank": 9,
+      "rank": 10,
       "points": 12,
       "played": 11,
       "wins": 2,
@@ -251,7 +278,7 @@
     {
       "name": "Alavés",
       "id": "96",
-      "rank": 10,
+      "rank": 11,
       "points": 12,
       "played": 11,
       "wins": 3,
@@ -278,7 +305,7 @@
     {
       "name": "Rayo Vallecano",
       "id": "101",
-      "rank": 11,
+      "rank": 12,
       "points": 12,
       "played": 10,
       "wins": 3,
@@ -305,7 +332,7 @@
     {
       "name": "Getafe",
       "id": "2922",
-      "rank": 12,
+      "rank": 13,
       "points": 12,
       "played": 11,
       "wins": 3,
@@ -327,33 +354,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.18,
-      "recent_matches": []
-    },
-    {
-      "name": "Deportivo",
-      "id": "90",
-      "rank": 13,
-      "points": 11,
-      "played": 10,
-      "wins": 2,
-      "draws": 5,
-      "losses": 3,
-      "goals_for": 13,
-      "goals_against": 13,
-      "goal_diff": 0,
-      "avg_scored": 1.3,
-      "avg_conceded": 1.3,
-      "win_rate": 20.0,
-      "matches": [],
-      "home_avg_scored": 1.3,
-      "home_avg_conceded": 1.3,
-      "away_avg_scored": 1.3,
-      "away_avg_conceded": 1.3,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.6,
       "recent_matches": []
     },
     {
@@ -388,16 +388,16 @@
       "id": "97",
       "rank": 15,
       "points": 11,
-      "played": 10,
+      "played": 11,
       "wins": 3,
       "draws": 2,
-      "losses": 5,
-      "goals_for": 10,
-      "goals_against": 20,
-      "goal_diff": -10,
+      "losses": 6,
+      "goals_for": 11,
+      "goals_against": 22,
+      "goal_diff": -11,
       "avg_scored": 1.0,
       "avg_conceded": 2.0,
-      "win_rate": 30.0,
+      "win_rate": 27.3,
       "matches": [],
       "home_avg_scored": 1.0,
       "home_avg_conceded": 2.0,
@@ -624,7 +624,7 @@
         "form": [],
         "recent_goals_avg": 2.91,
         "played": 11,
-        "rank": 10,
+        "rank": 11,
         "points": 12,
         "recent_matches": []
       }
@@ -775,15 +775,15 @@
       },
       "away_stats": {
         "name": "Deportivo",
-        "away_avg_scored": 1.3,
-        "away_avg_conceded": 1.3,
+        "away_avg_scored": 1.36,
+        "away_avg_conceded": 1.27,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.6,
-        "played": 10,
-        "rank": 13,
-        "points": 11,
+        "recent_goals_avg": 2.63,
+        "played": 11,
+        "rank": 8,
+        "points": 14,
         "recent_matches": []
       }
     },
@@ -844,7 +844,7 @@
         "shots_on_target_against": null,
         "form": [],
         "recent_goals_avg": 3.0,
-        "played": 10,
+        "played": 11,
         "rank": 15,
         "points": 11,
         "recent_matches": []
@@ -1104,7 +1104,7 @@
         "form": [],
         "recent_goals_avg": 3.5,
         "played": 10,
-        "rank": 11,
+        "rank": 12,
         "points": 12,
         "recent_matches": []
       }
@@ -1179,7 +1179,7 @@
         "form": [],
         "recent_goals_avg": 1.82,
         "played": 11,
-        "rank": 9,
+        "rank": 10,
         "points": 12,
         "recent_matches": []
       },
@@ -1204,11 +1204,11 @@
       "away": "Getafe",
       "date": "08.11.2026",
       "time": "20:30",
-      "odds": "MS1: 1.50 | X: 4.25 | MS2: 6.50",
+      "odds": "MS1: 1.48 | X: 4.30 | MS2: 6.75",
       "odds_detail": {
-        "ms1": 1.5,
-        "x": 4.25,
-        "ms2": 6.5
+        "ms1": 1.48,
+        "x": 4.3,
+        "ms2": 6.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -1217,14 +1217,14 @@
         "ms2": 6.75
       },
       "current_odds": {
-        "ms1": 1.5,
-        "x": 4.25,
-        "ms2": 6.5
+        "ms1": 1.48,
+        "x": 4.3,
+        "ms2": 6.75
       },
       "odds_change_pct": {
-        "ms1": 1.35,
-        "x": -2.3,
-        "ms2": -3.7
+        "ms1": 0.0,
+        "x": -1.15,
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -1244,6 +1244,12 @@
           "ms1": 1.5,
           "x": 4.25,
           "ms2": 6.5
+        },
+        {
+          "timestamp": "2026-11-03T07:32:00.664824+03:00",
+          "ms1": 1.48,
+          "x": 4.3,
+          "ms2": 6.75
         }
       ],
       "home_stats": {
@@ -1255,7 +1261,7 @@
         "form": [],
         "recent_goals_avg": 2.72,
         "played": 11,
-        "rank": 8,
+        "rank": 9,
         "points": 12,
         "recent_matches": []
       },
@@ -1268,7 +1274,7 @@
         "form": [],
         "recent_goals_avg": 2.18,
         "played": 11,
-        "rank": 12,
+        "rank": 13,
         "points": 12,
         "recent_matches": []
       }
