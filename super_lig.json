@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-03T21:47:55.989471+03:00",
+  "last_updated": "2026-11-04T06:51:48.372074+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Kasimpasa",
       "date": "06.11.2026",
       "time": "20:00",
-      "odds": "MS1: 2.75 | X: 3.25 | MS2: 2.55",
+      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.70",
       "odds_detail": {
-        "ms1": 2.75,
+        "ms1": 2.6,
         "x": 3.25,
-        "ms2": 2.55
+        "ms2": 2.7
       },
       "odds_available": true,
       "opening_odds": {
@@ -513,14 +513,14 @@
         "ms2": 2.55
       },
       "current_odds": {
-        "ms1": 2.75,
+        "ms1": 2.6,
         "x": 3.25,
-        "ms2": 2.55
+        "ms2": 2.7
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -5.45,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": 5.88
       },
       "odds_history": [
         {
@@ -540,6 +540,12 @@
           "ms1": 2.75,
           "x": 3.25,
           "ms2": 2.55
+        },
+        {
+          "timestamp": "2026-11-04T06:51:48.372074+03:00",
+          "ms1": 2.6,
+          "x": 3.25,
+          "ms2": 2.7
         }
       ],
       "home_stats": {
