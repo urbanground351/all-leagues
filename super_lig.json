@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-06T07:08:03.616260+03:00",
+  "last_updated": "2026-11-06T21:40:02.018375+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -499,28 +499,28 @@
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "date": "06.11.2026",
-      "time": "20:00",
-      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.65",
+      "time": "19:59",
+      "odds": "Oran yok",
       "odds_detail": {
-        "ms1": 2.6,
-        "x": 3.25,
-        "ms2": 2.65
+        "ms1": 81.0,
+        "x": 21.0,
+        "ms2": null
       },
-      "odds_available": true,
+      "odds_available": false,
       "opening_odds": {
         "ms1": 2.75,
         "x": 3.25,
         "ms2": 2.55
       },
       "current_odds": {
-        "ms1": 2.6,
-        "x": 3.25,
-        "ms2": 2.65
+        "ms1": 81.0,
+        "x": 21.0,
+        "ms2": null
       },
       "odds_change_pct": {
-        "ms1": -5.45,
-        "x": 0.0,
-        "ms2": 3.92
+        "ms1": 2845.45,
+        "x": 546.15,
+        "ms2": null
       },
       "odds_history": [
         {
@@ -968,11 +968,11 @@
       "away": "Fenerbahce",
       "date": "08.11.2026",
       "time": "16:00",
-      "odds": "MS1: 4.80 | X: 4.10 | MS2: 1.63",
+      "odds": "MS1: 4.30 | X: 3.90 | MS2: 1.74",
       "odds_detail": {
-        "ms1": 4.8,
-        "x": 4.1,
-        "ms2": 1.63
+        "ms1": 4.3,
+        "x": 3.9,
+        "ms2": 1.74
       },
       "odds_available": true,
       "opening_odds": {
@@ -981,14 +981,14 @@
         "ms2": 1.7
       },
       "current_odds": {
-        "ms1": 4.8,
-        "x": 4.1,
-        "ms2": 1.63
+        "ms1": 4.3,
+        "x": 3.9,
+        "ms2": 1.74
       },
       "odds_change_pct": {
-        "ms1": 9.09,
-        "x": 3.8,
-        "ms2": -4.12
+        "ms1": -2.27,
+        "x": -1.27,
+        "ms2": 2.35
       },
       "odds_history": [
         {
@@ -1020,6 +1020,12 @@
           "ms1": 4.8,
           "x": 4.1,
           "ms2": 1.63
+        },
+        {
+          "timestamp": "2026-11-06T21:40:02.018375+03:00",
+          "ms1": 4.3,
+          "x": 3.9,
+          "ms2": 1.74
         }
       ],
       "home_stats": {
