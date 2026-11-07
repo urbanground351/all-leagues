@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-06T21:40:02.018375+03:00",
+  "last_updated": "2026-11-07T06:41:39.172678+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -87,9 +87,36 @@
       "recent_matches": []
     },
     {
+      "name": "Kasimpasa",
+      "id": "6870",
+      "rank": 4,
+      "points": 20,
+      "played": 11,
+      "wins": 5,
+      "draws": 5,
+      "losses": 1,
+      "goals_for": 17,
+      "goals_against": 11,
+      "goal_diff": 6,
+      "avg_scored": 1.55,
+      "avg_conceded": 1.0,
+      "win_rate": 45.5,
+      "matches": [],
+      "home_avg_scored": 1.55,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 1.55,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.55,
+      "recent_matches": []
+    },
+    {
       "name": "Besiktas",
       "id": "1895",
-      "rank": 4,
+      "rank": 5,
       "points": 19,
       "played": 10,
       "wins": 6,
@@ -111,33 +138,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.2,
-      "recent_matches": []
-    },
-    {
-      "name": "Kasimpasa",
-      "id": "6870",
-      "rank": 5,
-      "points": 17,
-      "played": 10,
-      "wins": 4,
-      "draws": 5,
-      "losses": 1,
-      "goals_for": 15,
-      "goals_against": 11,
-      "goal_diff": 4,
-      "avg_scored": 1.5,
-      "avg_conceded": 1.1,
-      "win_rate": 40.0,
-      "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 1.1,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 1.1,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.6,
       "recent_matches": []
     },
     {
@@ -415,26 +415,26 @@
       "id": "20070",
       "rank": 16,
       "points": 8,
-      "played": 10,
+      "played": 11,
       "wins": 2,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "goals_for": 9,
-      "goals_against": 17,
-      "goal_diff": -8,
-      "avg_scored": 0.9,
-      "avg_conceded": 1.7,
-      "win_rate": 20.0,
+      "goals_against": 19,
+      "goal_diff": -10,
+      "avg_scored": 0.82,
+      "avg_conceded": 1.73,
+      "win_rate": 18.2,
       "matches": [],
-      "home_avg_scored": 0.9,
-      "home_avg_conceded": 1.7,
-      "away_avg_scored": 0.9,
-      "away_avg_conceded": 1.7,
+      "home_avg_scored": 0.82,
+      "home_avg_conceded": 1.73,
+      "away_avg_scored": 0.82,
+      "away_avg_conceded": 1.73,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.6,
+      "recent_goals_avg": 2.55,
       "recent_matches": []
     },
     {
@@ -493,94 +493,6 @@
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328468,
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "date": "06.11.2026",
-      "time": "19:59",
-      "odds": "Oran yok",
-      "odds_detail": {
-        "ms1": 81.0,
-        "x": 21.0,
-        "ms2": null
-      },
-      "odds_available": false,
-      "opening_odds": {
-        "ms1": 2.75,
-        "x": 3.25,
-        "ms2": 2.55
-      },
-      "current_odds": {
-        "ms1": 81.0,
-        "x": 21.0,
-        "ms2": null
-      },
-      "odds_change_pct": {
-        "ms1": 2845.45,
-        "x": 546.15,
-        "ms2": null
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-30T20:26:03.480478+03:00",
-          "ms1": 2.75,
-          "x": 3.25,
-          "ms2": 2.55
-        },
-        {
-          "timestamp": "2026-10-31T06:13:08.190574+03:00",
-          "ms1": 2.7,
-          "x": 3.3,
-          "ms2": 2.55
-        },
-        {
-          "timestamp": "2026-11-03T00:01:56.351268+03:00",
-          "ms1": 2.75,
-          "x": 3.25,
-          "ms2": 2.55
-        },
-        {
-          "timestamp": "2026-11-04T06:51:48.372074+03:00",
-          "ms1": 2.6,
-          "x": 3.25,
-          "ms2": 2.7
-        },
-        {
-          "timestamp": "2026-11-05T22:13:31.289625+03:00",
-          "ms1": 2.6,
-          "x": 3.25,
-          "ms2": 2.65
-        }
-      ],
-      "home_stats": {
-        "name": "Gaziantep FK",
-        "home_avg_scored": 0.9,
-        "home_avg_conceded": 1.7,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.6,
-        "played": 10,
-        "rank": 16,
-        "points": 8,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Kasimpasa",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 1.1,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.6,
-        "played": 10,
-        "rank": 5,
-        "points": 17,
-        "recent_matches": []
-      }
-    },
     {
       "league": "Trendyol Süper Lig",
       "event_id": 1028328472,
@@ -1189,7 +1101,7 @@
         "form": [],
         "recent_goals_avg": 3.2,
         "played": 10,
-        "rank": 4,
+        "rank": 5,
         "points": 19,
         "recent_matches": []
       },
