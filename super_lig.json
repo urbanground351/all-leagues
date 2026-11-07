@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-07T06:41:39.172678+03:00",
+  "last_updated": "2026-11-07T20:09:29.565288+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -141,9 +141,36 @@
       "recent_matches": []
     },
     {
+      "name": "Kocaelispor",
+      "id": "995",
+      "rank": 6,
+      "points": 19,
+      "played": 11,
+      "wins": 6,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 13,
+      "goals_against": 9,
+      "goal_diff": 4,
+      "avg_scored": 1.18,
+      "avg_conceded": 0.82,
+      "win_rate": 54.5,
+      "matches": [],
+      "home_avg_scored": 1.18,
+      "home_avg_conceded": 0.82,
+      "away_avg_scored": 1.18,
+      "away_avg_conceded": 0.82,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.0,
+      "recent_matches": []
+    },
+    {
       "name": "Fenerbahce",
       "id": "436",
-      "rank": 6,
+      "rank": 7,
       "points": 16,
       "played": 10,
       "wins": 5,
@@ -170,7 +197,7 @@
     {
       "name": "Çorum FK",
       "id": "132334",
-      "rank": 7,
+      "rank": 8,
       "points": 16,
       "played": 10,
       "wins": 5,
@@ -192,33 +219,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.7,
-      "recent_matches": []
-    },
-    {
-      "name": "Kocaelispor",
-      "id": "995",
-      "rank": 8,
-      "points": 16,
-      "played": 10,
-      "wins": 5,
-      "draws": 1,
-      "losses": 4,
-      "goals_for": 11,
-      "goals_against": 9,
-      "goal_diff": 2,
-      "avg_scored": 1.1,
-      "avg_conceded": 0.9,
-      "win_rate": 50.0,
-      "matches": [],
-      "home_avg_scored": 1.1,
-      "home_avg_conceded": 0.9,
-      "away_avg_scored": 1.1,
-      "away_avg_conceded": 0.9,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.0,
       "recent_matches": []
     },
     {
@@ -388,26 +388,26 @@
       "id": "7648",
       "rank": 15,
       "points": 8,
-      "played": 10,
+      "played": 11,
       "wins": 2,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "goals_for": 6,
-      "goals_against": 13,
-      "goal_diff": -7,
-      "avg_scored": 0.6,
-      "avg_conceded": 1.3,
-      "win_rate": 20.0,
+      "goals_against": 14,
+      "goal_diff": -8,
+      "avg_scored": 0.55,
+      "avg_conceded": 1.27,
+      "win_rate": 18.2,
       "matches": [],
-      "home_avg_scored": 0.6,
-      "home_avg_conceded": 1.3,
-      "away_avg_scored": 0.6,
-      "away_avg_conceded": 1.3,
+      "home_avg_scored": 0.55,
+      "home_avg_conceded": 1.27,
+      "away_avg_scored": 0.55,
+      "away_avg_conceded": 1.27,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 1.9,
+      "recent_goals_avg": 1.82,
       "recent_matches": []
     },
     {
@@ -441,27 +441,27 @@
       "name": "Samsunspor",
       "id": "11429",
       "rank": 17,
-      "points": 4,
-      "played": 10,
-      "wins": 1,
+      "points": 7,
+      "played": 11,
+      "wins": 2,
       "draws": 1,
       "losses": 8,
-      "goals_for": 10,
+      "goals_for": 11,
       "goals_against": 26,
-      "goal_diff": -16,
+      "goal_diff": -15,
       "avg_scored": 1.0,
-      "avg_conceded": 2.6,
-      "win_rate": 10.0,
+      "avg_conceded": 2.36,
+      "win_rate": 18.2,
       "matches": [],
       "home_avg_scored": 1.0,
-      "home_avg_conceded": 2.6,
+      "home_avg_conceded": 2.36,
       "away_avg_scored": 1.0,
-      "away_avg_conceded": 2.6,
+      "away_avg_conceded": 2.36,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.6,
+      "recent_goals_avg": 3.36,
       "recent_matches": []
     },
     {
@@ -469,194 +469,42 @@
       "id": "20729",
       "rank": 18,
       "points": 3,
-      "played": 10,
+      "played": 11,
       "wins": 1,
       "draws": 0,
-      "losses": 9,
+      "losses": 10,
       "goals_for": 3,
-      "goals_against": 28,
-      "goal_diff": -25,
-      "avg_scored": 0.3,
-      "avg_conceded": 2.8,
-      "win_rate": 10.0,
+      "goals_against": 30,
+      "goal_diff": -27,
+      "avg_scored": 0.27,
+      "avg_conceded": 2.73,
+      "win_rate": 9.1,
       "matches": [],
-      "home_avg_scored": 0.3,
-      "home_avg_conceded": 2.8,
-      "away_avg_scored": 0.3,
-      "away_avg_conceded": 2.8,
+      "home_avg_scored": 0.27,
+      "home_avg_conceded": 2.73,
+      "away_avg_scored": 0.27,
+      "away_avg_conceded": 2.73,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.1,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     }
   ],
   "upcoming_matches": [
     {
       "league": "Trendyol Süper Lig",
-      "event_id": 1028328472,
-      "home": "Eyupspor",
-      "away": "Kocaelispor",
-      "date": "07.11.2026",
-      "time": "13:30",
-      "odds": "MS1: 3.95 | X: 3.35 | MS2: 1.95",
-      "odds_detail": {
-        "ms1": 3.95,
-        "x": 3.35,
-        "ms2": 1.95
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 3.75,
-        "x": 3.35,
-        "ms2": 1.91
-      },
-      "current_odds": {
-        "ms1": 3.95,
-        "x": 3.35,
-        "ms2": 1.95
-      },
-      "odds_change_pct": {
-        "ms1": 5.33,
-        "x": 0.0,
-        "ms2": 2.09
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-31T19:29:33.787773+03:00",
-          "ms1": 3.75,
-          "x": 3.35,
-          "ms2": 1.91
-        },
-        {
-          "timestamp": "2026-11-05T22:13:31.289625+03:00",
-          "ms1": 3.95,
-          "x": 3.35,
-          "ms2": 1.95
-        }
-      ],
-      "home_stats": {
-        "name": "Eyupspor",
-        "home_avg_scored": 0.3,
-        "home_avg_conceded": 2.8,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.1,
-        "played": 10,
-        "rank": 18,
-        "points": 3,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Kocaelispor",
-        "away_avg_scored": 1.1,
-        "away_avg_conceded": 0.9,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.0,
-        "played": 10,
-        "rank": 8,
-        "points": 16,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328524,
-      "home": "Samsunspor",
-      "away": "Konyaspor",
-      "date": "07.11.2026",
-      "time": "16:00",
-      "odds": "MS1: 2.30 | X: 3.30 | MS2: 3.00",
-      "odds_detail": {
-        "ms1": 2.3,
-        "x": 3.3,
-        "ms2": 3.0
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.48,
-        "x": 3.3,
-        "ms2": 2.8
-      },
-      "current_odds": {
-        "ms1": 2.3,
-        "x": 3.3,
-        "ms2": 3.0
-      },
-      "odds_change_pct": {
-        "ms1": -7.26,
-        "x": 0.0,
-        "ms2": 7.14
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-31T19:29:33.787773+03:00",
-          "ms1": 2.48,
-          "x": 3.3,
-          "ms2": 2.8
-        },
-        {
-          "timestamp": "2026-11-01T20:23:23.265939+03:00",
-          "ms1": 2.45,
-          "x": 3.3,
-          "ms2": 2.8
-        },
-        {
-          "timestamp": "2026-11-05T22:13:31.289625+03:00",
-          "ms1": 2.48,
-          "x": 3.3,
-          "ms2": 2.8
-        },
-        {
-          "timestamp": "2026-11-06T07:08:03.616260+03:00",
-          "ms1": 2.3,
-          "x": 3.3,
-          "ms2": 3.0
-        }
-      ],
-      "home_stats": {
-        "name": "Samsunspor",
-        "home_avg_scored": 1.0,
-        "home_avg_conceded": 2.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.6,
-        "played": 10,
-        "rank": 17,
-        "points": 4,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Konyaspor",
-        "away_avg_scored": 0.6,
-        "away_avg_conceded": 1.3,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 1.9,
-        "played": 10,
-        "rank": 15,
-        "points": 8,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
       "event_id": 1028328490,
       "home": "Galatasaray",
       "away": "Amed SFK",
       "date": "07.11.2026",
-      "time": "19:00",
-      "odds": "MS1: 1.34 | X: 5.00 | MS2: 7.00",
+      "time": "19:02",
+      "odds": "MS1: 1.04 | X: 12.00 | MS2: 30.00",
       "odds_detail": {
-        "ms1": 1.34,
-        "x": 5.0,
-        "ms2": 7.0
+        "ms1": 1.04,
+        "x": 12.0,
+        "ms2": 30.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -665,14 +513,14 @@
         "ms2": 6.0
       },
       "current_odds": {
-        "ms1": 1.34,
-        "x": 5.0,
-        "ms2": 7.0
+        "ms1": 1.04,
+        "x": 12.0,
+        "ms2": 30.0
       },
       "odds_change_pct": {
-        "ms1": -8.84,
-        "x": 8.7,
-        "ms2": 16.67
+        "ms1": -29.25,
+        "x": 160.87,
+        "ms2": 400.0
       },
       "odds_history": [
         {
@@ -704,6 +552,12 @@
           "ms1": 1.34,
           "x": 5.0,
           "ms2": 7.0
+        },
+        {
+          "timestamp": "2026-11-07T20:09:29.565288+03:00",
+          "ms1": 1.04,
+          "x": 12.0,
+          "ms2": 30.0
         }
       ],
       "home_stats": {
@@ -739,12 +593,12 @@
       "home": "Goztepe",
       "away": "Istanbul Basaksehir",
       "date": "07.11.2026",
-      "time": "19:00",
-      "odds": "MS1: 1.94 | X: 3.80 | MS2: 3.50",
+      "time": "19:06",
+      "odds": "MS1: 2.33 | X: 2.75 | MS2: 3.15",
       "odds_detail": {
-        "ms1": 1.94,
-        "x": 3.8,
-        "ms2": 3.5
+        "ms1": 2.33,
+        "x": 2.75,
+        "ms2": 3.15
       },
       "odds_available": true,
       "opening_odds": {
@@ -753,14 +607,14 @@
         "ms2": 2.6
       },
       "current_odds": {
-        "ms1": 1.94,
-        "x": 3.8,
-        "ms2": 3.5
+        "ms1": 2.33,
+        "x": 2.75,
+        "ms2": 3.15
       },
       "odds_change_pct": {
-        "ms1": -21.77,
-        "x": 4.11,
-        "ms2": 34.62
+        "ms1": -6.05,
+        "x": -24.66,
+        "ms2": 21.15
       },
       "odds_history": [
         {
@@ -780,6 +634,12 @@
           "ms1": 1.94,
           "x": 3.8,
           "ms2": 3.5
+        },
+        {
+          "timestamp": "2026-11-07T20:09:29.565288+03:00",
+          "ms1": 2.33,
+          "x": 2.75,
+          "ms2": 3.15
         }
       ],
       "home_stats": {
@@ -880,11 +740,11 @@
       "away": "Fenerbahce",
       "date": "08.11.2026",
       "time": "16:00",
-      "odds": "MS1: 4.30 | X: 3.90 | MS2: 1.74",
+      "odds": "MS1: 4.75 | X: 4.00 | MS2: 1.65",
       "odds_detail": {
-        "ms1": 4.3,
-        "x": 3.9,
-        "ms2": 1.74
+        "ms1": 4.75,
+        "x": 4.0,
+        "ms2": 1.65
       },
       "odds_available": true,
       "opening_odds": {
@@ -893,14 +753,14 @@
         "ms2": 1.7
       },
       "current_odds": {
-        "ms1": 4.3,
-        "x": 3.9,
-        "ms2": 1.74
+        "ms1": 4.75,
+        "x": 4.0,
+        "ms2": 1.65
       },
       "odds_change_pct": {
-        "ms1": -2.27,
-        "x": -1.27,
-        "ms2": 2.35
+        "ms1": 7.95,
+        "x": 1.27,
+        "ms2": -2.94
       },
       "odds_history": [
         {
@@ -938,6 +798,12 @@
           "ms1": 4.3,
           "x": 3.9,
           "ms2": 1.74
+        },
+        {
+          "timestamp": "2026-11-07T20:09:29.565288+03:00",
+          "ms1": 4.75,
+          "x": 4.0,
+          "ms2": 1.65
         }
       ],
       "home_stats": {
@@ -949,7 +815,7 @@
         "form": [],
         "recent_goals_avg": 3.7,
         "played": 10,
-        "rank": 7,
+        "rank": 8,
         "points": 16,
         "recent_matches": []
       },
@@ -962,7 +828,7 @@
         "form": [],
         "recent_goals_avg": 3.4,
         "played": 10,
-        "rank": 6,
+        "rank": 7,
         "points": 16,
         "recent_matches": []
       }
@@ -1050,11 +916,11 @@
       "away": "Genclerbirligi",
       "date": "08.11.2026",
       "time": "21:00",
-      "odds": "MS1: 1.24 | X: 6.10 | MS2: 11.00",
+      "odds": "MS1: 1.17 | X: 6.75 | MS2: 12.00",
       "odds_detail": {
-        "ms1": 1.24,
-        "x": 6.1,
-        "ms2": 11.0
+        "ms1": 1.17,
+        "x": 6.75,
+        "ms2": 12.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1063,14 +929,14 @@
         "ms2": 9.5
       },
       "current_odds": {
-        "ms1": 1.24,
-        "x": 6.1,
-        "ms2": 11.0
+        "ms1": 1.17,
+        "x": 6.75,
+        "ms2": 12.0
       },
       "odds_change_pct": {
-        "ms1": -3.13,
-        "x": 8.93,
-        "ms2": 15.79
+        "ms1": -8.59,
+        "x": 20.54,
+        "ms2": 26.32
       },
       "odds_history": [
         {
@@ -1090,6 +956,12 @@
           "ms1": 1.24,
           "x": 6.1,
           "ms2": 11.0
+        },
+        {
+          "timestamp": "2026-11-07T20:09:29.565288+03:00",
+          "ms1": 1.17,
+          "x": 6.75,
+          "ms2": 12.0
         }
       ],
       "home_stats": {
