@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-08T06:17:34.591577+03:00",
+  "last_updated": "2026-11-08T20:22:27.425744+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -114,9 +114,36 @@
       "recent_matches": []
     },
     {
+      "name": "Fenerbahce",
+      "id": "436",
+      "rank": 5,
+      "points": 19,
+      "played": 11,
+      "wins": 6,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 29,
+      "goals_against": 10,
+      "goal_diff": 19,
+      "avg_scored": 2.64,
+      "avg_conceded": 0.91,
+      "win_rate": 54.5,
+      "matches": [],
+      "home_avg_scored": 2.64,
+      "home_avg_conceded": 0.91,
+      "away_avg_scored": 2.64,
+      "away_avg_conceded": 0.91,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.55,
+      "recent_matches": []
+    },
+    {
       "name": "Besiktas",
       "id": "1895",
-      "rank": 5,
+      "rank": 6,
       "points": 19,
       "played": 10,
       "wins": 6,
@@ -143,7 +170,7 @@
     {
       "name": "Kocaelispor",
       "id": "995",
-      "rank": 6,
+      "rank": 7,
       "points": 19,
       "played": 11,
       "wins": 6,
@@ -170,7 +197,7 @@
     {
       "name": "Istanbul Basaksehir",
       "id": "7914",
-      "rank": 7,
+      "rank": 8,
       "points": 17,
       "played": 11,
       "wins": 5,
@@ -195,57 +222,30 @@
       "recent_matches": []
     },
     {
-      "name": "Fenerbahce",
-      "id": "436",
-      "rank": 8,
-      "points": 16,
-      "played": 10,
-      "wins": 5,
-      "draws": 1,
-      "losses": 4,
-      "goals_for": 24,
-      "goals_against": 10,
-      "goal_diff": 14,
-      "avg_scored": 2.4,
-      "avg_conceded": 1.0,
-      "win_rate": 50.0,
-      "matches": [],
-      "home_avg_scored": 2.4,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 2.4,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.4,
-      "recent_matches": []
-    },
-    {
       "name": "Çorum FK",
       "id": "132334",
       "rank": 9,
       "points": 16,
-      "played": 10,
+      "played": 11,
       "wins": 5,
       "draws": 1,
-      "losses": 4,
+      "losses": 5,
       "goals_for": 21,
-      "goals_against": 16,
-      "goal_diff": 5,
-      "avg_scored": 2.1,
-      "avg_conceded": 1.6,
-      "win_rate": 50.0,
+      "goals_against": 21,
+      "goal_diff": 0,
+      "avg_scored": 1.91,
+      "avg_conceded": 1.91,
+      "win_rate": 45.5,
       "matches": [],
-      "home_avg_scored": 2.1,
-      "home_avg_conceded": 1.6,
-      "away_avg_scored": 2.1,
-      "away_avg_conceded": 1.6,
+      "home_avg_scored": 1.91,
+      "home_avg_conceded": 1.91,
+      "away_avg_scored": 1.91,
+      "away_avg_conceded": 1.91,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.7,
+      "recent_goals_avg": 3.82,
       "recent_matches": []
     },
     {
@@ -276,36 +276,63 @@
       "recent_matches": []
     },
     {
-      "name": "Erzurum BB",
-      "id": "19267",
+      "name": "Caykur Rizespor",
+      "id": "7656",
       "rank": 11,
       "points": 14,
-      "played": 10,
+      "played": 11,
       "wins": 4,
       "draws": 2,
-      "losses": 4,
-      "goals_for": 9,
-      "goals_against": 15,
-      "goal_diff": -6,
-      "avg_scored": 0.9,
-      "avg_conceded": 1.5,
-      "win_rate": 40.0,
+      "losses": 5,
+      "goals_for": 13,
+      "goals_against": 16,
+      "goal_diff": -3,
+      "avg_scored": 1.18,
+      "avg_conceded": 1.45,
+      "win_rate": 36.4,
       "matches": [],
-      "home_avg_scored": 0.9,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 0.9,
-      "away_avg_conceded": 1.5,
+      "home_avg_scored": 1.18,
+      "home_avg_conceded": 1.45,
+      "away_avg_scored": 1.18,
+      "away_avg_conceded": 1.45,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.4,
+      "recent_goals_avg": 2.63,
+      "recent_matches": []
+    },
+    {
+      "name": "Erzurum BB",
+      "id": "19267",
+      "rank": 12,
+      "points": 14,
+      "played": 11,
+      "wins": 4,
+      "draws": 2,
+      "losses": 5,
+      "goals_for": 10,
+      "goals_against": 17,
+      "goal_diff": -7,
+      "avg_scored": 0.91,
+      "avg_conceded": 1.55,
+      "win_rate": 36.4,
+      "matches": [],
+      "home_avg_scored": 0.91,
+      "home_avg_conceded": 1.55,
+      "away_avg_scored": 0.91,
+      "away_avg_conceded": 1.55,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.46,
       "recent_matches": []
     },
     {
       "name": "Alanyaspor",
       "id": "9078",
-      "rank": 12,
+      "rank": 13,
       "points": 12,
       "played": 10,
       "wins": 3,
@@ -327,33 +354,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.5,
-      "recent_matches": []
-    },
-    {
-      "name": "Caykur Rizespor",
-      "id": "7656",
-      "rank": 13,
-      "points": 11,
-      "played": 10,
-      "wins": 3,
-      "draws": 2,
-      "losses": 5,
-      "goals_for": 11,
-      "goals_against": 15,
-      "goal_diff": -4,
-      "avg_scored": 1.1,
-      "avg_conceded": 1.5,
-      "win_rate": 30.0,
-      "matches": [],
-      "home_avg_scored": 1.1,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 1.1,
-      "away_avg_conceded": 1.5,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.6,
       "recent_matches": []
     },
     {
@@ -495,196 +495,32 @@
   "upcoming_matches": [
     {
       "league": "Trendyol Süper Lig",
-      "event_id": 1028328503,
-      "home": "Caykur Rizespor",
-      "away": "Erzurum BB",
-      "date": "08.11.2026",
-      "time": "13:30",
-      "odds": "MS1: 1.98 | X: 3.50 | MS2: 3.65",
-      "odds_detail": {
-        "ms1": 1.98,
-        "x": 3.5,
-        "ms2": 3.65
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.98,
-        "x": 3.5,
-        "ms2": 3.65
-      },
-      "current_odds": {
-        "ms1": 1.98,
-        "x": 3.5,
-        "ms2": 3.65
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-01T20:23:23.265939+03:00",
-          "ms1": 1.98,
-          "x": 3.5,
-          "ms2": 3.65
-        }
-      ],
-      "home_stats": {
-        "name": "Caykur Rizespor",
-        "home_avg_scored": 1.1,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.6,
-        "played": 10,
-        "rank": 13,
-        "points": 11,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Erzurum BB",
-        "away_avg_scored": 0.9,
-        "away_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.4,
-        "played": 10,
-        "rank": 11,
-        "points": 14,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
-      "event_id": 1028328491,
-      "home": "Çorum FK",
-      "away": "Fenerbahce",
-      "date": "08.11.2026",
-      "time": "16:00",
-      "odds": "MS1: 4.75 | X: 4.00 | MS2: 1.65",
-      "odds_detail": {
-        "ms1": 4.75,
-        "x": 4.0,
-        "ms2": 1.65
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 4.4,
-        "x": 3.95,
-        "ms2": 1.7
-      },
-      "current_odds": {
-        "ms1": 4.75,
-        "x": 4.0,
-        "ms2": 1.65
-      },
-      "odds_change_pct": {
-        "ms1": 7.95,
-        "x": 1.27,
-        "ms2": -2.94
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-01T20:23:23.265939+03:00",
-          "ms1": 4.4,
-          "x": 3.95,
-          "ms2": 1.7
-        },
-        {
-          "timestamp": "2026-11-04T22:02:50.380036+03:00",
-          "ms1": 4.5,
-          "x": 3.95,
-          "ms2": 1.7
-        },
-        {
-          "timestamp": "2026-11-05T07:10:42.573696+03:00",
-          "ms1": 4.7,
-          "x": 4.0,
-          "ms2": 1.66
-        },
-        {
-          "timestamp": "2026-11-05T22:13:31.289625+03:00",
-          "ms1": 4.4,
-          "x": 3.9,
-          "ms2": 1.72
-        },
-        {
-          "timestamp": "2026-11-06T07:08:03.616260+03:00",
-          "ms1": 4.8,
-          "x": 4.1,
-          "ms2": 1.63
-        },
-        {
-          "timestamp": "2026-11-06T21:40:02.018375+03:00",
-          "ms1": 4.3,
-          "x": 3.9,
-          "ms2": 1.74
-        },
-        {
-          "timestamp": "2026-11-07T20:09:29.565288+03:00",
-          "ms1": 4.75,
-          "x": 4.0,
-          "ms2": 1.65
-        }
-      ],
-      "home_stats": {
-        "name": "Çorum FK",
-        "home_avg_scored": 2.1,
-        "home_avg_conceded": 1.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.7,
-        "played": 10,
-        "rank": 9,
-        "points": 16,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Fenerbahce",
-        "away_avg_scored": 2.4,
-        "away_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.4,
-        "played": 10,
-        "rank": 8,
-        "points": 16,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Trendyol Süper Lig",
       "event_id": 1028328471,
       "home": "Alanyaspor",
       "away": "Trabzonspor",
       "date": "08.11.2026",
       "time": "18:30",
-      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.65",
+      "odds": "Oran yok",
       "odds_detail": {
-        "ms1": 4.9,
-        "x": 3.9,
-        "ms2": 1.65
+        "ms1": null,
+        "x": null,
+        "ms2": null
       },
-      "odds_available": true,
+      "odds_available": false,
       "opening_odds": {
         "ms1": 4.0,
         "x": 3.65,
         "ms2": 1.85
       },
       "current_odds": {
-        "ms1": 4.9,
-        "x": 3.9,
-        "ms2": 1.65
+        "ms1": null,
+        "x": null,
+        "ms2": null
       },
       "odds_change_pct": {
-        "ms1": 22.5,
-        "x": 6.85,
-        "ms2": -10.81
+        "ms1": null,
+        "x": null,
+        "ms2": null
       },
       "odds_history": [
         {
@@ -721,7 +557,7 @@
         "form": [],
         "recent_goals_avg": 2.5,
         "played": 10,
-        "rank": 12,
+        "rank": 13,
         "points": 12,
         "recent_matches": []
       },
@@ -803,7 +639,7 @@
         "form": [],
         "recent_goals_avg": 3.2,
         "played": 10,
-        "rank": 5,
+        "rank": 6,
         "points": 19,
         "recent_matches": []
       },
