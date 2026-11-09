@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-08T20:22:28.219276+03:00",
+  "last_updated": "2026-11-09T06:38:00.444663+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -249,9 +249,36 @@
       "recent_matches": []
     },
     {
+      "name": "Aston Villa",
+      "id": "362",
+      "rank": 10,
+      "points": 13,
+      "played": 10,
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "goals_for": 14,
+      "goals_against": 17,
+      "goal_diff": -3,
+      "avg_scored": 1.4,
+      "avg_conceded": 1.7,
+      "win_rate": 30.0,
+      "matches": [],
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 1.7,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 1.7,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.1,
+      "recent_matches": []
+    },
+    {
       "name": "Tottenham Hotspur",
       "id": "367",
-      "rank": 10,
+      "rank": 11,
       "points": 12,
       "played": 10,
       "wins": 3,
@@ -278,7 +305,7 @@
     {
       "name": "Newcastle United",
       "id": "361",
-      "rank": 11,
+      "rank": 12,
       "points": 12,
       "played": 10,
       "wins": 3,
@@ -300,33 +327,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.9,
-      "recent_matches": []
-    },
-    {
-      "name": "Aston Villa",
-      "id": "362",
-      "rank": 12,
-      "points": 12,
-      "played": 9,
-      "wins": 3,
-      "draws": 3,
-      "losses": 3,
-      "goals_for": 10,
-      "goals_against": 13,
-      "goal_diff": -3,
-      "avg_scored": 1.11,
-      "avg_conceded": 1.44,
-      "win_rate": 33.3,
-      "matches": [],
-      "home_avg_scored": 1.11,
-      "home_avg_conceded": 1.44,
-      "away_avg_scored": 1.11,
-      "away_avg_conceded": 1.44,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.55,
       "recent_matches": []
     },
     {
@@ -465,9 +465,36 @@
       "recent_matches": []
     },
     {
+      "name": "Manchester United",
+      "id": "360",
+      "rank": 18,
+      "points": 8,
+      "played": 10,
+      "wins": 1,
+      "draws": 5,
+      "losses": 4,
+      "goals_for": 14,
+      "goals_against": 19,
+      "goal_diff": -5,
+      "avg_scored": 1.4,
+      "avg_conceded": 1.9,
+      "win_rate": 10.0,
+      "matches": [],
+      "home_avg_scored": 1.4,
+      "home_avg_conceded": 1.9,
+      "away_avg_scored": 1.4,
+      "away_avg_conceded": 1.9,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 3.3,
+      "recent_matches": []
+    },
+    {
       "name": "Sunderland",
       "id": "366",
-      "rank": 18,
+      "rank": 19,
       "points": 8,
       "played": 10,
       "wins": 2,
@@ -489,33 +516,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.5,
-      "recent_matches": []
-    },
-    {
-      "name": "Manchester United",
-      "id": "360",
-      "rank": 19,
-      "points": 7,
-      "played": 9,
-      "wins": 1,
-      "draws": 4,
-      "losses": 4,
-      "goals_for": 10,
-      "goals_against": 15,
-      "goal_diff": -5,
-      "avg_scored": 1.11,
-      "avg_conceded": 1.67,
-      "win_rate": 11.1,
-      "matches": [],
-      "home_avg_scored": 1.11,
-      "home_avg_conceded": 1.67,
-      "away_avg_scored": 1.11,
-      "away_avg_conceded": 1.67,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.78,
       "recent_matches": []
     },
     {
@@ -549,134 +549,16 @@
   "upcoming_matches": [
     {
       "league": "English Premier League",
-      "event_id": 1028072859,
-      "home": "Manchester United",
-      "away": "Aston Villa",
-      "date": "08.11.2026",
-      "time": "19:31",
-      "odds": "MS1: 2.02 | X: 3.05 | MS2: 3.95",
-      "odds_detail": {
-        "ms1": 2.02,
-        "x": 3.05,
-        "ms2": 3.95
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.18,
-        "x": 3.85,
-        "ms2": 3.0
-      },
-      "current_odds": {
-        "ms1": 2.02,
-        "x": 3.05,
-        "ms2": 3.95
-      },
-      "odds_change_pct": {
-        "ms1": -7.34,
-        "x": -20.78,
-        "ms2": 31.67
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-10-26T20:52:12.879650+03:00",
-          "ms1": 2.18,
-          "x": 3.85,
-          "ms2": 3.0
-        },
-        {
-          "timestamp": "2026-10-31T19:29:34.238251+03:00",
-          "ms1": 2.2,
-          "x": 3.95,
-          "ms2": 3.05
-        },
-        {
-          "timestamp": "2026-11-01T20:23:23.906213+03:00",
-          "ms1": 2.3,
-          "x": 3.85,
-          "ms2": 2.95
-        },
-        {
-          "timestamp": "2026-11-03T00:01:56.962383+03:00",
-          "ms1": 2.28,
-          "x": 3.65,
-          "ms2": 2.95
-        },
-        {
-          "timestamp": "2026-11-04T22:02:50.947151+03:00",
-          "ms1": 2.23,
-          "x": 3.7,
-          "ms2": 3.0
-        },
-        {
-          "timestamp": "2026-11-05T22:13:31.901471+03:00",
-          "ms1": 2.2,
-          "x": 3.7,
-          "ms2": 3.05
-        },
-        {
-          "timestamp": "2026-11-06T21:40:02.458811+03:00",
-          "ms1": 2.23,
-          "x": 3.65,
-          "ms2": 3.05
-        },
-        {
-          "timestamp": "2026-11-07T06:41:39.807283+03:00",
-          "ms1": 2.15,
-          "x": 3.65,
-          "ms2": 3.2
-        },
-        {
-          "timestamp": "2026-11-07T20:09:30.242205+03:00",
-          "ms1": 2.17,
-          "x": 3.65,
-          "ms2": 3.15
-        },
-        {
-          "timestamp": "2026-11-08T20:22:28.219276+03:00",
-          "ms1": 2.02,
-          "x": 3.05,
-          "ms2": 3.95
-        }
-      ],
-      "home_stats": {
-        "name": "Manchester United",
-        "home_avg_scored": 1.11,
-        "home_avg_conceded": 1.67,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.78,
-        "played": 9,
-        "rank": 19,
-        "points": 7,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Aston Villa",
-        "away_avg_scored": 1.11,
-        "away_avg_conceded": 1.44,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.55,
-        "played": 9,
-        "rank": 12,
-        "points": 12,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072761,
       "home": "Manchester City",
       "away": "Fulham",
       "date": "21.11.2026",
       "time": "15:30",
-      "odds": "MS1: 1.48 | X: 4.80 | MS2: 6.50",
+      "odds": "MS1: 1.44 | X: 4.80 | MS2: 6.75",
       "odds_detail": {
-        "ms1": 1.48,
+        "ms1": 1.44,
         "x": 4.8,
-        "ms2": 6.5
+        "ms2": 6.75
       },
       "odds_available": true,
       "opening_odds": {
@@ -685,14 +567,14 @@
         "ms2": 6.5
       },
       "current_odds": {
-        "ms1": 1.48,
+        "ms1": 1.44,
         "x": 4.8,
-        "ms2": 6.5
+        "ms2": 6.75
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -2.7,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": 3.85
       },
       "odds_history": [
         {
@@ -700,6 +582,12 @@
           "ms1": 1.48,
           "x": 4.8,
           "ms2": 6.5
+        },
+        {
+          "timestamp": "2026-11-09T06:38:00.444663+03:00",
+          "ms1": 1.44,
+          "x": 4.8,
+          "ms2": 6.75
         }
       ],
       "home_stats": {
@@ -726,6 +614,70 @@
         "played": 10,
         "rank": 15,
         "points": 10,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072780,
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "date": "21.11.2026",
+      "time": "18:00",
+      "odds": "MS1: 1.78 | X: 4.00 | MS2: 4.50",
+      "odds_detail": {
+        "ms1": 1.78,
+        "x": 4.0,
+        "ms2": 4.5
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.78,
+        "x": 4.0,
+        "ms2": 4.5
+      },
+      "current_odds": {
+        "ms1": 1.78,
+        "x": 4.0,
+        "ms2": 4.5
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-07T06:41:39.807283+03:00",
+          "ms1": 1.78,
+          "x": 4.0,
+          "ms2": 4.5
+        }
+      ],
+      "home_stats": {
+        "name": "Aston Villa",
+        "home_avg_scored": 1.4,
+        "home_avg_conceded": 1.7,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.1,
+        "played": 10,
+        "rank": 10,
+        "points": 13,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Sunderland",
+        "away_avg_scored": 0.8,
+        "away_avg_conceded": 1.7,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.5,
+        "played": 10,
+        "rank": 19,
+        "points": 8,
         "recent_matches": []
       }
     },
@@ -876,11 +828,11 @@
       "away": "Crystal Palace",
       "date": "21.11.2026",
       "time": "18:00",
-      "odds": "MS1: 2.33 | X: 3.65 | MS2: 3.00",
+      "odds": "MS1: 2.40 | X: 3.65 | MS2: 2.90",
       "odds_detail": {
-        "ms1": 2.33,
+        "ms1": 2.4,
         "x": 3.65,
-        "ms2": 3.0
+        "ms2": 2.9
       },
       "odds_available": true,
       "opening_odds": {
@@ -889,14 +841,14 @@
         "ms2": 3.05
       },
       "current_odds": {
-        "ms1": 2.33,
+        "ms1": 2.4,
         "x": 3.65,
-        "ms2": 3.0
+        "ms2": 2.9
       },
       "odds_change_pct": {
-        "ms1": 4.48,
+        "ms1": 7.62,
         "x": 1.39,
-        "ms2": -1.64
+        "ms2": -4.92
       },
       "odds_history": [
         {
@@ -910,6 +862,12 @@
           "ms1": 2.33,
           "x": 3.65,
           "ms2": 3.0
+        },
+        {
+          "timestamp": "2026-11-09T06:38:00.444663+03:00",
+          "ms1": 2.4,
+          "x": 3.65,
+          "ms2": 2.9
         }
       ],
       "home_stats": {
@@ -985,7 +943,7 @@
         "form": [],
         "recent_goals_avg": 2.1,
         "played": 10,
-        "rank": 10,
+        "rank": 11,
         "points": 12,
         "recent_matches": []
       },
@@ -1000,70 +958,6 @@
         "played": 10,
         "rank": 14,
         "points": 11,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
-      "event_id": 1028072780,
-      "home": "Aston Villa",
-      "away": "Sunderland",
-      "date": "21.11.2026",
-      "time": "18:00",
-      "odds": "MS1: 1.78 | X: 4.00 | MS2: 4.50",
-      "odds_detail": {
-        "ms1": 1.78,
-        "x": 4.0,
-        "ms2": 4.5
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.78,
-        "x": 4.0,
-        "ms2": 4.5
-      },
-      "current_odds": {
-        "ms1": 1.78,
-        "x": 4.0,
-        "ms2": 4.5
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-07T06:41:39.807283+03:00",
-          "ms1": 1.78,
-          "x": 4.0,
-          "ms2": 4.5
-        }
-      ],
-      "home_stats": {
-        "name": "Aston Villa",
-        "home_avg_scored": 1.11,
-        "home_avg_conceded": 1.44,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.55,
-        "played": 9,
-        "rank": 12,
-        "points": 12,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Sunderland",
-        "away_avg_scored": 0.8,
-        "away_avg_conceded": 1.7,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.5,
-        "played": 10,
-        "rank": 18,
-        "points": 8,
         "recent_matches": []
       }
     },
@@ -1113,7 +1007,7 @@
         "form": [],
         "recent_goals_avg": 2.9,
         "played": 10,
-        "rank": 11,
+        "rank": 12,
         "points": 12,
         "recent_matches": []
       },
@@ -1202,11 +1096,11 @@
       "away": "Manchester United",
       "date": "22.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.84 | X: 3.90 | MS2: 4.00",
+      "odds": "MS1: 1.76 | X: 4.00 | MS2: 4.30",
       "odds_detail": {
-        "ms1": 1.84,
-        "x": 3.9,
-        "ms2": 4.0
+        "ms1": 1.76,
+        "x": 4.0,
+        "ms2": 4.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -1215,14 +1109,14 @@
         "ms2": 4.0
       },
       "current_odds": {
-        "ms1": 1.84,
-        "x": 3.9,
-        "ms2": 4.0
+        "ms1": 1.76,
+        "x": 4.0,
+        "ms2": 4.3
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -4.35,
+        "x": 2.56,
+        "ms2": 7.5
       },
       "odds_history": [
         {
@@ -1230,6 +1124,12 @@
           "ms1": 1.84,
           "x": 3.9,
           "ms2": 4.0
+        },
+        {
+          "timestamp": "2026-11-09T06:38:00.444663+03:00",
+          "ms1": 1.76,
+          "x": 4.0,
+          "ms2": 4.3
         }
       ],
       "home_stats": {
@@ -1247,15 +1147,79 @@
       },
       "away_stats": {
         "name": "Manchester United",
-        "away_avg_scored": 1.11,
-        "away_avg_conceded": 1.67,
+        "away_avg_scored": 1.4,
+        "away_avg_conceded": 1.9,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.78,
-        "played": 9,
-        "rank": 19,
-        "points": 7,
+        "recent_goals_avg": 3.3,
+        "played": 10,
+        "rank": 18,
+        "points": 8,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "English Premier League",
+      "event_id": 1028072784,
+      "home": "Brentford",
+      "away": "Everton",
+      "date": "23.11.2026",
+      "time": "23:00",
+      "odds": "MS1: 1.88 | X: 3.80 | MS2: 3.90",
+      "odds_detail": {
+        "ms1": 1.88,
+        "x": 3.8,
+        "ms2": 3.9
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.88,
+        "x": 3.8,
+        "ms2": 3.9
+      },
+      "current_odds": {
+        "ms1": 1.88,
+        "x": 3.8,
+        "ms2": 3.9
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-09T06:38:00.444663+03:00",
+          "ms1": 1.88,
+          "x": 3.8,
+          "ms2": 3.9
+        }
+      ],
+      "home_stats": {
+        "name": "Brentford",
+        "home_avg_scored": 1.6,
+        "home_avg_conceded": 1.1,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.7,
+        "played": 10,
+        "rank": 8,
+        "points": 14,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Everton",
+        "away_avg_scored": 1.2,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.2,
+        "played": 10,
+        "rank": 6,
+        "points": 16,
         "recent_matches": []
       }
     }
