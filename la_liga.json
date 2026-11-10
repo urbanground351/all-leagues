@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-10T00:44:23.970821+03:00",
+  "last_updated": "2026-11-10T08:10:05.620964+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -682,11 +682,11 @@
       "away": "Valencia",
       "date": "21.11.2026",
       "time": "18:15",
-      "odds": "MS1: 1.98 | X: 3.45 | MS2: 3.80",
+      "odds": "MS1: 1.97 | X: 3.45 | MS2: 3.85",
       "odds_detail": {
-        "ms1": 1.98,
+        "ms1": 1.97,
         "x": 3.45,
-        "ms2": 3.8
+        "ms2": 3.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -695,14 +695,14 @@
         "ms2": 3.8
       },
       "current_odds": {
-        "ms1": 1.98,
+        "ms1": 1.97,
         "x": 3.45,
-        "ms2": 3.8
+        "ms2": 3.85
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -0.51,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": 1.32
       },
       "odds_history": [
         {
@@ -710,6 +710,12 @@
           "ms1": 1.98,
           "x": 3.45,
           "ms2": 3.8
+        },
+        {
+          "timestamp": "2026-11-10T08:10:05.620964+03:00",
+          "ms1": 1.97,
+          "x": 3.45,
+          "ms2": 3.85
         }
       ],
       "home_stats": {
