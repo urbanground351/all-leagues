@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-12T07:51:11.882175+03:00",
+  "last_updated": "2026-11-12T22:18:11.618188+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -1012,11 +1012,11 @@
       "away": "Hamburg SV",
       "date": "22.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.65 | X: 4.10 | MS2: 4.50",
+      "odds": "MS1: 1.65 | X: 4.00 | MS2: 4.60",
       "odds_detail": {
         "ms1": 1.65,
-        "x": 4.1,
-        "ms2": 4.5
+        "x": 4.0,
+        "ms2": 4.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -1026,13 +1026,13 @@
       },
       "current_odds": {
         "ms1": 1.65,
-        "x": 4.1,
-        "ms2": 4.5
+        "x": 4.0,
+        "ms2": 4.6
       },
       "odds_change_pct": {
         "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "x": -2.44,
+        "ms2": 2.22
       },
       "odds_history": [
         {
@@ -1040,6 +1040,12 @@
           "ms1": 1.65,
           "x": 4.1,
           "ms2": 4.5
+        },
+        {
+          "timestamp": "2026-11-12T22:18:11.618188+03:00",
+          "ms1": 1.65,
+          "x": 4.0,
+          "ms2": 4.6
         }
       ],
       "home_stats": {
