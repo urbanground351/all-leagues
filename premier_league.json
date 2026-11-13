@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-13T07:02:01.374030+03:00",
+  "last_updated": "2026-11-13T21:55:21.363138+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -940,11 +940,11 @@
       "away": "Ipswich Town",
       "date": "21.11.2026",
       "time": "18:00",
-      "odds": "MS1: 1.57 | X: 4.30 | MS2: 5.60",
+      "odds": "MS1: 1.54 | X: 4.40 | MS2: 5.80",
       "odds_detail": {
-        "ms1": 1.57,
-        "x": 4.3,
-        "ms2": 5.6
+        "ms1": 1.54,
+        "x": 4.4,
+        "ms2": 5.8
       },
       "odds_available": true,
       "opening_odds": {
@@ -953,14 +953,14 @@
         "ms2": 5.75
       },
       "current_odds": {
-        "ms1": 1.57,
-        "x": 4.3,
-        "ms2": 5.6
+        "ms1": 1.54,
+        "x": 4.4,
+        "ms2": 5.8
       },
       "odds_change_pct": {
-        "ms1": -0.63,
-        "x": -2.27,
-        "ms2": -2.61
+        "ms1": -2.53,
+        "x": 0.0,
+        "ms2": 0.87
       },
       "odds_history": [
         {
@@ -980,6 +980,12 @@
           "ms1": 1.57,
           "x": 4.3,
           "ms2": 5.6
+        },
+        {
+          "timestamp": "2026-11-13T21:55:21.363138+03:00",
+          "ms1": 1.54,
+          "x": 4.4,
+          "ms2": 5.8
         }
       ],
       "home_stats": {
