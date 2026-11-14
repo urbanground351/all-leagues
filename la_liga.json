@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-14T06:59:37.018766+03:00",
+  "last_updated": "2026-11-14T20:27:47.473253+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -928,11 +928,11 @@
       "away": "Villarreal",
       "date": "22.11.2026",
       "time": "16:00",
-      "odds": "MS1: 1.22 | X: 7.00 | MS2: 10.50",
+      "odds": "MS1: 1.25 | X: 6.50 | MS2: 9.50",
       "odds_detail": {
-        "ms1": 1.22,
-        "x": 7.0,
-        "ms2": 10.5
+        "ms1": 1.25,
+        "x": 6.5,
+        "ms2": 9.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -941,14 +941,14 @@
         "ms2": 10.5
       },
       "current_odds": {
-        "ms1": 1.22,
-        "x": 7.0,
-        "ms2": 10.5
+        "ms1": 1.25,
+        "x": 6.5,
+        "ms2": 9.5
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 2.46,
+        "x": -7.14,
+        "ms2": -9.52
       },
       "odds_history": [
         {
@@ -956,6 +956,12 @@
           "ms1": 1.22,
           "x": 7.0,
           "ms2": 10.5
+        },
+        {
+          "timestamp": "2026-11-14T20:27:47.473253+03:00",
+          "ms1": 1.25,
+          "x": 6.5,
+          "ms2": 9.5
         }
       ],
       "home_stats": {
