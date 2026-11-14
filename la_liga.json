@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-13T21:55:21.665352+03:00",
+  "last_updated": "2026-11-14T06:59:37.018766+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -846,11 +846,11 @@
       "away": "Celta Vigo",
       "date": "21.11.2026",
       "time": "23:00",
-      "odds": "MS1: 1.19 | X: 7.00 | MS2: 13.00",
+      "odds": "MS1: 1.20 | X: 7.00 | MS2: 12.50",
       "odds_detail": {
-        "ms1": 1.19,
+        "ms1": 1.2,
         "x": 7.0,
-        "ms2": 13.0
+        "ms2": 12.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -859,14 +859,14 @@
         "ms2": 12.0
       },
       "current_odds": {
-        "ms1": 1.19,
+        "ms1": 1.2,
         "x": 7.0,
-        "ms2": 13.0
+        "ms2": 12.5
       },
       "odds_change_pct": {
-        "ms1": -2.46,
+        "ms1": -1.64,
         "x": 3.7,
-        "ms2": 8.33
+        "ms2": 4.17
       },
       "odds_history": [
         {
@@ -886,6 +886,12 @@
           "ms1": 1.19,
           "x": 7.0,
           "ms2": 13.0
+        },
+        {
+          "timestamp": "2026-11-14T06:59:37.018766+03:00",
+          "ms1": 1.2,
+          "x": 7.0,
+          "ms2": 12.5
         }
       ],
       "home_stats": {
