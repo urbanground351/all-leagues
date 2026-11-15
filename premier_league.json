@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-14T20:27:47.239999+03:00",
+  "last_updated": "2026-11-15T06:45:10.703067+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -554,10 +554,10 @@
       "away": "Fulham",
       "date": "21.11.2026",
       "time": "15:30",
-      "odds": "MS1: 1.44 | X: 4.90 | MS2: 6.75",
+      "odds": "MS1: 1.44 | X: 4.80 | MS2: 6.75",
       "odds_detail": {
         "ms1": 1.44,
-        "x": 4.9,
+        "x": 4.8,
         "ms2": 6.75
       },
       "odds_available": true,
@@ -568,12 +568,12 @@
       },
       "current_odds": {
         "ms1": 1.44,
-        "x": 4.9,
+        "x": 4.8,
         "ms2": 6.75
       },
       "odds_change_pct": {
         "ms1": -2.7,
-        "x": 2.08,
+        "x": 0.0,
         "ms2": 3.85
       },
       "odds_history": [
@@ -593,6 +593,12 @@
           "timestamp": "2026-11-10T00:44:09.390214+03:00",
           "ms1": 1.44,
           "x": 4.9,
+          "ms2": 6.75
+        },
+        {
+          "timestamp": "2026-11-15T06:45:10.703067+03:00",
+          "ms1": 1.44,
+          "x": 4.8,
           "ms2": 6.75
         }
       ],
