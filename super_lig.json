@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-16T06:45:26.251746+03:00",
+  "last_updated": "2026-11-17T00:24:48.698891+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -628,11 +628,11 @@
       "away": "Caykur Rizespor",
       "date": "21.11.2026",
       "time": "16:00",
-      "odds": "MS1: 1.80 | X: 3.85 | MS2: 4.00",
+      "odds": "MS1: 1.73 | X: 3.95 | MS2: 4.25",
       "odds_detail": {
-        "ms1": 1.8,
-        "x": 3.85,
-        "ms2": 4.0
+        "ms1": 1.73,
+        "x": 3.95,
+        "ms2": 4.25
       },
       "odds_available": true,
       "opening_odds": {
@@ -641,14 +641,14 @@
         "ms2": 4.0
       },
       "current_odds": {
-        "ms1": 1.8,
-        "x": 3.85,
-        "ms2": 4.0
+        "ms1": 1.73,
+        "x": 3.95,
+        "ms2": 4.25
       },
       "odds_change_pct": {
-        "ms1": 0.56,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -3.35,
+        "x": 2.6,
+        "ms2": 6.25
       },
       "odds_history": [
         {
@@ -662,6 +662,12 @@
           "ms1": 1.8,
           "x": 3.85,
           "ms2": 4.0
+        },
+        {
+          "timestamp": "2026-11-17T00:24:48.698891+03:00",
+          "ms1": 1.73,
+          "x": 3.95,
+          "ms2": 4.25
         }
       ],
       "home_stats": {
