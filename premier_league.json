@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-15T21:10:39.925963+03:00",
+  "last_updated": "2026-11-16T06:45:26.899797+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -812,11 +812,11 @@
       "away": "Nottingham Forest",
       "date": "21.11.2026",
       "time": "18:00",
-      "odds": "MS1: 1.97 | X: 3.60 | MS2: 3.75",
+      "odds": "MS1: 2.02 | X: 3.55 | MS2: 3.65",
       "odds_detail": {
-        "ms1": 1.97,
-        "x": 3.6,
-        "ms2": 3.75
+        "ms1": 2.02,
+        "x": 3.55,
+        "ms2": 3.65
       },
       "odds_available": true,
       "opening_odds": {
@@ -825,14 +825,14 @@
         "ms2": 3.85
       },
       "current_odds": {
-        "ms1": 1.97,
-        "x": 3.6,
-        "ms2": 3.75
+        "ms1": 2.02,
+        "x": 3.55,
+        "ms2": 3.65
       },
       "odds_change_pct": {
-        "ms1": -1.5,
-        "x": -1.37,
-        "ms2": -2.6
+        "ms1": 1.0,
+        "x": -2.74,
+        "ms2": -5.19
       },
       "odds_history": [
         {
@@ -846,6 +846,12 @@
           "ms1": 1.97,
           "x": 3.6,
           "ms2": 3.75
+        },
+        {
+          "timestamp": "2026-11-16T06:45:26.899797+03:00",
+          "ms1": 2.02,
+          "x": 3.55,
+          "ms2": 3.65
         }
       ],
       "home_stats": {
