@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-17T00:24:49.944363+03:00",
+  "last_updated": "2026-11-17T08:40:45.514491+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -658,11 +658,11 @@
       "away": "RB Leipzig",
       "date": "21.11.2026",
       "time": "17:30",
-      "odds": "MS1: 5.20 | X: 4.30 | MS2: 1.55",
+      "odds": "MS1: 4.70 | X: 4.10 | MS2: 1.62",
       "odds_detail": {
-        "ms1": 5.2,
-        "x": 4.3,
-        "ms2": 1.55
+        "ms1": 4.7,
+        "x": 4.1,
+        "ms2": 1.62
       },
       "odds_available": true,
       "opening_odds": {
@@ -671,14 +671,14 @@
         "ms2": 1.55
       },
       "current_odds": {
-        "ms1": 5.2,
-        "x": 4.3,
-        "ms2": 1.55
+        "ms1": 4.7,
+        "x": 4.1,
+        "ms2": 1.62
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -9.62,
+        "x": -4.65,
+        "ms2": 4.52
       },
       "odds_history": [
         {
@@ -686,6 +686,12 @@
           "ms1": 5.2,
           "x": 4.3,
           "ms2": 1.55
+        },
+        {
+          "timestamp": "2026-11-17T08:40:45.514491+03:00",
+          "ms1": 4.7,
+          "x": 4.1,
+          "ms2": 1.62
         }
       ],
       "home_stats": {
