@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-17T23:12:27.590483+03:00",
+  "last_updated": "2026-11-18T08:04:43.397213+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1404,11 +1404,11 @@
       "away": "Chelsea",
       "date": "27.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.95 | X: 3.60 | MS2: 2.38",
+      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.45",
       "odds_detail": {
-        "ms1": 2.95,
+        "ms1": 2.88,
         "x": 3.6,
-        "ms2": 2.38
+        "ms2": 2.45
       },
       "odds_available": true,
       "opening_odds": {
@@ -1417,14 +1417,14 @@
         "ms2": 2.38
       },
       "current_odds": {
-        "ms1": 2.95,
+        "ms1": 2.88,
         "x": 3.6,
-        "ms2": 2.38
+        "ms2": 2.45
       },
       "odds_change_pct": {
-        "ms1": 0.0,
+        "ms1": -2.37,
         "x": 0.0,
-        "ms2": 0.0
+        "ms2": 2.94
       },
       "odds_history": [
         {
@@ -1432,6 +1432,12 @@
           "ms1": 2.95,
           "x": 3.6,
           "ms2": 2.38
+        },
+        {
+          "timestamp": "2026-11-18T08:04:43.397213+03:00",
+          "ms1": 2.88,
+          "x": 3.6,
+          "ms2": 2.45
         }
       ],
       "home_stats": {
