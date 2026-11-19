@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-18T22:43:57.767119+03:00",
+  "last_updated": "2026-11-19T07:58:48.850838+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1076,11 +1076,11 @@
       "away": "Real Sociedad",
       "date": "22.11.2026",
       "time": "18:15",
-      "odds": "MS1: 3.15 | X: 4.00 | MS2: 2.06",
+      "odds": "MS1: 3.10 | X: 4.00 | MS2: 2.07",
       "odds_detail": {
-        "ms1": 3.15,
+        "ms1": 3.1,
         "x": 4.0,
-        "ms2": 2.06
+        "ms2": 2.07
       },
       "odds_available": true,
       "opening_odds": {
@@ -1089,14 +1089,14 @@
         "ms2": 2.1
       },
       "current_odds": {
-        "ms1": 3.15,
+        "ms1": 3.1,
         "x": 4.0,
-        "ms2": 2.06
+        "ms2": 2.07
       },
       "odds_change_pct": {
-        "ms1": -1.56,
+        "ms1": -3.13,
         "x": 0.0,
-        "ms2": -1.9
+        "ms2": -1.43
       },
       "odds_history": [
         {
@@ -1122,6 +1122,12 @@
           "ms1": 3.15,
           "x": 4.0,
           "ms2": 2.06
+        },
+        {
+          "timestamp": "2026-11-19T07:58:48.850838+03:00",
+          "ms1": 3.1,
+          "x": 4.0,
+          "ms2": 2.07
         }
       ],
       "home_stats": {
