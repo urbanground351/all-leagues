@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-20T07:49:33.627480+03:00",
+  "last_updated": "2026-11-20T22:24:40.036482+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -570,11 +570,11 @@
       "away": "Samsunspor",
       "date": "21.11.2026",
       "time": "16:00",
-      "odds": "MS1: 1.16 | X: 7.00 | MS2: 12.50",
+      "odds": "MS1: 1.18 | X: 6.75 | MS2: 11.50",
       "odds_detail": {
-        "ms1": 1.16,
-        "x": 7.0,
-        "ms2": 12.5
+        "ms1": 1.18,
+        "x": 6.75,
+        "ms2": 11.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -583,14 +583,14 @@
         "ms2": 10.5
       },
       "current_odds": {
-        "ms1": 1.16,
-        "x": 7.0,
-        "ms2": 12.5
+        "ms1": 1.18,
+        "x": 6.75,
+        "ms2": 11.5
       },
       "odds_change_pct": {
-        "ms1": -4.13,
-        "x": 12.0,
-        "ms2": 19.05
+        "ms1": -2.48,
+        "x": 8.0,
+        "ms2": 9.52
       },
       "odds_history": [
         {
@@ -610,6 +610,12 @@
           "ms1": 1.16,
           "x": 7.0,
           "ms2": 12.5
+        },
+        {
+          "timestamp": "2026-11-20T22:24:40.036482+03:00",
+          "ms1": 1.18,
+          "x": 6.75,
+          "ms2": 11.5
         }
       ],
       "home_stats": {
@@ -728,11 +734,11 @@
       "away": "Fenerbahce",
       "date": "21.11.2026",
       "time": "19:00",
-      "odds": "MS1: 5.80 | X: 4.10 | MS2: 1.54",
+      "odds": "MS1: 6.00 | X: 4.10 | MS2: 1.53",
       "odds_detail": {
-        "ms1": 5.8,
+        "ms1": 6.0,
         "x": 4.1,
-        "ms2": 1.54
+        "ms2": 1.53
       },
       "odds_available": true,
       "opening_odds": {
@@ -741,14 +747,14 @@
         "ms2": 1.55
       },
       "current_odds": {
-        "ms1": 5.8,
+        "ms1": 6.0,
         "x": 4.1,
-        "ms2": 1.54
+        "ms2": 1.53
       },
       "odds_change_pct": {
-        "ms1": 0.87,
+        "ms1": 4.35,
         "x": 0.0,
-        "ms2": -0.65
+        "ms2": -1.29
       },
       "odds_history": [
         {
@@ -774,6 +780,12 @@
           "ms1": 5.8,
           "x": 4.1,
           "ms2": 1.54
+        },
+        {
+          "timestamp": "2026-11-20T22:24:40.036482+03:00",
+          "ms1": 6.0,
+          "x": 4.1,
+          "ms2": 1.53
         }
       ],
       "home_stats": {
@@ -956,10 +968,10 @@
       "away": "Alanyaspor",
       "date": "22.11.2026",
       "time": "16:00",
-      "odds": "MS1: 2.02 | X: 3.35 | MS2: 3.70",
+      "odds": "MS1: 2.00 | X: 3.40 | MS2: 3.70",
       "odds_detail": {
-        "ms1": 2.02,
-        "x": 3.35,
+        "ms1": 2.0,
+        "x": 3.4,
         "ms2": 3.7
       },
       "odds_available": true,
@@ -969,13 +981,13 @@
         "ms2": 3.65
       },
       "current_odds": {
-        "ms1": 2.02,
-        "x": 3.35,
+        "ms1": 2.0,
+        "x": 3.4,
         "ms2": 3.7
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
+        "ms1": -0.99,
+        "x": 1.49,
         "ms2": 1.37
       },
       "odds_history": [
@@ -989,6 +1001,12 @@
           "timestamp": "2026-11-12T22:18:10.704097+03:00",
           "ms1": 2.02,
           "x": 3.35,
+          "ms2": 3.7
+        },
+        {
+          "timestamp": "2026-11-20T22:24:40.036482+03:00",
+          "ms1": 2.0,
+          "x": 3.4,
           "ms2": 3.7
         }
       ],
@@ -1026,11 +1044,11 @@
       "away": "Eyupspor",
       "date": "22.11.2026",
       "time": "19:00",
-      "odds": "MS1: 1.13 | X: 7.50 | MS2: 15.00",
+      "odds": "MS1: 1.13 | X: 8.50 | MS2: 17.00",
       "odds_detail": {
         "ms1": 1.13,
-        "x": 7.5,
-        "ms2": 15.0
+        "x": 8.5,
+        "ms2": 17.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1040,13 +1058,13 @@
       },
       "current_odds": {
         "ms1": 1.13,
-        "x": 7.5,
-        "ms2": 15.0
+        "x": 8.5,
+        "ms2": 17.0
       },
       "odds_change_pct": {
         "ms1": -0.88,
-        "x": 7.14,
-        "ms2": 0.0
+        "x": 21.43,
+        "ms2": 13.33
       },
       "odds_history": [
         {
@@ -1066,6 +1084,12 @@
           "ms1": 1.13,
           "x": 7.5,
           "ms2": 15.0
+        },
+        {
+          "timestamp": "2026-11-20T22:24:40.036482+03:00",
+          "ms1": 1.13,
+          "x": 8.5,
+          "ms2": 17.0
         }
       ],
       "home_stats": {
@@ -1168,6 +1192,134 @@
         "played": 11,
         "rank": 9,
         "points": 16,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328554,
+      "home": "Caykur Rizespor",
+      "away": "Kasimpasa",
+      "date": "27.11.2026",
+      "time": "20:00",
+      "odds": "MS1: 2.06 | X: 3.50 | MS2: 3.40",
+      "odds_detail": {
+        "ms1": 2.06,
+        "x": 3.5,
+        "ms2": 3.4
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.06,
+        "x": 3.5,
+        "ms2": 3.4
+      },
+      "current_odds": {
+        "ms1": 2.06,
+        "x": 3.5,
+        "ms2": 3.4
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-20T22:24:40.036482+03:00",
+          "ms1": 2.06,
+          "x": 3.5,
+          "ms2": 3.4
+        }
+      ],
+      "home_stats": {
+        "name": "Caykur Rizespor",
+        "home_avg_scored": 1.18,
+        "home_avg_conceded": 1.45,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.63,
+        "played": 11,
+        "rank": 11,
+        "points": 14,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Kasimpasa",
+        "away_avg_scored": 1.55,
+        "away_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.55,
+        "played": 11,
+        "rank": 5,
+        "points": 20,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "Trendyol Süper Lig",
+      "event_id": 1028328560,
+      "home": "Alanyaspor",
+      "away": "Konyaspor",
+      "date": "27.11.2026",
+      "time": "20:00",
+      "odds": "MS1: 2.43 | X: 3.20 | MS2: 2.90",
+      "odds_detail": {
+        "ms1": 2.43,
+        "x": 3.2,
+        "ms2": 2.9
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 2.43,
+        "x": 3.2,
+        "ms2": 2.9
+      },
+      "current_odds": {
+        "ms1": 2.43,
+        "x": 3.2,
+        "ms2": 2.9
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-20T22:24:40.036482+03:00",
+          "ms1": 2.43,
+          "x": 3.2,
+          "ms2": 2.9
+        }
+      ],
+      "home_stats": {
+        "name": "Alanyaspor",
+        "home_avg_scored": 0.82,
+        "home_avg_conceded": 1.64,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.46,
+        "played": 11,
+        "rank": 13,
+        "points": 12,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "Konyaspor",
+        "away_avg_scored": 0.55,
+        "away_avg_conceded": 1.27,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 1.82,
+        "played": 11,
+        "rank": 15,
+        "points": 8,
         "recent_matches": []
       }
     }
