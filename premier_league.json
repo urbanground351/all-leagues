@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-19T22:43:59.599147+03:00",
+  "last_updated": "2026-11-20T07:49:34.459865+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -760,11 +760,11 @@
       "away": "Leeds United",
       "date": "21.11.2026",
       "time": "18:00",
-      "odds": "MS1: 1.92 | X: 3.60 | MS2: 3.95",
+      "odds": "MS1: 1.92 | X: 3.65 | MS2: 3.85",
       "odds_detail": {
         "ms1": 1.92,
-        "x": 3.6,
-        "ms2": 3.95
+        "x": 3.65,
+        "ms2": 3.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -774,13 +774,13 @@
       },
       "current_odds": {
         "ms1": 1.92,
-        "x": 3.6,
-        "ms2": 3.95
+        "x": 3.65,
+        "ms2": 3.85
       },
       "odds_change_pct": {
         "ms1": 6.08,
-        "x": -5.26,
-        "ms2": -7.06
+        "x": -3.95,
+        "ms2": -9.41
       },
       "odds_history": [
         {
@@ -818,6 +818,12 @@
           "ms1": 1.92,
           "x": 3.6,
           "ms2": 3.95
+        },
+        {
+          "timestamp": "2026-11-20T07:49:34.459865+03:00",
+          "ms1": 1.92,
+          "x": 3.65,
+          "ms2": 3.85
         }
       ],
       "home_stats": {
@@ -854,11 +860,11 @@
       "away": "Nottingham Forest",
       "date": "21.11.2026",
       "time": "18:00",
-      "odds": "MS1: 1.98 | X: 3.60 | MS2: 3.75",
+      "odds": "MS1: 1.94 | X: 3.60 | MS2: 3.85",
       "odds_detail": {
-        "ms1": 1.98,
+        "ms1": 1.94,
         "x": 3.6,
-        "ms2": 3.75
+        "ms2": 3.85
       },
       "odds_available": true,
       "opening_odds": {
@@ -867,14 +873,14 @@
         "ms2": 3.85
       },
       "current_odds": {
-        "ms1": 1.98,
+        "ms1": 1.94,
         "x": 3.6,
-        "ms2": 3.75
+        "ms2": 3.85
       },
       "odds_change_pct": {
-        "ms1": -1.0,
+        "ms1": -3.0,
         "x": -1.37,
-        "ms2": -2.6
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -906,6 +912,12 @@
           "ms1": 1.98,
           "x": 3.6,
           "ms2": 3.75
+        },
+        {
+          "timestamp": "2026-11-20T07:49:34.459865+03:00",
+          "ms1": 1.94,
+          "x": 3.6,
+          "ms2": 3.85
         }
       ],
       "home_stats": {
