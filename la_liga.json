@@ -2,34 +2,34 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-22T06:59:07.956699+03:00",
+  "last_updated": "2026-11-22T21:48:57.925343+03:00",
   "total_teams": 20,
   "teams": [
     {
       "name": "Barcelona",
       "id": "83",
       "rank": 1,
-      "points": 33,
-      "played": 12,
-      "wins": 11,
+      "points": 36,
+      "played": 13,
+      "wins": 12,
       "draws": 0,
       "losses": 1,
-      "goals_for": 48,
-      "goals_against": 13,
-      "goal_diff": 35,
-      "avg_scored": 4.0,
-      "avg_conceded": 1.08,
-      "win_rate": 91.7,
+      "goals_for": 51,
+      "goals_against": 15,
+      "goal_diff": 36,
+      "avg_scored": 3.92,
+      "avg_conceded": 1.15,
+      "win_rate": 92.3,
       "matches": [],
-      "home_avg_scored": 4.0,
-      "home_avg_conceded": 1.08,
-      "away_avg_scored": 4.0,
-      "away_avg_conceded": 1.08,
+      "home_avg_scored": 3.92,
+      "home_avg_conceded": 1.15,
+      "away_avg_scored": 3.92,
+      "away_avg_conceded": 1.15,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 5.08,
+      "recent_goals_avg": 5.07,
       "recent_matches": []
     },
     {
@@ -118,26 +118,26 @@
       "id": "89",
       "rank": 5,
       "points": 22,
-      "played": 12,
+      "played": 13,
       "wins": 7,
       "draws": 1,
-      "losses": 4,
-      "goals_for": 21,
-      "goals_against": 20,
-      "goal_diff": 1,
-      "avg_scored": 1.75,
-      "avg_conceded": 1.67,
-      "win_rate": 58.3,
+      "losses": 5,
+      "goals_for": 23,
+      "goals_against": 23,
+      "goal_diff": 0,
+      "avg_scored": 1.77,
+      "avg_conceded": 1.77,
+      "win_rate": 53.8,
       "matches": [],
-      "home_avg_scored": 1.75,
-      "home_avg_conceded": 1.67,
-      "away_avg_scored": 1.75,
-      "away_avg_conceded": 1.67,
+      "home_avg_scored": 1.77,
+      "home_avg_conceded": 1.77,
+      "away_avg_scored": 1.77,
+      "away_avg_conceded": 1.77,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.42,
+      "recent_goals_avg": 3.54,
       "recent_matches": []
     },
     {
@@ -168,9 +168,36 @@
       "recent_matches": []
     },
     {
+      "name": "Racing Santander",
+      "id": "87",
+      "rank": 7,
+      "points": 17,
+      "played": 13,
+      "wins": 5,
+      "draws": 2,
+      "losses": 6,
+      "goals_for": 20,
+      "goals_against": 32,
+      "goal_diff": -12,
+      "avg_scored": 1.54,
+      "avg_conceded": 2.46,
+      "win_rate": 38.5,
+      "matches": [],
+      "home_avg_scored": 1.54,
+      "home_avg_conceded": 2.46,
+      "away_avg_scored": 1.54,
+      "away_avg_conceded": 2.46,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 4.0,
+      "recent_matches": []
+    },
+    {
       "name": "Athletic Club",
       "id": "93",
-      "rank": 7,
+      "rank": 8,
       "points": 16,
       "played": 12,
       "wins": 4,
@@ -197,7 +224,7 @@
     {
       "name": "Alavés",
       "id": "96",
-      "rank": 8,
+      "rank": 9,
       "points": 16,
       "played": 13,
       "wins": 4,
@@ -224,34 +251,34 @@
     {
       "name": "Villarreal",
       "id": "102",
-      "rank": 9,
+      "rank": 10,
       "points": 15,
-      "played": 12,
+      "played": 13,
       "wins": 4,
       "draws": 3,
-      "losses": 5,
-      "goals_for": 17,
-      "goals_against": 15,
-      "goal_diff": 2,
-      "avg_scored": 1.42,
-      "avg_conceded": 1.25,
-      "win_rate": 33.3,
+      "losses": 6,
+      "goals_for": 19,
+      "goals_against": 18,
+      "goal_diff": 1,
+      "avg_scored": 1.46,
+      "avg_conceded": 1.38,
+      "win_rate": 30.8,
       "matches": [],
-      "home_avg_scored": 1.42,
-      "home_avg_conceded": 1.25,
-      "away_avg_scored": 1.42,
-      "away_avg_conceded": 1.25,
+      "home_avg_scored": 1.46,
+      "home_avg_conceded": 1.38,
+      "away_avg_scored": 1.46,
+      "away_avg_conceded": 1.38,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.67,
+      "recent_goals_avg": 2.84,
       "recent_matches": []
     },
     {
       "name": "Espanyol",
       "id": "88",
-      "rank": 10,
+      "rank": 11,
       "points": 15,
       "played": 13,
       "wins": 4,
@@ -278,7 +305,7 @@
     {
       "name": "Deportivo",
       "id": "90",
-      "rank": 11,
+      "rank": 12,
       "points": 15,
       "played": 13,
       "wins": 3,
@@ -300,33 +327,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.54,
-      "recent_matches": []
-    },
-    {
-      "name": "Racing Santander",
-      "id": "87",
-      "rank": 12,
-      "points": 14,
-      "played": 12,
-      "wins": 4,
-      "draws": 2,
-      "losses": 6,
-      "goals_for": 17,
-      "goals_against": 30,
-      "goal_diff": -13,
-      "avg_scored": 1.42,
-      "avg_conceded": 2.5,
-      "win_rate": 33.3,
-      "matches": [],
-      "home_avg_scored": 1.42,
-      "home_avg_conceded": 2.5,
-      "away_avg_scored": 1.42,
-      "away_avg_conceded": 2.5,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 3.92,
       "recent_matches": []
     },
     {
@@ -549,234 +549,16 @@
   "upcoming_matches": [
     {
       "league": "Spanish LALIGA",
-      "event_id": 1028209211,
-      "home": "Barcelona",
-      "away": "Villarreal",
-      "date": "22.11.2026",
-      "time": "16:00",
-      "odds": "MS1: 1.17 | X: 8.00 | MS2: 13.00",
-      "odds_detail": {
-        "ms1": 1.17,
-        "x": 8.0,
-        "ms2": 13.0
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.22,
-        "x": 7.0,
-        "ms2": 10.5
-      },
-      "current_odds": {
-        "ms1": 1.17,
-        "x": 8.0,
-        "ms2": 13.0
-      },
-      "odds_change_pct": {
-        "ms1": -4.1,
-        "x": 14.29,
-        "ms2": 23.81
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-10T00:44:23.970821+03:00",
-          "ms1": 1.22,
-          "x": 7.0,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-11-14T20:27:47.473253+03:00",
-          "ms1": 1.25,
-          "x": 6.5,
-          "ms2": 9.5
-        },
-        {
-          "timestamp": "2026-11-15T21:10:40.185139+03:00",
-          "ms1": 1.23,
-          "x": 6.75,
-          "ms2": 10.5
-        },
-        {
-          "timestamp": "2026-11-16T06:45:27.133399+03:00",
-          "ms1": 1.22,
-          "x": 7.0,
-          "ms2": 11.0
-        },
-        {
-          "timestamp": "2026-11-17T00:24:49.694240+03:00",
-          "ms1": 1.21,
-          "x": 7.0,
-          "ms2": 11.0
-        },
-        {
-          "timestamp": "2026-11-18T22:43:57.767119+03:00",
-          "ms1": 1.2,
-          "x": 7.5,
-          "ms2": 11.0
-        },
-        {
-          "timestamp": "2026-11-19T22:43:59.873617+03:00",
-          "ms1": 1.19,
-          "x": 7.5,
-          "ms2": 12.0
-        },
-        {
-          "timestamp": "2026-11-20T22:24:40.799645+03:00",
-          "ms1": 1.19,
-          "x": 7.5,
-          "ms2": 11.5
-        },
-        {
-          "timestamp": "2026-11-21T21:26:34.105988+03:00",
-          "ms1": 1.18,
-          "x": 8.0,
-          "ms2": 13.0
-        },
-        {
-          "timestamp": "2026-11-22T06:59:07.956699+03:00",
-          "ms1": 1.17,
-          "x": 8.0,
-          "ms2": 13.0
-        }
-      ],
-      "home_stats": {
-        "name": "Barcelona",
-        "home_avg_scored": 4.0,
-        "home_avg_conceded": 1.08,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 5.08,
-        "played": 12,
-        "rank": 1,
-        "points": 33,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Villarreal",
-        "away_avg_scored": 1.42,
-        "away_avg_conceded": 1.25,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.67,
-        "played": 12,
-        "rank": 9,
-        "points": 15,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
-      "event_id": 1028209202,
-      "home": "Racing Santander",
-      "away": "Real Sociedad",
-      "date": "22.11.2026",
-      "time": "18:15",
-      "odds": "MS1: 3.20 | X: 4.10 | MS2: 2.00",
-      "odds_detail": {
-        "ms1": 3.2,
-        "x": 4.1,
-        "ms2": 2.0
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 3.2,
-        "x": 4.0,
-        "ms2": 2.1
-      },
-      "current_odds": {
-        "ms1": 3.2,
-        "x": 4.1,
-        "ms2": 2.0
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 2.5,
-        "ms2": -4.76
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-10T00:44:23.970821+03:00",
-          "ms1": 3.2,
-          "x": 4.0,
-          "ms2": 2.1
-        },
-        {
-          "timestamp": "2026-11-13T21:55:21.665352+03:00",
-          "ms1": 3.25,
-          "x": 4.0,
-          "ms2": 2.08
-        },
-        {
-          "timestamp": "2026-11-17T23:12:27.788717+03:00",
-          "ms1": 3.2,
-          "x": 4.0,
-          "ms2": 2.04
-        },
-        {
-          "timestamp": "2026-11-18T22:43:57.767119+03:00",
-          "ms1": 3.15,
-          "x": 4.0,
-          "ms2": 2.06
-        },
-        {
-          "timestamp": "2026-11-19T07:58:48.850838+03:00",
-          "ms1": 3.1,
-          "x": 4.0,
-          "ms2": 2.07
-        },
-        {
-          "timestamp": "2026-11-19T22:43:59.873617+03:00",
-          "ms1": 3.1,
-          "x": 4.1,
-          "ms2": 2.05
-        },
-        {
-          "timestamp": "2026-11-21T07:44:36.604118+03:00",
-          "ms1": 3.2,
-          "x": 4.1,
-          "ms2": 2.0
-        }
-      ],
-      "home_stats": {
-        "name": "Racing Santander",
-        "home_avg_scored": 1.42,
-        "home_avg_conceded": 2.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.92,
-        "played": 12,
-        "rank": 12,
-        "points": 14,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Real Sociedad",
-        "away_avg_scored": 1.75,
-        "away_avg_conceded": 1.67,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.42,
-        "played": 12,
-        "rank": 5,
-        "points": 22,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "Spanish LALIGA",
       "event_id": 1028209205,
       "home": "Osasuna",
       "away": "Málaga",
       "date": "22.11.2026",
       "time": "20:30",
-      "odds": "MS1: 1.79 | X: 3.65 | MS2: 4.50",
+      "odds": "MS1: 1.19 | X: 5.50 | MS2: 21.00",
       "odds_detail": {
-        "ms1": 1.79,
-        "x": 3.65,
-        "ms2": 4.5
+        "ms1": 1.19,
+        "x": 5.5,
+        "ms2": 21.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -785,14 +567,14 @@
         "ms2": 4.5
       },
       "current_odds": {
-        "ms1": 1.79,
-        "x": 3.65,
-        "ms2": 4.5
+        "ms1": 1.19,
+        "x": 5.5,
+        "ms2": 21.0
       },
       "odds_change_pct": {
-        "ms1": 0.56,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -33.15,
+        "x": 50.68,
+        "ms2": 366.67
       },
       "odds_history": [
         {
@@ -836,6 +618,12 @@
           "ms1": 1.79,
           "x": 3.65,
           "ms2": 4.5
+        },
+        {
+          "timestamp": "2026-11-22T21:48:57.925343+03:00",
+          "ms1": 1.19,
+          "x": 5.5,
+          "ms2": 21.0
         }
       ],
       "home_stats": {
@@ -872,10 +660,10 @@
       "away": "Atlético Madrid",
       "date": "22.11.2026",
       "time": "23:00",
-      "odds": "MS1: 6.75 | X: 4.00 | MS2: 1.52",
+      "odds": "MS1: 7.00 | X: 3.95 | MS2: 1.52",
       "odds_detail": {
-        "ms1": 6.75,
-        "x": 4.0,
+        "ms1": 7.0,
+        "x": 3.95,
         "ms2": 1.52
       },
       "odds_available": true,
@@ -885,13 +673,13 @@
         "ms2": 1.62
       },
       "current_odds": {
-        "ms1": 6.75,
-        "x": 4.0,
+        "ms1": 7.0,
+        "x": 3.95,
         "ms2": 1.52
       },
       "odds_change_pct": {
-        "ms1": 17.39,
-        "x": 5.26,
+        "ms1": 21.74,
+        "x": 3.95,
         "ms2": -6.17
       },
       "odds_history": [
@@ -929,6 +717,12 @@
           "timestamp": "2026-11-22T06:59:07.956699+03:00",
           "ms1": 6.75,
           "x": 4.0,
+          "ms2": 1.52
+        },
+        {
+          "timestamp": "2026-11-22T21:48:57.925343+03:00",
+          "ms1": 7.0,
+          "x": 3.95,
           "ms2": 1.52
         }
       ],
@@ -1117,15 +911,15 @@
       },
       "away_stats": {
         "name": "Racing Santander",
-        "away_avg_scored": 1.42,
-        "away_avg_conceded": 2.5,
+        "away_avg_scored": 1.54,
+        "away_avg_conceded": 2.46,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.92,
-        "played": 12,
-        "rank": 12,
-        "points": 14,
+        "recent_goals_avg": 4.0,
+        "played": 13,
+        "rank": 7,
+        "points": 17,
         "recent_matches": []
       }
     },
@@ -1264,7 +1058,7 @@
         "form": [],
         "recent_goals_avg": 2.25,
         "played": 12,
-        "rank": 7,
+        "rank": 8,
         "points": 16,
         "recent_matches": []
       }
@@ -1398,7 +1192,7 @@
         "form": [],
         "recent_goals_avg": 2.76,
         "played": 13,
-        "rank": 8,
+        "rank": 9,
         "points": 16,
         "recent_matches": []
       }
@@ -1480,11 +1274,11 @@
       "away": "Barcelona",
       "date": "29.11.2026",
       "time": "18:15",
-      "odds": "MS1: 9.00 | X: 6.00 | MS2: 1.29",
+      "odds": "MS1: 9.50 | X: 6.10 | MS2: 1.27",
       "odds_detail": {
-        "ms1": 9.0,
-        "x": 6.0,
-        "ms2": 1.29
+        "ms1": 9.5,
+        "x": 6.1,
+        "ms2": 1.27
       },
       "odds_available": true,
       "opening_odds": {
@@ -1493,14 +1287,14 @@
         "ms2": 1.3
       },
       "current_odds": {
-        "ms1": 9.0,
-        "x": 6.0,
-        "ms2": 1.29
+        "ms1": 9.5,
+        "x": 6.1,
+        "ms2": 1.27
       },
       "odds_change_pct": {
-        "ms1": -5.26,
-        "x": -1.64,
-        "ms2": -0.77
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": -2.31
       },
       "odds_history": [
         {
@@ -1514,6 +1308,12 @@
           "ms1": 9.0,
           "x": 6.0,
           "ms2": 1.29
+        },
+        {
+          "timestamp": "2026-11-22T21:48:57.925343+03:00",
+          "ms1": 9.5,
+          "x": 6.1,
+          "ms2": 1.27
         }
       ],
       "home_stats": {
@@ -1525,21 +1325,21 @@
         "form": [],
         "recent_goals_avg": 2.54,
         "played": 13,
-        "rank": 11,
+        "rank": 12,
         "points": 15,
         "recent_matches": []
       },
       "away_stats": {
         "name": "Barcelona",
-        "away_avg_scored": 4.0,
-        "away_avg_conceded": 1.08,
+        "away_avg_scored": 3.92,
+        "away_avg_conceded": 1.15,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 5.08,
-        "played": 12,
+        "recent_goals_avg": 5.07,
+        "played": 13,
         "rank": 1,
-        "points": 33,
+        "points": 36,
         "recent_matches": []
       }
     },
@@ -1613,14 +1413,14 @@
       },
       "away_stats": {
         "name": "Villarreal",
-        "away_avg_scored": 1.42,
-        "away_avg_conceded": 1.25,
+        "away_avg_scored": 1.46,
+        "away_avg_conceded": 1.38,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.67,
-        "played": 12,
-        "rank": 9,
+        "recent_goals_avg": 2.84,
+        "played": 13,
+        "rank": 10,
         "points": 15,
         "recent_matches": []
       }
@@ -1682,13 +1482,13 @@
       ],
       "home_stats": {
         "name": "Real Sociedad",
-        "home_avg_scored": 1.75,
-        "home_avg_conceded": 1.67,
+        "home_avg_scored": 1.77,
+        "home_avg_conceded": 1.77,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.42,
-        "played": 12,
+        "recent_goals_avg": 3.54,
+        "played": 13,
         "rank": 5,
         "points": 22,
         "recent_matches": []
@@ -1765,7 +1565,7 @@
         "form": [],
         "recent_goals_avg": 2.16,
         "played": 13,
-        "rank": 10,
+        "rank": 11,
         "points": 15,
         "recent_matches": []
       },

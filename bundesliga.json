@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-22T06:59:08.278227+03:00",
+  "last_updated": "2026-11-22T21:48:58.286284+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -144,27 +144,27 @@
       "name": "Werder Bremen",
       "id": "137",
       "rank": 6,
-      "points": 15,
-      "played": 9,
-      "wins": 4,
+      "points": 18,
+      "played": 10,
+      "wins": 5,
       "draws": 3,
       "losses": 2,
-      "goals_for": 17,
+      "goals_for": 21,
       "goals_against": 15,
-      "goal_diff": 2,
-      "avg_scored": 1.89,
-      "avg_conceded": 1.67,
-      "win_rate": 44.4,
+      "goal_diff": 6,
+      "avg_scored": 2.1,
+      "avg_conceded": 1.5,
+      "win_rate": 50.0,
       "matches": [],
-      "home_avg_scored": 1.89,
-      "home_avg_conceded": 1.67,
-      "away_avg_scored": 1.89,
-      "away_avg_conceded": 1.67,
+      "home_avg_scored": 2.1,
+      "home_avg_conceded": 1.5,
+      "away_avg_scored": 2.1,
+      "away_avg_conceded": 1.5,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.56,
+      "recent_goals_avg": 3.6,
       "recent_matches": []
     },
     {
@@ -249,9 +249,36 @@
       "recent_matches": []
     },
     {
+      "name": "FC Augsburg",
+      "id": "3841",
+      "rank": 10,
+      "points": 12,
+      "played": 10,
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "goals_for": 23,
+      "goals_against": 21,
+      "goal_diff": 2,
+      "avg_scored": 2.3,
+      "avg_conceded": 2.1,
+      "win_rate": 30.0,
+      "matches": [],
+      "home_avg_scored": 2.3,
+      "home_avg_conceded": 2.1,
+      "away_avg_scored": 2.3,
+      "away_avg_conceded": 2.1,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 4.4,
+      "recent_matches": []
+    },
+    {
       "name": "TSG Hoffenheim",
       "id": "7911",
-      "rank": 10,
+      "rank": 11,
       "points": 12,
       "played": 10,
       "wins": 4,
@@ -278,61 +305,61 @@
     {
       "name": "Hamburg SV",
       "id": "127",
-      "rank": 11,
+      "rank": 12,
       "points": 12,
-      "played": 9,
+      "played": 10,
       "wins": 4,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "goals_for": 10,
-      "goals_against": 20,
-      "goal_diff": -10,
-      "avg_scored": 1.11,
-      "avg_conceded": 2.22,
-      "win_rate": 44.4,
+      "goals_against": 24,
+      "goal_diff": -14,
+      "avg_scored": 1.0,
+      "avg_conceded": 2.4,
+      "win_rate": 40.0,
       "matches": [],
-      "home_avg_scored": 1.11,
-      "home_avg_conceded": 2.22,
-      "away_avg_scored": 1.11,
-      "away_avg_conceded": 2.22,
+      "home_avg_scored": 1.0,
+      "home_avg_conceded": 2.4,
+      "away_avg_scored": 1.0,
+      "away_avg_conceded": 2.4,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.33,
+      "recent_goals_avg": 3.4,
       "recent_matches": []
     },
     {
       "name": "Mainz",
       "id": "2950",
-      "rank": 12,
+      "rank": 13,
       "points": 10,
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 1,
-      "losses": 5,
-      "goals_for": 18,
-      "goals_against": 19,
-      "goal_diff": -1,
-      "avg_scored": 2.0,
-      "avg_conceded": 2.11,
-      "win_rate": 33.3,
+      "losses": 6,
+      "goals_for": 19,
+      "goals_against": 22,
+      "goal_diff": -3,
+      "avg_scored": 1.9,
+      "avg_conceded": 2.2,
+      "win_rate": 30.0,
       "matches": [],
-      "home_avg_scored": 2.0,
-      "home_avg_conceded": 2.11,
-      "away_avg_scored": 2.0,
-      "away_avg_conceded": 2.11,
+      "home_avg_scored": 1.9,
+      "home_avg_conceded": 2.2,
+      "away_avg_scored": 1.9,
+      "away_avg_conceded": 2.2,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 4.11,
+      "recent_goals_avg": 4.1,
       "recent_matches": []
     },
     {
       "name": "FC Cologne",
       "id": "122",
-      "rank": 13,
+      "rank": 14,
       "points": 10,
       "played": 10,
       "wins": 2,
@@ -359,7 +386,7 @@
     {
       "name": "SC Paderborn 07",
       "id": "3307",
-      "rank": 14,
+      "rank": 15,
       "points": 10,
       "played": 10,
       "wins": 2,
@@ -381,33 +408,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.3,
-      "recent_matches": []
-    },
-    {
-      "name": "FC Augsburg",
-      "id": "3841",
-      "rank": 15,
-      "points": 9,
-      "played": 9,
-      "wins": 2,
-      "draws": 3,
-      "losses": 4,
-      "goals_for": 20,
-      "goals_against": 20,
-      "goal_diff": 0,
-      "avg_scored": 2.22,
-      "avg_conceded": 2.22,
-      "win_rate": 22.2,
-      "matches": [],
-      "home_avg_scored": 2.22,
-      "home_avg_conceded": 2.22,
-      "away_avg_scored": 2.22,
-      "away_avg_conceded": 2.22,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 4.44,
       "recent_matches": []
     },
     {
@@ -495,200 +495,6 @@
   "upcoming_matches": [
     {
       "league": "German Bundesliga",
-      "event_id": 1028230558,
-      "home": "FC Augsburg",
-      "away": "Mainz",
-      "date": "22.11.2026",
-      "time": "17:30",
-      "odds": "MS1: 2.60 | X: 3.75 | MS2: 2.40",
-      "odds_detail": {
-        "ms1": 2.6,
-        "x": 3.75,
-        "ms2": 2.4
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 2.65,
-        "x": 3.7,
-        "ms2": 2.35
-      },
-      "current_odds": {
-        "ms1": 2.6,
-        "x": 3.75,
-        "ms2": 2.4
-      },
-      "odds_change_pct": {
-        "ms1": -1.89,
-        "x": 1.35,
-        "ms2": 2.13
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-10T00:44:24.221817+03:00",
-          "ms1": 2.65,
-          "x": 3.7,
-          "ms2": 2.35
-        },
-        {
-          "timestamp": "2026-11-13T21:55:21.919704+03:00",
-          "ms1": 2.65,
-          "x": 3.75,
-          "ms2": 2.32
-        },
-        {
-          "timestamp": "2026-11-17T00:24:49.944363+03:00",
-          "ms1": 2.7,
-          "x": 3.7,
-          "ms2": 2.35
-        },
-        {
-          "timestamp": "2026-11-19T07:58:52.081862+03:00",
-          "ms1": 2.65,
-          "x": 3.75,
-          "ms2": 2.33
-        },
-        {
-          "timestamp": "2026-11-19T22:44:00.118483+03:00",
-          "ms1": 2.65,
-          "x": 3.8,
-          "ms2": 2.32
-        },
-        {
-          "timestamp": "2026-11-21T21:26:34.356304+03:00",
-          "ms1": 2.6,
-          "x": 3.7,
-          "ms2": 2.4
-        },
-        {
-          "timestamp": "2026-11-22T06:59:08.278227+03:00",
-          "ms1": 2.6,
-          "x": 3.75,
-          "ms2": 2.4
-        }
-      ],
-      "home_stats": {
-        "name": "FC Augsburg",
-        "home_avg_scored": 2.22,
-        "home_avg_conceded": 2.22,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.44,
-        "played": 9,
-        "rank": 15,
-        "points": 9,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Mainz",
-        "away_avg_scored": 2.0,
-        "away_avg_conceded": 2.11,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.11,
-        "played": 9,
-        "rank": 12,
-        "points": 10,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230559,
-      "home": "Werder Bremen",
-      "away": "Hamburg SV",
-      "date": "22.11.2026",
-      "time": "19:30",
-      "odds": "MS1: 1.62 | X: 4.10 | MS2: 4.75",
-      "odds_detail": {
-        "ms1": 1.62,
-        "x": 4.1,
-        "ms2": 4.75
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.65,
-        "x": 4.1,
-        "ms2": 4.5
-      },
-      "current_odds": {
-        "ms1": 1.62,
-        "x": 4.1,
-        "ms2": 4.75
-      },
-      "odds_change_pct": {
-        "ms1": -1.82,
-        "x": 0.0,
-        "ms2": 5.56
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-10T00:44:24.221817+03:00",
-          "ms1": 1.65,
-          "x": 4.1,
-          "ms2": 4.5
-        },
-        {
-          "timestamp": "2026-11-12T22:18:11.618188+03:00",
-          "ms1": 1.65,
-          "x": 4.0,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-11-15T21:10:40.382092+03:00",
-          "ms1": 1.65,
-          "x": 4.1,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-11-17T00:24:49.944363+03:00",
-          "ms1": 1.64,
-          "x": 4.0,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-11-17T23:12:28.000318+03:00",
-          "ms1": 1.65,
-          "x": 4.1,
-          "ms2": 4.6
-        },
-        {
-          "timestamp": "2026-11-21T21:26:34.356304+03:00",
-          "ms1": 1.62,
-          "x": 4.1,
-          "ms2": 4.75
-        }
-      ],
-      "home_stats": {
-        "name": "Werder Bremen",
-        "home_avg_scored": 1.89,
-        "home_avg_conceded": 1.67,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.56,
-        "played": 9,
-        "rank": 6,
-        "points": 15,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Hamburg SV",
-        "away_avg_scored": 1.11,
-        "away_avg_conceded": 2.22,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 9,
-        "rank": 11,
-        "points": 12,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230620,
       "home": "Werder Bremen",
       "away": "Borussia Mönchengladbach",
@@ -732,15 +538,15 @@
       ],
       "home_stats": {
         "name": "Werder Bremen",
-        "home_avg_scored": 1.89,
-        "home_avg_conceded": 1.67,
+        "home_avg_scored": 2.1,
+        "home_avg_conceded": 1.5,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.56,
-        "played": 9,
+        "recent_goals_avg": 3.6,
+        "played": 10,
         "rank": 6,
-        "points": 15,
+        "points": 18,
         "recent_matches": []
       },
       "away_stats": {
@@ -808,14 +614,14 @@
       ],
       "home_stats": {
         "name": "Hamburg SV",
-        "home_avg_scored": 1.11,
-        "home_avg_conceded": 2.22,
+        "home_avg_scored": 1.0,
+        "home_avg_conceded": 2.4,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.33,
-        "played": 9,
-        "rank": 11,
+        "recent_goals_avg": 3.4,
+        "played": 10,
+        "rank": 12,
         "points": 12,
         "recent_matches": []
       },
@@ -830,76 +636,6 @@
         "played": 10,
         "rank": 2,
         "points": 22,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230566,
-      "home": "Mainz",
-      "away": "1. FC Union Berlin",
-      "date": "28.11.2026",
-      "time": "17:30",
-      "odds": "MS1: 1.45 | X: 4.60 | MS2: 6.10",
-      "odds_detail": {
-        "ms1": 1.45,
-        "x": 4.6,
-        "ms2": 6.1
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.45,
-        "x": 4.6,
-        "ms2": 6.25
-      },
-      "current_odds": {
-        "ms1": 1.45,
-        "x": 4.6,
-        "ms2": 6.1
-      },
-      "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": -2.4
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-18T22:43:57.971194+03:00",
-          "ms1": 1.45,
-          "x": 4.6,
-          "ms2": 6.25
-        },
-        {
-          "timestamp": "2026-11-20T22:24:41.038470+03:00",
-          "ms1": 1.45,
-          "x": 4.6,
-          "ms2": 6.1
-        }
-      ],
-      "home_stats": {
-        "name": "Mainz",
-        "home_avg_scored": 2.0,
-        "home_avg_conceded": 2.11,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.11,
-        "played": 9,
-        "rank": 12,
-        "points": 10,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "1. FC Union Berlin",
-        "away_avg_scored": 0.8,
-        "away_avg_conceded": 2.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.4,
-        "played": 10,
-        "rank": 17,
-        "points": 7,
         "recent_matches": []
       }
     },
@@ -961,7 +697,7 @@
         "form": [],
         "recent_goals_avg": 2.3,
         "played": 10,
-        "rank": 14,
+        "rank": 15,
         "points": 10,
         "recent_matches": []
       },
@@ -986,11 +722,11 @@
       "away": "SV Elversberg",
       "date": "28.11.2026",
       "time": "17:30",
-      "odds": "MS1: 1.96 | X: 3.75 | MS2: 3.35",
+      "odds": "MS1: 1.91 | X: 3.80 | MS2: 3.50",
       "odds_detail": {
-        "ms1": 1.96,
-        "x": 3.75,
-        "ms2": 3.35
+        "ms1": 1.91,
+        "x": 3.8,
+        "ms2": 3.5
       },
       "odds_available": true,
       "opening_odds": {
@@ -999,14 +735,14 @@
         "ms2": 3.3
       },
       "current_odds": {
-        "ms1": 1.96,
-        "x": 3.75,
-        "ms2": 3.35
+        "ms1": 1.91,
+        "x": 3.8,
+        "ms2": 3.5
       },
       "odds_change_pct": {
-        "ms1": 0.51,
-        "x": -3.85,
-        "ms2": 1.52
+        "ms1": -2.05,
+        "x": -2.56,
+        "ms2": 6.06
       },
       "odds_history": [
         {
@@ -1026,6 +762,12 @@
           "ms1": 1.96,
           "x": 3.75,
           "ms2": 3.35
+        },
+        {
+          "timestamp": "2026-11-22T21:48:58.286284+03:00",
+          "ms1": 1.91,
+          "x": 3.8,
+          "ms2": 3.5
         }
       ],
       "home_stats": {
@@ -1037,7 +779,7 @@
         "form": [],
         "recent_goals_avg": 2.6,
         "played": 10,
-        "rank": 13,
+        "rank": 14,
         "points": 10,
         "recent_matches": []
       },
@@ -1052,6 +794,82 @@
         "played": 10,
         "rank": 9,
         "points": 13,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230566,
+      "home": "Mainz",
+      "away": "1. FC Union Berlin",
+      "date": "28.11.2026",
+      "time": "17:30",
+      "odds": "MS1: 1.46 | X: 4.50 | MS2: 6.10",
+      "odds_detail": {
+        "ms1": 1.46,
+        "x": 4.5,
+        "ms2": 6.1
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.45,
+        "x": 4.6,
+        "ms2": 6.25
+      },
+      "current_odds": {
+        "ms1": 1.46,
+        "x": 4.5,
+        "ms2": 6.1
+      },
+      "odds_change_pct": {
+        "ms1": 0.69,
+        "x": -2.17,
+        "ms2": -2.4
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-18T22:43:57.971194+03:00",
+          "ms1": 1.45,
+          "x": 4.6,
+          "ms2": 6.25
+        },
+        {
+          "timestamp": "2026-11-20T22:24:41.038470+03:00",
+          "ms1": 1.45,
+          "x": 4.6,
+          "ms2": 6.1
+        },
+        {
+          "timestamp": "2026-11-22T21:48:58.286284+03:00",
+          "ms1": 1.46,
+          "x": 4.5,
+          "ms2": 6.1
+        }
+      ],
+      "home_stats": {
+        "name": "Mainz",
+        "home_avg_scored": 1.9,
+        "home_avg_conceded": 2.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.1,
+        "played": 10,
+        "rank": 13,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "1. FC Union Berlin",
+        "away_avg_scored": 0.8,
+        "away_avg_conceded": 2.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.4,
+        "played": 10,
+        "rank": 17,
+        "points": 7,
         "recent_matches": []
       }
     },
@@ -1196,11 +1014,11 @@
       "away": "FC Augsburg",
       "date": "29.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.63 | X: 4.50 | MS2: 4.25",
+      "odds": "MS1: 1.63 | X: 4.40 | MS2: 4.30",
       "odds_detail": {
         "ms1": 1.63,
-        "x": 4.5,
-        "ms2": 4.25
+        "x": 4.4,
+        "ms2": 4.3
       },
       "odds_available": true,
       "opening_odds": {
@@ -1210,13 +1028,13 @@
       },
       "current_odds": {
         "ms1": 1.63,
-        "x": 4.5,
-        "ms2": 4.25
+        "x": 4.4,
+        "ms2": 4.3
       },
       "odds_change_pct": {
         "ms1": -0.61,
-        "x": 2.27,
-        "ms2": 0.0
+        "x": 0.0,
+        "ms2": 1.18
       },
       "odds_history": [
         {
@@ -1230,6 +1048,12 @@
           "ms1": 1.63,
           "x": 4.5,
           "ms2": 4.25
+        },
+        {
+          "timestamp": "2026-11-22T21:48:58.286284+03:00",
+          "ms1": 1.63,
+          "x": 4.4,
+          "ms2": 4.3
         }
       ],
       "home_stats": {
@@ -1241,21 +1065,21 @@
         "form": [],
         "recent_goals_avg": 3.4,
         "played": 10,
-        "rank": 10,
+        "rank": 11,
         "points": 12,
         "recent_matches": []
       },
       "away_stats": {
         "name": "FC Augsburg",
-        "away_avg_scored": 2.22,
-        "away_avg_conceded": 2.22,
+        "away_avg_scored": 2.3,
+        "away_avg_conceded": 2.1,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 4.44,
-        "played": 9,
-        "rank": 15,
-        "points": 9,
+        "recent_goals_avg": 4.4,
+        "played": 10,
+        "rank": 10,
+        "points": 12,
         "recent_matches": []
       }
     },

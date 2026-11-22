@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-22T06:59:07.665682+03:00",
+  "last_updated": "2026-11-22T21:48:57.659081+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -37,26 +37,26 @@
       "id": "331",
       "rank": 2,
       "points": 22,
-      "played": 10,
+      "played": 11,
       "wins": 7,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "goals_for": 26,
-      "goals_against": 7,
-      "goal_diff": 19,
-      "avg_scored": 2.6,
-      "avg_conceded": 0.7,
-      "win_rate": 70.0,
+      "goals_against": 9,
+      "goal_diff": 17,
+      "avg_scored": 2.36,
+      "avg_conceded": 0.82,
+      "win_rate": 63.6,
       "matches": [],
-      "home_avg_scored": 2.6,
-      "home_avg_conceded": 0.7,
-      "away_avg_scored": 2.6,
-      "away_avg_conceded": 0.7,
+      "home_avg_scored": 2.36,
+      "home_avg_conceded": 0.82,
+      "away_avg_scored": 2.36,
+      "away_avg_conceded": 0.82,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.3,
+      "recent_goals_avg": 3.18,
       "recent_matches": []
     },
     {
@@ -87,9 +87,36 @@
       "recent_matches": []
     },
     {
+      "name": "Liverpool",
+      "id": "364",
+      "rank": 4,
+      "points": 21,
+      "played": 11,
+      "wins": 6,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 18,
+      "goals_against": 10,
+      "goal_diff": 8,
+      "avg_scored": 1.64,
+      "avg_conceded": 0.91,
+      "win_rate": 54.5,
+      "matches": [],
+      "home_avg_scored": 1.64,
+      "home_avg_conceded": 0.91,
+      "away_avg_scored": 1.64,
+      "away_avg_conceded": 0.91,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.55,
+      "recent_matches": []
+    },
+    {
       "name": "AFC Bournemouth",
       "id": "349",
-      "rank": 4,
+      "rank": 5,
       "points": 18,
       "played": 11,
       "wins": 5,
@@ -111,33 +138,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 2.91,
-      "recent_matches": []
-    },
-    {
-      "name": "Liverpool",
-      "id": "364",
-      "rank": 5,
-      "points": 18,
-      "played": 10,
-      "wins": 5,
-      "draws": 3,
-      "losses": 2,
-      "goals_for": 14,
-      "goals_against": 10,
-      "goal_diff": 4,
-      "avg_scored": 1.4,
-      "avg_conceded": 1.0,
-      "win_rate": 50.0,
-      "matches": [],
-      "home_avg_scored": 1.4,
-      "home_avg_conceded": 1.0,
-      "away_avg_scored": 1.4,
-      "away_avg_conceded": 1.0,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.4,
       "recent_matches": []
     },
     {
@@ -276,9 +276,36 @@
       "recent_matches": []
     },
     {
+      "name": "Hull City",
+      "id": "306",
+      "rank": 11,
+      "points": 14,
+      "played": 11,
+      "wins": 3,
+      "draws": 5,
+      "losses": 3,
+      "goals_for": 13,
+      "goals_against": 11,
+      "goal_diff": 2,
+      "avg_scored": 1.18,
+      "avg_conceded": 1.0,
+      "win_rate": 27.3,
+      "matches": [],
+      "home_avg_scored": 1.18,
+      "home_avg_conceded": 1.0,
+      "away_avg_scored": 1.18,
+      "away_avg_conceded": 1.0,
+      "shots_on_target_for": null,
+      "shots_on_target_against": null,
+      "shots_on_target_sample": 0,
+      "form": [],
+      "recent_goals_avg": 2.18,
+      "recent_matches": []
+    },
+    {
       "name": "Aston Villa",
       "id": "362",
-      "rank": 11,
+      "rank": 12,
       "points": 14,
       "played": 11,
       "wins": 3,
@@ -305,7 +332,7 @@
     {
       "name": "Newcastle United",
       "id": "361",
-      "rank": 12,
+      "rank": 13,
       "points": 13,
       "played": 11,
       "wins": 3,
@@ -332,7 +359,7 @@
     {
       "name": "Coventry City",
       "id": "388",
-      "rank": 13,
+      "rank": 14,
       "points": 12,
       "played": 11,
       "wins": 4,
@@ -354,33 +381,6 @@
       "shots_on_target_sample": 0,
       "form": [],
       "recent_goals_avg": 3.09,
-      "recent_matches": []
-    },
-    {
-      "name": "Hull City",
-      "id": "306",
-      "rank": 14,
-      "points": 11,
-      "played": 10,
-      "wins": 2,
-      "draws": 5,
-      "losses": 3,
-      "goals_for": 11,
-      "goals_against": 11,
-      "goal_diff": 0,
-      "avg_scored": 1.1,
-      "avg_conceded": 1.1,
-      "win_rate": 20.0,
-      "matches": [],
-      "home_avg_scored": 1.1,
-      "home_avg_conceded": 1.1,
-      "away_avg_scored": 1.1,
-      "away_avg_conceded": 1.1,
-      "shots_on_target_for": null,
-      "shots_on_target_against": null,
-      "shots_on_target_sample": 0,
-      "form": [],
-      "recent_goals_avg": 2.2,
       "recent_matches": []
     },
     {
@@ -496,26 +496,26 @@
       "id": "360",
       "rank": 19,
       "points": 8,
-      "played": 10,
+      "played": 11,
       "wins": 1,
       "draws": 5,
-      "losses": 4,
+      "losses": 5,
       "goals_for": 14,
-      "goals_against": 19,
-      "goal_diff": -5,
-      "avg_scored": 1.4,
-      "avg_conceded": 1.9,
-      "win_rate": 10.0,
+      "goals_against": 23,
+      "goal_diff": -9,
+      "avg_scored": 1.27,
+      "avg_conceded": 2.09,
+      "win_rate": 9.1,
       "matches": [],
-      "home_avg_scored": 1.4,
-      "home_avg_conceded": 1.9,
-      "away_avg_scored": 1.4,
-      "away_avg_conceded": 1.9,
+      "home_avg_scored": 1.27,
+      "home_avg_conceded": 2.09,
+      "away_avg_scored": 1.27,
+      "away_avg_conceded": 2.09,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.3,
+      "recent_goals_avg": 3.36,
       "recent_matches": []
     },
     {
@@ -549,246 +549,16 @@
   "upcoming_matches": [
     {
       "league": "English Premier League",
-      "event_id": 1028072758,
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "date": "22.11.2026",
-      "time": "17:00",
-      "odds": "MS1: 6.50 | X: 4.50 | MS2: 1.48",
-      "odds_detail": {
-        "ms1": 6.5,
-        "x": 4.5,
-        "ms2": 1.48
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 6.25,
-        "x": 4.5,
-        "ms2": 1.5
-      },
-      "current_odds": {
-        "ms1": 6.5,
-        "x": 4.5,
-        "ms2": 1.48
-      },
-      "odds_change_pct": {
-        "ms1": 4.0,
-        "x": 0.0,
-        "ms2": -1.33
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-08T06:17:35.235225+03:00",
-          "ms1": 6.25,
-          "x": 4.5,
-          "ms2": 1.5
-        },
-        {
-          "timestamp": "2026-11-10T00:44:09.390214+03:00",
-          "ms1": 6.25,
-          "x": 4.5,
-          "ms2": 1.49
-        },
-        {
-          "timestamp": "2026-11-12T22:18:11.126536+03:00",
-          "ms1": 6.25,
-          "x": 4.5,
-          "ms2": 1.5
-        },
-        {
-          "timestamp": "2026-11-17T23:12:27.590483+03:00",
-          "ms1": 6.4,
-          "x": 4.4,
-          "ms2": 1.5
-        },
-        {
-          "timestamp": "2026-11-20T22:24:40.606018+03:00",
-          "ms1": 6.25,
-          "x": 4.4,
-          "ms2": 1.5
-        },
-        {
-          "timestamp": "2026-11-21T07:44:36.218571+03:00",
-          "ms1": 6.25,
-          "x": 4.3,
-          "ms2": 1.52
-        },
-        {
-          "timestamp": "2026-11-21T21:26:33.847217+03:00",
-          "ms1": 6.4,
-          "x": 4.4,
-          "ms2": 1.5
-        },
-        {
-          "timestamp": "2026-11-22T06:59:07.665682+03:00",
-          "ms1": 6.5,
-          "x": 4.5,
-          "ms2": 1.48
-        }
-      ],
-      "home_stats": {
-        "name": "Hull City",
-        "home_avg_scored": 1.1,
-        "home_avg_conceded": 1.1,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.2,
-        "played": 10,
-        "rank": 14,
-        "points": 11,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Brighton & Hove Albion",
-        "away_avg_scored": 2.6,
-        "away_avg_conceded": 0.7,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.3,
-        "played": 10,
-        "rank": 2,
-        "points": 22,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
-      "event_id": 1028072756,
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "date": "22.11.2026",
-      "time": "19:30",
-      "odds": "MS1: 1.67 | X: 4.20 | MS2: 4.60",
-      "odds_detail": {
-        "ms1": 1.67,
-        "x": 4.2,
-        "ms2": 4.6
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.84,
-        "x": 3.9,
-        "ms2": 4.0
-      },
-      "current_odds": {
-        "ms1": 1.67,
-        "x": 4.2,
-        "ms2": 4.6
-      },
-      "odds_change_pct": {
-        "ms1": -9.24,
-        "x": 7.69,
-        "ms2": 15.0
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-08T06:17:35.235225+03:00",
-          "ms1": 1.84,
-          "x": 3.9,
-          "ms2": 4.0
-        },
-        {
-          "timestamp": "2026-11-09T06:38:00.444663+03:00",
-          "ms1": 1.76,
-          "x": 4.0,
-          "ms2": 4.3
-        },
-        {
-          "timestamp": "2026-11-10T00:44:09.390214+03:00",
-          "ms1": 1.74,
-          "x": 4.1,
-          "ms2": 4.35
-        },
-        {
-          "timestamp": "2026-11-12T22:18:11.126536+03:00",
-          "ms1": 1.75,
-          "x": 4.1,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-11-17T00:24:49.325723+03:00",
-          "ms1": 1.74,
-          "x": 4.2,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-11-17T23:12:27.590483+03:00",
-          "ms1": 1.75,
-          "x": 4.1,
-          "ms2": 4.25
-        },
-        {
-          "timestamp": "2026-11-19T22:43:59.599147+03:00",
-          "ms1": 1.75,
-          "x": 4.0,
-          "ms2": 4.3
-        },
-        {
-          "timestamp": "2026-11-20T22:24:40.606018+03:00",
-          "ms1": 1.64,
-          "x": 4.2,
-          "ms2": 4.9
-        },
-        {
-          "timestamp": "2026-11-21T07:44:36.218571+03:00",
-          "ms1": 1.66,
-          "x": 4.2,
-          "ms2": 4.75
-        },
-        {
-          "timestamp": "2026-11-21T21:26:33.847217+03:00",
-          "ms1": 1.68,
-          "x": 4.1,
-          "ms2": 4.7
-        },
-        {
-          "timestamp": "2026-11-22T06:59:07.665682+03:00",
-          "ms1": 1.67,
-          "x": 4.2,
-          "ms2": 4.6
-        }
-      ],
-      "home_stats": {
-        "name": "Liverpool",
-        "home_avg_scored": 1.4,
-        "home_avg_conceded": 1.0,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.4,
-        "played": 10,
-        "rank": 5,
-        "points": 18,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Manchester United",
-        "away_avg_scored": 1.4,
-        "away_avg_conceded": 1.9,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.3,
-        "played": 10,
-        "rank": 19,
-        "points": 8,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072784,
       "home": "Brentford",
       "away": "Everton",
       "date": "23.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.17 | X: 3.55 | MS2: 3.20",
+      "odds": "MS1: 2.23 | X: 3.50 | MS2: 3.10",
       "odds_detail": {
-        "ms1": 2.17,
-        "x": 3.55,
-        "ms2": 3.2
+        "ms1": 2.23,
+        "x": 3.5,
+        "ms2": 3.1
       },
       "odds_available": true,
       "opening_odds": {
@@ -797,14 +567,14 @@
         "ms2": 3.9
       },
       "current_odds": {
-        "ms1": 2.17,
-        "x": 3.55,
-        "ms2": 3.2
+        "ms1": 2.23,
+        "x": 3.5,
+        "ms2": 3.1
       },
       "odds_change_pct": {
-        "ms1": 15.43,
-        "x": -6.58,
-        "ms2": -17.95
+        "ms1": 18.62,
+        "x": -7.89,
+        "ms2": -20.51
       },
       "odds_history": [
         {
@@ -854,6 +624,12 @@
           "ms1": 2.17,
           "x": 3.55,
           "ms2": 3.2
+        },
+        {
+          "timestamp": "2026-11-22T21:48:57.659081+03:00",
+          "ms1": 2.23,
+          "x": 3.5,
+          "ms2": 3.1
         }
       ],
       "home_stats": {
@@ -890,11 +666,11 @@
       "away": "Chelsea",
       "date": "27.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.45",
+      "odds": "MS1: 2.85 | X: 3.55 | MS2: 2.48",
       "odds_detail": {
-        "ms1": 2.88,
-        "x": 3.6,
-        "ms2": 2.45
+        "ms1": 2.85,
+        "x": 3.55,
+        "ms2": 2.48
       },
       "odds_available": true,
       "opening_odds": {
@@ -903,14 +679,14 @@
         "ms2": 2.38
       },
       "current_odds": {
-        "ms1": 2.88,
-        "x": 3.6,
-        "ms2": 2.45
+        "ms1": 2.85,
+        "x": 3.55,
+        "ms2": 2.48
       },
       "odds_change_pct": {
-        "ms1": -2.37,
-        "x": 0.0,
-        "ms2": 2.94
+        "ms1": -3.39,
+        "x": -1.39,
+        "ms2": 4.2
       },
       "odds_history": [
         {
@@ -924,6 +700,12 @@
           "ms1": 2.88,
           "x": 3.6,
           "ms2": 2.45
+        },
+        {
+          "timestamp": "2026-11-22T21:48:57.659081+03:00",
+          "ms1": 2.85,
+          "x": 3.55,
+          "ms2": 2.48
         }
       ],
       "home_stats": {
@@ -960,11 +742,11 @@
       "away": "Coventry City",
       "date": "28.11.2026",
       "time": "18:00",
-      "odds": "MS1: 1.61 | X: 4.20 | MS2: 5.75",
+      "odds": "MS1: 1.58 | X: 4.25 | MS2: 6.00",
       "odds_detail": {
-        "ms1": 1.61,
-        "x": 4.2,
-        "ms2": 5.75
+        "ms1": 1.58,
+        "x": 4.25,
+        "ms2": 6.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -973,14 +755,14 @@
         "ms2": 5.75
       },
       "current_odds": {
-        "ms1": 1.61,
-        "x": 4.2,
-        "ms2": 5.75
+        "ms1": 1.58,
+        "x": 4.25,
+        "ms2": 6.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": -1.86,
+        "x": 1.19,
+        "ms2": 4.35
       },
       "odds_history": [
         {
@@ -988,6 +770,12 @@
           "ms1": 1.61,
           "x": 4.2,
           "ms2": 5.75
+        },
+        {
+          "timestamp": "2026-11-22T21:48:57.659081+03:00",
+          "ms1": 1.58,
+          "x": 4.25,
+          "ms2": 6.0
         }
       ],
       "home_stats": {
@@ -1012,7 +800,7 @@
         "form": [],
         "recent_goals_avg": 3.09,
         "played": 11,
-        "rank": 13,
+        "rank": 14,
         "points": 12,
         "recent_matches": []
       }
@@ -1062,13 +850,13 @@
       ],
       "home_stats": {
         "name": "Manchester United",
-        "home_avg_scored": 1.4,
-        "home_avg_conceded": 1.9,
+        "home_avg_scored": 1.27,
+        "home_avg_conceded": 2.09,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.3,
-        "played": 10,
+        "recent_goals_avg": 3.36,
+        "played": 11,
         "rank": 19,
         "points": 8,
         "recent_matches": []
@@ -1146,7 +934,7 @@
         "form": [],
         "recent_goals_avg": 2.82,
         "played": 11,
-        "rank": 11,
+        "rank": 12,
         "points": 14,
         "recent_matches": []
       }
@@ -1209,15 +997,15 @@
       },
       "away_stats": {
         "name": "Liverpool",
-        "away_avg_scored": 1.4,
-        "away_avg_conceded": 1.0,
+        "away_avg_scored": 1.64,
+        "away_avg_conceded": 0.91,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.4,
-        "played": 10,
-        "rank": 5,
-        "points": 18,
+        "recent_goals_avg": 2.55,
+        "played": 11,
+        "rank": 4,
+        "points": 21,
         "recent_matches": []
       }
     },
@@ -1272,13 +1060,13 @@
       ],
       "home_stats": {
         "name": "Brighton & Hove Albion",
-        "home_avg_scored": 2.6,
-        "home_avg_conceded": 0.7,
+        "home_avg_scored": 2.36,
+        "home_avg_conceded": 0.82,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.3,
-        "played": 10,
+        "recent_goals_avg": 3.18,
+        "played": 11,
         "rank": 2,
         "points": 22,
         "recent_matches": []
@@ -1292,7 +1080,7 @@
         "form": [],
         "recent_goals_avg": 3.0,
         "played": 11,
-        "rank": 12,
+        "rank": 13,
         "points": 13,
         "recent_matches": []
       }
@@ -1361,15 +1149,15 @@
       },
       "away_stats": {
         "name": "Hull City",
-        "away_avg_scored": 1.1,
-        "away_avg_conceded": 1.1,
+        "away_avg_scored": 1.18,
+        "away_avg_conceded": 1.0,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.2,
-        "played": 10,
-        "rank": 14,
-        "points": 11,
+        "recent_goals_avg": 2.18,
+        "played": 11,
+        "rank": 11,
+        "points": 14,
         "recent_matches": []
       }
     },
@@ -1502,7 +1290,7 @@
         "form": [],
         "recent_goals_avg": 2.91,
         "played": 11,
-        "rank": 4,
+        "rank": 5,
         "points": 18,
         "recent_matches": []
       }
