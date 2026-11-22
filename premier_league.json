@@ -2,34 +2,34 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-21T21:26:33.847217+03:00",
+  "last_updated": "2026-11-22T06:59:07.665682+03:00",
   "total_teams": 20,
   "teams": [
     {
       "name": "Arsenal",
       "id": "359",
       "rank": 1,
-      "points": 27,
-      "played": 10,
+      "points": 28,
+      "played": 11,
       "wins": 9,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goals_for": 15,
-      "goals_against": 5,
+      "goals_for": 17,
+      "goals_against": 7,
       "goal_diff": 10,
-      "avg_scored": 1.5,
-      "avg_conceded": 0.5,
-      "win_rate": 90.0,
+      "avg_scored": 1.55,
+      "avg_conceded": 0.64,
+      "win_rate": 81.8,
       "matches": [],
-      "home_avg_scored": 1.5,
-      "home_avg_conceded": 0.5,
-      "away_avg_scored": 1.5,
-      "away_avg_conceded": 0.5,
+      "home_avg_scored": 1.55,
+      "home_avg_conceded": 0.64,
+      "away_avg_scored": 1.55,
+      "away_avg_conceded": 0.64,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.0,
+      "recent_goals_avg": 2.19,
       "recent_matches": []
     },
     {
@@ -306,27 +306,27 @@
       "name": "Newcastle United",
       "id": "361",
       "rank": 12,
-      "points": 12,
-      "played": 10,
+      "points": 13,
+      "played": 11,
       "wins": 3,
-      "draws": 3,
+      "draws": 4,
       "losses": 4,
-      "goals_for": 13,
-      "goals_against": 16,
+      "goals_for": 15,
+      "goals_against": 18,
       "goal_diff": -3,
-      "avg_scored": 1.3,
-      "avg_conceded": 1.6,
-      "win_rate": 30.0,
+      "avg_scored": 1.36,
+      "avg_conceded": 1.64,
+      "win_rate": 27.3,
       "matches": [],
-      "home_avg_scored": 1.3,
-      "home_avg_conceded": 1.6,
-      "away_avg_scored": 1.3,
-      "away_avg_conceded": 1.6,
+      "home_avg_scored": 1.36,
+      "home_avg_conceded": 1.64,
+      "away_avg_scored": 1.36,
+      "away_avg_conceded": 1.64,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 2.9,
+      "recent_goals_avg": 3.0,
       "recent_matches": []
     },
     {
@@ -549,116 +549,16 @@
   "upcoming_matches": [
     {
       "league": "English Premier League",
-      "event_id": 1028072760,
-      "home": "Newcastle United",
-      "away": "Arsenal",
-      "date": "21.11.2026",
-      "time": "20:30",
-      "odds": "MS1: 20.00 | X: 6.50 | MS2: 1.16",
-      "odds_detail": {
-        "ms1": 20.0,
-        "x": 6.5,
-        "ms2": 1.16
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 5.8,
-        "x": 4.2,
-        "ms2": 1.56
-      },
-      "current_odds": {
-        "ms1": 20.0,
-        "x": 6.5,
-        "ms2": 1.16
-      },
-      "odds_change_pct": {
-        "ms1": 244.83,
-        "x": 54.76,
-        "ms2": -25.64
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-07T06:41:39.807283+03:00",
-          "ms1": 5.8,
-          "x": 4.2,
-          "ms2": 1.56
-        },
-        {
-          "timestamp": "2026-11-10T00:44:09.390214+03:00",
-          "ms1": 5.75,
-          "x": 4.2,
-          "ms2": 1.57
-        },
-        {
-          "timestamp": "2026-11-17T23:12:27.590483+03:00",
-          "ms1": 5.75,
-          "x": 4.25,
-          "ms2": 1.57
-        },
-        {
-          "timestamp": "2026-11-18T22:43:57.560778+03:00",
-          "ms1": 5.75,
-          "x": 4.25,
-          "ms2": 1.56
-        },
-        {
-          "timestamp": "2026-11-19T22:43:59.599147+03:00",
-          "ms1": 5.8,
-          "x": 4.2,
-          "ms2": 1.56
-        },
-        {
-          "timestamp": "2026-11-20T22:24:40.606018+03:00",
-          "ms1": 6.0,
-          "x": 4.25,
-          "ms2": 1.54
-        },
-        {
-          "timestamp": "2026-11-21T21:26:33.847217+03:00",
-          "ms1": 20.0,
-          "x": 6.5,
-          "ms2": 1.16
-        }
-      ],
-      "home_stats": {
-        "name": "Newcastle United",
-        "home_avg_scored": 1.3,
-        "home_avg_conceded": 1.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.9,
-        "played": 10,
-        "rank": 12,
-        "points": 12,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Arsenal",
-        "away_avg_scored": 1.5,
-        "away_avg_conceded": 0.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 2.0,
-        "played": 10,
-        "rank": 1,
-        "points": 27,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "English Premier League",
       "event_id": 1028072758,
       "home": "Hull City",
       "away": "Brighton & Hove Albion",
       "date": "22.11.2026",
       "time": "17:00",
-      "odds": "MS1: 6.40 | X: 4.40 | MS2: 1.50",
+      "odds": "MS1: 6.50 | X: 4.50 | MS2: 1.48",
       "odds_detail": {
-        "ms1": 6.4,
-        "x": 4.4,
-        "ms2": 1.5
+        "ms1": 6.5,
+        "x": 4.5,
+        "ms2": 1.48
       },
       "odds_available": true,
       "opening_odds": {
@@ -667,14 +567,14 @@
         "ms2": 1.5
       },
       "current_odds": {
-        "ms1": 6.4,
-        "x": 4.4,
-        "ms2": 1.5
+        "ms1": 6.5,
+        "x": 4.5,
+        "ms2": 1.48
       },
       "odds_change_pct": {
-        "ms1": 2.4,
-        "x": -2.22,
-        "ms2": 0.0
+        "ms1": 4.0,
+        "x": 0.0,
+        "ms2": -1.33
       },
       "odds_history": [
         {
@@ -718,6 +618,12 @@
           "ms1": 6.4,
           "x": 4.4,
           "ms2": 1.5
+        },
+        {
+          "timestamp": "2026-11-22T06:59:07.665682+03:00",
+          "ms1": 6.5,
+          "x": 4.5,
+          "ms2": 1.48
         }
       ],
       "home_stats": {
@@ -754,11 +660,11 @@
       "away": "Manchester United",
       "date": "22.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.68 | X: 4.10 | MS2: 4.70",
+      "odds": "MS1: 1.67 | X: 4.20 | MS2: 4.60",
       "odds_detail": {
-        "ms1": 1.68,
-        "x": 4.1,
-        "ms2": 4.7
+        "ms1": 1.67,
+        "x": 4.2,
+        "ms2": 4.6
       },
       "odds_available": true,
       "opening_odds": {
@@ -767,14 +673,14 @@
         "ms2": 4.0
       },
       "current_odds": {
-        "ms1": 1.68,
-        "x": 4.1,
-        "ms2": 4.7
+        "ms1": 1.67,
+        "x": 4.2,
+        "ms2": 4.6
       },
       "odds_change_pct": {
-        "ms1": -8.7,
-        "x": 5.13,
-        "ms2": 17.5
+        "ms1": -9.24,
+        "x": 7.69,
+        "ms2": 15.0
       },
       "odds_history": [
         {
@@ -836,6 +742,12 @@
           "ms1": 1.68,
           "x": 4.1,
           "ms2": 4.7
+        },
+        {
+          "timestamp": "2026-11-22T06:59:07.665682+03:00",
+          "ms1": 1.67,
+          "x": 4.2,
+          "ms2": 4.6
         }
       ],
       "home_stats": {
@@ -872,11 +784,11 @@
       "away": "Everton",
       "date": "23.11.2026",
       "time": "23:00",
-      "odds": "MS1: 2.12 | X: 3.60 | MS2: 3.35",
+      "odds": "MS1: 2.17 | X: 3.55 | MS2: 3.20",
       "odds_detail": {
-        "ms1": 2.12,
-        "x": 3.6,
-        "ms2": 3.35
+        "ms1": 2.17,
+        "x": 3.55,
+        "ms2": 3.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -885,14 +797,14 @@
         "ms2": 3.9
       },
       "current_odds": {
-        "ms1": 2.12,
-        "x": 3.6,
-        "ms2": 3.35
+        "ms1": 2.17,
+        "x": 3.55,
+        "ms2": 3.2
       },
       "odds_change_pct": {
-        "ms1": 12.77,
-        "x": -5.26,
-        "ms2": -14.1
+        "ms1": 15.43,
+        "x": -6.58,
+        "ms2": -17.95
       },
       "odds_history": [
         {
@@ -936,6 +848,12 @@
           "ms1": 2.12,
           "x": 3.6,
           "ms2": 3.35
+        },
+        {
+          "timestamp": "2026-11-22T06:59:07.665682+03:00",
+          "ms1": 2.17,
+          "x": 3.55,
+          "ms2": 3.2
         }
       ],
       "home_stats": {
@@ -1367,15 +1285,15 @@
       },
       "away_stats": {
         "name": "Newcastle United",
-        "away_avg_scored": 1.3,
-        "away_avg_conceded": 1.6,
+        "away_avg_scored": 1.36,
+        "away_avg_conceded": 1.64,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.9,
-        "played": 10,
+        "recent_goals_avg": 3.0,
+        "played": 11,
         "rank": 12,
-        "points": 12,
+        "points": 13,
         "recent_matches": []
       }
     },
@@ -1640,15 +1558,15 @@
       ],
       "home_stats": {
         "name": "Arsenal",
-        "home_avg_scored": 1.5,
-        "home_avg_conceded": 0.5,
+        "home_avg_scored": 1.55,
+        "home_avg_conceded": 0.64,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 2.0,
-        "played": 10,
+        "recent_goals_avg": 2.19,
+        "played": 11,
         "rank": 1,
-        "points": 27,
+        "points": 28,
         "recent_matches": []
       },
       "away_stats": {

@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-21T21:26:33.164476+03:00",
+  "last_updated": "2026-11-22T06:59:06.939272+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -646,11 +646,11 @@
       "away": "Alanyaspor",
       "date": "22.11.2026",
       "time": "16:00",
-      "odds": "MS1: 1.93 | X: 3.45 | MS2: 3.90",
+      "odds": "MS1: 1.90 | X: 3.50 | MS2: 3.95",
       "odds_detail": {
-        "ms1": 1.93,
-        "x": 3.45,
-        "ms2": 3.9
+        "ms1": 1.9,
+        "x": 3.5,
+        "ms2": 3.95
       },
       "odds_available": true,
       "opening_odds": {
@@ -659,14 +659,14 @@
         "ms2": 3.65
       },
       "current_odds": {
-        "ms1": 1.93,
-        "x": 3.45,
-        "ms2": 3.9
+        "ms1": 1.9,
+        "x": 3.5,
+        "ms2": 3.95
       },
       "odds_change_pct": {
-        "ms1": -4.46,
-        "x": 2.99,
-        "ms2": 6.85
+        "ms1": -5.94,
+        "x": 4.48,
+        "ms2": 8.22
       },
       "odds_history": [
         {
@@ -692,6 +692,12 @@
           "ms1": 1.93,
           "x": 3.45,
           "ms2": 3.9
+        },
+        {
+          "timestamp": "2026-11-22T06:59:06.939272+03:00",
+          "ms1": 1.9,
+          "x": 3.5,
+          "ms2": 3.95
         }
       ],
       "home_stats": {
