@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-24T10:33:13.616944+03:00",
+  "last_updated": "2026-11-25T00:42:28.870523+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -500,11 +500,11 @@
       "away": "Borussia Mönchengladbach",
       "date": "27.11.2026",
       "time": "22:30",
-      "odds": "MS1: 1.72 | X: 4.00 | MS2: 4.10",
+      "odds": "MS1: 1.72 | X: 4.00 | MS2: 4.20",
       "odds_detail": {
         "ms1": 1.72,
         "x": 4.0,
-        "ms2": 4.1
+        "ms2": 4.2
       },
       "odds_available": true,
       "opening_odds": {
@@ -515,12 +515,12 @@
       "current_odds": {
         "ms1": 1.72,
         "x": 4.0,
-        "ms2": 4.1
+        "ms2": 4.2
       },
       "odds_change_pct": {
         "ms1": 0.0,
         "x": 0.0,
-        "ms2": -2.38
+        "ms2": 0.0
       },
       "odds_history": [
         {
@@ -534,6 +534,12 @@
           "ms1": 1.72,
           "x": 4.0,
           "ms2": 4.1
+        },
+        {
+          "timestamp": "2026-11-25T00:42:28.870523+03:00",
+          "ms1": 1.72,
+          "x": 4.0,
+          "ms2": 4.2
         }
       ],
       "home_stats": {
@@ -636,6 +642,82 @@
         "played": 10,
         "rank": 2,
         "points": 22,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230566,
+      "home": "Mainz",
+      "away": "1. FC Union Berlin",
+      "date": "28.11.2026",
+      "time": "17:30",
+      "odds": "MS1: 1.46 | X: 4.50 | MS2: 6.10",
+      "odds_detail": {
+        "ms1": 1.46,
+        "x": 4.5,
+        "ms2": 6.1
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.45,
+        "x": 4.6,
+        "ms2": 6.25
+      },
+      "current_odds": {
+        "ms1": 1.46,
+        "x": 4.5,
+        "ms2": 6.1
+      },
+      "odds_change_pct": {
+        "ms1": 0.69,
+        "x": -2.17,
+        "ms2": -2.4
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-18T22:43:57.971194+03:00",
+          "ms1": 1.45,
+          "x": 4.6,
+          "ms2": 6.25
+        },
+        {
+          "timestamp": "2026-11-20T22:24:41.038470+03:00",
+          "ms1": 1.45,
+          "x": 4.6,
+          "ms2": 6.1
+        },
+        {
+          "timestamp": "2026-11-22T21:48:58.286284+03:00",
+          "ms1": 1.46,
+          "x": 4.5,
+          "ms2": 6.1
+        }
+      ],
+      "home_stats": {
+        "name": "Mainz",
+        "home_avg_scored": 1.9,
+        "home_avg_conceded": 2.2,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.1,
+        "played": 10,
+        "rank": 13,
+        "points": 10,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "1. FC Union Berlin",
+        "away_avg_scored": 0.8,
+        "away_avg_conceded": 2.6,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 3.4,
+        "played": 10,
+        "rank": 17,
+        "points": 7,
         "recent_matches": []
       }
     },
@@ -817,92 +899,16 @@
     },
     {
       "league": "German Bundesliga",
-      "event_id": 1028230566,
-      "home": "Mainz",
-      "away": "1. FC Union Berlin",
-      "date": "28.11.2026",
-      "time": "17:30",
-      "odds": "MS1: 1.46 | X: 4.50 | MS2: 6.10",
-      "odds_detail": {
-        "ms1": 1.46,
-        "x": 4.5,
-        "ms2": 6.1
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.45,
-        "x": 4.6,
-        "ms2": 6.25
-      },
-      "current_odds": {
-        "ms1": 1.46,
-        "x": 4.5,
-        "ms2": 6.1
-      },
-      "odds_change_pct": {
-        "ms1": 0.69,
-        "x": -2.17,
-        "ms2": -2.4
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-18T22:43:57.971194+03:00",
-          "ms1": 1.45,
-          "x": 4.6,
-          "ms2": 6.25
-        },
-        {
-          "timestamp": "2026-11-20T22:24:41.038470+03:00",
-          "ms1": 1.45,
-          "x": 4.6,
-          "ms2": 6.1
-        },
-        {
-          "timestamp": "2026-11-22T21:48:58.286284+03:00",
-          "ms1": 1.46,
-          "x": 4.5,
-          "ms2": 6.1
-        }
-      ],
-      "home_stats": {
-        "name": "Mainz",
-        "home_avg_scored": 1.9,
-        "home_avg_conceded": 2.2,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 4.1,
-        "played": 10,
-        "rank": 13,
-        "points": 10,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "1. FC Union Berlin",
-        "away_avg_scored": 0.8,
-        "away_avg_conceded": 2.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.4,
-        "played": 10,
-        "rank": 17,
-        "points": 7,
-        "recent_matches": []
-      }
-    },
-    {
-      "league": "German Bundesliga",
       "event_id": 1028230565,
       "home": "VfB Stuttgart",
       "away": "Eintracht Frankfurt",
       "date": "28.11.2026",
       "time": "20:30",
-      "odds": "MS1: 1.63 | X: 4.50 | MS2: 4.25",
+      "odds": "MS1: 1.72 | X: 4.30 | MS2: 3.90",
       "odds_detail": {
-        "ms1": 1.63,
-        "x": 4.5,
-        "ms2": 4.25
+        "ms1": 1.72,
+        "x": 4.3,
+        "ms2": 3.9
       },
       "odds_available": true,
       "opening_odds": {
@@ -911,14 +917,14 @@
         "ms2": 4.25
       },
       "current_odds": {
-        "ms1": 1.63,
-        "x": 4.5,
-        "ms2": 4.25
+        "ms1": 1.72,
+        "x": 4.3,
+        "ms2": 3.9
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 0.0,
-        "ms2": 0.0
+        "ms1": 5.52,
+        "x": -4.44,
+        "ms2": -8.24
       },
       "odds_history": [
         {
@@ -926,6 +932,12 @@
           "ms1": 1.63,
           "x": 4.5,
           "ms2": 4.25
+        },
+        {
+          "timestamp": "2026-11-25T00:42:28.870523+03:00",
+          "ms1": 1.72,
+          "x": 4.3,
+          "ms2": 3.9
         }
       ],
       "home_stats": {
@@ -962,11 +974,11 @@
       "away": "RB Leipzig",
       "date": "29.11.2026",
       "time": "17:30",
-      "odds": "MS1: 2.50 | X: 3.75 | MS2: 2.45",
+      "odds": "MS1: 2.60 | X: 3.75 | MS2: 2.38",
       "odds_detail": {
-        "ms1": 2.5,
+        "ms1": 2.6,
         "x": 3.75,
-        "ms2": 2.45
+        "ms2": 2.38
       },
       "odds_available": true,
       "opening_odds": {
@@ -975,14 +987,14 @@
         "ms2": 2.55
       },
       "current_odds": {
-        "ms1": 2.5,
+        "ms1": 2.6,
         "x": 3.75,
-        "ms2": 2.45
+        "ms2": 2.38
       },
       "odds_change_pct": {
-        "ms1": 4.17,
+        "ms1": 8.33,
         "x": 0.0,
-        "ms2": -3.92
+        "ms2": -6.67
       },
       "odds_history": [
         {
@@ -1002,6 +1014,12 @@
           "ms1": 2.5,
           "x": 3.75,
           "ms2": 2.45
+        },
+        {
+          "timestamp": "2026-11-25T00:42:28.870523+03:00",
+          "ms1": 2.6,
+          "x": 3.75,
+          "ms2": 2.38
         }
       ],
       "home_stats": {
@@ -1038,11 +1056,11 @@
       "away": "FC Augsburg",
       "date": "29.11.2026",
       "time": "19:30",
-      "odds": "MS1: 1.67 | X: 4.35 | MS2: 4.10",
+      "odds": "MS1: 1.68 | X: 4.40 | MS2: 4.00",
       "odds_detail": {
-        "ms1": 1.67,
-        "x": 4.35,
-        "ms2": 4.1
+        "ms1": 1.68,
+        "x": 4.4,
+        "ms2": 4.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1051,14 +1069,14 @@
         "ms2": 4.25
       },
       "current_odds": {
-        "ms1": 1.67,
-        "x": 4.35,
-        "ms2": 4.1
+        "ms1": 1.68,
+        "x": 4.4,
+        "ms2": 4.0
       },
       "odds_change_pct": {
-        "ms1": 1.83,
-        "x": -1.14,
-        "ms2": -3.53
+        "ms1": 2.44,
+        "x": 0.0,
+        "ms2": -5.88
       },
       "odds_history": [
         {
@@ -1084,6 +1102,12 @@
           "ms1": 1.67,
           "x": 4.35,
           "ms2": 4.1
+        },
+        {
+          "timestamp": "2026-11-25T00:42:28.870523+03:00",
+          "ms1": 1.68,
+          "x": 4.4,
+          "ms2": 4.0
         }
       ],
       "home_stats": {
@@ -1174,6 +1198,70 @@
         "played": 10,
         "rank": 5,
         "points": 19,
+        "recent_matches": []
+      }
+    },
+    {
+      "league": "German Bundesliga",
+      "event_id": 1028230622,
+      "home": "Bayern Munich",
+      "away": "SC Paderborn 07",
+      "date": "04.12.2026",
+      "time": "22:30",
+      "odds": "MS1: 1.05 | X: 13.00 | MS2: 26.00",
+      "odds_detail": {
+        "ms1": 1.05,
+        "x": 13.0,
+        "ms2": 26.0
+      },
+      "odds_available": true,
+      "opening_odds": {
+        "ms1": 1.05,
+        "x": 13.0,
+        "ms2": 26.0
+      },
+      "current_odds": {
+        "ms1": 1.05,
+        "x": 13.0,
+        "ms2": 26.0
+      },
+      "odds_change_pct": {
+        "ms1": 0.0,
+        "x": 0.0,
+        "ms2": 0.0
+      },
+      "odds_history": [
+        {
+          "timestamp": "2026-11-25T00:42:28.870523+03:00",
+          "ms1": 1.05,
+          "x": 13.0,
+          "ms2": 26.0
+        }
+      ],
+      "home_stats": {
+        "name": "Bayern Munich",
+        "home_avg_scored": 3.0,
+        "home_avg_conceded": 1.0,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 4.0,
+        "played": 10,
+        "rank": 2,
+        "points": 22,
+        "recent_matches": []
+      },
+      "away_stats": {
+        "name": "SC Paderborn 07",
+        "away_avg_scored": 0.8,
+        "away_avg_conceded": 1.5,
+        "shots_on_target_for": null,
+        "shots_on_target_against": null,
+        "form": [],
+        "recent_goals_avg": 2.3,
+        "played": 10,
+        "rank": 15,
+        "points": 10,
         "recent_matches": []
       }
     }
