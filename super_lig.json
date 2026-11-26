@@ -2,7 +2,7 @@
   "league": "Trendyol Süper Lig",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-26T08:54:54.775329+03:00",
+  "last_updated": "2026-11-26T23:41:22.206981+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -588,11 +588,11 @@
       "away": "Konyaspor",
       "date": "27.11.2026",
       "time": "20:00",
-      "odds": "MS1: 2.40 | X: 3.20 | MS2: 2.95",
+      "odds": "MS1: 2.50 | X: 3.20 | MS2: 2.80",
       "odds_detail": {
-        "ms1": 2.4,
+        "ms1": 2.5,
         "x": 3.2,
-        "ms2": 2.95
+        "ms2": 2.8
       },
       "odds_available": true,
       "opening_odds": {
@@ -601,14 +601,14 @@
         "ms2": 2.9
       },
       "current_odds": {
-        "ms1": 2.4,
+        "ms1": 2.5,
         "x": 3.2,
-        "ms2": 2.95
+        "ms2": 2.8
       },
       "odds_change_pct": {
-        "ms1": -1.23,
+        "ms1": 2.88,
         "x": 0.0,
-        "ms2": 1.72
+        "ms2": -3.45
       },
       "odds_history": [
         {
@@ -634,6 +634,12 @@
           "ms1": 2.4,
           "x": 3.2,
           "ms2": 2.95
+        },
+        {
+          "timestamp": "2026-11-26T23:41:22.206981+03:00",
+          "ms1": 2.5,
+          "x": 3.2,
+          "ms2": 2.8
         }
       ],
       "home_stats": {
@@ -886,11 +892,11 @@
       "away": "Istanbul Basaksehir",
       "date": "29.11.2026",
       "time": "16:00",
-      "odds": "MS1: 5.80 | X: 4.25 | MS2: 1.52",
+      "odds": "MS1: 6.25 | X: 4.40 | MS2: 1.48",
       "odds_detail": {
-        "ms1": 5.8,
-        "x": 4.25,
-        "ms2": 1.52
+        "ms1": 6.25,
+        "x": 4.4,
+        "ms2": 1.48
       },
       "odds_available": true,
       "opening_odds": {
@@ -899,14 +905,14 @@
         "ms2": 1.57
       },
       "current_odds": {
-        "ms1": 5.8,
-        "x": 4.25,
-        "ms2": 1.52
+        "ms1": 6.25,
+        "x": 4.4,
+        "ms2": 1.48
       },
       "odds_change_pct": {
-        "ms1": 7.41,
-        "x": 3.66,
-        "ms2": -3.18
+        "ms1": 15.74,
+        "x": 7.32,
+        "ms2": -5.73
       },
       "odds_history": [
         {
@@ -920,6 +926,12 @@
           "ms1": 5.8,
           "x": 4.25,
           "ms2": 1.52
+        },
+        {
+          "timestamp": "2026-11-26T23:41:22.206981+03:00",
+          "ms1": 6.25,
+          "x": 4.4,
+          "ms2": 1.48
         }
       ],
       "home_stats": {
