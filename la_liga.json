@@ -2,7 +2,7 @@
   "league": "Spanish LALIGA",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-25T23:49:41.865240+03:00",
+  "last_updated": "2026-11-26T08:54:55.644256+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1450,11 +1450,11 @@
       "away": "Atlético Madrid",
       "date": "02.12.2026",
       "time": "23:30",
-      "odds": "MS1: 1.44 | X: 5.50 | MS2: 5.60",
+      "odds": "MS1: 1.41 | X: 5.60 | MS2: 6.00",
       "odds_detail": {
-        "ms1": 1.44,
-        "x": 5.5,
-        "ms2": 5.6
+        "ms1": 1.41,
+        "x": 5.6,
+        "ms2": 6.0
       },
       "odds_available": true,
       "opening_odds": {
@@ -1463,14 +1463,14 @@
         "ms2": 5.75
       },
       "current_odds": {
-        "ms1": 1.44,
-        "x": 5.5,
-        "ms2": 5.6
+        "ms1": 1.41,
+        "x": 5.6,
+        "ms2": 6.0
       },
       "odds_change_pct": {
-        "ms1": 0.0,
-        "x": 1.85,
-        "ms2": -2.61
+        "ms1": -2.08,
+        "x": 3.7,
+        "ms2": 4.35
       },
       "odds_history": [
         {
@@ -1490,6 +1490,12 @@
           "ms1": 1.44,
           "x": 5.5,
           "ms2": 5.6
+        },
+        {
+          "timestamp": "2026-11-26T08:54:55.644256+03:00",
+          "ms1": 1.41,
+          "x": 5.6,
+          "ms2": 6.0
         }
       ],
       "home_stats": {

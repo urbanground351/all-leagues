@@ -2,7 +2,7 @@
   "league": "English Premier League",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-25T23:49:41.636875+03:00",
+  "last_updated": "2026-11-26T08:54:55.284986+03:00",
   "total_teams": 20,
   "teams": [
     {
@@ -1234,10 +1234,10 @@
       "away": "Tottenham Hotspur",
       "date": "29.11.2026",
       "time": "17:05",
-      "odds": "MS1: 3.70 | X: 3.50 | MS2: 2.02",
+      "odds": "MS1: 3.70 | X: 3.45 | MS2: 2.02",
       "odds_detail": {
         "ms1": 3.7,
-        "x": 3.5,
+        "x": 3.45,
         "ms2": 2.02
       },
       "odds_available": true,
@@ -1248,12 +1248,12 @@
       },
       "current_odds": {
         "ms1": 3.7,
-        "x": 3.5,
+        "x": 3.45,
         "ms2": 2.02
       },
       "odds_change_pct": {
         "ms1": 12.12,
-        "x": 2.94,
+        "x": 1.47,
         "ms2": -8.18
       },
       "odds_history": [
@@ -1297,6 +1297,12 @@
           "timestamp": "2026-11-25T23:49:41.636875+03:00",
           "ms1": 3.7,
           "x": 3.5,
+          "ms2": 2.02
+        },
+        {
+          "timestamp": "2026-11-26T08:54:55.284986+03:00",
+          "ms1": 3.7,
+          "x": 3.45,
           "ms2": 2.02
         }
       ],
