@@ -2,7 +2,7 @@
   "league": "German Bundesliga",
   "season": "2026-2027",
   "upcoming_window_days": 14,
-  "last_updated": "2026-11-27T23:27:41.869438+03:00",
+  "last_updated": "2026-11-28T08:28:36.135746+03:00",
   "total_teams": 18,
   "teams": [
     {
@@ -144,27 +144,27 @@
       "name": "Werder Bremen",
       "id": "137",
       "rank": 6,
-      "points": 18,
-      "played": 10,
+      "points": 19,
+      "played": 11,
       "wins": 5,
-      "draws": 3,
+      "draws": 4,
       "losses": 2,
-      "goals_for": 21,
-      "goals_against": 15,
+      "goals_for": 24,
+      "goals_against": 18,
       "goal_diff": 6,
-      "avg_scored": 2.1,
-      "avg_conceded": 1.5,
-      "win_rate": 50.0,
+      "avg_scored": 2.18,
+      "avg_conceded": 1.64,
+      "win_rate": 45.5,
       "matches": [],
-      "home_avg_scored": 2.1,
-      "home_avg_conceded": 1.5,
-      "away_avg_scored": 2.1,
-      "away_avg_conceded": 1.5,
+      "home_avg_scored": 2.18,
+      "home_avg_conceded": 1.64,
+      "away_avg_scored": 2.18,
+      "away_avg_conceded": 1.64,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.6,
+      "recent_goals_avg": 3.82,
       "recent_matches": []
     },
     {
@@ -468,119 +468,31 @@
       "name": "Borussia Mönchengladbach",
       "id": "268",
       "rank": 18,
-      "points": 4,
-      "played": 10,
+      "points": 5,
+      "played": 11,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "losses": 8,
-      "goals_for": 12,
-      "goals_against": 26,
+      "goals_for": 15,
+      "goals_against": 29,
       "goal_diff": -14,
-      "avg_scored": 1.2,
-      "avg_conceded": 2.6,
-      "win_rate": 10.0,
+      "avg_scored": 1.36,
+      "avg_conceded": 2.64,
+      "win_rate": 9.1,
       "matches": [],
-      "home_avg_scored": 1.2,
-      "home_avg_conceded": 2.6,
-      "away_avg_scored": 1.2,
-      "away_avg_conceded": 2.6,
+      "home_avg_scored": 1.36,
+      "home_avg_conceded": 2.64,
+      "away_avg_scored": 1.36,
+      "away_avg_conceded": 2.64,
       "shots_on_target_for": null,
       "shots_on_target_against": null,
       "shots_on_target_sample": 0,
       "form": [],
-      "recent_goals_avg": 3.8,
+      "recent_goals_avg": 4.0,
       "recent_matches": []
     }
   ],
   "upcoming_matches": [
-    {
-      "league": "German Bundesliga",
-      "event_id": 1028230620,
-      "home": "Werder Bremen",
-      "away": "Borussia Mönchengladbach",
-      "date": "27.11.2026",
-      "time": "22:30",
-      "odds": "MS1: 2.33 | X: 2.70 | MS2: 3.50",
-      "odds_detail": {
-        "ms1": 2.33,
-        "x": 2.7,
-        "ms2": 3.5
-      },
-      "odds_available": true,
-      "opening_odds": {
-        "ms1": 1.72,
-        "x": 4.0,
-        "ms2": 4.2
-      },
-      "current_odds": {
-        "ms1": 2.33,
-        "x": 2.7,
-        "ms2": 3.5
-      },
-      "odds_change_pct": {
-        "ms1": 35.47,
-        "x": -32.5,
-        "ms2": -16.67
-      },
-      "odds_history": [
-        {
-          "timestamp": "2026-11-17T23:12:28.000318+03:00",
-          "ms1": 1.72,
-          "x": 4.0,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-11-21T21:26:34.356304+03:00",
-          "ms1": 1.72,
-          "x": 4.0,
-          "ms2": 4.1
-        },
-        {
-          "timestamp": "2026-11-25T00:42:28.870523+03:00",
-          "ms1": 1.72,
-          "x": 4.0,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-11-26T23:41:23.198297+03:00",
-          "ms1": 1.71,
-          "x": 4.0,
-          "ms2": 4.2
-        },
-        {
-          "timestamp": "2026-11-27T23:27:41.869438+03:00",
-          "ms1": 2.33,
-          "x": 2.7,
-          "ms2": 3.5
-        }
-      ],
-      "home_stats": {
-        "name": "Werder Bremen",
-        "home_avg_scored": 2.1,
-        "home_avg_conceded": 1.5,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.6,
-        "played": 10,
-        "rank": 6,
-        "points": 18,
-        "recent_matches": []
-      },
-      "away_stats": {
-        "name": "Borussia Mönchengladbach",
-        "away_avg_scored": 1.2,
-        "away_avg_conceded": 2.6,
-        "shots_on_target_for": null,
-        "shots_on_target_against": null,
-        "form": [],
-        "recent_goals_avg": 3.8,
-        "played": 10,
-        "rank": 18,
-        "points": 4,
-        "recent_matches": []
-      }
-    },
     {
       "league": "German Bundesliga",
       "event_id": 1028230568,
@@ -588,11 +500,11 @@
       "away": "Bayern Munich",
       "date": "28.11.2026",
       "time": "17:30",
-      "odds": "MS1: 9.00 | X: 6.00 | MS2: 1.26",
+      "odds": "MS1: 8.50 | X: 5.80 | MS2: 1.28",
       "odds_detail": {
-        "ms1": 9.0,
-        "x": 6.0,
-        "ms2": 1.26
+        "ms1": 8.5,
+        "x": 5.8,
+        "ms2": 1.28
       },
       "odds_available": true,
       "opening_odds": {
@@ -601,14 +513,14 @@
         "ms2": 1.09
       },
       "current_odds": {
-        "ms1": 9.0,
-        "x": 6.0,
-        "ms2": 1.26
+        "ms1": 8.5,
+        "x": 5.8,
+        "ms2": 1.28
       },
       "odds_change_pct": {
-        "ms1": -50.0,
-        "x": -42.86,
-        "ms2": 15.6
+        "ms1": -52.78,
+        "x": -44.76,
+        "ms2": 17.43
       },
       "odds_history": [
         {
@@ -658,6 +570,12 @@
           "ms1": 9.0,
           "x": 6.0,
           "ms2": 1.26
+        },
+        {
+          "timestamp": "2026-11-28T08:28:36.135746+03:00",
+          "ms1": 8.5,
+          "x": 5.8,
+          "ms2": 1.28
         }
       ],
       "home_stats": {
@@ -1717,15 +1635,15 @@
       },
       "away_stats": {
         "name": "Borussia Mönchengladbach",
-        "away_avg_scored": 1.2,
-        "away_avg_conceded": 2.6,
+        "away_avg_scored": 1.36,
+        "away_avg_conceded": 2.64,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.8,
-        "played": 10,
+        "recent_goals_avg": 4.0,
+        "played": 11,
         "rank": 18,
-        "points": 4,
+        "points": 5,
         "recent_matches": []
       }
     },
@@ -1781,15 +1699,15 @@
       },
       "away_stats": {
         "name": "Werder Bremen",
-        "away_avg_scored": 2.1,
-        "away_avg_conceded": 1.5,
+        "away_avg_scored": 2.18,
+        "away_avg_conceded": 1.64,
         "shots_on_target_for": null,
         "shots_on_target_against": null,
         "form": [],
-        "recent_goals_avg": 3.6,
-        "played": 10,
+        "recent_goals_avg": 3.82,
+        "played": 11,
         "rank": 6,
-        "points": 18,
+        "points": 19,
         "recent_matches": []
       }
     },
